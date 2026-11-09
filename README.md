@@ -1,34 +1,59 @@
-# DQM Dex & Fusion
+# Dragon Quest Monsters Dex & Fusion
 
-A mobile-friendly Dragon Warrior Monsters / Dragon Quest Monsters game selector, monster encyclopedia, and game-specific breeding/synthesis interface.
+A responsive, game-specific monster encyclopedia and breeding/synthesis tool.
 
-## Status
+## Supported game selectors (12)
 
-Initial standalone scaffold. This is **not yet a complete port of Yanoverse Multi-Dex**. The original repository remains untouched. The interface includes game selectors, a Dex tab, and a Fusion tab. Monster records, verified recipes, and game logo images have not yet been imported.
+1. Dragon Warrior Monsters (GBC)
+2. Dragon Warrior Monsters 2 — Cobi's Journey / Tara's Adventure (GBC, combined)
+3. Dragon Quest Monsters 1+2 (PS1; separate DQM1 and DQM2 modes)
+4. Caravan Heart (GBA)
+5. Joker (DS)
+6. Joker 2 (DS)
+7. Joker 2 Professional (DS)
+8. Terry's Wonderland 3D (3DS)
+9. Iru & Luca's Marvelous Mysterious Key (3DS)
+10. Joker 3 (3DS)
+11. Joker 3 Professional (3DS)
+12. The Dark Prince (Switch / PC)
 
-## Data format
+Mobile-only releases and mobile-only remakes are excluded.
 
-Add one JSON file per game at `data/<game-id>.json` with this shape:
+## Current implementation
+
+- Responsive game selection and Dex / Fusion tabs
+- Search by monster name, number or family
+- Two-parent breeding/synthesis result lookup, order-independent
+- Game-specific JSON loading and optional PS1 DQM1/DQM2 mode filtering
+- Empty states rather than fabricated monster data or recipes
+
+**Not complete:** Verified monster datasets, real logo art, detailed monster profiles, game-specific mechanics, source Yanoverse visual component migration, and browser testing remain outstanding. The original Yanoverse repository has not been changed.
+
+## Data schema
+
+Place JSON at `data/<game-id>.json`, e.g. `data/dwm2.json`:
 
 ```json
 {
   "monsters": [
-    {"id": "example", "number": 1, "name": "Example", "family": "Slime"}
+    {"id":"slime","number":1,"name":"Slime","family":"Slime"}
   ],
   "recipes": [
-    {"parent1": "example", "parent2": "another", "result": "offspring"}
+    {"parent1":"monster-id-1","parent2":"monster-id-2","result":"result-monster-id"}
   ]
 }
 ```
 
-Recipe data must be validated against the selected game's mechanics. The UI deliberately avoids inventing fusion outcomes.
+For the PS1 collection, entries may use `"mode":"DQM1"` or `"mode":"DQM2"`. Unmarked entries are shared between both modes. IDs must be stable and unique within each game; recipe parent/result IDs must resolve to monster IDs. Add only researched, verified recipes.
 
-## Next steps
+## Development
 
-- Port reusable Yanoverse layout, responsive styling, navigation and detail-page components while excluding franchise-specific data/assets.
-- Replace text-based game selectors with properly sourced game-logo assets.
-- Import verified monster databases and per-game breeding/synthesis rules.
-- Validate each game's mechanics, including games where traditional breeding is not applicable.
-- Add tests and configure GitHub Pages.
+This is a static HTML/CSS/JavaScript application. Open `index.html` via a local web server or enable GitHub Pages for the repository's root. JSON requests require HTTP serving, not a `file://` URL.
 
-The Withered World is not listed because its announced release date is December 3, 2026.
+## Planned work
+
+1. Bring over reusable visual patterns from Yanoverse without modifying the source.
+2. Source and install legitimate game logos, replacing text-only selectors.
+3. Implement normalized per-game monster data and validated fusion rules.
+4. Add monster details, search/filter enhancements, and unit/browser tests.
+5. Deploy and test on GitHub Pages.
