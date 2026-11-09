@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DQM Dex & Fusion</title><meta name="theme-color" content="#10182a">
+<style>
+:root{color-scheme:dark;font-family:system-ui,sans-serif;background:#0c1220;color:#f0f4ff}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 50% -10%,#263b64,#0c1220 55%);min-height:100vh}header,main{max-width:1200px;margin:auto;padding:22px}header{text-align:center}h1{margin:12px 0 5px;font-size:clamp(1.6rem,4vw,2.8rem)}p{color:#aebcda}.games{display:flex;gap:12px;overflow:auto;padding:14px 4px 24px;scroll-snap-type:x mandatory}.game{flex:0 0 175px;min-height:110px;border:1px solid #45587d;border-radius:14px;background:#17233a;color:#dce6ff;padding:15px;cursor:pointer;scroll-snap-align:start}.game[aria-pressed=true]{background:#30466d;border-color:#ffd676;color:white;box-shadow:0 0 0 2px #ffd67633}.game strong{display:block;font-size:.95rem}.game small{display:block;margin-top:8px;color:#b4c2df}.tabs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:22px}.tabs button,.action{background:#1c2c4b;border:1px solid #526991;border-radius:9px;padding:12px 20px;color:white;cursor:pointer}.tabs button[aria-selected=true]{background:#385a8e;border-color:#ffd676}.panel{background:#141f34;border:1px solid #334765;border-radius:16px;padding:24px;min-height:300px}label{display:block;margin:15px 0 6px}input,select{width:100%;background:#0d1729;color:white;border:1px solid #4b638a;border-radius:8px;padding:12px}.fusion{display:grid;grid-template-columns:1fr 1fr;gap:18px}.fusion .result{grid-column:1/-1;border:1px dashed #526991;padding:18px;border-radius:12px;text-align:center}.muted{color:#aebcda}.tag{display:inline-block;background:#293e5e;padding:4px 9px;border-radius:8px;margin:4px}.empty{text-align:center;padding:45px 10px;color:#c1cce2}@media(max-width:600px){.fusion{grid-template-columns:1fr}.fusion .result{grid-column:auto}.game{flex-basis:145px}header,main{padding:14px}}
+</style></head><body>
+<header><h1>Dragon Quest Monsters Dex & Fusion</h1><p>Explore monsters and game-specific breeding or synthesis recipes.</p></header>
+<main><nav class="games" id="games" aria-label="Select game"></nav><nav class="tabs" aria-label="Tools"><button data-tab="dex" aria-selected="true">Dex</button><button data-tab="fusion" aria-selected="false">Fusion</button></nav><section class="panel" id="panel" aria-live="polite"></section></main>
+<script>
+const games=[
+{id:"dwm",name:"Dragon Warrior Monsters",year:1998,platform:"GBC"},
+{id:"dwm2-coby",name:"DWM 2: Coby's Journey",year:2001,platform:"GBC"},
+{id:"dwm2-tara",name:"DWM 2: Tara's Adventure",year:2001,platform:"GBC"},
+{id:"dqm12",name:"Dragon Quest Monsters 1+2",year:2002,platform:"PS1"},
+{id:"caravan",name:"Caravan Heart",year:2003,platform:"GBA"},
+{id:"joker",name:"Joker",year:2006,platform:"DS"},
+{id:"joker2",name:"Joker 2",year:2010,platform:"DS"},
+{id:"joker2pro",name:"Joker 2 Professional",year:2011,platform:"DS"},
+{id:"terry3d",name:"Terry's Wonderland 3D",year:2012,platform:"3DS"},
+{id:"dqm2-3d",name:"Iru & Luca's Marvelous Mysterious Key",year:2014,platform:"3DS"},
+{id:"joker3",name:"Joker 3",year:2016,platform:"3DS"},
+{id:"joker3pro",name:"Joker 3 Professional",year:2017,platform:"3DS"},
+{id:"terrysp",name:"Terry's Wonderland SP",year:2018,platform:"Mobile"},
+{id:"terryretro",name:"Terry's Wonderland Retro",year:2019,platform:"Mobile"},
+{id:"darkprince",name:"The Dark Prince",year:2023,platform:"Switch / PC / Mobile"}];
+let selected=games[0].id,tab="dex",monsters=[],recipes=[];
+const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function game(){return games.find(g=>g.id===selected)}
+function render(){document.querySelector("#games").innerHTML=games.map(g=>'<button class="game" data-game="'+g.id+'" aria-pressed="'+(g.id===selected)+'"><strong>'+escapeHTML(g.name)+'</strong><small>'+g.year+' · '+g.platform+'</small></button>').join("");document.querySelectorAll("[data-tab]").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===tab)));renderPanel()}
+function renderPanel(){const p=document.querySelector("#panel");if(tab==="dex"){p.innerHTML='<h2>'+escapeHTML(game().name)+' · Monster Dex</h2><label for="search">Search monsters</label><input id="search" type="search" placeholder="Name, number, or family"><div id="entries"></div>';document.querySelector("#search").addEventListener("input",showEntries);showEntries()}else{p.innerHTML='<h2>'+escapeHTML(game().name)+' · Fusion</h2><p>Breeding and synthesis combinations are scoped to this game.</p><div class="fusion"><div><label for="parentA">First parent</label><select id="parentA"></select></div><div><label for="parentB">Second parent</label><select id="parentB"></select></div><div class="result" id="result">Select two parents to see possible results.</div></div>';const opts='<option value="">Choose a monster</option>'+monsters.map(m=>'<option value="'+escapeHTML(m.id)+'">'+escapeHTML(m.name)+'</option>').join("");["parentA","parentB"].forEach(id=>{const el=document.getElementById(id);el.innerHTML=opts;el.addEventListener("change",showFusion)});showFusion()}}
+function showEntries(){const q=(document.querySelector("#search")?.value||"").toLowerCase();const a=monsters.filter(m=>[m.name,m.number,m.family].some(v=>String(v||"").toLowerCase().includes(q)));document.querySelector("#entries").innerHTML=a.length?a.map(m=>'<article><h3>'+escapeHTML(m.name)+' <small>#'+escapeHTML(m.number||"?")+'</small></h3><span class="tag">'+escapeHTML(m.family||"Unknown family")+'</span></article>').join(""):'<div class="empty">No monster entries loaded for this game yet.</div>'}
+function showFusion(){const a=document.getElementById("parentA").value,b=document.getElementById("parentB").value;const r=document.getElementById("result");if(!a||!b){r.textContent=monsters.length?"Select two parents to see possible results.":"Fusion recipes have not been populated for this game yet.";return}const matches=recipes.filter(x=>(x.parent1===a&&x.parent2===b)||(x.parent1===b&&x.parent2===a));r.textContent=matches.length?matches.map(x=>monsters.find(m=>m.id===x.result)?.name||x.result).join(" / "):"No verified recipe available for this pair."}
+async function load(){monsters=[];recipes=[];try{const r=await fetch("data/"+selected+".json");if(r.ok){const d=await r.json();monsters=d.monsters||[];recipes=d.recipes||[]}}catch(e){}renderPanel()}
+document.querySelector("#games").addEventListener("click",e=>{const b=e.target.closest("[data-game]");if(b){selected=b.dataset.game;render();load()}});
+document.querySelector(".tabs").addEventListener("click",e=>{const b=e.target.closest("[data-tab]");if(b){tab=b.dataset.tab;render()}});
+render();load();
+</script></body></html>
