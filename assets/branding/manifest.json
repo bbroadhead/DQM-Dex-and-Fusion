@@ -1,8 +1,5 @@
 {
-  "games": {
-    "dwm": "assets/branding/dwm1gbc/logo.webp",
-    "dwm2": "assets/branding/dwm2gbc/logo.webp"
-  },
+  "games": {},
   "families": {
     "dwm1gbc": {},
     "dwm2gbc": {}
