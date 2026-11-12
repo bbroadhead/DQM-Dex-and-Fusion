@@ -13,7 +13,11 @@ on:
           - dwm2gbc
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: woodus-inventory
+  cancel-in-progress: false
 
 jobs:
   inventory:
@@ -21,16 +25,29 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - name: Inventory Woodus pages
         run: python scripts/woodus_inventory.py --game "${{ inputs.game }}"
-      - name: Upload inventory (private workflow artifact)
+      - name: Commit inventory JSON to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data/woodus/*-inventory.json
+          if git diff --cached --quiet; then
+            echo "No inventory changes to commit."
+          else
+            git commit -m "Update Woodus source inventory"
+            git push origin HEAD:main
+          fi
+      - name: Upload inventory backup
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: woodus-inventory
-          path: woodus-output/
+          path: data/woodus/
           retention-days: 7
           if-no-files-found: warn
