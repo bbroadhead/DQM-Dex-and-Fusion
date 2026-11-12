@@ -140,7 +140,7 @@ def main():
                 existing["records"] = sorted(by_id.values(), key=lambda x: x["id"])
                 existing["imported_count"] = len(existing["records"])
                 existing["total_monsters"] = len(manifest["monsters"])
-                destination.write_text(json.dumps(existing, indent=2, ensure_ascii=False) + "\\n", encoding="utf-8")
+                destination.write_text(json.dumps(existing, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
                 if i < len(selected) - 1:
                     time.sleep(args.delay)
         report = {
@@ -150,7 +150,7 @@ def main():
             "failures": failures,
         }
         (ROOT / f"{game}-import-report.json").write_text(
-            json.dumps(report, indent=2, ensure_ascii=False) + "\\n", encoding="utf-8"
+            json.dumps(report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
         )
         print(f"{game}: {report['imported']}/{report['total']}; {len(failures)} failures", flush=True)
 
