@@ -1,0 +1,61 @@
+name: Import Woodus monster images
+on:
+  workflow_dispatch:
+    inputs:
+      game:
+        description: "Game to import"
+        type: choice
+        required: true
+        default: all
+        options:
+          - all
+          - dwm1gbc
+          - dwm2gbc
+      batch_size:
+        description: "Images per game"
+        type: choice
+        required: true
+        default: '50'
+        options:
+          - '50'
+          - '10'
+          - '5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: woodus-image-import
+  cancel-in-progress: false
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 65
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import image batch
+        run: python scripts/woodus_images.py --game "${{ inputs.game }}" --batch-size "${{ inputs.batch_size }}"
+      - name: Commit imported images and reports
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f assets/monsters/ data/woodus/*-image-report.json
+          if git diff --cached --quiet; then
+            echo "No image changes."
+          else
+            git commit -m "Import Woodus monster image batch"
+            git push origin HEAD:main
+          fi
+      - name: Upload reports as backup
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: woodus-image-reports
+          path: data/woodus/*-image-report.json
+          retention-days: 7
+          if-no-files-found: warn
