@@ -1,0 +1,168 @@
+{
+  "game": "dwm2gbc",
+  "monster_id": "dwm2gbc:1eyeclown",
+  "name": "1EyeClown",
+  "source": "https://www.woodus.com/den/games/dwm2gbc/monsters-details.php?mid=249799&mname=1EyeClown",
+  "verified": false,
+  "note": "One sample detail page; raw headings and table cells for schema inspection only.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Dragon Warrior Monsters 2 GBC 1EyeClown"
+    }
+  ],
+  "tables": [
+    {
+      "table_index": 0,
+      "row_count": 13,
+      "rows": [
+        [
+          {
+            "header": true,
+            "text": ""
+          },
+          {
+            "header": true,
+            "text": ""
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Japanese Name:"
+          },
+          {
+            "header": false,
+            "text": "ひとつめピエロ"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Location:"
+          },
+          {
+            "header": false,
+            "text": ""
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Hit Points:"
+          },
+          {
+            "header": false,
+            "text": "3"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Magic Points:"
+          },
+          {
+            "header": false,
+            "text": "0"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Attack:"
+          },
+          {
+            "header": false,
+            "text": "1"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Defense:"
+          },
+          {
+            "header": false,
+            "text": "2"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Gold Dropped:"
+          },
+          {
+            "header": false,
+            "text": "0"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Experience Earned:"
+          },
+          {
+            "header": false,
+            "text": "0"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Book Number:"
+          },
+          {
+            "header": false,
+            "text": "0"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Monster Abilites:"
+          },
+          {
+            "header": false,
+            "text": "Blaze, Firebal, Icebolt"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "Japan Appearance:"
+          },
+          {
+            "header": false,
+            "text": "2001"
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": "NA Appearance:"
+          },
+          {
+            "header": false,
+            "text": "2001"
+          }
+        ]
+      ]
+    },
+    {
+      "table_index": 1,
+      "row_count": 1,
+      "rows": [
+        [
+          {
+            "header": false,
+            "text": "Page generated in 0.0819 seconds. Privacy Policy Contact Us"
+          },
+          {
+            "header": false,
+            "text": "©1997-2026 Woodus.com. 29 Years in Service. 10608/19009 (0.5581) All images, games, likenesses are © of their respective owners."
+          }
+        ]
+      ]
+    }
+  ]
+}
