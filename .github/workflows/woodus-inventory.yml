@@ -32,22 +32,24 @@ jobs:
           python-version: '3.12'
       - name: Inventory Woodus pages
         run: python scripts/woodus_inventory.py --game "${{ inputs.game }}"
-      - name: Commit inventory JSON to repository
+      - name: Normalize monster image references
+        run: python scripts/woodus_normalize.py
+      - name: Commit inventory and monster manifests
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f data/woodus/*-inventory.json
+          git add -f data/woodus/*-inventory.json data/woodus/*-monsters.json
           if git diff --cached --quiet; then
-            echo "No inventory changes to commit."
+            echo "No data changes to commit."
           else
-            git commit -m "Update Woodus source inventory"
+            git commit -m "Update Woodus monster reference manifests"
             git push origin HEAD:main
           fi
-      - name: Upload inventory backup
+      - name: Upload data backup
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: woodus-inventory
+          name: woodus-data
           path: data/woodus/
           retention-days: 7
           if-no-files-found: warn
