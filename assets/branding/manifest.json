@@ -4,8 +4,31 @@
     "dwm2": "assets/branding/dwm2gbc/logo.webp"
   },
   "families": {
-    "dwm1gbc": {},
-    "dwm2gbc": {}
+    "dwm1gbc": {
+      "beast": "assets/monsters/dwm1gbc/almiraj.webp",
+      "bird": "assets/monsters/dwm1gbc/dracky.webp",
+      "boss": "assets/monsters/dwm1gbc/dracolord-1.webp",
+      "bug": "assets/monsters/dwm1gbc/eyeder.webp",
+      "devil": "assets/monsters/dwm1gbc/madknight.webp",
+      "dragon": "assets/monsters/dwm1gbc/dragon.webp",
+      "material": "assets/monsters/dwm1gbc/golem.webp",
+      "plant": "assets/monsters/dwm1gbc/maneater.webp",
+      "slime": "assets/monsters/dwm1gbc/slime.webp",
+      "zombie": "assets/monsters/dwm1gbc/spooky.webp"
+    },
+    "dwm2gbc": {
+      "beast": "assets/monsters/dwm2gbc/almiraj.webp",
+      "bird": "assets/monsters/dwm2gbc/dracky.webp",
+      "boss": "assets/monsters/dwm2gbc/dracolord-1.webp",
+      "bug": "assets/monsters/dwm2gbc/eyeder.webp",
+      "devil": "assets/monsters/dwm2gbc/madknight.webp",
+      "dragon": "assets/monsters/dwm2gbc/dragon.webp",
+      "material": "assets/monsters/dwm2gbc/golem.webp",
+      "plant": "assets/monsters/dwm2gbc/maneater.webp",
+      "slime": "assets/monsters/dwm2gbc/slime.webp",
+      "water": "assets/monsters/dwm2gbc/merman.webp",
+      "zombie": "assets/monsters/dwm2gbc/spooky.webp"
+    }
   },
   "note": "Only locally verified downloaded artwork is listed. Third-party assets require permission for redistribution."
 }

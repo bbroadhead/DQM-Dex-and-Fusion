@@ -1,0 +1,39 @@
+{
+  "dwm1gbc": {
+    "assigned": 215,
+    "total": 215,
+    "family_icons": [
+      "beast",
+      "bird",
+      "boss",
+      "bug",
+      "devil",
+      "dragon",
+      "material",
+      "plant",
+      "slime",
+      "zombie"
+    ],
+    "unmatched": [],
+    "errors": []
+  },
+  "dwm2gbc": {
+    "assigned": 312,
+    "total": 315,
+    "family_icons": [
+      "beast",
+      "bird",
+      "boss",
+      "bug",
+      "devil",
+      "dragon",
+      "material",
+      "plant",
+      "slime",
+      "water",
+      "zombie"
+    ],
+    "unmatched": [],
+    "errors": []
+  }
+}
