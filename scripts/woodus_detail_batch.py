@@ -4,6 +4,7 @@ import argparse
 import json
 import re
 import time
+from urllib.error import HTTPError, URLError
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
@@ -89,9 +90,12 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--game", choices=["all", "dwm1gbc", "dwm2gbc"], default="all")
     parser.add_argument("--batch-size", type=int, default=5)
+    parser.add_argument("--delay", type=float, default=4.0)
     args = parser.parse_args()
-    if not 1 <= args.batch_size <= 10:
-        parser.error("--batch-size must be 1 to 10")
+    if not 1 <= args.batch_size <= 530:
+        parser.error("--batch-size must be 1 to 530")
+    if args.delay < 3:
+        parser.error("--delay must be at least 3 seconds")
     games = ["dwm1gbc", "dwm2gbc"] if args.game == "all" else [args.game]
     for game in games:
         manifest = json.loads((ROOT / f"{game}-monsters.json").read_text(encoding="utf-8"))
@@ -99,27 +103,56 @@ def main():
         existing = json.loads(destination.read_text(encoding="utf-8")) if destination.exists() else {"game": game, "record_type": "source_listed_monster_details", "records": []}
         by_id = {r["id"]: r for r in existing["records"]}
         pending = [m for m in manifest["monsters"] if m["id"] not in by_id and m.get("detail_url")]
-        for i, monster in enumerate(pending[:args.batch_size]):
+        failures = []
+        selected = pending[:args.batch_size]
+        for i, monster in enumerate(selected):
             url = normalize_detail_url(monster["detail_url"])
-            request = Request(url, headers={"User-Agent": "PersonalDQMResearch/0.1 (small manual batch)"})
-            with urlopen(request, timeout=30) as response:
-                if urlsplit(response.geturl()).hostname not in {"www.woodus.com", "woodus.com"}:
-                    raise RuntimeError("Unexpected redirect host")
-                html = response.read(5_000_000).decode("utf-8", errors="replace")
-            by_id[monster["id"]] = {
-                "id": monster["id"], "name": monster["name"],
-                "source_monster_id": monster["source_monster_id"],
-                "source_url": monster["detail_url"], "values_are": "source_listed_unclassified",
-                **parse_fields(html),
-            }
-            print(f"{game}: imported {monster['name']}")
-            if i < min(args.batch_size, len(pending)) - 1:
-                time.sleep(3)
-        existing["records"] = sorted(by_id.values(), key=lambda x: x["id"])
-        existing["imported_count"] = len(existing["records"])
-        existing["total_monsters"] = len(manifest["monsters"])
-        destination.write_text(json.dumps(existing, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-        print(f"{game}: {existing['imported_count']}/{existing['total_monsters']} detail records")
+            try:
+                for attempt in range(3):
+                    try:
+                        request = Request(url, headers={"User-Agent": "PersonalDQMResearch/0.1 (manual rate-limited batch)"})
+                        with urlopen(request, timeout=30) as response:
+                            if urlsplit(response.geturl()).hostname not in {"www.woodus.com", "woodus.com"}:
+                                raise RuntimeError("Unexpected redirect host")
+                            html = response.read(5_000_000).decode("utf-8", errors="replace")
+                        fields = parse_fields(html)
+                        break
+                    except (HTTPError, URLError, TimeoutError) as exc:
+                        if isinstance(exc, HTTPError) and exc.code in (401, 403, 404):
+                            raise
+                        if attempt == 2:
+                            raise
+                        time.sleep(10 * (attempt + 1))
+                by_id[monster["id"]] = {
+                    "id": monster["id"], "name": monster["name"],
+                    "source_monster_id": monster["source_monster_id"],
+                    "source_url": monster["detail_url"],
+                    "values_are": "source_listed_unclassified", **fields,
+                }
+                print(f"{game}: imported {monster['name']} ({i+1}/{len(selected)})", flush=True)
+            except (HTTPError, URLError, TimeoutError, ValueError, RuntimeError) as exc:
+                failures.append({"id": monster["id"], "error": str(exc)[:200]})
+                print(f"{game}: FAILED {monster['name']}: {exc}", flush=True)
+                if isinstance(exc, HTTPError) and exc.code in (403, 429):
+                    print("Access restricted or rate limited; stopping this game early.", flush=True)
+                    break
+            finally:
+                existing["records"] = sorted(by_id.values(), key=lambda x: x["id"])
+                existing["imported_count"] = len(existing["records"])
+                existing["total_monsters"] = len(manifest["monsters"])
+                destination.write_text(json.dumps(existing, indent=2, ensure_ascii=False) + "\\n", encoding="utf-8")
+                if i < len(selected) - 1:
+                    time.sleep(args.delay)
+        report = {
+            "game": game, "imported": len(by_id),
+            "total": len(manifest["monsters"]),
+            "remaining": len(manifest["monsters"]) - len(by_id),
+            "failures": failures,
+        }
+        (ROOT / f"{game}-import-report.json").write_text(
+            json.dumps(report, indent=2, ensure_ascii=False) + "\\n", encoding="utf-8"
+        )
+        print(f"{game}: {report['imported']}/{report['total']}; {len(failures)} failures", flush=True)
 
 if __name__ == "__main__":
     main()
