@@ -5,30 +5,30 @@
   },
   "families": {
     "dwm1gbc": {
-      "beast": "assets/monsters/dwm1gbc/almiraj.webp",
-      "bird": "assets/monsters/dwm1gbc/dracky.webp",
-      "boss": "assets/monsters/dwm1gbc/dracolord-1.webp",
-      "bug": "assets/monsters/dwm1gbc/eyeder.webp",
-      "devil": "assets/monsters/dwm1gbc/madknight.webp",
-      "dragon": "assets/monsters/dwm1gbc/dragon.webp",
-      "material": "assets/monsters/dwm1gbc/golem.webp",
-      "plant": "assets/monsters/dwm1gbc/maneater.webp",
-      "slime": "assets/monsters/dwm1gbc/slime.webp",
-      "zombie": "assets/monsters/dwm1gbc/spooky.webp"
+      "beast": "assets/branding/families/beast.svg",
+      "bird": "assets/branding/families/bird.svg",
+      "boss": "assets/branding/families/boss.svg",
+      "bug": "assets/branding/families/bug.svg",
+      "devil": "assets/branding/families/devil.svg",
+      "dragon": "assets/branding/families/dragon.svg",
+      "material": "assets/branding/families/material.svg",
+      "plant": "assets/branding/families/plant.svg",
+      "slime": "assets/branding/families/slime.svg",
+      "zombie": "assets/branding/families/zombie.svg"
     },
     "dwm2gbc": {
-      "beast": "assets/monsters/dwm2gbc/almiraj.webp",
-      "bird": "assets/monsters/dwm2gbc/dracky.webp",
-      "boss": "assets/monsters/dwm2gbc/dracolord-1.webp",
-      "bug": "assets/monsters/dwm2gbc/eyeder.webp",
-      "devil": "assets/monsters/dwm2gbc/madknight.webp",
-      "dragon": "assets/monsters/dwm2gbc/dragon.webp",
-      "material": "assets/monsters/dwm2gbc/golem.webp",
-      "plant": "assets/monsters/dwm2gbc/maneater.webp",
-      "slime": "assets/monsters/dwm2gbc/slime.webp",
-      "water": "assets/monsters/dwm2gbc/merman.webp",
-      "zombie": "assets/monsters/dwm2gbc/spooky.webp"
+      "beast": "assets/branding/families/beast.svg",
+      "bird": "assets/branding/families/bird.svg",
+      "boss": "assets/branding/families/boss.svg",
+      "bug": "assets/branding/families/bug.svg",
+      "devil": "assets/branding/families/devil.svg",
+      "dragon": "assets/branding/families/dragon.svg",
+      "material": "assets/branding/families/material.svg",
+      "plant": "assets/branding/families/plant.svg",
+      "slime": "assets/branding/families/slime.svg",
+      "water": "assets/branding/families/water.svg",
+      "zombie": "assets/branding/families/zombie.svg"
     }
   },
-  "note": "Only locally verified downloaded artwork is listed. Third-party assets require permission for redistribution."
+  "note": "Original SVG family emblems are separate from all monster sprites. Third-party game logos and monster images retain their own source/rights considerations."
 }
