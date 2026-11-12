@@ -33,7 +33,7 @@ jobs:
       - name: Inventory Woodus pages
         run: python scripts/woodus_inventory.py --game "${{ inputs.game }}"
       - name: Normalize monster image references
-        run: python scripts/woodus_normalize.py
+        run: python scripts/woodus_normalize.py --game "${{ inputs.game }}"
       - name: Commit inventory and monster manifests
         run: |
           git config user.name "github-actions[bot]"
