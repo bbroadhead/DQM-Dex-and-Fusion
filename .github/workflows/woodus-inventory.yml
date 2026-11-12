@@ -34,15 +34,17 @@ jobs:
         run: python scripts/woodus_inventory.py --game "${{ inputs.game }}"
       - name: Normalize monster image references
         run: python scripts/woodus_normalize.py --game "${{ inputs.game }}"
+      - name: Extract breeding table candidates
+        run: python scripts/woodus_breeding.py --game "${{ inputs.game }}"
       - name: Commit inventory and monster manifests
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f data/woodus/*-inventory.json data/woodus/*-monsters.json
+          git add -f data/woodus/*-inventory.json data/woodus/*-monsters.json data/woodus/*-breeding-candidates.json
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
-            git commit -m "Update Woodus monster reference manifests"
+            git commit -m "Update Woodus monster and breeding candidates"
             git push origin HEAD:main
           fi
       - name: Upload data backup
