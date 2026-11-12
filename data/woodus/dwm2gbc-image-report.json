@@ -1,8 +1,8 @@
 {
   "game": "dwm2gbc",
   "total": 315,
-  "downloaded_total": 300,
-  "new_downloads": 50,
+  "downloaded_total": 315,
+  "new_downloads": 15,
   "failures": [],
   "images": {
     "dwm2gbc:1eyeclown": {
@@ -1204,6 +1204,66 @@
     "dwm2gbc:watabou": {
       "local_path": "assets/monsters/dwm2gbc/watabou.webp",
       "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/watabou.webp"
+    },
+    "dwm2gbc:weedbug": {
+      "local_path": "assets/monsters/dwm2gbc/weedbug.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/weedbug.webp"
+    },
+    "dwm2gbc:whalemage": {
+      "local_path": "assets/monsters/dwm2gbc/whalemage.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/whalemage.webp"
+    },
+    "dwm2gbc:whipbird": {
+      "local_path": "assets/monsters/dwm2gbc/whipbird.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/whipbird.webp"
+    },
+    "dwm2gbc:whiteking": {
+      "local_path": "assets/monsters/dwm2gbc/whiteking.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/whiteking.webp"
+    },
+    "dwm2gbc:wildape": {
+      "local_path": "assets/monsters/dwm2gbc/wildape.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/wildape.webp"
+    },
+    "dwm2gbc:windbeast": {
+      "local_path": "assets/monsters/dwm2gbc/windbeast.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/windbeast.webp"
+    },
+    "dwm2gbc:windmerge": {
+      "local_path": "assets/monsters/dwm2gbc/windmerge.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/windmerge.webp"
+    },
+    "dwm2gbc:wingslime": {
+      "local_path": "assets/monsters/dwm2gbc/wingslime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/wingslime.webp"
+    },
+    "dwm2gbc:wingsnake": {
+      "local_path": "assets/monsters/dwm2gbc/wingsnake.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/wingsnake.webp"
+    },
+    "dwm2gbc:wingtree": {
+      "local_path": "assets/monsters/dwm2gbc/wingtree.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/wingtree.webp"
+    },
+    "dwm2gbc:wonderegg": {
+      "local_path": "assets/monsters/dwm2gbc/wonderegg.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/wonderegg.webp"
+    },
+    "dwm2gbc:wyvern": {
+      "local_path": "assets/monsters/dwm2gbc/wyvern.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/wyvern.webp"
+    },
+    "dwm2gbc:yeti": {
+      "local_path": "assets/monsters/dwm2gbc/yeti.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/yeti.webp"
+    },
+    "dwm2gbc:zapbird": {
+      "local_path": "assets/monsters/dwm2gbc/zapbird.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/zapbird.webp"
+    },
+    "dwm2gbc:zoma": {
+      "local_path": "assets/monsters/dwm2gbc/zoma.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/zoma.webp"
     }
   },
   "note": "Private research assets only; verify rights before redistribution."
