@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
 """Normalize verified Woodus monster image references into game-specific manifests."""
+import argparse
 import json
 import re
 from pathlib import Path
 from urllib.parse import urlparse
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--game", choices=["all", "dwm1gbc", "dwm2gbc"], default="all")
+args = parser.parse_args()
 ROOT = Path("data/woodus")
-for game in ("dwm1gbc", "dwm2gbc"):
+games = ("dwm1gbc", "dwm2gbc") if args.game == "all" else (args.game,)
+for game in games:
     inventory = json.loads((ROOT / f"{game}-inventory.json").read_text(encoding="utf-8"))
     records = []
     seen = set()
