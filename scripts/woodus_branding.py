@@ -59,8 +59,8 @@ def main():
                 continue
             for entry in parser.images:
                 label=entry["label"].lower()
-                family=next((f for f in FAMILIES if re.search(r"\\b"+f+r"\\s+famil(?:y|ies)\\b",label)),None)
-                is_logo=bool(re.search(r"\\blogo\\b",label)) and ("dragon" in label or "monster" in label)
+                family=next((f for f in FAMILIES if re.search(r"\b"+f+r"\s+famil(?:y|ies)\b",label)),None)
+                is_logo=bool(re.search(r"\blogo\b",label)) and ("dragon" in label or "monster" in label)
                 if not family and not is_logo: continue
                 source=urljoin(page,entry["src"])
                 target_key="family:"+family if family else "logo"
