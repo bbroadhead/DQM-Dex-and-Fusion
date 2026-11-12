@@ -39,6 +39,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Test detail URL encoding
+        run: python scripts/test_woodus_detail_urls.py
       - name: Inventory Woodus pages
         run: python scripts/woodus_inventory.py --game "${{ inputs.game }}"
       - name: Normalize monster image references
