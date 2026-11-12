@@ -1,0 +1,36 @@
+name: Woodus source inventory
+on:
+  workflow_dispatch:
+    inputs:
+      game:
+        description: "Which game to inventory"
+        required: true
+        default: all
+        type: choice
+        options:
+          - all
+          - dwm1gbc
+          - dwm2gbc
+
+permissions:
+  contents: read
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Inventory Woodus pages
+        run: python scripts/woodus_inventory.py --game "${{ inputs.game }}"
+      - name: Upload inventory (private workflow artifact)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: woodus-inventory
+          path: woodus-output/
+          retention-days: 7
+          if-no-files-found: warn
