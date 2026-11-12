@@ -6,7 +6,7 @@ import re
 import time
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 ROOT = Path("data/woodus")
@@ -75,6 +75,16 @@ def parse_fields(html):
         raise ValueError("Missing expected stats; source layout may have changed")
     return fields
 
+def normalize_detail_url(url):
+    """Encode query values such as 'Anteater (M1)' before HTTP requests."""
+    parts = urlsplit(url)
+    if parts.hostname not in {"www.woodus.com", "woodus.com"}:
+        raise RuntimeError("Unexpected detail URL host")
+    if not parts.path.endswith("/monsters-details.php"):
+        raise RuntimeError("Unexpected detail URL path")
+    query = urlencode(parse_qsl(parts.query, keep_blank_values=True))
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, query, ""))
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--game", choices=["all", "dwm1gbc", "dwm2gbc"], default="all")
@@ -90,18 +100,16 @@ def main():
         by_id = {r["id"]: r for r in existing["records"]}
         pending = [m for m in manifest["monsters"] if m["id"] not in by_id and m.get("detail_url")]
         for i, monster in enumerate(pending[:args.batch_size]):
-            url = monster["detail_url"]
-            if urlparse(url).hostname not in {"www.woodus.com", "woodus.com"}:
-                raise RuntimeError("Unexpected detail URL host")
+            url = normalize_detail_url(monster["detail_url"])
             request = Request(url, headers={"User-Agent": "PersonalDQMResearch/0.1 (small manual batch)"})
             with urlopen(request, timeout=30) as response:
-                if urlparse(response.geturl()).hostname not in {"www.woodus.com", "woodus.com"}:
+                if urlsplit(response.geturl()).hostname not in {"www.woodus.com", "woodus.com"}:
                     raise RuntimeError("Unexpected redirect host")
                 html = response.read(5_000_000).decode("utf-8", errors="replace")
             by_id[monster["id"]] = {
                 "id": monster["id"], "name": monster["name"],
                 "source_monster_id": monster["source_monster_id"],
-                "source_url": url, "values_are": "source_listed_unclassified",
+                "source_url": monster["detail_url"], "values_are": "source_listed_unclassified",
                 **parse_fields(html),
             }
             print(f"{game}: imported {monster['name']}")
