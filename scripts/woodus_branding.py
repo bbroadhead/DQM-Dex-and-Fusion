@@ -60,14 +60,14 @@ def main():
             for entry in parser.images:
                 label=entry["label"].lower()
                 family=next((f for f in FAMILIES if re.search(r"\b"+f+r"\s+famil(?:y|ies)\b",label)),None)
-                is_logo=bool(re.search(r"\blogo\b",label)) and ("dragon" in label or "monster" in label)
-                if not family and not is_logo: continue
+                is_logo=(urlsplit(urljoin(page,entry["src"])).path == f"/den/games/{game}/gfx/{game}-logo-400w.webp")
+                if not is_logo: continue  # Family labels point to missing PNG sprites; handle separately.
                 source=urljoin(page,entry["src"])
                 target_key="family:"+family if family else "logo"
                 report["discovered"].append({"game":game,"kind":target_key,"url":source,"label":entry["label"]})
                 if family and manifest["families"].setdefault(game,{}).get(family):continue
                 site_id={"dwm1gbc":"dwm","dwm2gbc":"dwm2"}[game]
-                if is_logo and manifest["games"].get(site_id):continue
+                if is_logo and manifest["games"].get(site_id) and manifest["games"][site_id] != f"assets/branding/{game}/logo.webp":continue
                 try:
                     binary,mime=request(source)
                     if mime not in MIMES:raise ValueError("Unsupported image type "+mime)
