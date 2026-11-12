@@ -1,0 +1,185 @@
+{
+  "game": "dwm2gbc",
+  "source": "https://www.woodus.com/den/games/dwm2gbc/breeding.php",
+  "record_type": "breeding_table_candidates",
+  "verified": false,
+  "warning": "Raw table cells only; NOT validated breeding recipes.",
+  "tables": [
+    {
+      "table_index": 0,
+      "row_count": 11,
+      "rows": [
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Boss Family"
+          },
+          {
+            "header": false,
+            "text": "The Boss Family are some of your favorite bosses from past Dragon Warrior games. They are powerful and difficult to obtain."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Beast Family"
+          },
+          {
+            "header": false,
+            "text": "The Beast Family resembles animals, but they are able to resist special skills that lower attributes. They too have a strong attack and high HP."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Devil Family"
+          },
+          {
+            "header": false,
+            "text": "These little monsters are fierce fighters with high HP, Attack and Defense. They can withstand strong magic attack and other special attacks."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Bird Family"
+          },
+          {
+            "header": false,
+            "text": "The members of this family are speedy and grow quickly. They defend well against Thunder magic and Thunder special skills."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Bug Family"
+          },
+          {
+            "header": false,
+            "text": "The insect Family is strong against poisonous attacks, and have a great capacity for increasing their attack and defense attributes."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Plant Family"
+          },
+          {
+            "header": false,
+            "text": "Despite being plants :) they do have high intelligence and MP, and have the ability to grow to high levels in these areas, but have low agility."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Slime Family"
+          },
+          {
+            "header": false,
+            "text": "This Family is a good support group during battle, they also grow rapidly and have high agility and can grow quickly in attack and defense."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Zombie Family"
+          },
+          {
+            "header": false,
+            "text": "The Zombie Family has high HP but are low in most of the other attributes being average to feeble and are week against spells such as paralysis."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Dragon Family"
+          },
+          {
+            "header": false,
+            "text": "These guys are obviously strong against fire attacks, but can also repel blizzard attacks. All attributes are high, but they grow slowly."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Materials Family"
+          },
+          {
+            "header": false,
+            "text": "The Materials are made of natural materials like mud and stone, so they can resist cold and fire well and have high defense attribute."
+          }
+        ],
+        [
+          {
+            "header": false,
+            "text": ""
+          },
+          {
+            "header": false,
+            "text": "Water Family"
+          },
+          {
+            "header": false,
+            "text": "This is a new Family that was added for DWM 2."
+          }
+        ]
+      ]
+    },
+    {
+      "table_index": 1,
+      "row_count": 1,
+      "rows": [
+        [
+          {
+            "header": false,
+            "text": "Page generated in 0.0618 seconds. Privacy Policy Contact Us"
+          },
+          {
+            "header": false,
+            "text": "©1997-2026 Woodus.com. 29 Years in Service. 10608/19009 (0.5581) All images, games, likenesses are © of their respective owners."
+          }
+        ]
+      ]
+    }
+  ]
+}
