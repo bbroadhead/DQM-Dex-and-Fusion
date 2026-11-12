@@ -14,11 +14,12 @@ on:
       batch_size:
         description: "New monster detail pages per selected game"
         required: true
-        default: '5'
+        default: '50'
         type: choice
         options:
           - '5'
           - '10'
+          - '50'
           - '1'
           - '530'
 
