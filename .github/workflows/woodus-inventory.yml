@@ -11,6 +11,15 @@ on:
           - all
           - dwm1gbc
           - dwm2gbc
+      batch_size:
+        description: "New monster detail pages per selected game (1-10)"
+        required: true
+        default: '5'
+        type: choice
+        options:
+          - '5'
+          - '10'
+          - '1'
 
 permissions:
   contents: write
@@ -39,7 +48,9 @@ jobs:
       - name: Sample monster detail page structure
         run: python scripts/woodus_detail_sample.py --game "${{ inputs.game }}"
       - name: Import a small batch of monster details
-        run: python scripts/woodus_detail_batch.py --game "${{ inputs.game }}" --batch-size 5
+        run: python scripts/woodus_detail_batch.py --game "${{ inputs.game }}" --batch-size "${{ inputs.batch_size }}"
+      - name: Validate imported monster details
+        run: python scripts/woodus_validate.py --game "${{ inputs.game }}"
       - name: Extract breeding table candidates
         run: python scripts/woodus_breeding.py --game "${{ inputs.game }}"
       - name: Commit inventory and monster manifests
