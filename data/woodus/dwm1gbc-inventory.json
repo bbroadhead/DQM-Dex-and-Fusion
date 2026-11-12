@@ -1,0 +1,3441 @@
+{
+  "game": "dwm1gbc",
+  "source": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+  "image_references": [
+    {
+      "src": "https://www.woodus.com/den/graphics/denlogo.webp",
+      "alt": "Dragon's Den Logo"
+    },
+    {
+      "src": "https://www.woodus.com/den/graphics/headers/dwm1gbc.webp",
+      "alt": "Header Logo"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/oneeye_clown.webp",
+      "alt": "Monster Image: 1EyeClown"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/ag_devil.webp",
+      "alt": "Monster Image: AgDevil"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/akubar.webp",
+      "alt": "Monster Image: Akubar"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/almiraj.webp",
+      "alt": "Monster Image: Almiraj"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/amberweed.webp",
+      "alt": "Monster Image: AmberWeed"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/andreal.webp",
+      "alt": "Monster Image: Andreal"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/anteater.webp",
+      "alt": "Monster Image: Anteater (M1)"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/arc_demon.webp",
+      "alt": "Monster Image: ArcDemon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/armorpede.webp",
+      "alt": "Monster Image: ArmorPede"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/armorpion.webp",
+      "alt": "Monster Image: Armorpion"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/army_ant.webp",
+      "alt": "Monster Image: ArmyAnt"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/army_crab.webp",
+      "alt": "Monster Image: ArmyCrab"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/babble.webp",
+      "alt": "Monster Image: Babble"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/balzac.webp",
+      "alt": "Monster Image: Balzak"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/baramos.webp",
+      "alt": "Monster Image: Baramos"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/battle_rex.webp",
+      "alt": "Monster Image: BattleRex"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/bean_man.webp",
+      "alt": "Monster Image: BeanMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/big_eye.webp",
+      "alt": "Monster Image: BigEye"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/big_roost.webp",
+      "alt": "Monster Image: BigRoost"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/blizzardy.webp",
+      "alt": "Monster Image: Blizzardy"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/bomb_crag.webp",
+      "alt": "Monster Image: BombCrag"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/boneslave.webp",
+      "alt": "Monster Image: BoneSlave"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/box_slime.webp",
+      "alt": "Monster Image: BoxSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/bull_bird.webp",
+      "alt": "Monster Image: BullBird"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/butterfly.webp",
+      "alt": "Monster Image: Butterfly"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/cactiball.webp",
+      "alt": "Monster Image: CactiBall"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/catapila.webp",
+      "alt": "Monster Image: Catapila"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/cat_fly.webp",
+      "alt": "Monster Image: CatFly"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/centasaur.webp",
+      "alt": "Monster Image: Centasaur"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/chamelgon.webp",
+      "alt": "Monster Image: Chamelgon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/chop_clown.webp",
+      "alt": "Monster Image: ChopClown"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/coatol.webp",
+      "alt": "Monster Image: Coatol"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/coil_bird.webp",
+      "alt": "Monster Image: CoilBird"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/copycat.webp",
+      "alt": "Monster Image: Copycat"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/crestpent.webp",
+      "alt": "Monster Image: Crestpent"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/curse_lamp.webp",
+      "alt": "Monster Image: CurseLamp"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dance_vegi.webp",
+      "alt": "Monster Image: DanceVegi"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dark_crab.webp",
+      "alt": "Monster Image: DarkCrab"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/darkdrium.webp",
+      "alt": "Monster Image: Darkdrium"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dark_eye.webp",
+      "alt": "Monster Image: DarkEye"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dark_horn.webp",
+      "alt": "Monster Image: DarkHorn"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dead_nite.webp",
+      "alt": "Monster Image: DeadNite"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dead_noble.webp",
+      "alt": "Monster Image: DeadNoble"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/deathmore1.webp",
+      "alt": "Monster Image: DeathMore (1)"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/deathmore2.webp",
+      "alt": "Monster Image: DeathMore (2)"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/deathmore3.webp",
+      "alt": "Monster Image: DeathMore (3)"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/demonite.webp",
+      "alt": "Monster Image: Demonite"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/digster.webp",
+      "alt": "Monster Image: Digster"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/divinegon.webp",
+      "alt": "Monster Image: Divinegon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dracky.webp",
+      "alt": "Monster Image: Dracky"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dracolord1.webp",
+      "alt": "Monster Image: Dracolord (1)"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dracolord2.webp",
+      "alt": "Monster Image: Dracolord (2)"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dragon.webp",
+      "alt": "Monster Image: Dragon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dragon_kid.webp",
+      "alt": "Monster Image: DragonKid"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/drak_slime.webp",
+      "alt": "Monster Image: DrakSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/droll.webp",
+      "alt": "Monster Image: Droll"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/duck_kite.webp",
+      "alt": "Monster Image: DuckKite"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/durran.webp",
+      "alt": "Monster Image: Durran"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/esterk.webp",
+      "alt": "Monster Image: Esterk"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_armor.webp",
+      "alt": "Monster Image: EvilArmor"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_beast.webp",
+      "alt": "Monster Image: EvilBeast"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_pot.webp",
+      "alt": "Monster Image: EvilPot"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_seed.webp",
+      "alt": "Monster Image: EvilSeed"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_wand.webp",
+      "alt": "Monster Image: EvilWand"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/eyeball.webp",
+      "alt": "Monster Image: EyeBall"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/eyeder.webp",
+      "alt": "Monster Image: Eyeder"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/facer.webp",
+      "alt": "Monster Image: Facer"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/face_tree.webp",
+      "alt": "Monster Image: FaceTree"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/fairy_drak.webp",
+      "alt": "Monster Image: FairyDrak"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/fairy_rat.webp",
+      "alt": "Monster Image: FairyRat"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/fang_slime.webp",
+      "alt": "Monster Image: FangSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/fireweed.webp",
+      "alt": "Monster Image: FireWeed"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/florajay.webp",
+      "alt": "Monster Image: Florajay"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/floraman.webp",
+      "alt": "Monster Image: FloraMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/funky_bird.webp",
+      "alt": "Monster Image: FunkyBird"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gasgon.webp",
+      "alt": "Monster Image: Gasgon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gate_guard.webp",
+      "alt": "Monster Image: GateGuard"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/giant_moth.webp",
+      "alt": "Monster Image: GiantMoth"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/giant_slug.webp",
+      "alt": "Monster Image: GiantSlug"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/giant_worm.webp",
+      "alt": "Monster Image: GiantWorm"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gigantes.webp",
+      "alt": "Monster Image: Gigantes"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gismo.webp",
+      "alt": "Monster Image: Gismo"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/goategon.webp",
+      "alt": "Monster Image: Goategon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/goat_horn.webp",
+      "alt": "Monster Image: GoatHorn"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gohopper.webp",
+      "alt": "Monster Image: GoHopper"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gold_golem.webp",
+      "alt": "Monster Image: GoldGolem"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gold_slime.webp",
+      "alt": "Monster Image: GoldSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/golem.webp",
+      "alt": "Monster Image: Golem"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/goopi.webp",
+      "alt": "Monster Image: Goopi"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gophecada.webp",
+      "alt": "Monster Image: Gophecada"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/great_drak.webp",
+      "alt": "Monster Image: GreatDrak"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gremlin.webp",
+      "alt": "Monster Image: Gremlin"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/grendal.webp",
+      "alt": "Monster Image: Grendal"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/grizzly.webp",
+      "alt": "Monster Image: Grizzly"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gulp_beast.webp",
+      "alt": "Monster Image: GulpBeast"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gulpple.webp",
+      "alt": "Monster Image: Gulpple"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/hammerman.webp",
+      "alt": "Monster Image: HammerMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/hargon.webp",
+      "alt": "Monster Image: Hargon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/healer.webp",
+      "alt": "Monster Image: Healer"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/herb_man.webp",
+      "alt": "Monster Image: HerbMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/hork.webp",
+      "alt": "Monster Image: Hork"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/hornbeet.webp",
+      "alt": "Monster Image: HornBeet"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/ice_man.webp",
+      "alt": "Monster Image: IceMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/ironturt.webp",
+      "alt": "Monster Image: IronTurt"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/jamirus.webp",
+      "alt": "Monster Image: Jamirus"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/jewel_bag.webp",
+      "alt": "Monster Image: JewelBag"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/king_cobra.webp",
+      "alt": "Monster Image: KingCobra"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/king_leo.webp",
+      "alt": "Monster Image: KingLeo"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/king_slime.webp",
+      "alt": "Monster Image: KingSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/land_owl.webp",
+      "alt": "Monster Image: LandOwl"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lavaman.webp",
+      "alt": "Monster Image: LavaMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lionex.webp",
+      "alt": "Monster Image: Lionex"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lipsy.webp",
+      "alt": "Monster Image: Lipsy"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lizard_fly.webp",
+      "alt": "Monster Image: LizardFly"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lizard_man.webp",
+      "alt": "Monster Image: LizardMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_candle.webp",
+      "alt": "Monster Image: MadCandle"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_cat.webp",
+      "alt": "Monster Image: MadCat"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_condor.webp",
+      "alt": "Monster Image: MadCondor"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_dragon.webp",
+      "alt": "Monster Image: MadDragon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_goose.webp",
+      "alt": "Monster Image: MadGoose"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_gopher.webp",
+      "alt": "Monster Image: MadGopher"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_hornet.webp",
+      "alt": "Monster Image: MadHornet"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_knight.webp",
+      "alt": "Monster Image: MadKnight"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_mirror.webp",
+      "alt": "Monster Image: MadMirror"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_pecker.webp",
+      "alt": "Monster Image: MadPecker"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_plant.webp",
+      "alt": "Monster Image: MadPlant"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_raven.webp",
+      "alt": "Monster Image: MadRaven"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_spirit.webp",
+      "alt": "Monster Image: MadSpirit"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/maneater.webp",
+      "alt": "Monster Image: ManEater"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/medusa_eye.webp",
+      "alt": "Monster Image: MedusaEye"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/metabble.webp",
+      "alt": "Monster Image: Metabble"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/metal_drak.webp",
+      "alt": "Monster Image: MetalDrak"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/metal_king.webp",
+      "alt": "Monster Image: MetalKing"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/metaly.webp",
+      "alt": "Monster Image: Metaly"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mimic.webp",
+      "alt": "Monster Image: Mimic"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/minidrak.webp",
+      "alt": "Monster Image: MiniDrak"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mirudraas1.webp",
+      "alt": "Monster Image: Mirudraas (1)"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mirudraas2.webp",
+      "alt": "Monster Image: Mirudraas (2)"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/misty_wing.webp",
+      "alt": "Monster Image: MistyWing"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mommonja.webp",
+      "alt": "Monster Image: Mommonja"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mud_doll.webp",
+      "alt": "Monster Image: MudDoll"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mudou.webp",
+      "alt": "Monster Image: Mudou"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mudron.webp",
+      "alt": "Monster Image: Mudron"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mummy.webp",
+      "alt": "Monster Image: Mummy"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/nite_whip.webp",
+      "alt": "Monster Image: NiteWhip"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/ogre.webp",
+      "alt": "Monster Image: Ogre"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/oniono.webp",
+      "alt": "Monster Image: Oniono"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/orc.webp",
+      "alt": "Monster Image: Orc"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/orochi.webp",
+      "alt": "Monster Image: Orochi"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/phoenix.webp",
+      "alt": "Monster Image: Phoenix"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/picky.webp",
+      "alt": "Monster Image: Picky"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/pillow_rat.webp",
+      "alt": "Monster Image: PillowRat"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/pixy.webp",
+      "alt": "Monster Image: Pixy"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/pizzaro.webp",
+      "alt": "Monster Image: Pizzaro"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/poisongon.webp",
+      "alt": "Monster Image: Poisongon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/pteranod.webp",
+      "alt": "Monster Image: Pteranod"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/putrepup.webp",
+      "alt": "Monster Image: Putrepup"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rain_hawk.webp",
+      "alt": "Monster Image: RainHawk"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rayburn.webp",
+      "alt": "Monster Image: Rayburn"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/reaper.webp",
+      "alt": "Monster Image: Reaper"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/roboster.webp",
+      "alt": "Monster Image: Roboster"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rock_slime.webp",
+      "alt": "Monster Image: RockSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rogue_nite.webp",
+      "alt": "Monster Image: RogueNite"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rose_vine.webp",
+      "alt": "Monster Image: Rosevine"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rot_raven.webp",
+      "alt": "Monster Image: RotRaven"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/sabreman.webp",
+      "alt": "Monster Image: SabreMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/saccer.webp",
+      "alt": "Monster Image: Saccer"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/servant.webp",
+      "alt": "Monster Image: Servant"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/shadow.webp",
+      "alt": "Monster Image: Shadow"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/sidoh.webp",
+      "alt": "Monster Image: Sidoh"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/skeletor.webp",
+      "alt": "Monster Image: Skeletor"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/skullgon.webp",
+      "alt": "Monster Image: Skullgon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/skullroo.webp",
+      "alt": "Monster Image: Skullroo"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/skull_rider.webp",
+      "alt": "Monster Image: SkulRider"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/sky_dragon.webp",
+      "alt": "Monster Image: SkyDragon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/slabbit.webp",
+      "alt": "Monster Image: Slabbit"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/slime.webp",
+      "alt": "Monster Image: Slime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/slimeborg.webp",
+      "alt": "Monster Image: SlimeBorg"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/slime_nite.webp",
+      "alt": "Monster Image: SlimeNite"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/snaily.webp",
+      "alt": "Monster Image: Snaily"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/snapper.webp",
+      "alt": "Monster Image: Snapper"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spikerous.webp",
+      "alt": "Monster Image: Spikerous"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spiky_boy.webp",
+      "alt": "Monster Image: SpikyBoy"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spooky.webp",
+      "alt": "Monster Image: Spooky"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spot_king.webp",
+      "alt": "Monster Image: SpotKing"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spot_slime.webp",
+      "alt": "Monster Image: SpotSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/stag_bug.webp",
+      "alt": "Monster Image: StagBug"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/stone_man.webp",
+      "alt": "Monster Image: StoneMan"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/stub_bird.webp",
+      "alt": "Monster Image: StubBird"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/stubsuck.webp",
+      "alt": "Monster Image: Stubsuck"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/super_ten.webp",
+      "alt": "Monster Image: SuperTen"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/swordgon.webp",
+      "alt": "Monster Image: Swordgon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tail_eater.webp",
+      "alt": "Monster Image: TailEater"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/toadstool.webp",
+      "alt": "Monster Image: Toadstool"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tonguella.webp",
+      "alt": "Monster Image: Tonguella"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tortragon.webp",
+      "alt": "Monster Image: Tortragon"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tree_boy.webp",
+      "alt": "Monster Image: TreeBoy"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tree_slime.webp",
+      "alt": "Monster Image: TreeSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/trumpeter.webp",
+      "alt": "Monster Image: Trumpeter"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/unicorn.webp",
+      "alt": "Monster Image: Unicorn"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/voodoll.webp",
+      "alt": "Monster Image: Voodoll"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/watabou.webp",
+      "alt": "Monster Image: Watabou"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/weed_bug.webp",
+      "alt": "Monster Image: WeedBug"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/whip_bird.webp",
+      "alt": "Monster Image: WhipBird"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/white_king.webp",
+      "alt": "Monster Image: WhiteKing"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wild_ape.webp",
+      "alt": "Monster Image: WildApe"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wind_beast.webp",
+      "alt": "Monster Image: WindBeast"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wind_merge.webp",
+      "alt": "Monster Image: WindMerge"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wing_slime.webp",
+      "alt": "Monster Image: WingSlime"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wingsnake.webp",
+      "alt": "Monster Image: WingSnake"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wing_tree.webp",
+      "alt": "Monster Image: WingTree"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wyvern.webp",
+      "alt": "Monster Image: Wyvern"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/yeti.webp",
+      "alt": "Monster Image: Yeti"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/zap_bird.webp",
+      "alt": "Monster Image: ZapBird"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/zoma.webp",
+      "alt": "Monster Image: Zoma"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/flags/jp.png",
+      "alt": "Japan Flag"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/flags/eu.png",
+      "alt": "European Union Flag"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/flags/us.png",
+      "alt": "Japan Flag"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/box_art/dwm1gbc_back_th.jpg",
+      "alt": "DWM 1 GBC Back Image"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/box_art/dwm1gbc_front_th.jpg",
+      "alt": "DWM 1 GBC Front Image"
+    },
+    {
+      "src": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/cart_art/dwm1gbc_th.jpg",
+      "alt": "Dragon Warrior Monsters 1 Image"
+    },
+    {
+      "src": "https://www.woodus.com/den/graphics/top_of_page.gif",
+      "alt": "Top of Page"
+    },
+    {
+      "src": "https://pixel.quantserve.com/pixel/p-e3YlpRPdkicIE.gif",
+      "alt": "Quantcast"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.woodus.com/den/home.php",
+      "text": "Home"
+    },
+    {
+      "url": "https://www.woodus.com/forums/",
+      "text": "Forums"
+    },
+    {
+      "url": "https://slimetime.woodus.com/",
+      "text": "Slime Time"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Events"
+    },
+    {
+      "url": "https://www.woodus.com/den/dq35th/",
+      "text": "DQ 35th"
+    },
+    {
+      "url": "https://www.woodus.com/den/2020olympics/",
+      "text": "2020 Olympics"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Latest Games"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqrpg/",
+      "text": "Dragon Quest RPG - The Cursed Tree and the Chosen Isle"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/tq1hd/",
+      "text": "Dragon Quest Heroes: Torneko's Mystery Dungeon - Classic HD"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm8/",
+      "text": "Dragon Quest Monsters: The Withered World"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/smashgrow/",
+      "text": "Dragon Quest Smash/Grow"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq7reimage/",
+      "text": "Dragon Quest VII Reimaged"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq12hd2d/",
+      "text": "Dragon Quest I & II HD-2D"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq3hd2d/",
+      "text": "Dragon Quest III HD-2D"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm7/",
+      "text": "Dragon Quest Monsters The Dark Prince"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/infinitystrash/",
+      "text": "Infinity Strash: Dragon Quest The Adventure of Dai"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq12/",
+      "text": "Dragon Quest XII"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "All Games"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Main Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dw1nes/",
+      "text": "Dragon Warrior I (NES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dw2nes/",
+      "text": "Dragon Warrior II (NES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dw3nes/",
+      "text": "Dragon Warrior III (NES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dw4nes/",
+      "text": "Dragon Warrior IV (NES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq5snes/",
+      "text": "Dragon Quest V (SNES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq6snes/",
+      "text": "Dragon Quest VI (SNES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dw7psx/",
+      "text": "Dragon Warrior VII (PSX)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq8ps2/",
+      "text": "Dragon Quest VIII (PS2)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq9ds/",
+      "text": "Dragon Quest IX (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq10wii/",
+      "text": "Dragon Quest X (Wii)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq11/",
+      "text": "Dragon Quest XI (PS4/Steam)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq113ds/",
+      "text": "Dragon Quest XI (3DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq11s/",
+      "text": "Dragon Quest XI (Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq12/",
+      "text": "Dragon Quest XII"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Re-Releases"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq1msx/",
+      "text": "Dragon Quest I (MSX)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq2msx/",
+      "text": "Dragon Quest II (MSX)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq1snes/",
+      "text": "Dragon Quest I (SNES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq2snes/",
+      "text": "Dragon Quest II (SNES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq3snes/",
+      "text": "Dragon Quest III (SNES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dw1gbc/",
+      "text": "Dragon Warrior I (GBC)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dw2gbc/",
+      "text": "Dragon Warrior II (GBC)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dw3gbc/",
+      "text": "Dragon Warrior III (GBC)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq4psx/",
+      "text": "Dragon Quest IV (PSX)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq5ps2/",
+      "text": "Dragon Quest V (PS2)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq4ds/",
+      "text": "Dragon Quest IV (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq5ds/",
+      "text": "Dragon Quest V (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq6ds/",
+      "text": "Dragon Quest VI (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq1mob/",
+      "text": "Dragon Quest I (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq2mob/",
+      "text": "Dragon Quest II (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq3mob/",
+      "text": "Dragon Quest III (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq25annivwii/",
+      "text": "Dragon Quest 25th Anniv (Wii)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq73ds/",
+      "text": "Dragon Quest VII (3DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq1andios/",
+      "text": "Dragon Quest I (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq2andios/",
+      "text": "Dragon Quest II (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq3andios/",
+      "text": "Dragon Quest III (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq4andios/",
+      "text": "Dragon Quest IV (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq5andios/",
+      "text": "Dragon Quest V (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq6andios/",
+      "text": "Dragon Quest VI (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq7andios/",
+      "text": "Dragon Quest VII (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq8andios/",
+      "text": "Dragon Quest VIII (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq83ds/",
+      "text": "Dragon Quest VIII (3DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq11s/",
+      "text": "Dragon Quest XI (Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq1switch/",
+      "text": "Dragon Quest I (Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq2switch/",
+      "text": "Dragon Quest II (Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq3switch/",
+      "text": "Dragon Quest III (Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq3hd2d/",
+      "text": "Dragon Quest III HD-2D"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq10offline/",
+      "text": "Dragon Quest X Offline"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq7reimage/",
+      "text": "Dragon Quest VII Reimagined"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq12hd2d/",
+      "text": "Dragon Quest I & II HD-2D"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq1hd2d/",
+      "text": "Dragon Quest I HD-2D"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dq2hd2d/",
+      "text": "Dragon Quest II HD-2D"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Heroes Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqheroesps4/",
+      "text": "DQ Heroes (PS4)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqheroes2ps4/",
+      "text": "DQ Heroes II (PS4)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Builders Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqbuildersps4/",
+      "text": "DQ Builders (PS4/Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqbuilders2/",
+      "text": "DQ Builders 2 (PS4/Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "TheatRythm"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/theatrhythmdq3ds/",
+      "text": "DQ TheatRythm"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Swords Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqsword/",
+      "text": "DQ Swordmaster"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqswordswii/",
+      "text": "DQ Swords (Wii)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Slime Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/slimedq/",
+      "text": "Slime Mori Mori (GBA)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/slimedq2/",
+      "text": "Rocket Slime (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/slimedq3/",
+      "text": "Slime Mori Mori 3 (3DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Dungeon Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/tq1snes/",
+      "text": "Taloon's Quest I (SNES)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/tq2psx/",
+      "text": "Torneko 2: The Last Hope (PSX)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/tq3gba/",
+      "text": "Torneko 3: Mysterious Dungeon (GBA)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/tq3ps2/",
+      "text": "Torneko 3: Mysterious Dungeon (PS2)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/yangus1ps2/",
+      "text": "Young Yangus (PS2)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/mobdungeon1/",
+      "text": "Mobile Dungeon 1 (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/mobdungeon2/",
+      "text": "Mobile Dungeon 2 (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/tq1hd/",
+      "text": "Dragon Quest Heroes: Torneko's Mystery Dungeon - Classic HD"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Monsters Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/",
+      "text": "DW Monsters (GBC)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm2gbc/",
+      "text": "DW Monsters 2 (GBC)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm3gba/",
+      "text": "DQ Monsters 3 (GBA)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm1_2psx/",
+      "text": "DQ Monsters I & II (PSX)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm4ds/",
+      "text": "DQ Monsters Joker (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm5ds/",
+      "text": "DQ Monsters Joker 2 (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm63ds/",
+      "text": "DQ Monsters Joker 3 (3DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm5prods/",
+      "text": "DQ Monsters Joker 2 Pro (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm1mob/",
+      "text": "DQ Monsters J (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqmm/",
+      "text": "DQ Monsters Mobile"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm13ds/",
+      "text": "DQ Monsters 1 (3DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm23ds/",
+      "text": "DQ Monsters 2 (3DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm1rswitch/",
+      "text": "DQ Monsters 1 Retro (Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm7/",
+      "text": "Dragon Quest Monsters The Dark Prince"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqm8/",
+      "text": "Dragon Quest Monsters: The Withered World"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Itadaki St. Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/itadakistps2/",
+      "text": "Itadaki Street (PS2)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/itadakistpsp/",
+      "text": "Itadaki Street (PSP)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/itadakistds/",
+      "text": "Itadaki Street (DS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/fortunestwii/",
+      "text": "Fortune Street (Wii)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/itadakist30th/",
+      "text": "Itadaki Street 3th Anniv (PS4/Vita)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Wars Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqwarsdsi/",
+      "text": "DQ Wars (DSI)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Battle Road Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqmbrac/",
+      "text": "Battle Road (ARC)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqmbrlac/",
+      "text": "Battle Road Legend (ARC)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqmbrm/",
+      "text": "Battle Road (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqmbrvwii/",
+      "text": "Battle Road Victory (Wii)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Mobile Games"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqcasinomob/",
+      "text": "DQ Casino (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqmslandios/",
+      "text": "DQ Monsters Super Light (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqmtmob/",
+      "text": "DQ Monster Tamer (MOB)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqstarsandios/",
+      "text": "Dragon Quest of the Stars (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqwalkandios/",
+      "text": "Dragon Quest Walk (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqtactandios/",
+      "text": "Dragon Quest Tact (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqdaibondsandios/",
+      "text": "Adventure of Dai: A Hero's Bonds (Android/iOS)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqeraser/",
+      "text": "Dragon Quest Eraser"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/smashgrow/",
+      "text": "Dragon Quest Smash/Grow"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqrpg/",
+      "text": "Dragon Quest RPG - The Cursed Tree and the Chosen Isle"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Physical Card Games"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqccg01/",
+      "text": "DQ Card Game"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqccg02/",
+      "text": "DQ Card Game 2"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqtcg01/",
+      "text": "DQ Trading Card Game"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Treasures Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqtreasures/",
+      "text": "Dragon Quest Treasures"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Champions Series"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqchamp/",
+      "text": "Dragon Quest Champions"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Digital Card Games"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqrivals/",
+      "text": "DQ Rivals (Android/iOS/Switch)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "VR Games"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dqvr/",
+      "text": "Dragon Quest VR at VR Zone Shinjuku"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Super Smash Bros. Ultimate"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/ssbu/",
+      "text": "Super Smash Bros. Ultimate"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Resources"
+    },
+    {
+      "url": "https://www.woodus.com/den/anime/",
+      "text": "Anime"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Campaigns"
+    },
+    {
+      "url": "https://www.woodus.com/den/campaigns/dqmeantoyou/",
+      "text": "What does DQ mean to you?"
+    },
+    {
+      "url": "https://www.woodus.com/den/captain_n/",
+      "text": "Captain N"
+    },
+    {
+      "url": "https://www.woodus.com/den/resources/customsprites.php",
+      "text": "Custom Sprites"
+    },
+    {
+      "url": "https://www.woodus.com/den/resources/dq11-voice-drama.php",
+      "text": "Dragon Quest XI Voice Drama Collection"
+    },
+    {
+      "url": "https://www.woodus.com/den/emu/",
+      "text": "Emulation"
+    },
+    {
+      "url": "https://www.woodus.com/den/fanfics/",
+      "text": "FanFics"
+    },
+    {
+      "url": "https://www.woodus.com/den/site/friend_codes.php",
+      "text": "Friend Codes - 3DS"
+    },
+    {
+      "url": "https://www.woodus.com/den/site/friend_codes_switch.php",
+      "text": "Friend Codes - Switch"
+    },
+    {
+      "url": "https://www.woodus.com/den/general/gamescripts.php",
+      "text": "Gamescripts"
+    },
+    {
+      "url": "https://www.woodus.com/den/general/",
+      "text": "General DQ Info"
+    },
+    {
+      "url": "https://www.woodus.com/den/resources/global-bestiary.php",
+      "text": "Global Bestiary"
+    },
+    {
+      "url": "https://www.woodus.com/den/resources/monster_wiki.php",
+      "text": "Monster Wiki"
+    },
+    {
+      "url": "https://www.woodus.com/den/music/",
+      "text": "Music & Sounds"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/web/dwwho/",
+      "text": "Personality Quiz"
+    },
+    {
+      "url": "https://www.woodus.com/den/resources/rm2k.php",
+      "text": "RPG Maker Resources"
+    },
+    {
+      "url": "https://www.woodus.com/den/resources/rm2kdw1remix.php",
+      "text": "RM2k DW I Remix"
+    },
+    {
+      "url": "https://www.woodus.com/den/resources/sightings.php",
+      "text": "Sightings"
+    },
+    {
+      "url": "https://www.woodus.com/den/slimeknights/",
+      "text": "Slime Knights Tribute"
+    },
+    {
+      "url": "https://www.woodus.com/den/slimetime/",
+      "text": "SlimeTime Podcasts"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/web/trivia/",
+      "text": "Trivia"
+    },
+    {
+      "url": "https://www.woodus.com/den/site/userbars.php",
+      "text": "Userbars"
+    },
+    {
+      "url": "https://www.woodus.com/den/resources/wallpaper.php",
+      "text": "Wallpapers"
+    },
+    {
+      "url": "https://www.woodus.com/den/general/warriorworld.php",
+      "text": "Warrior World Issues"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/web/",
+      "text": "Web Games"
+    },
+    {
+      "url": "https://www.woodus.com/den/site/support.php",
+      "text": "Support the Den"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/oneeye_clown.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248817&mname=1EyeClown",
+      "text": "1EyeClown"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/ag_devil.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248778&mname=AgDevil",
+      "text": "AgDevil"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/akubar.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248914&mname=Akubar",
+      "text": "Akubar"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/almiraj.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248782&mname=Almiraj",
+      "text": "Almiraj"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/amberweed.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248951&mname=AmberWeed",
+      "text": "AmberWeed"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/andreal.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248845&mname=Andreal",
+      "text": "Andreal"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/anteater.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248783&mname=Anteater (M1)",
+      "text": "Anteater (M1)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/arc_demon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248779&mname=ArcDemon",
+      "text": "ArcDemon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/armorpede.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248764&mname=ArmorPede",
+      "text": "ArmorPede"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/armorpion.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248829&mname=Armorpion",
+      "text": "Armorpion"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/army_ant.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248757&mname=ArmyAnt",
+      "text": "ArmyAnt"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/army_crab.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248787&mname=ArmyCrab",
+      "text": "ArmyCrab"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/babble.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248759&mname=Babble",
+      "text": "Babble"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/balzac.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248846&mname=Balzak",
+      "text": "Balzak"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/baramos.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248811&mname=Baramos",
+      "text": "Baramos"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/battle_rex.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248910&mname=BattleRex",
+      "text": "BattleRex"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/bean_man.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248940&mname=BeanMan",
+      "text": "BeanMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/big_eye.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248862&mname=BigEye",
+      "text": "BigEye"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/big_roost.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248820&mname=BigRoost",
+      "text": "BigRoost"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/blizzardy.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248874&mname=Blizzardy",
+      "text": "Blizzardy"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/bomb_crag.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248807&mname=BombCrag",
+      "text": "BombCrag"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/boneslave.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248894&mname=BoneSlave",
+      "text": "BoneSlave"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/box_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248933&mname=BoxSlime",
+      "text": "BoxSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/bull_bird.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248824&mname=BullBird",
+      "text": "BullBird"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/butterfly.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248784&mname=Butterfly",
+      "text": "Butterfly"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/cactiball.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248858&mname=CactiBall",
+      "text": "CactiBall"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/catapila.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248785&mname=Catapila",
+      "text": "Catapila"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/cat_fly.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248792&mname=CatFly",
+      "text": "CatFly"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/centasaur.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248915&mname=Centasaur",
+      "text": "Centasaur"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/chamelgon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248906&mname=Chamelgon",
+      "text": "Chamelgon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/chop_clown.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248903&mname=ChopClown",
+      "text": "ChopClown"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/coatol.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248954&mname=Coatol",
+      "text": "Coatol"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/coil_bird.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248936&mname=CoilBird",
+      "text": "CoilBird"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/copycat.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248826&mname=Copycat",
+      "text": "Copycat"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/crestpent.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248828&mname=Crestpent",
+      "text": "Crestpent"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/curse_lamp.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248899&mname=CurseLamp",
+      "text": "CurseLamp"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dance_vegi.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248883&mname=DanceVegi",
+      "text": "DanceVegi"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dark_crab.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248945&mname=DarkCrab",
+      "text": "DarkCrab"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/darkdrium.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248920&mname=Darkdrium",
+      "text": "Darkdrium"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dark_eye.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248771&mname=DarkEye",
+      "text": "DarkEye"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dark_horn.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248892&mname=DarkHorn",
+      "text": "DarkHorn"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dead_nite.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248749&mname=DeadNite",
+      "text": "DeadNite"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dead_noble.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248839&mname=DeadNoble",
+      "text": "DeadNoble"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/deathmore1.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248921&mname=DeathMore (1)",
+      "text": "DeathMore (1)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/deathmore2.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248922&mname=DeathMore (2)",
+      "text": "DeathMore (2)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/deathmore3.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248923&mname=DeathMore (3)",
+      "text": "DeathMore (3)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/demonite.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248797&mname=Demonite",
+      "text": "Demonite"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/digster.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248953&mname=Digster",
+      "text": "Digster"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/divinegon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248924&mname=Divinegon",
+      "text": "Divinegon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dracky.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248745&mname=Dracky",
+      "text": "Dracky"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dracolord1.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248754&mname=Dracolord (1)",
+      "text": "Dracolord (1)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dracolord2.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248755&mname=Dracolord (2)",
+      "text": "Dracolord (2)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dragon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248753&mname=Dragon",
+      "text": "Dragon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dragon_kid.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248853&mname=DragonKid",
+      "text": "DragonKid"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/drak_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248928&mname=DrakSlime",
+      "text": "DrakSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/droll.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248748&mname=Droll",
+      "text": "Droll"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/duck_kite.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248868&mname=DuckKite",
+      "text": "DuckKite"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/durran.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248919&mname=Durran",
+      "text": "Durran"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/esterk.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248847&mname=Esterk",
+      "text": "Esterk"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_armor.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248904&mname=EvilArmor",
+      "text": "EvilArmor"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_beast.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248902&mname=EvilBeast",
+      "text": "EvilBeast"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_pot.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248866&mname=EvilPot",
+      "text": "EvilPot"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_seed.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248947&mname=EvilSeed",
+      "text": "EvilSeed"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_wand.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248913&mname=EvilWand",
+      "text": "EvilWand"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/eyeball.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248821&mname=EyeBall",
+      "text": "EyeBall"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/eyeder.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248747&mname=Eyeder",
+      "text": "Eyeder"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/facer.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248840&mname=Facer",
+      "text": "Facer"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/face_tree.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248772&mname=FaceTree",
+      "text": "FaceTree"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/fairy_drak.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248898&mname=FairyDrak",
+      "text": "FairyDrak"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/fairy_rat.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248944&mname=FairyRat",
+      "text": "FairyRat"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/fang_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248935&mname=FangSlime",
+      "text": "FangSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/fireweed.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248943&mname=FireWeed",
+      "text": "FireWeed"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/florajay.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248938&mname=Florajay",
+      "text": "Florajay"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/floraman.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248891&mname=FloraMan",
+      "text": "FloraMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/funky_bird.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248941&mname=FunkyBird",
+      "text": "FunkyBird"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gasgon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248909&mname=Gasgon",
+      "text": "Gasgon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gate_guard.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248838&mname=GateGuard",
+      "text": "GateGuard"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/giant_moth.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248896&mname=GiantMoth",
+      "text": "GiantMoth"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/giant_slug.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248756&mname=GiantSlug",
+      "text": "GiantSlug"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/giant_worm.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248813&mname=GiantWorm",
+      "text": "GiantWorm"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gigantes.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248777&mname=Gigantes",
+      "text": "Gigantes"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gismo.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248788&mname=Gismo",
+      "text": "Gismo"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/goategon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248795&mname=Goategon",
+      "text": "Goategon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/goat_horn.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248843&mname=GoatHorn",
+      "text": "GoatHorn"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gohopper.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248822&mname=GoHopper",
+      "text": "GoHopper"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gold_golem.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248876&mname=GoldGolem",
+      "text": "GoldGolem"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gold_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248927&mname=GoldSlime",
+      "text": "GoldSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/golem.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248751&mname=Golem",
+      "text": "Golem"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/goopi.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248770&mname=Goopi",
+      "text": "Goopi"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gophecada.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248851&mname=Gophecada",
+      "text": "Gophecada"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/great_drak.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248877&mname=GreatDrak",
+      "text": "GreatDrak"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gremlin.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248773&mname=Gremlin",
+      "text": "Gremlin"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/grendal.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248875&mname=Grendal",
+      "text": "Grendal"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/grizzly.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248802&mname=Grizzly",
+      "text": "Grizzly"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gulp_beast.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248912&mname=GulpBeast",
+      "text": "GulpBeast"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/gulpple.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248857&mname=Gulpple",
+      "text": "Gulpple"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/hammerman.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248852&mname=HammerMan",
+      "text": "HammerMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/hargon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248761&mname=Hargon",
+      "text": "Hargon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/healer.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248765&mname=Healer",
+      "text": "Healer"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/herb_man.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248937&mname=HerbMan",
+      "text": "HerbMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/hork.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248774&mname=Hork",
+      "text": "Hork"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/hornbeet.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248939&mname=HornBeet",
+      "text": "HornBeet"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/ice_man.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248804&mname=IceMan",
+      "text": "IceMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/ironturt.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248916&mname=IronTurt",
+      "text": "IronTurt"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/jamirus.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248911&mname=Jamirus",
+      "text": "Jamirus"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/jewel_bag.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248794&mname=JewelBag",
+      "text": "JewelBag"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/king_cobra.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248762&mname=KingCobra",
+      "text": "KingCobra"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/king_leo.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248842&mname=KingLeo",
+      "text": "KingLeo"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/king_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248836&mname=KingSlime",
+      "text": "KingSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/land_owl.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248861&mname=LandOwl",
+      "text": "LandOwl"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lavaman.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248803&mname=LavaMan",
+      "text": "LavaMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lionex.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248871&mname=Lionex",
+      "text": "Lionex"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lipsy.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248885&mname=Lipsy",
+      "text": "Lipsy"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lizard_fly.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248763&mname=LizardFly",
+      "text": "LizardFly"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/lizard_man.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248872&mname=LizardMan",
+      "text": "LizardMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_candle.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248856&mname=MadCandle",
+      "text": "MadCandle"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_cat.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248863&mname=MadCat",
+      "text": "MadCat"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_condor.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248796&mname=MadCondor",
+      "text": "MadCondor"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_dragon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248867&mname=MadDragon",
+      "text": "MadDragon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_goose.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248897&mname=MadGoose",
+      "text": "MadGoose"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_gopher.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248815&mname=MadGopher",
+      "text": "MadGopher"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_hornet.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248893&mname=MadHornet",
+      "text": "MadHornet"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_knight.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248752&mname=MadKnight",
+      "text": "MadKnight"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_mirror.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248900&mname=MadMirror",
+      "text": "MadMirror"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_pecker.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248799&mname=MadPecker",
+      "text": "MadPecker"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_plant.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248854&mname=MadPlant",
+      "text": "MadPlant"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_raven.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248781&mname=MadRaven",
+      "text": "MadRaven"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_spirit.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248849&mname=MadSpirit",
+      "text": "MadSpirit"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/maneater.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248767&mname=ManEater",
+      "text": "ManEater"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/medusa_eye.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248768&mname=MedusaEye",
+      "text": "MedusaEye"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/metabble.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248760&mname=Metabble",
+      "text": "Metabble"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/metal_drak.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248878&mname=MetalDrak",
+      "text": "MetalDrak"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/metal_king.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248837&mname=MetalKing",
+      "text": "MetalKing"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/metaly.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248744&mname=Metaly",
+      "text": "Metaly"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mimic.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248798&mname=Mimic",
+      "text": "Mimic"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/minidrak.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248827&mname=MiniDrak",
+      "text": "MiniDrak"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mirudraas1.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248879&mname=Mirudraas (1)",
+      "text": "Mirudraas (1)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mirudraas2.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248880&mname=Mirudraas (2)",
+      "text": "Mirudraas (2)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/misty_wing.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248949&mname=MistyWing",
+      "text": "MistyWing"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mommonja.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248818&mname=Mommonja",
+      "text": "Mommonja"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mud_doll.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248766&mname=MudDoll",
+      "text": "MudDoll"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mudou.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248918&mname=Mudou",
+      "text": "Mudou"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mudron.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248901&mname=Mudron",
+      "text": "Mudron"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mummy.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248769&mname=Mummy",
+      "text": "Mummy"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/nite_whip.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248855&mname=NiteWhip",
+      "text": "NiteWhip"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/ogre.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248844&mname=Ogre",
+      "text": "Ogre"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/oniono.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248886&mname=Oniono",
+      "text": "Oniono"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/orc.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248775&mname=Orc",
+      "text": "Orc"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/orochi.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248808&mname=Orochi",
+      "text": "Orochi"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/phoenix.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248873&mname=Phoenix",
+      "text": "Phoenix"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/picky.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248860&mname=Picky",
+      "text": "Picky"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/pillow_rat.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248882&mname=PillowRat",
+      "text": "PillowRat"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/pixy.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248819&mname=Pixy",
+      "text": "Pixy"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/pizzaro.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248848&mname=Pizzaro",
+      "text": "Pizzaro"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/poisongon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248831&mname=Poisongon",
+      "text": "Poisongon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/pteranod.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248833&mname=Pteranod",
+      "text": "Pteranod"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/putrepup.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248786&mname=Putrepup",
+      "text": "Putrepup"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rain_hawk.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248955&mname=RainHawk",
+      "text": "RainHawk"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rayburn.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248841&mname=Rayburn",
+      "text": "Rayburn"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/reaper.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248758&mname=Reaper",
+      "text": "Reaper"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/roboster.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248776&mname=Roboster",
+      "text": "Roboster"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rock_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248929&mname=RockSlime",
+      "text": "RockSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rogue_nite.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248791&mname=RogueNite",
+      "text": "RogueNite"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rose_vine.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248950&mname=Rosevine",
+      "text": "Rosevine"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/rot_raven.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248942&mname=RotRaven",
+      "text": "RotRaven"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/sabreman.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248832&mname=SabreMan",
+      "text": "SabreMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/saccer.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248823&mname=Saccer",
+      "text": "Saccer"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/servant.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248917&mname=Servant",
+      "text": "Servant"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/shadow.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248790&mname=Shadow",
+      "text": "Shadow"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/sidoh.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248780&mname=Sidoh",
+      "text": "Sidoh"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/skeletor.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248806&mname=Skeletor",
+      "text": "Skeletor"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/skullgon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248810&mname=Skullgon",
+      "text": "Skullgon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/skullroo.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248889&mname=Skullroo",
+      "text": "Skullroo"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/skull_rider.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248905&mname=SkulRider",
+      "text": "SkulRider"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/sky_dragon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248801&mname=SkyDragon",
+      "text": "SkyDragon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/slabbit.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248930&mname=Slabbit",
+      "text": "Slabbit"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248743&mname=Slime",
+      "text": "Slime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/slimeborg.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248934&mname=SlimeBorg",
+      "text": "SlimeBorg"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/slime_nite.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248859&mname=SlimeNite",
+      "text": "SlimeNite"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/snaily.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248800&mname=Snaily",
+      "text": "Snaily"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/snapper.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248825&mname=Snapper",
+      "text": "Snapper"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spikerous.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248870&mname=Spikerous",
+      "text": "Spikerous"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spiky_boy.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248850&mname=SpikyBoy",
+      "text": "SpikyBoy"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spooky.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248746&mname=Spooky",
+      "text": "Spooky"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spot_king.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248925&mname=SpotKing",
+      "text": "SpotKing"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spot_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248881&mname=SpotSlime",
+      "text": "SpotSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/stag_bug.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248814&mname=StagBug",
+      "text": "StagBug"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/stone_man.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248809&mname=StoneMan",
+      "text": "StoneMan"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/stub_bird.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248890&mname=StubBird",
+      "text": "StubBird"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/stubsuck.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248816&mname=Stubsuck",
+      "text": "Stubsuck"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/super_ten.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248887&mname=SuperTen",
+      "text": "SuperTen"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/swordgon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248948&mname=Swordgon",
+      "text": "Swordgon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tail_eater.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248884&mname=TailEater",
+      "text": "TailEater"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/toadstool.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248789&mname=Toadstool",
+      "text": "Toadstool"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tonguella.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248864&mname=Tonguella",
+      "text": "Tonguella"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tortragon.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248805&mname=Tortragon",
+      "text": "Tortragon"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tree_boy.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248888&mname=TreeBoy",
+      "text": "TreeBoy"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/tree_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248931&mname=TreeSlime",
+      "text": "TreeSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/trumpeter.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248865&mname=Trumpeter",
+      "text": "Trumpeter"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/unicorn.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248907&mname=Unicorn",
+      "text": "Unicorn"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/voodoll.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248835&mname=Voodoll",
+      "text": "Voodoll"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/watabou.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248957&mname=Watabou",
+      "text": "Watabou"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/weed_bug.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248952&mname=WeedBug",
+      "text": "WeedBug"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/whip_bird.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248956&mname=WhipBird",
+      "text": "WhipBird"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/white_king.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248869&mname=WhiteKing",
+      "text": "WhiteKing"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wild_ape.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248793&mname=WildApe",
+      "text": "WildApe"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wind_beast.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248830&mname=WindBeast",
+      "text": "WindBeast"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wind_merge.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248895&mname=WindMerge",
+      "text": "WindMerge"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wing_slime.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248932&mname=WingSlime",
+      "text": "WingSlime"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wingsnake.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248908&mname=WingSnake",
+      "text": "WingSnake"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wing_tree.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248946&mname=WingTree",
+      "text": "WingTree"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/wyvern.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248750&mname=Wyvern",
+      "text": "Wyvern"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/yeti.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248834&mname=Yeti",
+      "text": "Yeti"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/zap_bird.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248926&mname=ZapBird",
+      "text": "ZapBird"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/zoma.webp",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters-details.php?mid=248812&mname=Zoma",
+      "text": "Zoma"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/index.php",
+      "text": "- Section Home -"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/arena.php",
+      "text": "Arena"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/breeding.php",
+      "text": "Breeding Charts"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/commercials.php",
+      "text": "Commercials"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/exp_levels.php",
+      "text": "Exp Levels"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/guide/DWMonsters1_Prima.pdf",
+      "text": "Guide (Prima) (PDF)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/intro.php",
+      "text": "Intro Video"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/items.php",
+      "text": "Items"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/manual/dwm1gbc_manual.pdf",
+      "text": "Manual (PDF)"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dqm1gbc/manual/DQ%20Monsters%20(JP%20GBC)%20manual.pdf",
+      "text": "Manual JPN (PDF)"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/families.php",
+      "text": "Monster Families"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php",
+      "text": "Monster List"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monster-quick-ref-chart.php",
+      "text": "Monster Quick Reference Chart"
+    },
+    {
+      "url": "https://www.woodus.com/den/music/mp3.php?desc=dqm1gbc",
+      "text": "Music - In Game"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/print_ads.php",
+      "text": "Print Ads"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/codes.php",
+      "text": "Pro Action Codes"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/quest_system.php",
+      "text": "Quest System"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/resistances.php",
+      "text": "Resistances"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/scans.php",
+      "text": "Scans"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/traveler_gates.php",
+      "text": "Traveler Gates"
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/box_art/dwm1gbc_back.jpg",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/box_art/dwm1gbc_front.jpg",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/cart_art/dwm1gbc.jpg",
+      "text": ""
+    },
+    {
+      "url": "https://www.woodus.com/forums/index.php?/privacy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://www.woodus.com/forums/contact/",
+      "text": "Contact Us"
+    },
+    {
+      "url": "https://www.woodus.com/den/games/dwm1gbc/monsters.php#top",
+      "text": ""
+    }
+  ],
+  "note": "Unverified page inventory; not normalized monster records."
+}
