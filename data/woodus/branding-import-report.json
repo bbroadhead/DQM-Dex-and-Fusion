@@ -1,0 +1,273 @@
+{
+  "discovered": [
+    {
+      "game": "dwm1gbc",
+      "kind": "logo",
+      "url": "https://www.woodus.com/den/graphics/denlogo.webp",
+      "label": "Dragon's Den Logo"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "logo",
+      "url": "https://www.woodus.com/den/games/dwm1gbc/gfx/dwm1gbc-logo-400w.webp",
+      "label": "Dragon Warrior Monsters - Game Boy Color Logo"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "logo",
+      "url": "https://www.woodus.com/den/graphics/denlogo.webp",
+      "label": "Dragon's Den Logo"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:beast",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/anteater.png",
+      "label": "Beast Family"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:devil",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/demonite.png",
+      "label": "Devil Family"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:bird",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_raven.png",
+      "label": "Bird Family"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:bug",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/droll.png",
+      "label": "Bug Family"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:plant",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_seed.png",
+      "label": "Plant Family"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:slime",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spot_slime.png",
+      "label": "Slime Family"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:zombie",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/putrepup.png",
+      "label": "Zombie Family"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:dragon",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dragon_kid.png",
+      "label": "Dragon Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "logo",
+      "url": "https://www.woodus.com/den/graphics/denlogo.webp",
+      "label": "Dragon's Den Logo"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "logo",
+      "url": "https://www.woodus.com/den/games/dwm2gbc/gfx/dwm2gbc-logo-400w.webp",
+      "label": "Dragon Warrior Monsters 2 - Game Boy Color Logo"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "logo",
+      "url": "https://www.woodus.com/den/graphics/denlogo.webp",
+      "label": "Dragon's Den Logo"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:boss",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/hargon.png",
+      "label": "Boss Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:beast",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/wildape.png",
+      "label": "Beast Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:devil",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/demonite.png",
+      "label": "Devil Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:bird",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/florajay.png",
+      "label": "Bird Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:bug",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/droll.png",
+      "label": "Bug Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:plant",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/gulpple.png",
+      "label": "Plant Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:slime",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/goldslime.png",
+      "label": "Slime Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:zombie",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/putrepup.png",
+      "label": "Zombie Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:dragon",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/dragon.png",
+      "label": "Dragon Family"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:dragon",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/rushfish.png",
+      "label": "Dragon Family"
+    }
+  ],
+  "imported": [
+    {
+      "game": "dwm1gbc",
+      "kind": "logo",
+      "path": "assets/branding/dwm1gbc/logo.webp",
+      "source": "https://www.woodus.com/den/graphics/denlogo.webp"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "logo",
+      "path": "assets/branding/dwm2gbc/logo.webp",
+      "source": "https://www.woodus.com/den/graphics/denlogo.webp"
+    }
+  ],
+  "skipped": [],
+  "errors": [
+    {
+      "game": "dwm1gbc",
+      "kind": "family:beast",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/anteater.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:devil",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/demonite.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:bird",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/mad_raven.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:bug",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/droll.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:plant",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/evil_seed.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:slime",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/spot_slime.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:zombie",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/putrepup.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm1gbc",
+      "kind": "family:dragon",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm1gbc/monster/dragon_kid.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:boss",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/hargon.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:beast",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/wildape.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:devil",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/demonite.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:bird",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/florajay.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:bug",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/droll.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:plant",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/gulpple.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:slime",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/goldslime.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:zombie",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/putrepup.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:dragon",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/dragon.png",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "game": "dwm2gbc",
+      "kind": "family:dragon",
+      "url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/rushfish.png",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}
