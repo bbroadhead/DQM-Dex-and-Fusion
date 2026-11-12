@@ -1,7 +1,7 @@
 {
   "game": "dwm2gbc",
   "total": 315,
-  "downloaded_total": 250,
+  "downloaded_total": 300,
   "new_downloads": 50,
   "failures": [],
   "images": {
@@ -1004,6 +1004,206 @@
     "dwm2gbc:scallopa": {
       "local_path": "assets/monsters/dwm2gbc/scallopa.webp",
       "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/scallopa.webp"
+    },
+    "dwm2gbc:seahorse": {
+      "local_path": "assets/monsters/dwm2gbc/seahorse.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/seahorse.webp"
+    },
+    "dwm2gbc:serpentia": {
+      "local_path": "assets/monsters/dwm2gbc/serpentia.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/serpentia.webp"
+    },
+    "dwm2gbc:servant": {
+      "local_path": "assets/monsters/dwm2gbc/servant.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/servant.webp"
+    },
+    "dwm2gbc:shadow": {
+      "local_path": "assets/monsters/dwm2gbc/shadow.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/shadow.webp"
+    },
+    "dwm2gbc:shantak": {
+      "local_path": "assets/monsters/dwm2gbc/shantak.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/shantak.webp"
+    },
+    "dwm2gbc:sickler": {
+      "local_path": "assets/monsters/dwm2gbc/sickler.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/sickler.webp"
+    },
+    "dwm2gbc:sidoh": {
+      "local_path": "assets/monsters/dwm2gbc/sidoh.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/sidoh.webp"
+    },
+    "dwm2gbc:skeletor": {
+      "local_path": "assets/monsters/dwm2gbc/skeletor.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/skeletor.webp"
+    },
+    "dwm2gbc:skularach": {
+      "local_path": "assets/monsters/dwm2gbc/skularach.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/skularach.webp"
+    },
+    "dwm2gbc:skullgon": {
+      "local_path": "assets/monsters/dwm2gbc/skullgon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/skullgon.webp"
+    },
+    "dwm2gbc:skullroo": {
+      "local_path": "assets/monsters/dwm2gbc/skullroo.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/skullroo.webp"
+    },
+    "dwm2gbc:skulpent": {
+      "local_path": "assets/monsters/dwm2gbc/skulpent.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/skulpent.webp"
+    },
+    "dwm2gbc:skulrider": {
+      "local_path": "assets/monsters/dwm2gbc/skulrider.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/skulrider.webp"
+    },
+    "dwm2gbc:skydragon": {
+      "local_path": "assets/monsters/dwm2gbc/skydragon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/skydragon.webp"
+    },
+    "dwm2gbc:slabbit": {
+      "local_path": "assets/monsters/dwm2gbc/slabbit.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/slabbit.webp"
+    },
+    "dwm2gbc:slime": {
+      "local_path": "assets/monsters/dwm2gbc/slime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/slime.webp"
+    },
+    "dwm2gbc:slimeborg": {
+      "local_path": "assets/monsters/dwm2gbc/slimeborg.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/slimeborg.webp"
+    },
+    "dwm2gbc:slimenite": {
+      "local_path": "assets/monsters/dwm2gbc/slimenite.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/slimenite.webp"
+    },
+    "dwm2gbc:slurperon": {
+      "local_path": "assets/monsters/dwm2gbc/slurperon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/slurperon.webp"
+    },
+    "dwm2gbc:snaily": {
+      "local_path": "assets/monsters/dwm2gbc/snaily.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/snaily.webp"
+    },
+    "dwm2gbc:snakebat": {
+      "local_path": "assets/monsters/dwm2gbc/snakebat.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/snakebat.webp"
+    },
+    "dwm2gbc:snapper": {
+      "local_path": "assets/monsters/dwm2gbc/snapper.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/snapper.webp"
+    },
+    "dwm2gbc:spikerous": {
+      "local_path": "assets/monsters/dwm2gbc/spikerous.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/spikerous.webp"
+    },
+    "dwm2gbc:spikyboy": {
+      "local_path": "assets/monsters/dwm2gbc/spikyboy.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/spikyboy.webp"
+    },
+    "dwm2gbc:spooky": {
+      "local_path": "assets/monsters/dwm2gbc/spooky.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/spooky.webp"
+    },
+    "dwm2gbc:spotking": {
+      "local_path": "assets/monsters/dwm2gbc/spotking.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/spotking.webp"
+    },
+    "dwm2gbc:spotslime": {
+      "local_path": "assets/monsters/dwm2gbc/spotslime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/spotslime.webp"
+    },
+    "dwm2gbc:stagbug": {
+      "local_path": "assets/monsters/dwm2gbc/stagbug.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/stagbug.webp"
+    },
+    "dwm2gbc:starfish": {
+      "local_path": "assets/monsters/dwm2gbc/starfish.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/starfish.webp"
+    },
+    "dwm2gbc:stoneman": {
+      "local_path": "assets/monsters/dwm2gbc/stoneman.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/stoneman.webp"
+    },
+    "dwm2gbc:stubbird": {
+      "local_path": "assets/monsters/dwm2gbc/stubbird.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/stubbird.webp"
+    },
+    "dwm2gbc:stubsuck": {
+      "local_path": "assets/monsters/dwm2gbc/stubsuck.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/stubsuck.webp"
+    },
+    "dwm2gbc:superten": {
+      "local_path": "assets/monsters/dwm2gbc/superten.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/superten.webp"
+    },
+    "dwm2gbc:swordgon": {
+      "local_path": "assets/monsters/dwm2gbc/swordgon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/swordgon.webp"
+    },
+    "dwm2gbc:taileater": {
+      "local_path": "assets/monsters/dwm2gbc/taileater.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/taileater.webp"
+    },
+    "dwm2gbc:titanis": {
+      "local_path": "assets/monsters/dwm2gbc/titanis.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/titanis.webp"
+    },
+    "dwm2gbc:toadstool": {
+      "local_path": "assets/monsters/dwm2gbc/toadstool.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/toadstool.webp"
+    },
+    "dwm2gbc:tonguella": {
+      "local_path": "assets/monsters/dwm2gbc/tonguella.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/tonguella.webp"
+    },
+    "dwm2gbc:tortragon": {
+      "local_path": "assets/monsters/dwm2gbc/tortragon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/tortragon.webp"
+    },
+    "dwm2gbc:treeboy": {
+      "local_path": "assets/monsters/dwm2gbc/treeboy.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/treeboy.webp"
+    },
+    "dwm2gbc:treeslime": {
+      "local_path": "assets/monsters/dwm2gbc/treeslime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/treeslime.webp"
+    },
+    "dwm2gbc:tropicgel": {
+      "local_path": "assets/monsters/dwm2gbc/tropicgel.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/tropicgel.webp"
+    },
+    "dwm2gbc:trumpeter": {
+      "local_path": "assets/monsters/dwm2gbc/trumpeter.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/trumpeter.webp"
+    },
+    "dwm2gbc:unicorn": {
+      "local_path": "assets/monsters/dwm2gbc/unicorn.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/unicorn.webp"
+    },
+    "dwm2gbc:vampirus": {
+      "local_path": "assets/monsters/dwm2gbc/vampirus.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/vampirus.webp"
+    },
+    "dwm2gbc:voodoll": {
+      "local_path": "assets/monsters/dwm2gbc/voodoll.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/voodoll.webp"
+    },
+    "dwm2gbc:walrusman": {
+      "local_path": "assets/monsters/dwm2gbc/walrusman.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/walrusman.webp"
+    },
+    "dwm2gbc:warmantis": {
+      "local_path": "assets/monsters/dwm2gbc/warmantis.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/warmantis.webp"
+    },
+    "dwm2gbc:warubou": {
+      "local_path": "assets/monsters/dwm2gbc/warubou.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/warubou.webp"
+    },
+    "dwm2gbc:watabou": {
+      "local_path": "assets/monsters/dwm2gbc/watabou.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dwm2gbc/monster/watabou.webp"
     }
   },
   "note": "Private research assets only; verify rights before redistribution."
