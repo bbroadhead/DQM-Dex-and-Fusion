@@ -38,13 +38,15 @@ jobs:
         run: python scripts/woodus_detail_links.py --game "${{ inputs.game }}"
       - name: Sample monster detail page structure
         run: python scripts/woodus_detail_sample.py --game "${{ inputs.game }}"
+      - name: Import a small batch of monster details
+        run: python scripts/woodus_detail_batch.py --game "${{ inputs.game }}" --batch-size 5
       - name: Extract breeding table candidates
         run: python scripts/woodus_breeding.py --game "${{ inputs.game }}"
       - name: Commit inventory and monster manifests
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f data/woodus/*-inventory.json data/woodus/*-monsters.json data/woodus/*-breeding-candidates.json data/woodus/*-detail-sample.json
+          git add -f data/woodus/*-inventory.json data/woodus/*-monsters.json data/woodus/*-breeding-candidates.json data/woodus/*-detail-sample.json data/woodus/*-details.json
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
