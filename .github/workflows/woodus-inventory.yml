@@ -12,7 +12,7 @@ on:
           - dwm1gbc
           - dwm2gbc
       batch_size:
-        description: "New monster detail pages per selected game (1-10)"
+        description: "New monster detail pages per selected game"
         required: true
         default: '5'
         type: choice
@@ -20,6 +20,7 @@ on:
           - '5'
           - '10'
           - '1'
+          - '530'
 
 permissions:
   contents: write
@@ -31,7 +32,7 @@ concurrency:
 jobs:
   inventory:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
         with:
@@ -49,17 +50,20 @@ jobs:
         run: python scripts/woodus_detail_links.py --game "${{ inputs.game }}"
       - name: Sample monster detail page structure
         run: python scripts/woodus_detail_sample.py --game "${{ inputs.game }}"
-      - name: Import a small batch of monster details
+      - name: Import monster details
         run: python scripts/woodus_detail_batch.py --game "${{ inputs.game }}" --batch-size "${{ inputs.batch_size }}"
       - name: Validate imported monster details
+        if: always()
         run: python scripts/woodus_validate.py --game "${{ inputs.game }}"
       - name: Extract breeding table candidates
+        if: success()
         run: python scripts/woodus_breeding.py --game "${{ inputs.game }}"
       - name: Commit inventory and monster manifests
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f data/woodus/*-inventory.json data/woodus/*-monsters.json data/woodus/*-breeding-candidates.json data/woodus/*-detail-sample.json data/woodus/*-details.json
+          git add -f data/woodus/*-inventory.json data/woodus/*-monsters.json data/woodus/*-breeding-candidates.json data/woodus/*-detail-sample.json data/woodus/*-details.json data/woodus/*-import-report.json
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
