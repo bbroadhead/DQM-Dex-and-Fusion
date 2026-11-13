@@ -33,6 +33,15 @@ h1,h2,h3,strong{font-weight:700}button,input,select{font-size:1rem}
 .tree-leaf-note{color:#b7c6dc;font-size:.8rem;text-align:center;max-width:190px}
 .tree-scroll{overscroll-behavior-x:contain}.lineage-root{width:max-content;min-width:100%;padding:8px 14px}.lineage{width:max-content;max-width:none}.lineage-parents{grid-template-columns:repeat(2,max-content);justify-content:center}.lineage-parent{width:max-content;max-width:none}.tree-route-label{min-width:150px;max-width:230px}
 @media(max-width:600px){.site-header{margin:10px 12px 18px;padding:22px 10px 18px}.site-header h1{gap:7px;font-size:clamp(1.5rem,7vw,2.5rem)}.header-eyebrow{letter-spacing:.12em}.lineage-root{min-width:100%;padding:8px}.lineage-parents{gap:12px}}
+/* Equal top-aligned logo frames across every game selector */
+.games{align-items:stretch}
+.game{justify-content:flex-start;align-items:stretch;padding:10px 8px 12px;gap:0;min-height:150px}
+.game-artwork{display:flex;align-items:flex-start;justify-content:center;width:100%;height:98px;flex:0 0 98px;min-width:0}
+.game-artwork .game-logo{display:block;width:100%;height:94px;max-width:100%;margin:0;object-fit:contain;object-position:center top}
+.game-artwork strong{display:flex;align-items:center;justify-content:center;min-height:88px;text-align:center;line-height:1.15;padding:4px}
+.game small{display:block;width:100%;text-align:center;margin-top:5px}
+.game small+small{margin-top:3px}
+@media(max-width:600px){.game{min-height:137px;padding:8px 5px 10px}.game-artwork{height:84px;flex-basis:84px}.game-artwork .game-logo{height:82px}.game-artwork strong{min-height:78px}}
 </style></head><body>
 <header class="site-header"><div class="header-eyebrow">DRAGON QUEST MONSTERS</div><h1><span>ROSTER</span><span class="header-amp">&</span><span>FUSION</span></h1><div class="header-rule" aria-hidden="true"><i></i><b>◆</b><i></i></div></header>
 <main><nav class="games" id="games" aria-label="Select game"></nav><nav class="tabs" aria-label="Tools"><button data-tab="roster" aria-selected="true">Roster</button><button data-tab="fusion" aria-selected="false">Fusion</button></nav><section class="panel" id="panel" aria-live="polite"></section></main>
@@ -58,7 +67,7 @@ function imageMarkup(src,cls,alt){return src?'<img class="'+cls+'" src="'+escape
 function familyIcon(family){const key=String(family||"").toLowerCase();const path=branding.families?.[importedGames[selected]]?.[key];return imageMarkup(path,"family-icon",family+" family")}
 const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function game(){return games.find(g=>g.id===selected)}
-function render(){document.body.dataset.theme=selected;document.querySelector("#games").innerHTML=games.map(g=>'<button class="game" data-game="'+g.id+'" aria-pressed="'+(g.id===selected)+'">'+(branding.games?.[g.id]?imageMarkup(branding.games[g.id],"game-logo",g.name+" logo"):'<strong>'+escapeHTML(g.name)+'</strong>')+(g.subtitle?'<small>'+escapeHTML(g.subtitle)+'</small>':'')+'<small>'+g.year+' · '+g.platform+'</small></button>').join("");document.querySelectorAll("[data-tab]").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===tab)));renderPanel()}
+function render(){document.body.dataset.theme=selected;document.querySelector("#games").innerHTML=games.map(g=>'<button class="game" data-game="'+g.id+'" aria-pressed="'+(g.id===selected)+'">'+'<span class="game-artwork">'+(branding.games?.[g.id]?imageMarkup(branding.games[g.id],"game-logo",g.name+" logo"):'<strong>'+escapeHTML(g.name)+'</strong>')+'</span>'+(g.subtitle?'<small>'+escapeHTML(g.subtitle)+'</small>':'')+'<small>'+g.year+' · '+g.platform+'</small></button>').join("");document.querySelectorAll("[data-tab]").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===tab)));renderPanel()}
 function modeSelector(){return game().modes?'<label for="mode">Collection game</label><select id="mode">'+game().modes.map(m=>'<option value="'+m+'" '+(mode===m?'selected':'')+'>'+m+'</option>').join("")+'</select>':''}
 function activeMonsters(){return monsters.filter(m=>!game().modes||!m.mode||m.mode===mode)}
 function activeRecipes(){return recipes.filter(r=>!game().modes||!r.mode||r.mode===mode)}
