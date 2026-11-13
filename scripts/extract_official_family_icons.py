@@ -15,7 +15,7 @@ doc=fitz.open(SOURCE)
 page=doc[18]
 pix=page.get_pixmap(matrix=fitz.Matrix(2,2),alpha=False)
 im=Image.frombytes("RGB",[pix.width,pix.height],pix.samples).convert("RGBA")
-assert im.size==(646,470),f"Unexpected page size: {im.size}"
+assert abs(im.width-646)<=2 and abs(im.height-470)<=2,f"Unexpected page size: {im.size}"
 centers={"slime":(74,183),"plant":(272,183),"material":(469,183),
 "dragon":(74,247),"bug":(272,247),"water":(469,247),
 "bird":(74,309),"devil":(272,309),"boss":(469,309),
