@@ -1,88 +1,109 @@
 #!/usr/bin/env python3
-"""Import authentic game-logo images from the Dragon Quest Wiki series gallery.
+"""Import actual game title logos (not covers or box art) from Dragon Quest Wiki.
 
-Only accepts gallery items with an exact title caption. Never substitutes box art
-or generic series graphics. Leaves missing logos untouched and reports them.
+DWM1 and DWM2 are intentionally untouched. For other games, only MediaWiki
+files with 'logo' in the filename and game-specific matching tokens qualify.
+When no matching logo can be established, retain the text title instead.
 """
 import json
 import re
-from pathlib import Path
-from urllib.parse import urljoin
-import requests
-from bs4 import BeautifulSoup
-from PIL import Image
 from io import BytesIO
+from pathlib import Path
+import requests
+from PIL import Image
 
-PAGE = "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)"
-TARGETS = {
-    "dqm12": ["Dragon Quest Monsters 1+2", "Dragon Quest Monsters 1·2"],
-    "caravan": ["Dragon Quest Monsters: Caravan Heart"],
-    "joker": ["Dragon Quest Monsters: Joker"],
-    "joker2": ["Dragon Quest Monsters: Joker 2"],
-    "joker2pro": ["Dragon Quest Monsters: Joker 2 Professional"],
-    "terry3d": ["Dragon Quest Monsters: Terry's Wonderland 3D"],
-    "dqm2-3d": ["Dragon Quest Monsters 2: Iru and Luca’s Marvelous Mysterious Key", "Dragon Quest Monsters 2: Iru and Luca's Marvelous Mysterious Key"],
-    "joker3": ["Dragon Quest Monsters: Joker 3"],
-    "joker3pro": ["Dragon Quest Monsters: Joker 3 Professional"],
-    "darkprince": ["Dragon Quest Monsters: The Dark Prince"],
+API = "https://dragon-quest.org/w/api.php"
+SEARCHES = {
+    "dqm12": (["DQM 1 2 logo", "Dragon Quest Monsters 1 2 logo"], [["dqm", "1", "2"], ["monsters", "1", "2"]]),
+    "caravan": (["DQMCH logo", "Caravan Heart logo"], [["dqmch"], ["caravan", "heart"]]),
+    "joker": (["DQMJ logo", "Dragon Quest Monsters Joker logo"], [["dqmj"], ["monsters", "joker"]]),
+    "joker2": (["DQMJ2 logo", "Dragon Quest Monsters Joker 2 logo"], [["dqmj2"], ["joker", "2"]]),
+    "joker2pro": (["DQMJ2 Pro logo", "Joker 2 Professional logo"], [["dqmj2", "pro"], ["joker", "2", "professional"]]),
+    "terry3d": (["Terry Wonderland 3D logo", "DQM Terry 3D logo"], [["terry", "3d"], ["wonderland", "3d"]]),
+    "dqm2-3d": (["DQM2 3DS logo", "Iru Luca logo"], [["dqm2", "3ds"], ["iru", "luca"]]),
+    "joker3": (["DQMJ3 logo", "Dragon Quest Monsters Joker 3 logo"], [["dqmj3"], ["joker", "3"]]),
+    "joker3pro": (["DQMJ3 Pro Logo", "Joker 3 Professional logo"], [["dqmj3", "pro"], ["joker", "3", "professional"]]),
+    "darkprince": (["DQM3 Logo", "Dark Prince logo"], [["dqm3"], ["dark", "prince"]]),
+    "witheredworld": (["The Withered World logo", "DQM The Withered World logo"], [["withered", "world"]]),
 }
-def normalize(s):
-    return re.sub(r"\s+", " ", s.replace("’", "'").replace("·", "+")).strip().casefold()
-
+EXACT_FILES = {
+    "joker3": "File:DQMJ3 Logo.png",
+    "joker3pro": "File:DQMJ3 Pro Logo.png",
+    "darkprince": "File:DQM3 Logo.png",
+}
+BAD = ("box", "cover", "japan", "pack", "case", "artwork", "poster", "banner", "screenshot", "wallpaper")
+def words(s):
+    return re.findall(r"[a-z0-9]+", s.lower())
+def valid(key, title):
+    stem = title.removeprefix("File:").rsplit(".", 1)[0].lower()
+    tokens = words(stem)
+    if "logo" not in tokens or any(x in tokens for x in BAD):
+        return False
+    # Do not mix Professional and standard editions, or Joker sequel numbers.
+    if key in ("joker", "joker2", "joker3") and any(x in tokens for x in ("pro", "professional")):
+        return False
+    if key == "joker" and any(x in tokens for x in ("2", "3")):
+        return False
+    if key == "joker2" and "3" in tokens:
+        return False
+    if key == "joker3" and "2" in tokens:
+        return False
+    return any(all(part in stem for part in option) for option in SEARCHES[key][1])
+def api(session, params):
+    r = session.get(API, params={"format":"json", **params}, timeout=40)
+    r.raise_for_status()
+    data = r.json()
+    if "error" in data: raise ValueError(data["error"])
+    return data
+def candidates(session, key):
+    results = []
+    if key in EXACT_FILES: results.append(EXACT_FILES[key])
+    for phrase in SEARCHES[key][0]:
+        data = api(session, {"action":"query","list":"search","srnamespace":6,"srsearch":phrase,"srlimit":40})
+        results.extend(x["title"] for x in data.get("query",{}).get("search",[]))
+    return list(dict.fromkeys(t for t in results if valid(key,t)))
 def main():
-    session = requests.Session()
-    session.headers.update({"User-Agent": "DQM-Roster-LogoImporter/1.0 (GitHub Actions; image provenance: Dragon Quest Wiki)"})
-    response = session.get(PAGE, timeout=40)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
-    galleries = []
-    for item in soup.select("li.gallerybox, div.gallerybox"):
-        caption = item.select_one(".gallerytext")
-        img = item.select_one("img")
-        if caption and img:
-            title = caption.get_text(" ", strip=True)
-            galleries.append((normalize(title), img))
-    print("Gallery items:", len(galleries))
-    manifest_path = Path("assets/branding/manifest.json")
-    manifest = json.loads(manifest_path.read_text())
-    provenance = manifest.setdefault("game_logo_sources", {})
-    success, missing = [], []
-    for key, titles in TARGETS.items():
-        matches = [(title, img) for title, img in galleries if title in {normalize(t) for t in titles}]
-        if len(matches) != 1:
-            print("SKIP", key, "matching gallery captions:", len(matches))
-            missing.append(key)
-            continue
-        title, img = matches[0]
-        src = img.get("src") or img.get("data-src")
-        if not src:
-            missing.append(key)
-            continue
-        url = urljoin(PAGE, src)
+    session=requests.Session()
+    session.headers.update({"User-Agent":"DQM-Roster-LogoImporter/2.0 (GitHub Actions; sourcing game logo art)"})
+    path=Path("assets/branding/manifest.json")
+    manifest=json.loads(path.read_text())
+    sources=manifest.setdefault("game_logo_sources",{})
+    imported=[];missing=[]
+    for key in SEARCHES:
         try:
-            res = session.get(url, timeout=45)
-            res.raise_for_status()
-            picture = Image.open(BytesIO(res.content))
-            picture.load()
-            if picture.width < 90 or picture.height < 25:
-                raise ValueError("Image is unexpectedly small")
-            if picture.width / picture.height > 12:
-                raise ValueError("Image aspect ratio implausible")
-            output = Path("assets/branding") / key / "logo.webp"
-            output.parent.mkdir(parents=True, exist_ok=True)
-            picture.convert("RGBA").save(output, "WEBP", quality=95, method=6)
-            manifest["games"][key] = str(output)
-            provenance[key] = {"gallery": PAGE, "caption": title, "image_url": url}
-            success.append(key)
-            print("IMPORTED", key, picture.size, url)
+            found=candidates(session,key)
+            if len(found)!=1:
+                # Exact known logo file wins over ambiguous search results.
+                exact=EXACT_FILES.get(key)
+                if exact in found: found=[exact]
+            if len(found)!=1:
+                print("SKIP",key,"ambiguous or missing actual logo files:",found)
+                missing.append(key);continue
+            title=found[0]
+            data=api(session,{"action":"query","prop":"imageinfo","iiprop":"url|mime|size","titles":title})
+            pages=list(data["query"]["pages"].values())
+            info=pages[0].get("imageinfo",[])
+            if not info: raise ValueError("No image info")
+            item=info[0]
+            if not item["mime"].startswith("image/"): raise ValueError("Not an image")
+            image_response=session.get(item["url"],timeout=50)
+            image_response.raise_for_status()
+            pic=Image.open(BytesIO(image_response.content))
+            pic.load()
+            if pic.width<90 or pic.height<25: raise ValueError("Too small")
+            output=Path("assets/branding")/key/"logo.webp"
+            output.parent.mkdir(parents=True,exist_ok=True)
+            pic.convert("RGBA").save(output,"WEBP",quality=95,method=6)
+            manifest["games"][key]=str(output)
+            sources[key]={"file":title,"image_url":item["url"],"source":"Dragon Quest Wiki: title logo image"}
+            imported.append(key)
+            print("IMPORTED",key,title,pic.size)
         except Exception as exc:
+            print("FAILED",key,str(exc))
             missing.append(key)
-            print("FAILED", key, str(exc))
-    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
-    print("Imported:", success)
-    print("Missing:", missing)
-    if not success:
-        raise SystemExit("No logos imported; check wiki gallery markup/network and captions")
-
-if __name__ == "__main__":
+    path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n")
+    print("Imported:",imported)
+    print("Missing (will display text titles):",missing)
+    if not imported: raise SystemExit("No logos found; verify API accessibility or search terms")
+if __name__=="__main__":
     main()
