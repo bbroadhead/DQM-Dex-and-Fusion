@@ -1,0 +1,37 @@
+name: Import breeding chart rows for review
+on:
+  workflow_dispatch:
+    inputs:
+      game:
+        type: choice
+        default: all
+        options:
+          - all
+          - dwm1gbc
+          - dwm2gbc
+permissions:
+  contents: write
+concurrency:
+  group: woodus-breeding-rows
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import reviewable chart rows
+        run: python scripts/woodus_breeding_rows.py --game "${{ inputs.game }}"
+      - name: Commit report
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data/woodus/*-breeding-rows.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Import reviewable breeding chart rows"
+            git push origin HEAD:main
+          fi
