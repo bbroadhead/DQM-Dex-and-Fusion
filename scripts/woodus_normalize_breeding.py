@@ -18,12 +18,11 @@ def main():
   path=Path(f"data/woodus/{game}-breeding-rows.json")
   raw=json.loads(path.read_text())
   manifest=json.loads(Path(f"data/woodus/{game}-monsters.json").read_text())
-  supplemental_path=Path(f"data/woodus/{game}-supplemental-monsters.json")
-  supplemental=json.loads(supplemental_path.read_text())["monsters"] if supplemental_path.exists() else []
   lookup={}
-  for m in manifest["monsters"]+supplemental:
+  for m in manifest["monsters"]:
    lookup.setdefault(key(m["name"]),[]).append(m)
   rows=[];unresolved=[];fully_resolved=0;alternatives=0;unavailable=0
+  invalid_offspring={"deathmore4","deathmore5","deathmore6","deathmore7","dracolord3","mirudraas3","orgodemir3"} if game=="dwm2gbc" else set()
   for index,row in enumerate(raw["rows"]):
    entry={k:row[k] for k in ("family","source","raw_cells")}
    entry["source_row_index"]=index
@@ -59,7 +58,10 @@ def main():
    if all(v["kind"] in ("monster","family") for v in fields):fully_resolved+=1
    if any(v["kind"] in ("unresolved","unavailable") or (v["kind"]=="alternatives" and any(not x["id"] for x in v["options"])) for v in fields):
     unresolved.append({"index":index,"offspring":entry["offspring"],"parent1":entry["parent1"],"parent2":entry["parent2"]})
-   if any(v["kind"]=="unavailable" for v in fields):
+   if key(row["offspring"]["label"]) in invalid_offspring:
+    entry["breeding_available"]=False
+    entry["exclusion_reason"]="Offspring name not present in the game roster; source breeding chart inconsistency"
+   elif any(v["kind"]=="unavailable" for v in fields):
     entry["breeding_available"]=False
     unavailable+=1
    else:entry["breeding_available"]=True
