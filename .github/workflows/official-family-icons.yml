@@ -1,0 +1,30 @@
+name: Extract official family icons from DWM2 manual
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: official-family-icons
+  cancel-in-progress: false
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install PDF image extraction tools
+        run: python -m pip install --disable-pip-version-check pymupdf pillow
+      - name: Download source manual
+        run: |
+          curl --fail --location --retry 2 --silent --show-error --output /tmp/dwm2-manual.pdf 'https://www.woodus.com/den/gallery/graphics/dwm2gbc/manual/dwm2gbc_cobi_manual.pdf'
+      - name: Extract verified official symbols
+        run: python scripts/extract_official_family_icons.py /tmp/dwm2-manual.pdf
+      - name: Commit separate family icons and mappings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f assets/branding/families/official/ assets/branding/manifest.json
+          git diff --cached --quiet || (git commit -m "Use official DWM2 manual family symbols" && git push origin HEAD:main)
