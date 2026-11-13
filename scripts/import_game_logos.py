@@ -27,8 +27,6 @@ SEARCHES = {
     "witheredworld": (["The Withered World logo", "DQM The Withered World logo"], [["withered", "world"]]),
 }
 EXACT_FILES = {
-    "joker3": "File:DQMJ3 Logo.png",
-    "joker3pro": "File:DQMJ3 Pro Logo.png",
     "darkprince": "File:DQM3 Logo.png",
 }
 BAD = ("box", "cover", "japan", "pack", "case", "artwork", "poster", "banner", "screenshot", "wallpaper")
@@ -70,6 +68,10 @@ def main():
     sources=manifest.setdefault("game_logo_sources",{})
     imported=[];missing=[]
     for key in SEARCHES:
+        if key in ("joker3", "joker3pro"):
+            print("SKIP", key, "prior source visually confirmed to contain box art; awaiting vetted clean logo")
+            missing.append(key)
+            continue
         try:
             found=candidates(session,key)
             if len(found)!=1:
@@ -91,6 +93,7 @@ def main():
             pic=Image.open(BytesIO(image_response.content))
             pic.load()
             if pic.width<90 or pic.height<25: raise ValueError("Too small")
+            if pic.width / pic.height < 1.35: raise ValueError("Likely portrait box art, not a horizontal logo")
             output=Path("assets/branding")/key/"logo.webp"
             output.parent.mkdir(parents=True,exist_ok=True)
             pic.convert("RGBA").save(output,"WEBP",quality=95,method=6)
