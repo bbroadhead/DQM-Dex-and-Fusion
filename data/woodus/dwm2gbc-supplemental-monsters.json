@@ -1,0 +1,77 @@
+{
+  "game": "dwm2gbc",
+  "record_type": "supplemental_monster_entries",
+  "note": "Distinct boss names listed as offspring in the Woodus breeding chart but absent from its monster-detail listing. No stats, images or book numbers have been invented.",
+  "monsters": [
+    {
+      "id": "dwm2gbc:deathmore4",
+      "name": "Deathmore4",
+      "family": "Boss",
+      "source": "https://www.woodus.com/den/games/dwm2gbc/breeding-details.php?fam=boss",
+      "source_type": "breeding_chart",
+      "details_status": "not_imported",
+      "image": "",
+      "number": null
+    },
+    {
+      "id": "dwm2gbc:deathmore5",
+      "name": "Deathmore5",
+      "family": "Boss",
+      "source": "https://www.woodus.com/den/games/dwm2gbc/breeding-details.php?fam=boss",
+      "source_type": "breeding_chart",
+      "details_status": "not_imported",
+      "image": "",
+      "number": null
+    },
+    {
+      "id": "dwm2gbc:deathmore6",
+      "name": "Deathmore6",
+      "family": "Boss",
+      "source": "https://www.woodus.com/den/games/dwm2gbc/breeding-details.php?fam=boss",
+      "source_type": "breeding_chart",
+      "details_status": "not_imported",
+      "image": "",
+      "number": null
+    },
+    {
+      "id": "dwm2gbc:deathmore7",
+      "name": "Deathmore7",
+      "family": "Boss",
+      "source": "https://www.woodus.com/den/games/dwm2gbc/breeding-details.php?fam=boss",
+      "source_type": "breeding_chart",
+      "details_status": "not_imported",
+      "image": "",
+      "number": null
+    },
+    {
+      "id": "dwm2gbc:dracolord3",
+      "name": "Dracolord3",
+      "family": "Boss",
+      "source": "https://www.woodus.com/den/games/dwm2gbc/breeding-details.php?fam=boss",
+      "source_type": "breeding_chart",
+      "details_status": "not_imported",
+      "image": "",
+      "number": null
+    },
+    {
+      "id": "dwm2gbc:mirudraas3",
+      "name": "Mirudraas3",
+      "family": "Boss",
+      "source": "https://www.woodus.com/den/games/dwm2gbc/breeding-details.php?fam=boss",
+      "source_type": "breeding_chart",
+      "details_status": "not_imported",
+      "image": "",
+      "number": null
+    },
+    {
+      "id": "dwm2gbc:orgodemir3",
+      "name": "Orgodemir3",
+      "family": "Boss",
+      "source": "https://www.woodus.com/den/games/dwm2gbc/breeding-details.php?fam=boss",
+      "source_type": "breeding_chart",
+      "details_status": "not_imported",
+      "image": "",
+      "number": null
+    }
+  ]
+}
