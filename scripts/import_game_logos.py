@@ -10,7 +10,9 @@ import re
 from io import BytesIO
 from pathlib import Path
 import requests
-from PIL import Image\nfrom bs4 import BeautifulSoup\nfrom urllib.parse import urljoin
+from PIL import Image
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
 API = "https://dragon-quest.org/w/api.php"
 SEARCHES = {
@@ -112,7 +114,8 @@ def main():
             missing.append(key)
             continue
         try:
-            direct=woodus_logo(session,key)\n            found=[] if direct else candidates(session,key)
+            direct=woodus_logo(session,key)
+            found=[] if direct else candidates(session,key)
             if len(found)!=1:
                 # Exact known logo file wins over ambiguous search results.
                 exact=EXACT_FILES.get(key)
