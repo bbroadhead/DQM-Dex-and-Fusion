@@ -1,16 +1,7 @@
 {
   "games": {
     "dwm": "assets/branding/dwm1gbc/logo.webp",
-    "dwm2": "assets/branding/dwm2gbc/logo.webp",
-    "dqm12": "assets/branding/dqm12/logo.webp",
-    "caravan": "assets/branding/caravan/logo.webp",
-    "joker": "assets/branding/joker/logo.webp",
-    "joker2": "assets/branding/joker2/logo.webp",
-    "joker2pro": "assets/branding/joker2pro/logo.webp",
-    "terry3d": "assets/branding/terry3d/logo.webp",
-    "dqm2-3d": "assets/branding/dqm2-3d/logo.webp",
-    "joker3": "assets/branding/joker3/logo.webp",
-    "joker3pro": "assets/branding/joker3pro/logo.webp"
+    "dwm2": "assets/branding/dwm2gbc/logo.webp"
   },
   "families": {
     "dwm1gbc": {
@@ -39,53 +30,7 @@
       "zombie": "assets/branding/families/official/zombie.png"
     }
   },
-  "note": "Original SVG family emblems are separate from all monster sprites. Third-party game logos and monster images retain their own source/rights considerations.",
+  "note": "DWM and DWM2 logos are preserved. Other game logos are imported only from verified logo-specific image files, never box art.",
   "family_icon_source": "Dragon Warrior Monsters 2: Cobi's Journey instruction booklet, printed page 17 (PDF page 19). Boss uses the manual's ??? family emblem.",
-  "game_logo_sources": {
-    "dqm12": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters 1+2",
-      "image_url": "https://dragon-quest.org/w/images/thumb/7/72/DQM_1_%26_2.png/120px-DQM_1_%26_2.png"
-    },
-    "caravan": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters: caravan heart",
-      "image_url": "https://dragon-quest.org/w/images/thumb/6/60/DQMCH.png/120px-DQMCH.png"
-    },
-    "joker": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters: joker",
-      "image_url": "https://dragon-quest.org/w/images/thumb/f/f2/DQMJ_Box.png/120px-DQMJ_Box.png"
-    },
-    "joker2": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters: joker 2",
-      "image_url": "https://dragon-quest.org/w/images/thumb/7/70/DQMJ2_Box.png/120px-DQMJ2_Box.png"
-    },
-    "joker2pro": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters: joker 2 professional",
-      "image_url": "https://dragon-quest.org/w/images/thumb/4/4f/DQMJ2PRO_Box.png/120px-DQMJ2PRO_Box.png"
-    },
-    "terry3d": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters: terry's wonderland 3d",
-      "image_url": "https://dragon-quest.org/w/images/thumb/6/69/Dragon_Quest_Monsters_-_Terry_no_Wonderland_3D.png/120px-Dragon_Quest_Monsters_-_Terry_no_Wonderland_3D.png"
-    },
-    "dqm2-3d": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters 2: iru and luca's marvelous mysterious key",
-      "image_url": "https://dragon-quest.org/w/images/thumb/0/03/DQM2_3DS_Box.png/120px-DQM2_3DS_Box.png"
-    },
-    "joker3": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters: joker 3",
-      "image_url": "https://dragon-quest.org/w/images/thumb/3/31/DQMJ3_Japan.png/120px-DQMJ3_Japan.png"
-    },
-    "joker3pro": {
-      "gallery": "https://dragon-quest.org/wiki/Dragon_Quest_Monsters_(series)",
-      "caption": "dragon quest monsters: joker 3 professional",
-      "image_url": "https://dragon-quest.org/w/images/thumb/d/d9/DQMJ3_Pro_Box.png/120px-DQMJ3_Pro_Box.png"
-    }
-  }
+  "game_logo_sources": {}
 }
