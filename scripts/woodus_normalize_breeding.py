@@ -35,7 +35,7 @@ def main():
     if label.lower() in EMPTY:
      entry[field]={"kind":"unavailable","label":label}
      continue
-    level_match=re.fullmatch(r"(.+?)\\s*\\+(\\d+)",label)
+    level_match=re.fullmatch(r"(.+?)\s*\+(\d+)",label)
     required_plus=int(level_match.group(2)) if level_match else None
     normalized_label=level_match.group(1) if level_match else label
     choices=[]
