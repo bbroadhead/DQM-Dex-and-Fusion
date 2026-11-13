@@ -18,10 +18,12 @@ def main():
   path=Path(f"data/woodus/{game}-breeding-rows.json")
   raw=json.loads(path.read_text())
   manifest=json.loads(Path(f"data/woodus/{game}-monsters.json").read_text())
+  supplemental_path=Path(f"data/woodus/{game}-supplemental-monsters.json")
+  supplemental=json.loads(supplemental_path.read_text())["monsters"] if supplemental_path.exists() else []
   lookup={}
-  for m in manifest["monsters"]:
+  for m in manifest["monsters"]+supplemental:
    lookup.setdefault(key(m["name"]),[]).append(m)
-  rows=[];unresolved=[];fully_resolved=0;alternatives=0
+  rows=[];unresolved=[];fully_resolved=0;alternatives=0;unavailable=0
   for index,row in enumerate(raw["rows"]):
    entry={k:row[k] for k in ("family","source","raw_cells")}
    entry["source_row_index"]=index
@@ -34,8 +36,11 @@ def main():
     if label.lower() in EMPTY:
      entry[field]={"kind":"unavailable","label":label}
      continue
+    level_match=re.fullmatch(r"(.+?)\\s*\\+(\\d+)",label)
+    required_plus=int(level_match.group(2)) if level_match else None
+    normalized_label=level_match.group(1) if level_match else label
     choices=[]
-    for term in re.split(r"\s*/\s*",label):
+    for term in re.split(r"\s*/\s*",normalized_label):
      target=ALIASES[game].get(term.lower(),term)
      found=lookup.get(key(target),[])
      if len(found)==1:
@@ -47,19 +52,24 @@ def main():
      alternatives+=1
     elif choices[0]["id"]:
      entry[field]={"kind":"monster","label":label,"id":choices[0]["id"]}
+     if required_plus is not None:entry[field]["minimum_plus"]=required_plus
     else:
      entry[field]={"kind":"unresolved","label":label}
    fields=[entry[f] for f in ("offspring","parent1","parent2")]
    if all(v["kind"] in ("monster","family") for v in fields):fully_resolved+=1
    if any(v["kind"] in ("unresolved","unavailable") or (v["kind"]=="alternatives" and any(not x["id"] for x in v["options"])) for v in fields):
     unresolved.append({"index":index,"offspring":entry["offspring"],"parent1":entry["parent1"],"parent2":entry["parent2"]})
+   if any(v["kind"]=="unavailable" for v in fields):
+    entry["breeding_available"]=False
+    unavailable+=1
+   else:entry["breeding_available"]=True
    rows.append(entry)
   output={"game":game,"verified":False,"record_type":"normalized_breeding_chart_rows",
     "warning":"Source transcription and name matching only; breeding mechanics, variants and priority not independently verified.",
-    "total_rows":len(rows),"simple_rows":fully_resolved,"alternative_fields":alternatives,
+    "total_rows":len(rows),"simple_rows":fully_resolved,"alternative_fields":alternatives,"unavailable_rows":unavailable,
     "unresolved_rows":len(unresolved),"unresolved_details":unresolved,
     "source_file":str(path),"rows":rows}
   out=Path(f"data/woodus/{game}-breeding-normalized.json")
   out.write_text(json.dumps(output,ensure_ascii=False,indent=2)+"\n")
-  print(game,"rows",len(rows),"simple",fully_resolved,"unresolved",len(unresolved),"alternatives",alternatives)
+  print(game,"rows",len(rows),"simple",fully_resolved,"unresolved",len(unresolved),"unavailable",unavailable,"alternatives",alternatives)
 if __name__=="__main__":main()
