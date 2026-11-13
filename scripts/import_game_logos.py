@@ -40,13 +40,13 @@ def valid(key, title):
     if "logo" not in tokens or any(x in tokens for x in BAD):
         return False
     # Do not mix Professional and standard editions, or Joker sequel numbers.
-    if key in ("joker", "joker2", "joker3") and any(x in tokens for x in ("pro", "professional")):
+    if key in ("joker", "joker2", "joker3") and (any(x in tokens for x in ("pro", "professional")) or any(x in stem for x in ("dqmj2pro","dqmj3pro"))):
         return False
-    if key == "joker" and any(x in tokens for x in ("2", "3")):
+    if key == "joker" and (any(x in tokens for x in ("2", "3")) or any("dqmj"+n in stem for n in ("2","3"))):
         return False
-    if key == "joker2" and "3" in tokens:
+    if key == "joker2" and ("3" in tokens or "dqmj3" in stem):
         return False
-    if key == "joker3" and "2" in tokens:
+    if key == "joker3" and ("2" in tokens or "dqmj2" in stem):
         return False
     return any(all(part in stem for part in option) for option in SEARCHES[key][1])
 def api(session, params):
