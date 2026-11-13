@@ -6,6 +6,7 @@
   "total_rows": 219,
   "simple_rows": 204,
   "alternative_fields": 13,
+  "unavailable_rows": 1,
   "unresolved_rows": 3,
   "unresolved_details": [
     {
@@ -86,7 +87,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -113,7 +115,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -140,7 +143,8 @@
         "kind": "monster",
         "label": "Eyeball",
         "id": "dwm1gbc:eyeball"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -167,7 +171,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -194,7 +199,8 @@
         "kind": "family",
         "family": "boss",
         "label": "Any Boss"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -221,7 +227,8 @@
         "kind": "monster",
         "label": "Lizard Fly",
         "id": "dwm1gbc:lizardfly"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -248,7 +255,8 @@
         "kind": "monster",
         "label": "Drak Slime",
         "id": "dwm1gbc:drakslime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -275,7 +283,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -302,7 +311,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -329,7 +339,8 @@
         "kind": "monster",
         "label": "Stub Suck",
         "id": "dwm1gbc:stubsuck"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -356,7 +367,8 @@
         "kind": "monster",
         "label": "Tortagon",
         "id": "dwm1gbc:tortragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -383,7 +395,8 @@
         "kind": "monster",
         "label": "Trumpeter",
         "id": "dwm1gbc:trumpeter"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -410,7 +423,8 @@
         "kind": "monster",
         "label": "Dragon",
         "id": "dwm1gbc:dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -437,7 +451,8 @@
         "kind": "monster",
         "label": "Sabre man",
         "id": "dwm1gbc:sabreman"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -464,7 +479,8 @@
         "kind": "monster",
         "label": "Duck Kite",
         "id": "dwm1gbc:duckkite"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -491,7 +507,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any Plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -518,7 +535,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -545,7 +563,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -572,7 +591,8 @@
         "kind": "monster",
         "label": "Mudron",
         "id": "dwm1gbc:mudron"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -599,7 +619,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -626,7 +647,8 @@
         "kind": "monster",
         "label": "Wild Ape",
         "id": "dwm1gbc:wildape"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -653,7 +675,8 @@
         "kind": "monster",
         "label": "Fang Slime",
         "id": "dwm1gbc:fangslime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -680,7 +703,8 @@
         "kind": "monster",
         "label": "Mad Pecker",
         "id": "dwm1gbc:madpecker"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -707,7 +731,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any Material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "beast",
@@ -734,7 +759,8 @@
         "kind": "monster",
         "label": "Orc",
         "id": "dwm1gbc:orc"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -761,7 +787,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -804,7 +831,8 @@
             "source_label": "Ice Man"
           }
         ]
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -831,7 +859,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -858,7 +887,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -885,7 +915,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -912,7 +943,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any Plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -939,7 +971,8 @@
         "kind": "monster",
         "label": "Dance Vegi",
         "id": "dwm1gbc:dancevegi"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -966,7 +999,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -993,7 +1027,8 @@
         "kind": "monster",
         "label": "Coil Bird",
         "id": "dwm1gbc:coilbird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1020,7 +1055,8 @@
         "kind": "monster",
         "label": "Drool",
         "id": "dwm1gbc:droll"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1047,7 +1083,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1074,7 +1111,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1101,7 +1139,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any Material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1139,7 +1178,8 @@
             "source_label": "Gismo"
           }
         ]
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1166,7 +1206,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1193,7 +1234,8 @@
         "kind": "monster",
         "label": "Phoenix",
         "id": "dwm1gbc:phoenix"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1220,7 +1262,8 @@
         "kind": "monster",
         "label": "Rock Slime",
         "id": "dwm1gbc:rockslime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1247,7 +1290,8 @@
         "kind": "monster",
         "label": "Rayburn",
         "id": "dwm1gbc:rayburn"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1274,7 +1318,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bird",
@@ -1301,7 +1346,8 @@
         "kind": "family",
         "family": "boss",
         "label": "Any Boss"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1328,7 +1374,8 @@
         "kind": "monster",
         "label": "Orochi",
         "id": "dwm1gbc:orochi"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1355,7 +1402,8 @@
         "kind": "monster",
         "label": "Watabou",
         "id": "dwm1gbc:watabou"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1393,7 +1441,8 @@
             "source_label": "Mirudraas 2"
           }
         ]
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1420,7 +1469,8 @@
         "kind": "monster",
         "label": "Armorpion",
         "id": "dwm1gbc:armorpion"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1447,7 +1497,8 @@
         "kind": "monster",
         "label": "Mudou",
         "id": "dwm1gbc:mudou"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1485,7 +1536,8 @@
             "source_label": "Great Drak"
           }
         ]
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1512,7 +1564,8 @@
         "kind": "monster",
         "label": "Divinegon",
         "id": "dwm1gbc:divinegon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1539,7 +1592,8 @@
         "kind": "monster",
         "label": "King Leo",
         "id": "dwm1gbc:kingleo"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1566,7 +1620,8 @@
         "kind": "monster",
         "label": "Metal King",
         "id": "dwm1gbc:metalking"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1593,7 +1648,8 @@
         "kind": "monster",
         "label": "Gold Slime",
         "id": "dwm1gbc:goldslime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1620,7 +1676,8 @@
         "kind": "monster",
         "label": "Spikerous",
         "id": "dwm1gbc:spikerous"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1647,7 +1704,8 @@
         "kind": "monster",
         "label": "Dark Horn",
         "id": "dwm1gbc:darkhorn"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1674,7 +1732,8 @@
         "kind": "monster",
         "label": "Divinegon",
         "id": "dwm1gbc:divinegon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1701,7 +1760,8 @@
         "kind": "monster",
         "label": "Rosevine",
         "id": "dwm1gbc:rosevine"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "boss",
@@ -1739,7 +1799,8 @@
         "kind": "monster",
         "label": "Sidoh",
         "id": "dwm1gbc:sidoh"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1766,7 +1827,8 @@
         "kind": "monster",
         "label": "Iron Turt",
         "id": "dwm1gbc:ironturt"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1793,7 +1855,8 @@
         "kind": "monster",
         "label": "Horn Beet",
         "id": "dwm1gbc:hornbeet"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1820,7 +1883,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1847,7 +1911,8 @@
         "kind": "monster",
         "label": "Dark Crab",
         "id": "dwm1gbc:darkcrab"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1874,7 +1939,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1901,7 +1967,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1928,7 +1995,8 @@
         "kind": "family",
         "family": "boss",
         "label": "Any Boss"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1955,7 +2023,8 @@
         "kind": "monster",
         "label": "Spooky",
         "id": "dwm1gbc:spooky"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -1982,7 +2051,8 @@
         "kind": "monster",
         "label": "Amber Weed",
         "id": "dwm1gbc:amberweed"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2009,7 +2079,8 @@
         "kind": "monster",
         "label": "Saccer",
         "id": "dwm1gbc:saccer"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2036,7 +2107,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2063,7 +2135,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2090,7 +2163,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2117,7 +2191,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2144,7 +2219,8 @@
         "kind": "monster",
         "label": "Stag Bug",
         "id": "dwm1gbc:stagbug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2171,7 +2247,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2198,7 +2275,8 @@
         "kind": "monster",
         "label": "Fairy Rat",
         "id": "dwm1gbc:fairyrat"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2225,7 +2303,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any Material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2252,7 +2331,8 @@
         "kind": "monster",
         "label": "Flora Man",
         "id": "dwm1gbc:floraman"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "bug",
@@ -2279,7 +2359,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any Plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2306,7 +2387,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2333,7 +2415,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2360,7 +2443,8 @@
         "kind": "monster",
         "label": "Grendal",
         "id": "dwm1gbc:grendal"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2387,7 +2471,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2414,7 +2499,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2441,7 +2527,8 @@
         "kind": "monster",
         "label": "1 Eye Clown",
         "id": "dwm1gbc:1eyeclown"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2468,7 +2555,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any Plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2495,7 +2583,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2522,7 +2611,8 @@
         "kind": "monster",
         "label": "Gold Golem",
         "id": "dwm1gbc:goldgolem"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2549,7 +2639,8 @@
         "kind": "monster",
         "label": "Armorpede",
         "id": "dwm1gbc:armorpede"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2576,7 +2667,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any Material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2603,7 +2695,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2630,7 +2723,8 @@
         "kind": "monster",
         "label": "Demonite",
         "id": "dwm1gbc:demonite"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2657,7 +2751,8 @@
         "kind": "monster",
         "label": "Big Eye",
         "id": "dwm1gbc:bigeye"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2684,7 +2779,8 @@
         "kind": "monster",
         "label": "Dark Horn",
         "id": "dwm1gbc:darkhorn"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2711,7 +2807,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2738,7 +2835,8 @@
         "kind": "monster",
         "label": "Mad Dragon",
         "id": "dwm1gbc:maddragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2765,7 +2863,8 @@
         "kind": "monster",
         "label": "Rain Hawk",
         "id": "dwm1gbc:rainhawk"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2792,7 +2891,8 @@
         "kind": "monster",
         "label": "Lizard Man",
         "id": "dwm1gbc:lizardman"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2819,7 +2919,8 @@
         "kind": "monster",
         "label": "Rouge Nite",
         "id": "dwm1gbc:roguenite"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2846,7 +2947,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2873,7 +2975,8 @@
         "kind": "monster",
         "label": "Hammer Man",
         "id": "dwm1gbc:hammerman"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2900,7 +3003,8 @@
         "kind": "monster",
         "label": "Bean Man",
         "id": "dwm1gbc:beanman"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2927,7 +3031,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "devil",
@@ -2954,7 +3059,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -2981,7 +3087,8 @@
         "kind": "monster",
         "label": "Gulpple",
         "id": "dwm1gbc:gulpple"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3008,7 +3115,8 @@
         "kind": "monster",
         "label": "Lionex",
         "id": "dwm1gbc:lionex"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3035,7 +3143,8 @@
         "kind": "monster",
         "label": "Voodoll",
         "id": "dwm1gbc:voodoll"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3062,7 +3171,8 @@
         "kind": "monster",
         "label": "Wing Snake",
         "id": "dwm1gbc:wingsnake"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3089,7 +3199,8 @@
         "kind": "monster",
         "label": "Big Roost",
         "id": "dwm1gbc:bigroost"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3116,7 +3227,8 @@
         "kind": "monster",
         "label": "Orochi",
         "id": "dwm1gbc:orochi"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3143,7 +3255,8 @@
         "kind": "monster",
         "label": "Dragon Kid",
         "id": "dwm1gbc:dragonkid"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3170,7 +3283,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3197,7 +3311,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3224,7 +3339,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3251,7 +3367,8 @@
         "kind": "monster",
         "label": "Spot King",
         "id": "dwm1gbc:spotking"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3278,7 +3395,8 @@
         "kind": "monster",
         "label": "Babble",
         "id": "dwm1gbc:babble"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3305,7 +3423,8 @@
         "kind": "monster",
         "label": "Go Hopper",
         "id": "dwm1gbc:gohopper"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3332,7 +3451,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3359,7 +3479,8 @@
         "kind": "monster",
         "label": "Gulp Beast",
         "id": "dwm1gbc:gulpbeast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3386,7 +3507,8 @@
         "kind": "monster",
         "label": "Picky",
         "id": "dwm1gbc:picky"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3413,7 +3535,8 @@
         "kind": "monster",
         "label": "Medusa Eye",
         "id": "dwm1gbc:medusaeye"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3440,7 +3563,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3467,7 +3591,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3494,7 +3619,8 @@
         "kind": "monster",
         "label": "Mad Condor",
         "id": "dwm1gbc:madcondor"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3521,7 +3647,8 @@
         "kind": "monster",
         "label": "Phoenix",
         "id": "dwm1gbc:phoenix"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3548,7 +3675,8 @@
         "kind": "monster",
         "label": "Army Crab",
         "id": "dwm1gbc:armycrab"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3575,7 +3703,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any Material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3602,7 +3731,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "dragon",
@@ -3629,7 +3759,8 @@
         "kind": "monster",
         "label": "Crestpent",
         "id": "dwm1gbc:crestpent"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3667,7 +3798,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3694,7 +3826,8 @@
         "kind": "monster",
         "label": "Spiky Boy",
         "id": "dwm1gbc:spikyboy"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3721,7 +3854,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3748,7 +3882,8 @@
         "kind": "monster",
         "label": "Wing Tree",
         "id": "dwm1gbc:wingtree"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3775,7 +3910,8 @@
         "kind": "monster",
         "label": "Snaily",
         "id": "dwm1gbc:snaily"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3802,7 +3938,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3829,7 +3966,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any Plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3856,7 +3994,8 @@
         "kind": "monster",
         "label": "Fire Weed",
         "id": "dwm1gbc:fireweed"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3883,7 +4022,8 @@
         "kind": "monster",
         "label": "Lava Man",
         "id": "dwm1gbc:lavaman"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3910,7 +4050,8 @@
         "kind": "monster",
         "label": "Mud Doll",
         "id": "dwm1gbc:muddoll"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3937,7 +4078,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any Material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3964,7 +4106,8 @@
         "kind": "monster",
         "label": "Skullgon",
         "id": "dwm1gbc:skullgon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -3991,7 +4134,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4018,7 +4162,8 @@
         "kind": "monster",
         "label": "Arc Demon",
         "id": "dwm1gbc:arcdemon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4045,7 +4190,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4072,7 +4218,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4099,7 +4246,8 @@
         "kind": "monster",
         "label": "Andreal",
         "id": "dwm1gbc:andreal"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4126,7 +4274,8 @@
         "kind": "monster",
         "label": "Box Slime",
         "id": "dwm1gbc:boxslime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4153,7 +4302,8 @@
         "kind": "monster",
         "label": "Goopi",
         "id": "dwm1gbc:goopi"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4180,7 +4330,8 @@
         "kind": "monster",
         "label": "Skul Rider",
         "id": "dwm1gbc:skulrider"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4207,7 +4358,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4234,7 +4386,8 @@
         "kind": "monster",
         "label": "Giant Worm",
         "id": "dwm1gbc:giantworm"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4261,7 +4414,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4288,7 +4442,8 @@
         "kind": "monster",
         "label": "Golem",
         "id": "dwm1gbc:golem"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "material",
@@ -4315,7 +4470,8 @@
         "kind": "monster",
         "label": "Lipsy",
         "id": "dwm1gbc:lipsy"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4342,7 +4498,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any Material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4369,7 +4526,8 @@
         "kind": "monster",
         "label": "Pillow Rat",
         "id": "dwm1gbc:pillowrat"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4396,7 +4554,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4423,7 +4582,8 @@
         "kind": "monster",
         "label": "Facer",
         "id": "dwm1gbc:facer"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4450,7 +4610,8 @@
         "kind": "monster",
         "label": "Butter Fly",
         "id": "dwm1gbc:butterfly"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4477,7 +4638,8 @@
         "kind": "monster",
         "label": "Nite Whip",
         "id": "dwm1gbc:nitewhip"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4504,7 +4666,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4531,7 +4694,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4558,7 +4722,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4585,7 +4750,8 @@
         "kind": "monster",
         "label": "Funky Bird",
         "id": "dwm1gbc:funkybird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4612,7 +4778,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4639,7 +4806,8 @@
         "kind": "monster",
         "label": "Evil Seed",
         "id": "dwm1gbc:evilseed"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4666,7 +4834,8 @@
         "kind": "monster",
         "label": "Gophecada",
         "id": "dwm1gbc:gophecada"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4693,7 +4862,8 @@
         "kind": "family",
         "family": "boss",
         "label": "Any Boss"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4720,7 +4890,8 @@
         "kind": "monster",
         "label": "Man Eater",
         "id": "dwm1gbc:maneater"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4747,7 +4918,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any Plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4774,7 +4946,8 @@
         "kind": "family",
         "family": "zombiee",
         "label": "Any Zombiee"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4801,7 +4974,8 @@
         "kind": "monster",
         "label": "Pixy",
         "id": "dwm1gbc:pixy"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "plant",
@@ -4826,7 +5000,8 @@
       "parent2": {
         "kind": "unavailable",
         "label": "N/A"
-      }
+      },
+      "breeding_available": false
     },
     {
       "family": "plant",
@@ -4853,7 +5028,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -4880,7 +5056,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -4907,7 +5084,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any Material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -4934,7 +5112,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -4972,7 +5151,8 @@
             "source_label": "Mad Cat"
           }
         ]
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -4999,7 +5179,8 @@
         "kind": "monster",
         "label": "Metal King",
         "id": "dwm1gbc:metalking"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5042,7 +5223,8 @@
         "kind": "monster",
         "label": "Gold Golem",
         "id": "dwm1gbc:goldgolem"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5080,7 +5262,8 @@
             "source_label": "Pillow Rat"
           }
         ]
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5106,7 +5289,8 @@
         "kind": "monster",
         "label": "Slime",
         "id": "dwm1gbc:slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5144,7 +5328,8 @@
             "source_label": "Mad Condor"
           }
         ]
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5171,7 +5356,8 @@
         "kind": "monster",
         "label": "Metaly",
         "id": "dwm1gbc:metaly"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5209,7 +5395,8 @@
         "kind": "monster",
         "label": "Metal Drak",
         "id": "dwm1gbc:metaldrak"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5236,7 +5423,8 @@
         "kind": "monster",
         "label": "Metabble",
         "id": "dwm1gbc:metabble"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5263,7 +5451,8 @@
         "kind": "monster",
         "label": "Metal Drak",
         "id": "dwm1gbc:metaldrak"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5290,7 +5479,8 @@
         "kind": "monster",
         "label": "Bomb Crag",
         "id": "dwm1gbc:bombcrag"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5317,7 +5507,8 @@
         "kind": "monster",
         "label": "Skullroo",
         "id": "dwm1gbc:skullroo"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5344,7 +5535,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5371,7 +5563,8 @@
         "kind": "monster",
         "label": "Roboster",
         "id": "dwm1gbc:roboster"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5398,7 +5591,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5425,7 +5619,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5474,7 +5669,8 @@
             "source_label": "Mad Condor"
           }
         ]
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5500,7 +5696,8 @@
         "kind": "monster",
         "label": "Spot Slime",
         "id": "dwm1gbc:spotslime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5527,7 +5724,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any Beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5554,7 +5752,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any Plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "slime",
@@ -5581,7 +5780,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5608,7 +5808,8 @@
         "kind": "monster",
         "label": "Hork",
         "id": "dwm1gbc:hork"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5635,7 +5836,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5662,7 +5864,8 @@
         "kind": "family",
         "family": "bug",
         "label": "Any Bug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5689,7 +5892,8 @@
         "kind": "family",
         "family": "devil",
         "label": "Any Devil"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5716,7 +5920,8 @@
         "kind": "monster",
         "label": "Dead Nite",
         "id": "dwm1gbc:deadnite"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5743,7 +5948,8 @@
         "kind": "family",
         "family": "zombie",
         "label": "Any Zombie"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5770,7 +5976,8 @@
         "kind": "family",
         "family": "dragon",
         "label": "Any Dragon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5797,7 +6004,8 @@
         "kind": "monster",
         "label": "Giant Slug",
         "id": "dwm1gbc:giantslug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5824,7 +6032,8 @@
         "kind": "family",
         "family": "plant",
         "label": "Any Plant"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5851,7 +6060,8 @@
         "kind": "monster",
         "label": "Misty Wing",
         "id": "dwm1gbc:mistywing"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5878,7 +6088,8 @@
         "kind": "family",
         "family": "beast",
         "label": "Any beast"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5905,7 +6116,8 @@
         "kind": "monster",
         "label": "Weed Bug",
         "id": "dwm1gbc:weedbug"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5932,7 +6144,8 @@
         "kind": "family",
         "family": "bird",
         "label": "Any Bird"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5959,7 +6172,8 @@
         "kind": "monster",
         "label": "Skeletor",
         "id": "dwm1gbc:skeletor"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -5986,7 +6200,8 @@
         "kind": "family",
         "family": "material",
         "label": "Any material"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -6013,7 +6228,8 @@
         "kind": "monster",
         "label": "Bone Slave",
         "id": "dwm1gbc:boneslave"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -6040,7 +6256,8 @@
         "kind": "monster",
         "label": "Swordgon",
         "id": "dwm1gbc:swordgon"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -6067,7 +6284,8 @@
         "kind": "family",
         "family": "slime",
         "label": "Any Slime"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -6094,7 +6312,8 @@
         "kind": "monster",
         "label": "Spot King",
         "id": "dwm1gbc:spotking"
-      }
+      },
+      "breeding_available": true
     },
     {
       "family": "zombie",
@@ -6121,7 +6340,8 @@
         "kind": "monster",
         "label": "Wind Beast",
         "id": "dwm1gbc:windbeast"
-      }
+      },
+      "breeding_available": true
     }
   ]
 }
