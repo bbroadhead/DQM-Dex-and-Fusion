@@ -1,0 +1,6452 @@
+{
+  "game": "dwm1gbc",
+  "record_type": "breeding_chart_rows",
+  "verified": false,
+  "warning": "Unverified chart transcription. Family parents, level modifiers, alternative lines and precedence require review before enabling calculator.",
+  "families": {
+    "beast": {
+      "parsed_rows": 25,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast"
+    },
+    "bird": {
+      "parsed_rows": 20,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird"
+    },
+    "boss": {
+      "parsed_rows": 15,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss"
+    },
+    "bug": {
+      "parsed_rows": 20,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug"
+    },
+    "devil": {
+      "parsed_rows": 25,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil"
+    },
+    "dragon": {
+      "parsed_rows": 25,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon"
+    },
+    "material": {
+      "parsed_rows": 25,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material"
+    },
+    "plant": {
+      "parsed_rows": 20,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant"
+    },
+    "slime": {
+      "parsed_rows": 24,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime"
+    },
+    "zombie": {
+      "parsed_rows": 20,
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie"
+    }
+  },
+  "rows": [
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:almiraj",
+        "label": "Almiraj"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Almiraj",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Anteater"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Anteater"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Anteater",
+        "=",
+        "Anteater",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:bigeye",
+        "label": "Big Eye"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:eyeball",
+        "label": "Eyeball"
+      },
+      "raw_cells": [
+        "Big Eye",
+        "=",
+        "Any Beast",
+        "+",
+        "Eyeball"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:catfly",
+        "label": "Cat Fly"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Cat Fly",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:darkhorn",
+        "label": "Dark Horn"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "boss",
+        "label": "Any Boss"
+      },
+      "raw_cells": [
+        "Dark Horn",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Boss"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:fairyrat",
+        "label": "Fairy Rat"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:lizardfly",
+        "label": "Lizard Fly"
+      },
+      "raw_cells": [
+        "Fairy Rat",
+        "=",
+        "Any Beast",
+        "+",
+        "Lizard Fly"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:goategon",
+        "label": "Goategon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:drakslime",
+        "label": "Drak Slime"
+      },
+      "raw_cells": [
+        "Goategon",
+        "=",
+        "Any Beast",
+        "+",
+        "Drak Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:grizzly",
+        "label": "Grizzly"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Grizzly",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gulpbeast",
+        "label": "Gulp Beast"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:grizzly",
+        "label": "Grizzly"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Gulp Beast",
+        "=",
+        "Grizzly",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:hammerman",
+        "label": "Hammer man"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:stubsuck",
+        "label": "Stub Suck"
+      },
+      "raw_cells": [
+        "Hammer man",
+        "=",
+        "Any Beast",
+        "+",
+        "Stub Suck"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:ironturt",
+        "label": "Iron Turt"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Tortagon"
+      },
+      "raw_cells": [
+        "Iron Turt",
+        "=",
+        "Any Beast",
+        "+",
+        "Tortagon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:kingleo",
+        "label": "King Leo"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:trumpeter",
+        "label": "Trumpeter"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:trumpeter",
+        "label": "Trumpeter"
+      },
+      "raw_cells": [
+        "King Leo",
+        "=",
+        "Trumpeter",
+        "+",
+        "Trumpeter"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madcat",
+        "label": "Mad Cat"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:dragon",
+        "label": "Dragon"
+      },
+      "raw_cells": [
+        "Mad Cat",
+        "=",
+        "Any Beast",
+        "+",
+        "Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madgopher",
+        "label": "Mad Gopher"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:sabreman",
+        "label": "Sabre man"
+      },
+      "raw_cells": [
+        "Mad Gopher",
+        "=",
+        "Any Beast",
+        "+",
+        "Sabre man"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Monnonja"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:duckkite",
+        "label": "Duck Kite"
+      },
+      "raw_cells": [
+        "Monnonja",
+        "=",
+        "Any Beast",
+        "+",
+        "Duck Kite"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:pillowrat",
+        "label": "Pillow Rat"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "raw_cells": [
+        "Pillow Rat",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:saccer",
+        "label": "Saccer"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Saccer",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:skullroo",
+        "label": "Skullroo"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Skullroo",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:superten",
+        "label": "Super Ten"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:mudron",
+        "label": "Mudron"
+      },
+      "raw_cells": [
+        "Super Ten",
+        "=",
+        "Any Beast",
+        "+",
+        "Mudron"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:tonguella",
+        "label": "Tonguella"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Tonguella",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:trumpeter",
+        "label": "Trumpeter"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:wildape",
+        "label": "Wild Ape"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:wildape",
+        "label": "Wild Ape"
+      },
+      "raw_cells": [
+        "Trumpeter",
+        "=",
+        "Wild Ape",
+        "+",
+        "Wild Ape"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:unicorn",
+        "label": "Unicorn"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:fangslime",
+        "label": "Fang Slime"
+      },
+      "raw_cells": [
+        "Unicorn",
+        "=",
+        "Any Beast",
+        "+",
+        "Fang Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:wildape",
+        "label": "Wild Ape"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:madpecker",
+        "label": "Mad Pecker"
+      },
+      "raw_cells": [
+        "Wild Ape",
+        "=",
+        "Any Beast",
+        "+",
+        "Mad Pecker"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:windbeast",
+        "label": "Wind Beast"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "raw_cells": [
+        "Wind Beast",
+        "=",
+        "Any Beast",
+        "+",
+        "Any Material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:yeti",
+        "label": "Yeti"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:orc",
+        "label": "Orc"
+      },
+      "raw_cells": [
+        "Yeti",
+        "=",
+        "Any Beast",
+        "+",
+        "Orc"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:bigroost",
+        "label": "Big Roost"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:bigroost",
+        "label": "Big Roost"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Big Roost",
+        "=",
+        "Big Roost",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:blizzardy",
+        "label": "Blizzardy"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Metabble / Metaly / Ice Man"
+      },
+      "raw_cells": [
+        "Blizzardy",
+        "=",
+        "Any Bird",
+        "+",
+        "Metabble / Metaly / Ice Man"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:bullbird",
+        "label": "Bull Bird"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Bull Bird",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:dracky",
+        "label": "Dracky"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:dracky",
+        "label": "Dracky"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Dracky",
+        "=",
+        "Dracky",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:duckkite",
+        "label": "Duck Kite"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Duck Kite",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:florajay",
+        "label": "Florajay"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "raw_cells": [
+        "Florajay",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:funkybird",
+        "label": "Funky Bird"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:dancevegi",
+        "label": "Dance Vegi"
+      },
+      "raw_cells": [
+        "Funky Bird",
+        "=",
+        "Any Bird",
+        "+",
+        "Dance Vegi"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:landowl",
+        "label": "Land Owl"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:bullbird",
+        "label": "Bull Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Land Owl",
+        "=",
+        "Bull Bird",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madcondor",
+        "label": "Mad Condor"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:coilbird",
+        "label": "Coil Bird"
+      },
+      "raw_cells": [
+        "Mad Condor",
+        "=",
+        "Any Bird",
+        "+",
+        "Coil Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madgoose",
+        "label": "Mad Goose"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Drool"
+      },
+      "raw_cells": [
+        "Mad Goose",
+        "=",
+        "Any Bird",
+        "+",
+        "Drool"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madpecker",
+        "label": "Mad Pecker"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Mad Pecker",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madraven",
+        "label": "Mad Raven"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Mad Raven",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:mistywing",
+        "label": "Misty Wing"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "raw_cells": [
+        "Misty Wing",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:phoenix",
+        "label": "Phoenix"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Lava Man / Gismo"
+      },
+      "raw_cells": [
+        "Phoenix",
+        "=",
+        "Any Bird",
+        "+",
+        "Lava Man / Gismo"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:picky",
+        "label": "Picky"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Picky",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:rainhawk",
+        "label": "Rain Hawk"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:blizzardy",
+        "label": "Blizzardy"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:phoenix",
+        "label": "Phoenix"
+      },
+      "raw_cells": [
+        "Rain Hawk",
+        "=",
+        "Blizzardy",
+        "+",
+        "Phoenix"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:stubbird",
+        "label": "Stub Bird"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:rockslime",
+        "label": "Rock Slime"
+      },
+      "raw_cells": [
+        "Stub Bird",
+        "=",
+        "Any Bird",
+        "+",
+        "Rock Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:whipbird",
+        "label": "Whip Bird"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:rayburn",
+        "label": "Rayburn"
+      },
+      "raw_cells": [
+        "Whip Bird",
+        "=",
+        "Any Bird",
+        "+",
+        "Rayburn"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:wyvern",
+        "label": "Wyvern"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Wyvern",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:zapbird",
+        "label": "Zap Bird"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "boss",
+        "label": "Any Boss"
+      },
+      "raw_cells": [
+        "Zap Bird",
+        "=",
+        "Any Bird",
+        "+",
+        "Any Boss"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:baramos",
+        "label": "Baramos"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:hargon",
+        "label": "Hargon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:orochi",
+        "label": "Orochi"
+      },
+      "raw_cells": [
+        "Baramos",
+        "=",
+        "Hargon",
+        "+",
+        "Orochi"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:darkdrium",
+        "label": "Dark Drium"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:deathmore-3",
+        "label": "Death More 3"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:watabou",
+        "label": "Watabou"
+      },
+      "raw_cells": [
+        "Dark Drium",
+        "=",
+        "Death More 3",
+        "+",
+        "Watabou"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:deathmore-1",
+        "label": "Death More 1"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:zoma",
+        "label": "Zoma"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Mirudraas 1 / Mirudraas 2"
+      },
+      "raw_cells": [
+        "Death More 1",
+        "=",
+        "Zoma",
+        "+",
+        "Mirudraas 1 / Mirudraas 2"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:deathmore-2",
+        "label": "Death More 2"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:deathmore-1",
+        "label": "Death More 1"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:armorpion",
+        "label": "Armorpion"
+      },
+      "raw_cells": [
+        "Death More 2",
+        "=",
+        "Death More 1",
+        "+",
+        "Armorpion"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:deathmore-3",
+        "label": "Death More 3"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:deathmore-2",
+        "label": "Death More 2"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:mudou",
+        "label": "Mudou"
+      },
+      "raw_cells": [
+        "Death More 3",
+        "=",
+        "Death More 2",
+        "+",
+        "Mudou"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:dracolord-1",
+        "label": "Draco Lord 1"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:servant",
+        "label": "Servant"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Andreal / Great Drak"
+      },
+      "raw_cells": [
+        "Draco Lord 1",
+        "=",
+        "Servant",
+        "+",
+        "Andreal / Great Drak"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:dracolord-2",
+        "label": "Draco Lord 2"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:dracolord-1",
+        "label": "DracoLord 1"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:divinegon",
+        "label": "Divinegon"
+      },
+      "raw_cells": [
+        "Draco Lord 2",
+        "=",
+        "DracoLord 1",
+        "+",
+        "Divinegon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:esterk",
+        "label": "Esterk"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:pizzaro",
+        "label": "Pizzaro"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:kingleo",
+        "label": "King Leo"
+      },
+      "raw_cells": [
+        "Esterk",
+        "=",
+        "Pizzaro",
+        "+",
+        "King Leo"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:hargon",
+        "label": "Hargon"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:whiteking",
+        "label": "White King"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:metalking",
+        "label": "Metal King"
+      },
+      "raw_cells": [
+        "Hargon",
+        "=",
+        "White King",
+        "+",
+        "Metal King"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:mirudraas-1",
+        "label": "Mirudraas 1"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:esterk",
+        "label": "Esterk"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:goldslime",
+        "label": "Gold Slime"
+      },
+      "raw_cells": [
+        "Mirudraas 1",
+        "=",
+        "Esterk",
+        "+",
+        "Gold Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:mirudraas-2",
+        "label": "Mirudraas 2"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:mirudraas-1",
+        "label": "Mirudraas 1"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:spikerous",
+        "label": "Spikerous"
+      },
+      "raw_cells": [
+        "Mirudraas 2",
+        "=",
+        "Mirudraas 1",
+        "+",
+        "Spikerous"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:mudou",
+        "label": "Mudou"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:baramos",
+        "label": "Baramos"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:darkhorn",
+        "label": "Dark Horn"
+      },
+      "raw_cells": [
+        "Mudou",
+        "=",
+        "Baramos",
+        "+",
+        "Dark Horn"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:pizzaro",
+        "label": "Pizzaro"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:durran",
+        "label": "Durran"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:divinegon",
+        "label": "Divinegon"
+      },
+      "raw_cells": [
+        "Pizzaro",
+        "=",
+        "Durran",
+        "+",
+        "Divinegon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:sidoh",
+        "label": "Sidoh"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:jamirus",
+        "label": "Jamirus"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:rosevine",
+        "label": "Rosevine"
+      },
+      "raw_cells": [
+        "Sidoh",
+        "=",
+        "Jamirus",
+        "+",
+        "Rosevine"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:zoma",
+        "label": "Zoma"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "DracoLord 1 / DracoLord 2"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:sidoh",
+        "label": "Sidoh"
+      },
+      "raw_cells": [
+        "Zoma",
+        "=",
+        "DracoLord 1 / DracoLord 2",
+        "+",
+        "Sidoh"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:armorpede",
+        "label": "Armorpede"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:ironturt",
+        "label": "Iron Turt"
+      },
+      "raw_cells": [
+        "Armorpede",
+        "=",
+        "Any Bug",
+        "+",
+        "Iron Turt"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:armorpion",
+        "label": "Armorpion"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:hornbeet",
+        "label": "Horn Beet"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:hornbeet",
+        "label": "Horn Beet"
+      },
+      "raw_cells": [
+        "Armorpion",
+        "=",
+        "Horn Beet",
+        "+",
+        "Horn Beet"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:armyant",
+        "label": "Army Ant"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:armyant",
+        "label": "Army Ant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Army Ant",
+        "=",
+        "Army Ant",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:armycrab",
+        "label": "Army Crab"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:darkcrab",
+        "label": "Dark Crab"
+      },
+      "raw_cells": [
+        "Army Crab",
+        "=",
+        "Any Bug",
+        "+",
+        "Dark Crab"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:butterfly",
+        "label": "Butter Fly"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Butter Fly",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:catapila",
+        "label": "Catapila"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Catapila",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:digster",
+        "label": "Digster"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "boss",
+        "label": "Any Boss"
+      },
+      "raw_cells": [
+        "Digster",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Boss"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:droll",
+        "label": "Droll"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:spooky",
+        "label": "Spooky"
+      },
+      "raw_cells": [
+        "Droll",
+        "=",
+        "Any Bug",
+        "+",
+        "Spooky"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:eyeder",
+        "label": "Eyeder"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:amberweed",
+        "label": "Amber Weed"
+      },
+      "raw_cells": [
+        "Eyeder",
+        "=",
+        "Any Bug",
+        "+",
+        "Amber Weed"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:giantmoth",
+        "label": "Giant Moth"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:saccer",
+        "label": "Saccer"
+      },
+      "raw_cells": [
+        "Giant Moth",
+        "=",
+        "Any Bug",
+        "+",
+        "Saccer"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:giantslug",
+        "label": "Giant Slug"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Giant Slug",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:giantworm",
+        "label": "Giant Worm"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Giant Worm",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gohopper",
+        "label": "Go Hopper"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:gohopper",
+        "label": "Go Hopper"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Go Hopper",
+        "=",
+        "Go Hopper",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gophecada",
+        "label": "Gophecada"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Gophecada",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:hornbeet",
+        "label": "Horn Beet"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:stagbug",
+        "label": "Stag Bug"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:stagbug",
+        "label": "Stag Bug"
+      },
+      "raw_cells": [
+        "Horn Beet",
+        "=",
+        "Stag Bug",
+        "+",
+        "Stag Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:lipsy",
+        "label": "Lipsy"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Lipsy",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madhornet",
+        "label": "Mad Hornet"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:fairyrat",
+        "label": "Fairy Rat"
+      },
+      "raw_cells": [
+        "Mad Hornet",
+        "=",
+        "Any Bug",
+        "+",
+        "Fairy Rat"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:stagbug",
+        "label": "Stag Bug"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "raw_cells": [
+        "Stag Bug",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:taileater",
+        "label": "Tail Eater"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:floraman",
+        "label": "Flora Man"
+      },
+      "raw_cells": [
+        "Tail Eater",
+        "=",
+        "Any Bug",
+        "+",
+        "Flora Man"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bug",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bug",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:weedbug",
+        "label": "Weed Bug"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "raw_cells": [
+        "Weed Bug",
+        "=",
+        "Any Bug",
+        "+",
+        "Any Plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:1eyeclown",
+        "label": "1 Eye Clown"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:pixy",
+        "label": "Pixy"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "1 Eye Clown",
+        "=",
+        "Pixy",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:agdevil",
+        "label": "Ag Devil"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:gremlin",
+        "label": "Gremlin"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Ag Devil",
+        "=",
+        "Gremlin",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:akubar",
+        "label": "Akubar"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:grendal",
+        "label": "Grendal"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:grendal",
+        "label": "Grendal"
+      },
+      "raw_cells": [
+        "Akubar",
+        "=",
+        "Grendal",
+        "+",
+        "Grendal"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:arcdemon",
+        "label": "Arc Demon"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:gateguard",
+        "label": "Gate Guard"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Arc Demon",
+        "=",
+        "Gate Guard",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:centasaur",
+        "label": "Centasaur"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:gateguard",
+        "label": "Gate Guard"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Centasaur",
+        "=",
+        "Gate Guard",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:chopclown",
+        "label": "Chop Clown"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:1eyeclown",
+        "label": "1 Eye Clown"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:1eyeclown",
+        "label": "1 Eye Clown"
+      },
+      "raw_cells": [
+        "Chop Clown",
+        "=",
+        "1 Eye Clown",
+        "+",
+        "1 Eye Clown"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:darkeye",
+        "label": "Dark Eye"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "raw_cells": [
+        "Dark Eye",
+        "=",
+        "Any Devil",
+        "+",
+        "Any Plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:demonite",
+        "label": "Demonite"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Demonite",
+        "=",
+        "Any Devil",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:durran",
+        "label": "Durran"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:centasaur",
+        "label": "Centasaur"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:goldgolem",
+        "label": "Gold Golem"
+      },
+      "raw_cells": [
+        "Durran",
+        "=",
+        "Centasaur",
+        "+",
+        "Gold Golem"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:evilarmor",
+        "label": "Evil Armor"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:armorpede",
+        "label": "Armorpede"
+      },
+      "raw_cells": [
+        "Evil Armor",
+        "=",
+        "Any Devil",
+        "+",
+        "Armorpede"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:evilbeast",
+        "label": "Evil Beast"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "raw_cells": [
+        "Evil Beast",
+        "=",
+        "Any Devil",
+        "+",
+        "Any Material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:eyeball",
+        "label": "Eye Ball"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Eye Ball",
+        "=",
+        "Any Devil",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gateguard",
+        "label": "Gate Guard"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:demonite",
+        "label": "Demonite"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:demonite",
+        "label": "Demonite"
+      },
+      "raw_cells": [
+        "Gate Guard",
+        "=",
+        "Demonite",
+        "+",
+        "Demonite"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gigantes",
+        "label": "Gigantes"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:bigeye",
+        "label": "Big Eye"
+      },
+      "raw_cells": [
+        "Gigantes",
+        "=",
+        "Any Devil",
+        "+",
+        "Big Eye"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:goathorn",
+        "label": "Goat Horn"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:darkhorn",
+        "label": "Dark Horn"
+      },
+      "raw_cells": [
+        "Goat Horn",
+        "=",
+        "Any Devil",
+        "+",
+        "Dark Horn"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gremlin",
+        "label": "Gremlin"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Gremlin",
+        "=",
+        "Any Devil",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:grendal",
+        "label": "Grendal"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:maddragon",
+        "label": "Mad Dragon"
+      },
+      "raw_cells": [
+        "Grendal",
+        "=",
+        "Any Devil",
+        "+",
+        "Mad Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:jamirus",
+        "label": "Jamirus"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:akubar",
+        "label": "Akubar"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:rainhawk",
+        "label": "Rain Hawk"
+      },
+      "raw_cells": [
+        "Jamirus",
+        "=",
+        "Akubar",
+        "+",
+        "Rain Hawk"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:lionex",
+        "label": "Lionex"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:lizardman",
+        "label": "Lizard Man"
+      },
+      "raw_cells": [
+        "Lionex",
+        "=",
+        "Any Devil",
+        "+",
+        "Lizard Man"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madknight",
+        "label": "Mad Knight"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Rouge Nite"
+      },
+      "raw_cells": [
+        "Mad Knight",
+        "=",
+        "Any Devil",
+        "+",
+        "Rouge Nite"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:medusaeye",
+        "label": "Medusa Eye"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Medusa Eye",
+        "=",
+        "Any Devil",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:ogre",
+        "label": "Ogre"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:hammerman",
+        "label": "Hammer Man"
+      },
+      "raw_cells": [
+        "Ogre",
+        "=",
+        "Any Devil",
+        "+",
+        "Hammer Man"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:orc",
+        "label": "Orc"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:beanman",
+        "label": "Bean Man"
+      },
+      "raw_cells": [
+        "Orc",
+        "=",
+        "Any Devil",
+        "+",
+        "Bean Man"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:pixy",
+        "label": "Pixy"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Pixy",
+        "=",
+        "Any Devil",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:skulrider",
+        "label": "Skul Rider"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Skul Rider",
+        "=",
+        "Any Devil",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:andreal",
+        "label": "Andreal"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:gulpple",
+        "label": "Gulpple"
+      },
+      "raw_cells": [
+        "Andreal",
+        "=",
+        "Any Dragon",
+        "+",
+        "Gulpple"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:battlerex",
+        "label": "Battle Rex"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:lionex",
+        "label": "Lionex"
+      },
+      "raw_cells": [
+        "Battle Rex",
+        "=",
+        "Any Dragon",
+        "+",
+        "Lionex"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:chamelgon",
+        "label": "Chamelgon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:voodoll",
+        "label": "Voodoll"
+      },
+      "raw_cells": [
+        "Chamelgon",
+        "=",
+        "Any Dragon",
+        "+",
+        "Voodoll"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:coatol",
+        "label": "Coatol"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:wingsnake",
+        "label": "Wing Snake"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:wingsnake",
+        "label": "Wing Snake"
+      },
+      "raw_cells": [
+        "Coatol",
+        "=",
+        "Wing Snake",
+        "+",
+        "Wing Snake"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:crestpent",
+        "label": "Crestpent"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:bigroost",
+        "label": "Big Roost"
+      },
+      "raw_cells": [
+        "Crestpent",
+        "=",
+        "Any Dragon",
+        "+",
+        "Big Roost"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:divinegon",
+        "label": "Divinegon"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:skydragon",
+        "label": "Sky Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:orochi",
+        "label": "Orochi"
+      },
+      "raw_cells": [
+        "Divinegon",
+        "=",
+        "Sky Dragon",
+        "+",
+        "Orochi"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:dragon",
+        "label": "Dragon"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:dragonkid",
+        "label": "Dragon Kid"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:dragonkid",
+        "label": "Dragon Kid"
+      },
+      "raw_cells": [
+        "Dragon",
+        "=",
+        "Dragon Kid",
+        "+",
+        "Dragon Kid"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:dragonkid",
+        "label": "Dragon Kid"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Dragon Kid",
+        "=",
+        "Any Dragon",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:fairydrak",
+        "label": "Fairy Drak"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Fairy Drak",
+        "=",
+        "Any Dragon",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gasgon",
+        "label": "Gasgon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any plant"
+      },
+      "raw_cells": [
+        "Gasgon",
+        "=",
+        "Any Dragon",
+        "+",
+        "Any plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:greatdrak",
+        "label": "Great Drak"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotking",
+        "label": "Spot King"
+      },
+      "raw_cells": [
+        "Great Drak",
+        "=",
+        "Any Dragon",
+        "+",
+        "Spot King"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:kingcobra",
+        "label": "King Cobra"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:babble",
+        "label": "Babble"
+      },
+      "raw_cells": [
+        "King Cobra",
+        "=",
+        "Any Dragon",
+        "+",
+        "Babble"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:lizardfly",
+        "label": "Lizard Fly"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:gohopper",
+        "label": "Go Hopper"
+      },
+      "raw_cells": [
+        "Lizard Fly",
+        "=",
+        "Any Dragon",
+        "+",
+        "Go Hopper"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:lizardman",
+        "label": "Lizard Man"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Lizard Man",
+        "=",
+        "Any Dragon",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:maddragon",
+        "label": "Mad Dragon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:gulpbeast",
+        "label": "Gulp Beast"
+      },
+      "raw_cells": [
+        "Mad Dragon",
+        "=",
+        "Any Dragon",
+        "+",
+        "Gulp Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:minidrak",
+        "label": "Mini Drak"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:picky",
+        "label": "Picky"
+      },
+      "raw_cells": [
+        "Mini Drak",
+        "=",
+        "Any Dragon",
+        "+",
+        "Picky"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:orochi",
+        "label": "Orochi"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:greatdrak",
+        "label": "Great Drak"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:medusaeye",
+        "label": "Medusa Eye"
+      },
+      "raw_cells": [
+        "Orochi",
+        "=",
+        "Great Drak",
+        "+",
+        "Medusa Eye"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:poisongon",
+        "label": "Poisongon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Poisongon",
+        "=",
+        "Any Dragon",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:pteranod",
+        "label": "Pteranod"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Pteranod",
+        "=",
+        "Any Dragon",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:rayburn",
+        "label": "Ray Burn"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:madcondor",
+        "label": "Mad Condor"
+      },
+      "raw_cells": [
+        "Ray Burn",
+        "=",
+        "Any Dragon",
+        "+",
+        "Mad Condor"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:skydragon",
+        "label": "Sky Dragon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:phoenix",
+        "label": "Phoenix"
+      },
+      "raw_cells": [
+        "Sky Dragon",
+        "=",
+        "Any Dragon",
+        "+",
+        "Phoenix"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:spikerous",
+        "label": "Spikerous"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:armycrab",
+        "label": "Army Crab"
+      },
+      "raw_cells": [
+        "Spikerous",
+        "=",
+        "Any Dragon",
+        "+",
+        "Army Crab"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:swordgon",
+        "label": "Swordgon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "raw_cells": [
+        "Swordgon",
+        "=",
+        "Any Dragon",
+        "+",
+        "Any Material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:tortragon",
+        "label": "Tortragon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Tortragon",
+        "=",
+        "Any Dragon",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "dragon",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=dragon",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:wingsnake",
+        "label": "Wing Snake"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:crestpent",
+        "label": "Crestpent"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:crestpent",
+        "label": "Crestpent"
+      },
+      "raw_cells": [
+        "Wing Snake",
+        "=",
+        "Crestpent",
+        "+",
+        "Crestpent"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:balzak",
+        "label": "Balzak"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Ice Man / Lava Man"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Balzak",
+        "=",
+        "Ice Man / Lava Man",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:bombcrag",
+        "label": "Bomb Crag"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:spikyboy",
+        "label": "Spiky Boy"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:spikyboy",
+        "label": "Spiky Boy"
+      },
+      "raw_cells": [
+        "Bomb Crag",
+        "=",
+        "Spiky Boy",
+        "+",
+        "Spiky Boy"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:coilbird",
+        "label": "Coil Bird"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any bird"
+      },
+      "raw_cells": [
+        "Coil Bird",
+        "=",
+        "Any Material",
+        "+",
+        "Any bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:curselamp",
+        "label": "Curse Lamp"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:wingtree",
+        "label": "Wing Tree"
+      },
+      "raw_cells": [
+        "Curse Lamp",
+        "=",
+        "Any Material",
+        "+",
+        "Wing Tree"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:evilpot",
+        "label": "Evil Pot"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:snaily",
+        "label": "Snaily"
+      },
+      "raw_cells": [
+        "Evil Pot",
+        "=",
+        "Any Material",
+        "+",
+        "Snaily"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:evilwand",
+        "label": "Evil wand"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Evil wand",
+        "=",
+        "Any Material",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:facer",
+        "label": "Facer"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "raw_cells": [
+        "Facer",
+        "=",
+        "Any Material",
+        "+",
+        "Any Plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gismo",
+        "label": "Gismo"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:goopi",
+        "label": "Goopi"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:fireweed",
+        "label": "Fire Weed"
+      },
+      "raw_cells": [
+        "Gismo",
+        "=",
+        "Goopi",
+        "+",
+        "Fire Weed"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:goldgolem",
+        "label": "Gold Golem"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:iceman",
+        "label": "Ice Man"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:lavaman",
+        "label": "Lava Man"
+      },
+      "raw_cells": [
+        "Gold Golem",
+        "=",
+        "Ice Man",
+        "+",
+        "Lava Man"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:golem",
+        "label": "Golem"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:muddoll",
+        "label": "Mud Doll"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:muddoll",
+        "label": "Mud Doll"
+      },
+      "raw_cells": [
+        "Golem",
+        "=",
+        "Mud Doll",
+        "+",
+        "Mud Doll"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:goopi",
+        "label": "Goopi"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:goopi",
+        "label": "Goopi"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "raw_cells": [
+        "Goopi",
+        "=",
+        "Goopi",
+        "+",
+        "Any Material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:iceman",
+        "label": "Ice Man"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaldrak",
+        "label": "Metal Drak"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:skullgon",
+        "label": "Skullgon"
+      },
+      "raw_cells": [
+        "Ice Man",
+        "=",
+        "Metal Drak",
+        "+",
+        "Skullgon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:jewelbag",
+        "label": "Jewel Bag"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Jewel Bag",
+        "=",
+        "Any Material",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:lavaman",
+        "label": "Lava Man"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaldrak",
+        "label": "Metal Drak"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:arcdemon",
+        "label": "Arc Demon"
+      },
+      "raw_cells": [
+        "Lava Man",
+        "=",
+        "Metal Drak",
+        "+",
+        "Arc Demon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madcandle",
+        "label": "Mad candle"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Mad candle",
+        "=",
+        "Any Material",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madmirror",
+        "label": "Mad Mirror"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Mad Mirror",
+        "=",
+        "Any Material",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaldrak",
+        "label": "Metal Drak"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:andreal",
+        "label": "Andreal"
+      },
+      "raw_cells": [
+        "Metal Drak",
+        "=",
+        "Any Material",
+        "+",
+        "Andreal"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:mimic",
+        "label": "Mimic"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:boxslime",
+        "label": "Box Slime"
+      },
+      "raw_cells": [
+        "Mimic",
+        "=",
+        "Any Material",
+        "+",
+        "Box Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:muddoll",
+        "label": "Mud Doll"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:goopi",
+        "label": "Goopi"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:goopi",
+        "label": "Goopi"
+      },
+      "raw_cells": [
+        "Mud Doll",
+        "=",
+        "Goopi",
+        "+",
+        "Goopi"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:roboster",
+        "label": "Roboster"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:skulrider",
+        "label": "Skul Rider"
+      },
+      "raw_cells": [
+        "Roboster",
+        "=",
+        "Any Material",
+        "+",
+        "Skul Rider"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:roguenite",
+        "label": "Rogue Nite"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Rogue Nite",
+        "=",
+        "Any Material",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:sabreman",
+        "label": "Sabre man"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:giantworm",
+        "label": "Giant Worm"
+      },
+      "raw_cells": [
+        "Sabre man",
+        "=",
+        "Any Material",
+        "+",
+        "Giant Worm"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:spikyboy",
+        "label": "Spiky Boy"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Spiky Boy",
+        "=",
+        "Any Material",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:stoneman",
+        "label": "Stone man"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:golem",
+        "label": "Golem"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:golem",
+        "label": "Golem"
+      },
+      "raw_cells": [
+        "Stone man",
+        "=",
+        "Golem",
+        "+",
+        "Golem"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:voodoll",
+        "label": "Voodoll"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:lipsy",
+        "label": "Lipsy"
+      },
+      "raw_cells": [
+        "Voodoll",
+        "=",
+        "Any Material",
+        "+",
+        "Lipsy"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:amberweed",
+        "label": "Amber Weed"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "raw_cells": [
+        "Amber Weed",
+        "=",
+        "Any Plant",
+        "+",
+        "Any Material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:beanman",
+        "label": "Bean Man"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:pillowrat",
+        "label": "Pillow Rat"
+      },
+      "raw_cells": [
+        "Bean Man",
+        "=",
+        "Any Plant",
+        "+",
+        "Pillow Rat"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:cactiball",
+        "label": "Cacti Ball"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Cacti Ball",
+        "=",
+        "Any Plant",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:dancevegi",
+        "label": "Dance Vegi"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:facer",
+        "label": "Facer"
+      },
+      "raw_cells": [
+        "Dance Vegi",
+        "=",
+        "Any Plant",
+        "+",
+        "Facer"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:evilseed",
+        "label": "Evil Seed"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:butterfly",
+        "label": "Butter Fly"
+      },
+      "raw_cells": [
+        "Evil Seed",
+        "=",
+        "Any Plant",
+        "+",
+        "Butter Fly"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:facetree",
+        "label": "Face Tree"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:nitewhip",
+        "label": "Nite Whip"
+      },
+      "raw_cells": [
+        "Face Tree",
+        "=",
+        "Any Plant",
+        "+",
+        "Nite Whip"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:fireweed",
+        "label": "Fire Weed"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any dragon"
+      },
+      "raw_cells": [
+        "Fire Weed",
+        "=",
+        "Any Plant",
+        "+",
+        "Any dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:floraman",
+        "label": "Flora Man"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Flora Man",
+        "=",
+        "Any Plant",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:gulpple",
+        "label": "Gulpple"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Gulpple",
+        "=",
+        "Any Plant",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:herbman",
+        "label": "Herb man"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:funkybird",
+        "label": "Funky Bird"
+      },
+      "raw_cells": [
+        "Herb man",
+        "=",
+        "Any Plant",
+        "+",
+        "Funky Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madplant",
+        "label": "Mad Plant"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Mad Plant",
+        "=",
+        "Any Plant",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:maneater",
+        "label": "Man Eater"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:evilseed",
+        "label": "Evil Seed"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:evilseed",
+        "label": "Evil Seed"
+      },
+      "raw_cells": [
+        "Man Eater",
+        "=",
+        "Evil Seed",
+        "+",
+        "Evil Seed"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:oniono",
+        "label": "Oniono"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:gophecada",
+        "label": "Gophecada"
+      },
+      "raw_cells": [
+        "Oniono",
+        "=",
+        "Any Plant",
+        "+",
+        "Gophecada"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:rosevine",
+        "label": "Rose Vine"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "boss",
+        "label": "Any Boss"
+      },
+      "raw_cells": [
+        "Rose Vine",
+        "=",
+        "Any Plant",
+        "+",
+        "Any Boss"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:snapper",
+        "label": "Snapper"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:maneater",
+        "label": "Man Eater"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:maneater",
+        "label": "Man Eater"
+      },
+      "raw_cells": [
+        "Snapper",
+        "=",
+        "Man Eater",
+        "+",
+        "Man Eater"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:stubsuck",
+        "label": "Stub Suck"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:stubsuck",
+        "label": "Stub Suck"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "raw_cells": [
+        "Stub Suck",
+        "=",
+        "Stub Suck",
+        "+",
+        "Any Plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:toadstool",
+        "label": "Toadstool"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombiee",
+        "label": "Any Zombiee"
+      },
+      "raw_cells": [
+        "Toadstool",
+        "=",
+        "Any Plant",
+        "+",
+        "Any Zombiee"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:treeboy",
+        "label": "Tree Boy"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:pixy",
+        "label": "Pixy"
+      },
+      "raw_cells": [
+        "Tree Boy",
+        "=",
+        "Any Plant",
+        "+",
+        "Pixy"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:watabou",
+        "label": "Watabou"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "N/A"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "N/A"
+      },
+      "raw_cells": [
+        "Watabou",
+        "=",
+        "N/A",
+        "+",
+        "N/A"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:wingtree",
+        "label": "Wing Tree"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Wing Tree",
+        "=",
+        "Any Plant",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:babble",
+        "label": "Babble"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Babble",
+        "=",
+        "Any Slime",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:boxslime",
+        "label": "Box Slime"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any Material"
+      },
+      "raw_cells": [
+        "Box Slime",
+        "=",
+        "Any Slime",
+        "+",
+        "Any Material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:drakslime",
+        "label": "Drak Slime"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Drak Slime",
+        "=",
+        "Any Slime",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:fangslime",
+        "label": "Fang Slime"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Almiraj / Mad Cat"
+      },
+      "raw_cells": [
+        "Fang Slime",
+        "=",
+        "Any Slime",
+        "+",
+        "Almiraj / Mad Cat"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:goldslime",
+        "label": "Gold Slime"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:metalking",
+        "label": "Metal King"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:metalking",
+        "label": "Metal King"
+      },
+      "raw_cells": [
+        "Gold Slime",
+        "=",
+        "Metal King",
+        "+",
+        "Metal King"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:goldslime",
+        "label": "Gold Slime"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Spot King / King Slime / Metal King"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:goldgolem",
+        "label": "Gold Golem"
+      },
+      "raw_cells": [
+        "Gold Slime",
+        "=",
+        "Spot King / King Slime / Metal King",
+        "+",
+        "Gold Golem"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:healer",
+        "label": "Healer"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Mad Plant / Pillow Rat"
+      },
+      "raw_cells": [
+        "Healer",
+        "=",
+        "Any Slime",
+        "+",
+        "Mad Plant / Pillow Rat"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:kingslime",
+        "label": "King Slime"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:slime",
+        "label": "Slime +5"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:slime",
+        "label": "Slime"
+      },
+      "raw_cells": [
+        "King Slime",
+        "=",
+        "Slime +5",
+        "+",
+        "Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:kingslime",
+        "label": "King Slime"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotking",
+        "label": "Spot King"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Dead Noble / Mad Condor"
+      },
+      "raw_cells": [
+        "King Slime",
+        "=",
+        "Spot King",
+        "+",
+        "Dead Noble / Mad Condor"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:metabble",
+        "label": "Metabble"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaly",
+        "label": "Metaly"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaly",
+        "label": "Metaly"
+      },
+      "raw_cells": [
+        "Metabble",
+        "=",
+        "Metaly",
+        "+",
+        "Metaly"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:metalking",
+        "label": "Metal King"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Spot King / King Slime"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaldrak",
+        "label": "Metal Drak"
+      },
+      "raw_cells": [
+        "Metal King",
+        "=",
+        "Spot King / King Slime",
+        "+",
+        "Metal Drak"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:metalking",
+        "label": "Metal King"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:metabble",
+        "label": "Metabble"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:metabble",
+        "label": "Metabble"
+      },
+      "raw_cells": [
+        "Metal King",
+        "=",
+        "Metabble",
+        "+",
+        "Metabble"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaly",
+        "label": "Metaly"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaldrak",
+        "label": "Metal Drak"
+      },
+      "raw_cells": [
+        "Metaly",
+        "=",
+        "Any Slime",
+        "+",
+        "Metal Drak"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:rockslime",
+        "label": "Rock Slime"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:bombcrag",
+        "label": "Bomb Crag"
+      },
+      "raw_cells": [
+        "Rock Slime",
+        "=",
+        "Any Slime",
+        "+",
+        "Bomb Crag"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:slabbit",
+        "label": "Slabbit"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:skullroo",
+        "label": "Skullroo"
+      },
+      "raw_cells": [
+        "Slabbit",
+        "=",
+        "Any Slime",
+        "+",
+        "Skullroo"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:slime",
+        "label": "Slime"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:slime",
+        "label": "Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Slime",
+        "=",
+        "Slime",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:slimeborg",
+        "label": "Slime Borg"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:roboster",
+        "label": "Roboster"
+      },
+      "raw_cells": [
+        "Slime Borg",
+        "=",
+        "Any Slime",
+        "+",
+        "Roboster"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:slimenite",
+        "label": "SlimeNite"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "SlimeNite",
+        "=",
+        "Any Slime",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:snaily",
+        "label": "Snaily"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Snaily",
+        "=",
+        "Any Slime",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotking",
+        "label": "Spot King"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "King Slime / Metal King"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Dead Noble / Mad Condor"
+      },
+      "raw_cells": [
+        "Spot King",
+        "=",
+        "King Slime / Metal King",
+        "+",
+        "Dead Noble / Mad Condor"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotking",
+        "label": "Spot King"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotslime",
+        "label": "Spot Slime +5"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotslime",
+        "label": "Spot Slime"
+      },
+      "raw_cells": [
+        "Spot King",
+        "=",
+        "Spot Slime +5",
+        "+",
+        "Spot Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotslime",
+        "label": "Spot Slime"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Spot Slime",
+        "=",
+        "Any Slime",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:treeslime",
+        "label": "Tree Slime"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "raw_cells": [
+        "Tree Slime",
+        "=",
+        "Any Slime",
+        "+",
+        "Any Plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:wingslime",
+        "label": "Wing Slime"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Wing Slime",
+        "=",
+        "Any Slime",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:boneslave",
+        "label": "Bone Slave"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:hork",
+        "label": "Hork"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:hork",
+        "label": "Hork"
+      },
+      "raw_cells": [
+        "Bone Slave",
+        "=",
+        "Hork",
+        "+",
+        "Hork"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:copycat",
+        "label": "Copy Cat"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:copycat",
+        "label": "Copy Cat"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Copy Cat",
+        "=",
+        "Copy Cat",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:darkcrab",
+        "label": "Dark Crab"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bug",
+        "label": "Any Bug"
+      },
+      "raw_cells": [
+        "Dark Crab",
+        "=",
+        "Any Zombie",
+        "+",
+        "Any Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:deadnite",
+        "label": "Dead Nite"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Dead Nite",
+        "=",
+        "Any Zombie",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:deadnoble",
+        "label": "Dead Noble"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:deadnite",
+        "label": "Dead Nite"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:deadnite",
+        "label": "Dead Nite"
+      },
+      "raw_cells": [
+        "Dead Noble",
+        "=",
+        "Dead Nite",
+        "+",
+        "Dead Nite"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:hork",
+        "label": "Hork"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:hork",
+        "label": "Hork"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "raw_cells": [
+        "Hork",
+        "=",
+        "Hork",
+        "+",
+        "Any Zombie"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madspirit",
+        "label": "Mad Spirit"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "dragon",
+        "label": "Any Dragon"
+      },
+      "raw_cells": [
+        "Mad Spirit",
+        "=",
+        "Any Zombie",
+        "+",
+        "Any Dragon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:mudron",
+        "label": "Mudron"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:giantslug",
+        "label": "Giant Slug"
+      },
+      "raw_cells": [
+        "Mudron",
+        "=",
+        "Any Zombie",
+        "+",
+        "Giant Slug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:mummy",
+        "label": "Mummy"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "plant",
+        "label": "Any Plant"
+      },
+      "raw_cells": [
+        "Mummy",
+        "=",
+        "Any Zombie",
+        "+",
+        "Any Plant"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:nitewhip",
+        "label": "Nite Whip"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:mistywing",
+        "label": "Misty Wing"
+      },
+      "raw_cells": [
+        "Nite Whip",
+        "=",
+        "Any Zombie",
+        "+",
+        "Misty Wing"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:putrepup",
+        "label": "Putrepup"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any beast"
+      },
+      "raw_cells": [
+        "Putrepup",
+        "=",
+        "Any Zombie",
+        "+",
+        "Any beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:reaper",
+        "label": "Reaper"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:weedbug",
+        "label": "Weed Bug"
+      },
+      "raw_cells": [
+        "Reaper",
+        "=",
+        "Any Zombie",
+        "+",
+        "Weed Bug"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:rotraven",
+        "label": "Rot raven"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "raw_cells": [
+        "Rot raven",
+        "=",
+        "Any Zombie",
+        "+",
+        "Any Bird"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:servant",
+        "label": "Servant"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:skeletor",
+        "label": "Skeletor"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:skeletor",
+        "label": "Skeletor"
+      },
+      "raw_cells": [
+        "Servant",
+        "=",
+        "Skeletor",
+        "+",
+        "Skeletor"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:shadow",
+        "label": "Shadow"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "material",
+        "label": "Any material"
+      },
+      "raw_cells": [
+        "Shadow",
+        "=",
+        "Any Zombie",
+        "+",
+        "Any material"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:skeletor",
+        "label": "Skeletor"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:boneslave",
+        "label": "Bone Slave"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:boneslave",
+        "label": "Bone Slave"
+      },
+      "raw_cells": [
+        "Skeletor",
+        "=",
+        "Bone Slave",
+        "+",
+        "Bone Slave"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:skullgon",
+        "label": "Skullgon"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:swordgon",
+        "label": "Swordgon"
+      },
+      "raw_cells": [
+        "Skullgon",
+        "=",
+        "Any Zombie",
+        "+",
+        "Swordgon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:spooky",
+        "label": "Spooky"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "raw_cells": [
+        "Spooky",
+        "=",
+        "Any Zombie",
+        "+",
+        "Any Slime"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:whiteking",
+        "label": "White King"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:deadnoble",
+        "label": "Dead Noble"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotking",
+        "label": "Spot King"
+      },
+      "raw_cells": [
+        "White King",
+        "=",
+        "Dead Noble",
+        "+",
+        "Spot King"
+      ],
+      "verified": false
+    },
+    {
+      "family": "zombie",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=zombie",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:windmerge",
+        "label": "Wind Merge"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "zombie",
+        "label": "Any Zombie"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:windbeast",
+        "label": "Wind Beast"
+      },
+      "raw_cells": [
+        "Wind Merge",
+        "=",
+        "Any Zombie",
+        "+",
+        "Wind Beast"
+      ],
+      "verified": false
+    }
+  ],
+  "unresolved_count": 18,
+  "unresolved_samples": [
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Anteater"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Anteater"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "raw_cells": [
+        "Anteater",
+        "=",
+        "Anteater",
+        "+",
+        "Any Beast"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:ironturt",
+        "label": "Iron Turt"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Tortagon"
+      },
+      "raw_cells": [
+        "Iron Turt",
+        "=",
+        "Any Beast",
+        "+",
+        "Tortagon"
+      ],
+      "verified": false
+    },
+    {
+      "family": "beast",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=beast",
+      "offspring": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Monnonja"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "beast",
+        "label": "Any Beast"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:duckkite",
+        "label": "Duck Kite"
+      },
+      "raw_cells": [
+        "Monnonja",
+        "=",
+        "Any Beast",
+        "+",
+        "Duck Kite"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:blizzardy",
+        "label": "Blizzardy"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Metabble / Metaly / Ice Man"
+      },
+      "raw_cells": [
+        "Blizzardy",
+        "=",
+        "Any Bird",
+        "+",
+        "Metabble / Metaly / Ice Man"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madgoose",
+        "label": "Mad Goose"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Drool"
+      },
+      "raw_cells": [
+        "Mad Goose",
+        "=",
+        "Any Bird",
+        "+",
+        "Drool"
+      ],
+      "verified": false
+    },
+    {
+      "family": "bird",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=bird",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:phoenix",
+        "label": "Phoenix"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "bird",
+        "label": "Any Bird"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Lava Man / Gismo"
+      },
+      "raw_cells": [
+        "Phoenix",
+        "=",
+        "Any Bird",
+        "+",
+        "Lava Man / Gismo"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:deathmore-1",
+        "label": "Death More 1"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:zoma",
+        "label": "Zoma"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Mirudraas 1 / Mirudraas 2"
+      },
+      "raw_cells": [
+        "Death More 1",
+        "=",
+        "Zoma",
+        "+",
+        "Mirudraas 1 / Mirudraas 2"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:dracolord-1",
+        "label": "Draco Lord 1"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:servant",
+        "label": "Servant"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Andreal / Great Drak"
+      },
+      "raw_cells": [
+        "Draco Lord 1",
+        "=",
+        "Servant",
+        "+",
+        "Andreal / Great Drak"
+      ],
+      "verified": false
+    },
+    {
+      "family": "boss",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=boss",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:zoma",
+        "label": "Zoma"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "DracoLord 1 / DracoLord 2"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:sidoh",
+        "label": "Sidoh"
+      },
+      "raw_cells": [
+        "Zoma",
+        "=",
+        "DracoLord 1 / DracoLord 2",
+        "+",
+        "Sidoh"
+      ],
+      "verified": false
+    },
+    {
+      "family": "devil",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=devil",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:madknight",
+        "label": "Mad Knight"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Rouge Nite"
+      },
+      "raw_cells": [
+        "Mad Knight",
+        "=",
+        "Any Devil",
+        "+",
+        "Rouge Nite"
+      ],
+      "verified": false
+    },
+    {
+      "family": "material",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=material",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:balzak",
+        "label": "Balzak"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Ice Man / Lava Man"
+      },
+      "parent2": {
+        "kind": "family",
+        "family": "devil",
+        "label": "Any Devil"
+      },
+      "raw_cells": [
+        "Balzak",
+        "=",
+        "Ice Man / Lava Man",
+        "+",
+        "Any Devil"
+      ],
+      "verified": false
+    },
+    {
+      "family": "plant",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=plant",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:watabou",
+        "label": "Watabou"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "N/A"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "N/A"
+      },
+      "raw_cells": [
+        "Watabou",
+        "=",
+        "N/A",
+        "+",
+        "N/A"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:fangslime",
+        "label": "Fang Slime"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Almiraj / Mad Cat"
+      },
+      "raw_cells": [
+        "Fang Slime",
+        "=",
+        "Any Slime",
+        "+",
+        "Almiraj / Mad Cat"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:goldslime",
+        "label": "Gold Slime"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Spot King / King Slime / Metal King"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:goldgolem",
+        "label": "Gold Golem"
+      },
+      "raw_cells": [
+        "Gold Slime",
+        "=",
+        "Spot King / King Slime / Metal King",
+        "+",
+        "Gold Golem"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:healer",
+        "label": "Healer"
+      },
+      "parent1": {
+        "kind": "family",
+        "family": "slime",
+        "label": "Any Slime"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Mad Plant / Pillow Rat"
+      },
+      "raw_cells": [
+        "Healer",
+        "=",
+        "Any Slime",
+        "+",
+        "Mad Plant / Pillow Rat"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:kingslime",
+        "label": "King Slime"
+      },
+      "parent1": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotking",
+        "label": "Spot King"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Dead Noble / Mad Condor"
+      },
+      "raw_cells": [
+        "King Slime",
+        "=",
+        "Spot King",
+        "+",
+        "Dead Noble / Mad Condor"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:metalking",
+        "label": "Metal King"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Spot King / King Slime"
+      },
+      "parent2": {
+        "kind": "monster",
+        "id": "dwm1gbc:metaldrak",
+        "label": "Metal Drak"
+      },
+      "raw_cells": [
+        "Metal King",
+        "=",
+        "Spot King / King Slime",
+        "+",
+        "Metal Drak"
+      ],
+      "verified": false
+    },
+    {
+      "family": "slime",
+      "source": "https://www.woodus.com/den/games/dwm1gbc/breeding-details.php?fam=slime",
+      "offspring": {
+        "kind": "monster",
+        "id": "dwm1gbc:spotking",
+        "label": "Spot King"
+      },
+      "parent1": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "King Slime / Metal King"
+      },
+      "parent2": {
+        "kind": "unresolved",
+        "id": null,
+        "label": "Dead Noble / Mad Condor"
+      },
+      "raw_cells": [
+        "Spot King",
+        "=",
+        "King Slime / Metal King",
+        "+",
+        "Dead Noble / Mad Condor"
+      ],
+      "verified": false
+    }
+  ]
+}
