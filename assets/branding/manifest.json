@@ -2,7 +2,8 @@
   "games": {
     "dwm": "assets/branding/dwm1gbc/logo.webp",
     "dwm2": "assets/branding/dwm2gbc/logo.webp",
-    "darkprince": "assets/branding/darkprince/logo.webp"
+    "darkprince": "assets/branding/darkprince/logo.webp",
+    "witheredworld": "assets/branding/witheredworld/logo.webp"
   },
   "families": {
     "dwm1gbc": {
@@ -38,6 +39,11 @@
       "file": "File:DQM3 Logo.png",
       "image_url": "https://dragon-quest.org/w/images/8/88/DQM3_Logo.png",
       "source": "Dragon Quest Wiki: title logo image"
+    },
+    "witheredworld": {
+      "gallery": "https://www.woodus.com/den/games/dqm8/logos.php",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm8/logo/dqm4-logo-na.webp",
+      "source": "Dragon's Den dedicated Logos gallery"
     }
   }
 }
