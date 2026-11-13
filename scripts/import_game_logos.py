@@ -10,7 +10,7 @@ import re
 from io import BytesIO
 from pathlib import Path
 import requests
-from PIL import Image
+from PIL import Image\nfrom bs4 import BeautifulSoup\nfrom urllib.parse import urljoin
 
 API = "https://dragon-quest.org/w/api.php"
 SEARCHES = {
@@ -25,6 +25,19 @@ SEARCHES = {
     "joker3pro": (["DQMJ3 Pro Logo", "Joker 3 Professional logo"], [["dqmj3", "pro"], ["joker", "3", "professional"]]),
     "darkprince": (["DQM3 Logo", "Dark Prince logo"], [["dqm3"], ["dark", "prince"]]),
     "witheredworld": (["The Withered World logo", "DQM The Withered World logo"], [["withered", "world"]]),
+}
+# Dedicated logos gallery: unlike the series overview, these pages show logos, not covers.
+WOODUS_LOGOS = {
+    "dqm12": "https://www.woodus.com/den/games/dqmpsx/logos.php",
+    "caravan": "https://www.woodus.com/den/games/dqm3gba/logos.php",
+    "joker": "https://www.woodus.com/den/games/dqm4ds/logos.php",
+    "joker2": "https://www.woodus.com/den/games/dqm5ds/logos.php",
+    "joker2pro": "https://www.woodus.com/den/games/dqm5ds/logos.php",
+    "terry3d": "https://www.woodus.com/den/games/dqm13ds/logos.php",
+    "dqm2-3d": "https://www.woodus.com/den/games/dqm23ds/logos.php",
+    "joker3": "https://www.woodus.com/den/games/dqm6/logos.php",
+    "joker3pro": "https://www.woodus.com/den/games/dqm6/logos.php",
+    "witheredworld": "https://www.woodus.com/den/games/dqm8/logos.php",
 }
 EXACT_FILES = {
     "darkprince": "File:DQM3 Logo.png",
@@ -60,6 +73,32 @@ def candidates(session, key):
         data = api(session, {"action":"query","list":"search","srnamespace":6,"srsearch":phrase,"srlimit":40})
         results.extend(x["title"] for x in data.get("query",{}).get("search",[]))
     return list(dict.fromkeys(t for t in results if valid(key,t)))
+def woodus_logo(session,key):
+    page=WOODUS_LOGOS.get(key)
+    if not page: return None
+    try:
+        response=session.get(page,timeout=35)
+        response.raise_for_status()
+        soup=BeautifulSoup(response.text,"html.parser")
+        choices=[]
+        for anchor in soup.select('a[href]'):
+            href=anchor.get("href","")
+            if "/gallery/graphics/" not in href or "/logo/" not in href: continue
+            label=anchor.get_text(" ",strip=True).lower()
+            full=urljoin(page,href)
+            if key=="witheredworld" and not ("withered world" in label and ("na" in label or "english" in label)): continue
+            if key=="joker2pro" and "pro" not in label and "pro" not in href.lower(): continue
+            if key=="joker3pro" and "pro" not in label and "pro" not in href.lower(): continue
+            if key=="joker2" and ("pro" in label or "pro" in href.lower()): continue
+            if key=="joker3" and ("pro" in label or "pro" in href.lower()): continue
+            choices.append((label,full))
+        choices=list(dict.fromkeys(choices))
+        if len(choices)==1: return choices[0][1]
+        print("WOODUS ambiguous/missing",key,choices[:12])
+    except Exception as exc:
+        print("WOODUS unavailable",key,str(exc))
+    return None
+
 def main():
     session=requests.Session()
     session.headers.update({"User-Agent":"DQM-Roster-LogoImporter/2.0 (GitHub Actions; sourcing game logo art)"})
@@ -73,7 +112,7 @@ def main():
             missing.append(key)
             continue
         try:
-            found=candidates(session,key)
+            direct=woodus_logo(session,key)\n            found=[] if direct else candidates(session,key)
             if len(found)!=1:
                 # Exact known logo file wins over ambiguous search results.
                 exact=EXACT_FILES.get(key)
@@ -98,7 +137,7 @@ def main():
             output.parent.mkdir(parents=True,exist_ok=True)
             pic.convert("RGBA").save(output,"WEBP",quality=95,method=6)
             manifest["games"][key]=str(output)
-            sources[key]={"file":title,"image_url":item["url"],"source":"Dragon Quest Wiki: title logo image"}
+            sources[key]={"file":title,"image_url":image_url,"source":WOODUS_LOGOS[key] if direct else "Dragon Quest Wiki: title logo image"}
             imported.append(key)
             print("IMPORTED",key,title,pic.size)
         except Exception as exc:
@@ -107,6 +146,6 @@ def main():
     path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n")
     print("Imported:",imported)
     print("Missing (will display text titles):",missing)
-    if not imported: raise SystemExit("No logos found; verify API accessibility or search terms")
+    if not imported: print("No new logos imported; existing artwork remains unchanged")
 if __name__=="__main__":
     main()
