@@ -2,8 +2,6 @@
   "games": {
     "dwm": "assets/branding/dwm1gbc/logo.webp",
     "dwm2": "assets/branding/dwm2gbc/logo.webp",
-    "joker3": "assets/branding/joker3/logo.webp",
-    "joker3pro": "assets/branding/joker3pro/logo.webp",
     "darkprince": "assets/branding/darkprince/logo.webp"
   },
   "families": {
@@ -33,19 +31,9 @@
       "zombie": "assets/branding/families/official/zombie.png"
     }
   },
-  "note": "DWM and DWM2 logos are preserved. Other game logos are imported only from verified logo-specific image files, never box art.",
+  "note": "DWM1, DWM2 and The Dark Prince approved; reject Joker 3 and Joker 3 Professional images pending clean transparent title logos.",
   "family_icon_source": "Dragon Warrior Monsters 2: Cobi's Journey instruction booklet, printed page 17 (PDF page 19). Boss uses the manual's ??? family emblem.",
   "game_logo_sources": {
-    "joker3": {
-      "file": "File:DQMJ3 Logo.png",
-      "image_url": "https://dragon-quest.org/w/images/4/47/DQMJ3_Logo.png",
-      "source": "Dragon Quest Wiki: title logo image"
-    },
-    "joker3pro": {
-      "file": "File:DQMJ3 Pro Logo.png",
-      "image_url": "https://dragon-quest.org/w/images/4/4b/DQMJ3_Pro_Logo.png",
-      "source": "Dragon Quest Wiki: title logo image"
-    },
     "darkprince": {
       "file": "File:DQM3 Logo.png",
       "image_url": "https://dragon-quest.org/w/images/8/88/DQM3_Logo.png",
