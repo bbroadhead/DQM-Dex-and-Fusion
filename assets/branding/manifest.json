@@ -3,7 +3,10 @@
     "dwm": "assets/branding/dwm1gbc/logo.webp",
     "dwm2": "assets/branding/dwm2gbc/logo.webp",
     "darkprince": "assets/branding/darkprince/logo.webp",
-    "witheredworld": "assets/branding/witheredworld/logo.webp"
+    "witheredworld": "assets/branding/witheredworld/logo.webp",
+    "joker": "assets/branding/joker/logo.webp",
+    "dqm2-3d": "assets/branding/dqm2-3d/logo.webp",
+    "joker3": "assets/branding/joker3/logo.webp"
   },
   "families": {
     "dwm1gbc": {
@@ -44,6 +47,21 @@
       "gallery": "https://www.woodus.com/den/games/dqm8/logos.php",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm8/logo/dqm4-logo-na.webp",
       "source": "Dragon's Den dedicated Logos gallery"
+    },
+    "joker": {
+      "gallery": "https://dragon-quest.org/wiki/File:DQMJ_Logo.png",
+      "image_url": "https://dragon-quest.org/w/images/2/27/DQMJ_Logo.png",
+      "source": "Dragon Quest Wiki dedicated file page; transparency and proportions validated"
+    },
+    "dqm2-3d": {
+      "gallery": "https://dragon-quest.org/wiki/File:DQM2_3DS_Logo.png",
+      "image_url": "https://dragon-quest.org/w/images/8/80/DQM2_3DS_Logo.png",
+      "source": "Dragon Quest Wiki dedicated file page; transparency and proportions validated"
+    },
+    "joker3": {
+      "gallery": "https://dragon-quest.org/wiki/File:DQMJ3_Logo.png",
+      "image_url": "https://dragon-quest.org/w/images/4/47/DQMJ3_Logo.png",
+      "source": "Dragon Quest Wiki dedicated file page; transparency and proportions validated"
     }
   }
 }
