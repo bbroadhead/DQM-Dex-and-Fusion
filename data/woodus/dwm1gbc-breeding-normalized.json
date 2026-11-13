@@ -4,10 +4,10 @@
   "record_type": "normalized_breeding_chart_rows",
   "warning": "Source transcription and name matching only; breeding mechanics, variants and priority not independently verified.",
   "total_rows": 219,
-  "simple_rows": 204,
+  "simple_rows": 206,
   "alternative_fields": 13,
   "unavailable_rows": 1,
-  "unresolved_rows": 3,
+  "unresolved_rows": 1,
   "unresolved_details": [
     {
       "index": 173,
@@ -23,40 +23,6 @@
       "parent2": {
         "kind": "unavailable",
         "label": "N/A"
-      }
-    },
-    {
-      "index": 182,
-      "offspring": {
-        "kind": "monster",
-        "label": "King Slime",
-        "id": "dwm1gbc:kingslime"
-      },
-      "parent1": {
-        "kind": "unresolved",
-        "label": "Slime +5"
-      },
-      "parent2": {
-        "kind": "monster",
-        "label": "Slime",
-        "id": "dwm1gbc:slime"
-      }
-    },
-    {
-      "index": 195,
-      "offspring": {
-        "kind": "monster",
-        "label": "Spot King",
-        "id": "dwm1gbc:spotking"
-      },
-      "parent1": {
-        "kind": "unresolved",
-        "label": "Spot Slime +5"
-      },
-      "parent2": {
-        "kind": "monster",
-        "label": "Spot Slime",
-        "id": "dwm1gbc:spotslime"
       }
     }
   ],
@@ -5282,8 +5248,10 @@
         "id": "dwm1gbc:kingslime"
       },
       "parent1": {
-        "kind": "unresolved",
-        "label": "Slime +5"
+        "kind": "monster",
+        "label": "Slime +5",
+        "id": "dwm1gbc:slime",
+        "minimum_plus": 5
       },
       "parent2": {
         "kind": "monster",
@@ -5689,8 +5657,10 @@
         "id": "dwm1gbc:spotking"
       },
       "parent1": {
-        "kind": "unresolved",
-        "label": "Spot Slime +5"
+        "kind": "monster",
+        "label": "Spot Slime +5",
+        "id": "dwm1gbc:spotslime",
+        "minimum_plus": 5
       },
       "parent2": {
         "kind": "monster",
