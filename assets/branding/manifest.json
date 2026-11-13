@@ -5,30 +5,31 @@
   },
   "families": {
     "dwm1gbc": {
-      "beast": "assets/branding/families/beast.svg",
-      "bird": "assets/branding/families/bird.svg",
-      "boss": "assets/branding/families/boss.svg",
-      "bug": "assets/branding/families/bug.svg",
-      "devil": "assets/branding/families/devil.svg",
-      "dragon": "assets/branding/families/dragon.svg",
-      "material": "assets/branding/families/material.svg",
-      "plant": "assets/branding/families/plant.svg",
-      "slime": "assets/branding/families/slime.svg",
-      "zombie": "assets/branding/families/zombie.svg"
+      "beast": "assets/branding/families/official/beast.png",
+      "bird": "assets/branding/families/official/bird.png",
+      "boss": "assets/branding/families/official/boss.png",
+      "bug": "assets/branding/families/official/bug.png",
+      "devil": "assets/branding/families/official/devil.png",
+      "dragon": "assets/branding/families/official/dragon.png",
+      "material": "assets/branding/families/official/material.png",
+      "plant": "assets/branding/families/official/plant.png",
+      "slime": "assets/branding/families/official/slime.png",
+      "zombie": "assets/branding/families/official/zombie.png"
     },
     "dwm2gbc": {
-      "beast": "assets/branding/families/beast.svg",
-      "bird": "assets/branding/families/bird.svg",
-      "boss": "assets/branding/families/boss.svg",
-      "bug": "assets/branding/families/bug.svg",
-      "devil": "assets/branding/families/devil.svg",
-      "dragon": "assets/branding/families/dragon.svg",
-      "material": "assets/branding/families/material.svg",
-      "plant": "assets/branding/families/plant.svg",
-      "slime": "assets/branding/families/slime.svg",
-      "water": "assets/branding/families/water.svg",
-      "zombie": "assets/branding/families/zombie.svg"
+      "beast": "assets/branding/families/official/beast.png",
+      "bird": "assets/branding/families/official/bird.png",
+      "boss": "assets/branding/families/official/boss.png",
+      "bug": "assets/branding/families/official/bug.png",
+      "devil": "assets/branding/families/official/devil.png",
+      "dragon": "assets/branding/families/official/dragon.png",
+      "material": "assets/branding/families/official/material.png",
+      "plant": "assets/branding/families/official/plant.png",
+      "slime": "assets/branding/families/official/slime.png",
+      "water": "assets/branding/families/official/water.png",
+      "zombie": "assets/branding/families/official/zombie.png"
     }
   },
-  "note": "Original SVG family emblems are separate from all monster sprites. Third-party game logos and monster images retain their own source/rights considerations."
+  "note": "Original SVG family emblems are separate from all monster sprites. Third-party game logos and monster images retain their own source/rights considerations.",
+  "family_icon_source": "Dragon Warrior Monsters 2: Cobi's Journey instruction booklet, printed page 17 (PDF page 19). Boss uses the manual's ??? family emblem."
 }
