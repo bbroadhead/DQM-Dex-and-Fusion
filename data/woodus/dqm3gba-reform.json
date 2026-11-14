@@ -1,7 +1,7 @@
 {
   "game": "dqm3gba",
   "system": "Reform (Tenshin)",
-  "status": "mechanics_documented_recipes_pending",
+  "status": "partial_verified_special_recipes",
   "inputs": [
     "base_monster",
     "heart_1",
@@ -34,6 +34,70 @@
     "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/22719",
     "https://dragon-quest.org/wiki/Dragon_Quest_Monsters:_Caravan_Heart"
   ],
-  "recipes": [],
+  "recipes": [
+    {
+      "base": "dqm3gba:phoenix",
+      "heart1": "dqm3gba:phoenix",
+      "heart2": "dqm3gba:blizzardy",
+      "result": "dqm3gba:rain-hawk",
+      "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/22719",
+      "type": "special",
+      "notes": "Specific combination overrides general family table."
+    },
+    {
+      "base": "dqm3gba:jenodark",
+      "heart1": "dqm3gba:jenodark",
+      "heart2": "dqm3gba:jenodark",
+      "result": "dqm3gba:divinegon",
+      "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
+      "type": "special",
+      "notes": "Six-star special reform."
+    },
+    {
+      "base": "dqm3gba:white-king",
+      "heart1": "dqm3gba:white-king",
+      "heart2": "dqm3gba:white-king",
+      "result": "dqm3gba:night-lich",
+      "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
+      "type": "special",
+      "notes": "Six-star special reform."
+    },
+    {
+      "base": "dqm3gba:roboster-2",
+      "heart1": "dqm3gba:roboster-2",
+      "heart2": "dqm3gba:roboster-2",
+      "result": "dqm3gba:drakmachine",
+      "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
+      "type": "special",
+      "notes": "Six-star special reform."
+    },
+    {
+      "base": "dqm3gba:king-leo",
+      "heart1": "dqm3gba:king-leo",
+      "heart2": "dqm3gba:king-leo",
+      "result": "dqm3gba:infergon",
+      "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
+      "type": "special",
+      "notes": "Six-star special reform."
+    },
+    {
+      "base": "dqm3gba:golden-slime",
+      "heart1": "dqm3gba:golden-slime",
+      "heart2": "dqm3gba:golden-slime",
+      "result": "dqm3gba:gran-slime",
+      "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
+      "type": "special",
+      "notes": "Six-star special reform."
+    },
+    {
+      "base": "dqm3gba:death-sizer",
+      "heart1": "dqm3gba:death-sizer",
+      "heart2": "dqm3gba:death-sizer",
+      "result": "dqm3gba:scarabator",
+      "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
+      "type": "special",
+      "notes": "Six-star special reform."
+    }
+  ],
   "notes": "This is a mechanics schema, not a complete verified recipe table. Never show recipe results until validated source data is imported."
 }
