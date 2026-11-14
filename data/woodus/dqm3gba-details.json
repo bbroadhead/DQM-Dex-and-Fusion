@@ -51,8 +51,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:almiraj",
@@ -104,8 +104,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:alue",
@@ -157,8 +157,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:andreal",
@@ -210,8 +210,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:aqua-slime",
@@ -263,8 +263,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:arc-belial",
@@ -330,13 +330,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:armorpede",
       "name": "Armorpede",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250783&mname=Armorpede",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpede.webp",
       "metadata_status": "pending_verification",
@@ -383,11 +383,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_candidates": [
-        "Material",
-        "Nature"
-      ],
-      "family_verification": "conflicting_reform_chart_columns"
+      "family_verification": "listed_in_game_specific_bestiary",
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster"
     },
     {
       "id": "dqm3gba:armorpion",
@@ -492,8 +489,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:baby-panther",
@@ -545,8 +542,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:baraxe",
@@ -565,7 +562,7 @@
     {
       "id": "dqm3gba:barbaru",
       "name": "Barbaru",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250980&mname=Barbaru",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/barubaru.webp",
       "metadata_status": "pending_verification",
@@ -611,7 +608,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:barblade",
@@ -677,13 +676,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:belzebub",
       "name": "Belzebub",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250834&mname=Belzebub",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/beelzebug.webp",
       "metadata_status": "pending_verification",
@@ -729,7 +728,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:berserker",
@@ -781,8 +782,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:big-eye",
@@ -834,13 +835,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:big-mommonja",
       "name": "Big Mommonja",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250942&mname=Big Mommonja",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigmommonja.webp",
       "metadata_status": "pending_verification",
@@ -886,7 +887,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:big-scorpion",
@@ -938,8 +941,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:blizzard",
@@ -991,8 +994,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:blizzardy",
@@ -1044,8 +1047,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:bomb-crag",
@@ -1097,8 +1100,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:boohbah",
@@ -1150,8 +1153,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:boss-troll",
@@ -1203,8 +1206,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:bubble-king",
@@ -1256,8 +1259,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:bubble-slime",
@@ -1362,8 +1365,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:cacti-ball",
@@ -1415,8 +1418,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:cat-mage",
@@ -1468,13 +1471,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:celestial-beast",
       "name": "Celestial Beast",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250982&mname=Celestial Beast",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/heaven_monster.webp",
       "metadata_status": "pending_verification",
@@ -1520,7 +1523,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:cergainas",
@@ -1572,8 +1577,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:chain-djinn",
@@ -1625,8 +1630,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:chaos-drake",
@@ -1678,8 +1683,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:chestnut-man",
@@ -1731,8 +1736,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:clay-man",
@@ -1784,8 +1789,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:cloud-king",
@@ -1837,8 +1842,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:confetti",
@@ -1890,8 +1895,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:crystal-slime",
@@ -1943,8 +1948,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dance-vegi",
@@ -1996,8 +2001,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dark-crystal",
@@ -2049,8 +2054,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dark-flame",
@@ -2116,8 +2121,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dark-slime",
@@ -2169,13 +2174,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dark-spirit",
       "name": "Dark Spirit",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250977&mname=Dark Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_darkness.webp",
       "metadata_status": "pending_verification",
@@ -2221,7 +2226,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:darkking",
@@ -2273,8 +2280,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:darkknight",
@@ -2326,8 +2333,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:darth-dragon",
@@ -2393,8 +2400,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dead-knight",
@@ -2446,8 +2453,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dead-masker",
@@ -2499,8 +2506,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:death-blizzard",
@@ -2566,8 +2573,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:death-sizer",
@@ -2619,8 +2626,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:demighoul-m-ch",
@@ -2725,8 +2732,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:demonite",
@@ -2778,13 +2785,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:divinegon",
       "name": "Divinegon",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250883&mname=Divinegon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/divinegon.webp",
       "metadata_status": "pending_verification",
@@ -2830,12 +2837,14 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:domedy",
       "name": "Domedy",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250981&mname=Domedy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/domedi.webp",
       "metadata_status": "pending_verification",
@@ -2881,7 +2890,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dradon",
@@ -2933,8 +2944,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dragon",
@@ -2986,8 +2997,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dragon-kid",
@@ -3039,13 +3050,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dragon-lord",
       "name": "Dragon Lord",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250778&mname=Dragon Lord",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon_lord.webp",
       "metadata_status": "pending_verification",
@@ -3091,7 +3102,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dragon-rider",
@@ -3143,8 +3156,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:drakee",
@@ -3196,13 +3209,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:drakmachine",
       "name": "DrakMachine",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250967&mname=DrakMachine",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mechadragon.webp",
       "metadata_status": "pending_verification",
@@ -3248,7 +3261,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:dreen",
@@ -3300,8 +3315,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:droll",
@@ -3353,8 +3368,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:drollerium",
@@ -3406,13 +3421,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:durran",
       "name": "Durran",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250882&mname=Durran",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/durran.webp",
       "metadata_status": "pending_verification",
@@ -3458,12 +3473,14 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:earth-spirit",
       "name": "Earth Spirit",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250972&mname=Earth Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_earth.webp",
       "metadata_status": "pending_verification",
@@ -3509,7 +3526,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:eggplaton",
@@ -3561,8 +3580,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:evil-armor",
@@ -3614,8 +3633,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:face-tree",
@@ -3667,8 +3686,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:fire-mister",
@@ -3687,7 +3706,7 @@
     {
       "id": "dqm3gba:fire-spirit",
       "name": "Fire Spirit",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250974&mname=Fire Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_fire.webp",
       "metadata_status": "pending_verification",
@@ -3733,7 +3752,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:flame",
@@ -3785,8 +3806,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:florajay",
@@ -3838,8 +3859,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:flower-beat",
@@ -3891,8 +3912,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gargoyle",
@@ -3944,8 +3965,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gateguard",
@@ -3997,13 +4018,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:ghostar-fish",
       "name": "Ghostar Fish",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250894&mname=Ghostar Fish",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/starfish.webp",
       "metadata_status": "pending_verification",
@@ -4050,11 +4071,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_candidates": [
-        "Nature",
-        "Animal"
-      ],
-      "family_verification": "conflicting_reform_chart_columns"
+      "family_verification": "listed_in_game_specific_bestiary",
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster"
     },
     {
       "id": "dqm3gba:giant-slug",
@@ -4106,8 +4124,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:giant-worm",
@@ -4159,8 +4177,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:giga-atlus",
@@ -4226,8 +4244,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gigantes",
@@ -4279,13 +4297,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gisvarg",
       "name": "Gisvarg",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250984&mname=Gisvarg",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gisuwagu.webp",
       "metadata_status": "pending_verification",
@@ -4331,7 +4349,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gizmo",
@@ -4383,8 +4403,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:goategon",
@@ -4436,13 +4456,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gold-slime",
       "name": "Gold Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250884&mname=Gold Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goldslime.webp",
       "metadata_status": "pending_verification",
@@ -4488,7 +4508,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:golem",
@@ -4540,8 +4562,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:goopi",
@@ -4593,13 +4615,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gophecada",
       "name": "Gophecada",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250848&mname=Gophecada",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gophecada.webp",
       "metadata_status": "pending_verification",
@@ -4645,7 +4667,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:grakos",
@@ -4697,13 +4721,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gran-slime",
       "name": "Gran Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250904&mname=Gran Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granslime.webp",
       "metadata_status": "pending_verification",
@@ -4749,7 +4773,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:grand-satan",
@@ -4801,13 +4827,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:grand-shark",
       "name": "Grand Shark",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250946&mname=Grand Shark",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/landshark.webp",
       "metadata_status": "pending_verification",
@@ -4854,12 +4880,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_candidates": [
-        "Demon",
-        "Animal",
-        "Material"
-      ],
-      "family_verification": "conflicting_reform_chart_columns"
+      "family_verification": "listed_in_game_specific_bestiary",
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster"
     },
     {
       "id": "dqm3gba:great-dragon",
@@ -4911,8 +4933,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:grizzly",
@@ -4964,8 +4986,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gryphynx",
@@ -5017,8 +5039,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:gulp-beast",
@@ -5070,8 +5092,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:halo-slime",
@@ -5123,13 +5145,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:hammer-man",
       "name": "Hammer Man",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250849&mname=Hammer Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hammerman.webp",
       "metadata_status": "pending_verification",
@@ -5175,7 +5197,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:healer",
@@ -5227,8 +5251,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:healmore-moon",
@@ -5294,8 +5318,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:hork",
@@ -5347,8 +5371,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:ice-djinn",
@@ -5400,8 +5424,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:iiro",
@@ -5453,8 +5477,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:illusion-axe",
@@ -5487,7 +5511,7 @@
     {
       "id": "dqm3gba:infergon",
       "name": "Infergon",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250945&mname=Infergon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/infergon.webp",
       "metadata_status": "pending_verification",
@@ -5533,7 +5557,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:iron-hawk",
@@ -5585,8 +5611,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:iron-turtle",
@@ -5638,8 +5664,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:jamirus",
@@ -5691,13 +5717,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:jenodark",
       "name": "Jenodark",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250952&mname=Jenodark",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/genodrak.webp",
       "metadata_status": "pending_verification",
@@ -5743,7 +5769,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:jewel-bag",
@@ -5795,13 +5823,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:kakalon",
       "name": "Kakalon",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250978&mname=Kakalon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kakaron.webp",
       "metadata_status": "pending_verification",
@@ -5847,7 +5875,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:kakalon-food",
@@ -5913,8 +5943,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:king-leo",
@@ -5966,13 +5996,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:king-slime",
       "name": "King Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250836&mname=King Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingslime.webp",
       "metadata_status": "pending_verification",
@@ -6018,7 +6048,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:king-squid",
@@ -6070,8 +6102,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:kith-dragon",
@@ -6090,7 +6122,7 @@
     {
       "id": "dqm3gba:kushalami",
       "name": "Kushalami",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250979&mname=Kushalami",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kusharami.webp",
       "metadata_status": "pending_verification",
@@ -6136,7 +6168,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:kushalami-pal",
@@ -6202,8 +6236,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:lava-djinn",
@@ -6255,13 +6289,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:light-spirit",
       "name": "Light Spirit",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250976&mname=Light Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_light.webp",
       "metadata_status": "pending_verification",
@@ -6307,7 +6341,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:lipsy",
@@ -6359,8 +6395,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:londarkian-hero",
@@ -6440,13 +6476,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mad-cat",
       "name": "Mad Cat",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250858&mname=Mad Cat",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madpanther.webp",
       "metadata_status": "pending_verification",
@@ -6492,7 +6528,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mad-condor",
@@ -6544,8 +6582,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mad-dragon",
@@ -6597,8 +6635,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mad-gopher",
@@ -6650,8 +6688,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mad-hornet",
@@ -6703,8 +6741,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mad-mirror",
@@ -6756,8 +6794,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mad-plant",
@@ -6809,8 +6847,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:magarugi",
@@ -6890,8 +6928,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:magma-slime",
@@ -6943,13 +6981,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:master-dragon",
       "name": "Master Dragon",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250983&mname=Master Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/master_dragon.webp",
       "metadata_status": "pending_verification",
@@ -6995,7 +7033,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:master-slime",
@@ -7047,8 +7087,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:merman",
@@ -7100,8 +7140,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:metabble",
@@ -7153,13 +7193,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:metal-king",
       "name": "Metal King",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250837&mname=Metal King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metalking.webp",
       "metadata_status": "pending_verification",
@@ -7205,7 +7245,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:metal-slime",
@@ -7257,8 +7299,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mimic",
@@ -7310,8 +7352,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:minon",
@@ -7363,8 +7405,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mommonja",
@@ -7416,8 +7458,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:mummy",
@@ -7469,8 +7511,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:muscle-kong",
@@ -7522,13 +7564,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:night-lich",
       "name": "Night Lich",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250900&mname=Night Lich",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/knightlich.webp",
       "metadata_status": "pending_verification",
@@ -7574,7 +7616,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:nocto-king",
@@ -7626,8 +7670,8 @@
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:one-horn",
@@ -7693,8 +7737,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:opabi",
@@ -7746,8 +7790,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:orc",
@@ -7799,8 +7843,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:orochi",
@@ -7852,8 +7896,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:phantom-glass",
@@ -7905,13 +7949,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:phoenix",
       "name": "Phoenix",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250863&mname=Phoenix",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phoenix.webp",
       "metadata_status": "pending_verification",
@@ -7957,7 +8001,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:pimo",
@@ -8009,8 +8055,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:pod-hero",
@@ -8062,8 +8108,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:pompom-bomb",
@@ -8115,8 +8161,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:proto-mech",
@@ -8168,8 +8214,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:pumpk-night",
@@ -8221,8 +8267,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:puppet-man",
@@ -8274,8 +8320,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:pural",
@@ -8327,8 +8373,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:putre-pup",
@@ -8380,8 +8426,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:rain-hawk",
@@ -8433,8 +8479,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:reefer",
@@ -8486,8 +8532,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:roboster",
@@ -8539,13 +8585,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:roboster-2",
       "name": "Roboster 2",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250880&mname=Roboster 2",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster2.webp",
       "metadata_status": "pending_verification",
@@ -8591,12 +8637,14 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:rogue-knight",
       "name": "Rogue Knight",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250805&mname=Rogue Knight",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rogueknight.webp",
       "metadata_status": "pending_verification",
@@ -8642,7 +8690,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:rosevine",
@@ -8694,8 +8744,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:rush-fish",
@@ -8747,8 +8797,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:sabre-man",
@@ -8800,13 +8850,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:scarabator",
       "name": "Scarabator",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250959&mname=Scarabator",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/scarabeetle.webp",
       "metadata_status": "pending_verification",
@@ -8852,7 +8902,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:shadow",
@@ -8904,8 +8956,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:silent-sheep",
@@ -8938,7 +8990,7 @@
     {
       "id": "dqm3gba:skeletor",
       "name": "Skeletor",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250818&mname=Skeletor",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skeletor.webp",
       "metadata_status": "pending_verification",
@@ -8984,7 +9036,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:skullgon",
@@ -9036,8 +9090,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:slime",
@@ -9089,8 +9143,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:slime-knight",
@@ -9142,8 +9196,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:snaily",
@@ -9195,13 +9249,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:snapper",
       "name": "Snapper",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250831&mname=Snapper",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snapper.webp",
       "metadata_status": "pending_verification",
@@ -9248,11 +9302,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_candidates": [
-        "Beast",
-        "Nature"
-      ],
-      "family_verification": "conflicting_reform_chart_columns"
+      "family_verification": "listed_in_game_specific_bestiary",
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster"
     },
     {
       "id": "dqm3gba:snome",
@@ -9304,8 +9355,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:spiky-boy",
@@ -9357,8 +9408,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:spin-slime",
@@ -9410,8 +9461,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:spooky",
@@ -9463,8 +9514,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:stone-kid",
@@ -9516,8 +9567,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:stone-man",
@@ -9569,8 +9620,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:stone-spider",
@@ -9622,8 +9673,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:stonehopper",
@@ -9675,8 +9726,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:stubsuck",
@@ -9728,8 +9779,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:swordgon",
@@ -9781,13 +9832,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:toadstool",
       "name": "Toadstool",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250803&mname=Toadstool",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/toadstool.webp",
       "metadata_status": "pending_verification",
@@ -9833,12 +9884,14 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:tonguella",
       "name": "Tonguella",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250859&mname=Tonguella",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/tonguella.webp",
       "metadata_status": "pending_verification",
@@ -9885,11 +9938,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_candidates": [
-        "Animal",
-        "Nature"
-      ],
-      "family_verification": "conflicting_reform_chart_columns"
+      "family_verification": "listed_in_game_specific_bestiary",
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster"
     },
     {
       "id": "dqm3gba:totem-killer",
@@ -9941,8 +9991,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:triwinder",
@@ -9994,13 +10044,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:trumpeter",
       "name": "Trumpeter",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250860&mname=Trumpeter",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/trumpeter.webp",
       "metadata_status": "pending_verification",
@@ -10047,16 +10097,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_candidates": [
-        "Animal",
-        "Nature"
-      ],
-      "family_verification": "conflicting_reform_chart_columns"
+      "family_verification": "listed_in_game_specific_bestiary",
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster"
     },
     {
       "id": "dqm3gba:unicorn",
       "name": "Unicorn",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250875&mname=Unicorn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp",
       "metadata_status": "pending_verification",
@@ -10103,11 +10150,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_candidates": [
-        "Nature",
-        "Animal"
-      ],
-      "family_verification": "conflicting_reform_chart_columns"
+      "family_verification": "listed_in_game_specific_bestiary",
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster"
     },
     {
       "id": "dqm3gba:vampire-rat",
@@ -10159,8 +10203,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:walrus-man",
@@ -10212,8 +10256,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:wander-monk",
@@ -10316,13 +10360,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:warubou",
       "name": "Warubou",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250902&mname=Warubou",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/warubou.webp",
       "metadata_status": "pending_verification",
@@ -10368,12 +10412,14 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:watabou",
       "name": "Watabou",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250890&mname=Watabou",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/watabou.webp",
       "metadata_status": "pending_verification",
@@ -10419,12 +10465,14 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:water-spirit",
       "name": "Water Spirit",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250973&mname=Water Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_water.webp",
       "metadata_status": "pending_verification",
@@ -10470,12 +10518,14 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:white-king",
       "name": "White King",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250862&mname=White King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/whiteking.webp",
       "metadata_status": "pending_verification",
@@ -10521,7 +10571,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:wicked-axe",
@@ -10573,8 +10625,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:wild-ape-m-ch",
@@ -10679,13 +10731,13 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:wind-spirit",
       "name": "Wind Spirit",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250975&mname=Wind Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_wind.webp",
       "metadata_status": "pending_verification",
@@ -10731,7 +10783,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:wing-tree",
@@ -10783,8 +10837,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     },
     {
       "id": "dqm3gba:wyvern",
@@ -10836,8 +10890,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary family roster",
+      "family_verification": "listed_in_game_specific_bestiary"
     }
   ],
   "source": "https://www.woodus.com/den/games/dqm3gba/monsters.php",
