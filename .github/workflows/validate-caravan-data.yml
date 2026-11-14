@@ -6,6 +6,8 @@ on:
       - 'scripts/validate_caravan_data.py'
       - 'scripts/import_caravan_stats.py'
       - 'scripts/test_caravan_stats_parser.py'
+      - 'scripts/test_caravan_ui.py'
+      - 'index.html'
       - '.github/workflows/validate-caravan-data.yml'
   pull_request:
     paths:
@@ -24,5 +26,7 @@ jobs:
           python-version: '3.12'
       - name: Test Caravan Heart FAQ parsing
         run: python scripts/test_caravan_stats_parser.py
+      - name: Check Caravan Heart browser JavaScript and UI
+        run: python scripts/test_caravan_ui.py
       - name: Validate monster roster, stat records, and reform recipes
         run: python scripts/validate_caravan_data.py
