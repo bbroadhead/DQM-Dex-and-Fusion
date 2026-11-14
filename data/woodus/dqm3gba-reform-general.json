@@ -1,0 +1,73 @@
+{
+  "game": "dqm3gba",
+  "source": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.2, supplied by user",
+  "status": "partial",
+  "stars": {
+    "1": {
+      "Beast": {
+        "Beast": "dqm3gba:dradon",
+        "Demon": "dqm3gba:hork",
+        "Material": "dqm3gba:stone-kid",
+        "Animal": "dqm3gba:baby-panther",
+        "Slime": "dqm3gba:aqua-slime",
+        "Nature": "dqm3gba:flower-beat",
+        "Elemental": "dqm3gba:wind-beast"
+      },
+      "Demon": {
+        "Beast": "dqm3gba:lipsy",
+        "Demon": "dqm3gba:demonite",
+        "Material": "dqm3gba:mad-candle",
+        "Animal": "dqm3gba:stonehopper",
+        "Slime": "dqm3gba:aqua-slime",
+        "Nature": "dqm3gba:giant-slug",
+        "Elemental": "dqm3gba:wind-beast"
+      },
+      "Material": {
+        "Beast": "dqm3gba:dradon",
+        "Demon": "dqm3gba:demonite",
+        "Material": "dqm3gba:totem-killer",
+        "Animal": "dqm3gba:mad-gopher",
+        "Slime": "dqm3gba:confetti",
+        "Nature": "dqm3gba:cacti-ball",
+        "Elemental": "dqm3gba:gizmo"
+      },
+      "Animal": {
+        "Beast": "dqm3gba:drakee",
+        "Demon": "dqm3gba:vampire-rat",
+        "Material": "dqm3gba:spiky-boy",
+        "Animal": "dqm3gba:mommonja",
+        "Slime": "dqm3gba:bubble-slime",
+        "Nature": "dqm3gba:ghostar-fish",
+        "Elemental": "dqm3gba:wind-beast"
+      },
+      "Slime": {
+        "Beast": "dqm3gba:dragon-kid",
+        "Demon": "dqm3gba:spooky",
+        "Material": "dqm3gba:goopi",
+        "Animal": "dqm3gba:mommonja",
+        "Slime": "dqm3gba:slime",
+        "Nature": "dqm3gba:giant-worm",
+        "Elemental": "dqm3gba:killer-wave"
+      },
+      "Nature": {
+        "Beast": "dqm3gba:droll",
+        "Demon": "dqm3gba:death-god",
+        "Material": "dqm3gba:spiky-boy",
+        "Animal": "dqm3gba:ghostar-fish",
+        "Slime": "dqm3gba:slime",
+        "Nature": "dqm3gba:eggplaton",
+        "Elemental": "dqm3gba:killer-wave"
+      },
+      "Elemental": {
+        "Beast": "dqm3gba:demighoul-m-ch",
+        "Demon": "dqm3gba:merman",
+        "Material": "dqm3gba:puppet-man",
+        "Animal": "dqm3gba:rush-fish",
+        "Slime": "dqm3gba:magma-slime",
+        "Nature": "dqm3gba:eggplaton",
+        "Elemental": "dqm3gba:gizmo"
+      }
+    }
+  },
+  "notes": "Rows are influencing family; columns are dominant family. Only one-star chart has been transcribed and mapped; other star levels pending."
+}
