@@ -4,7 +4,7 @@
     {
       "id": "dqm3gba:ag-devil",
       "name": "Ag Devil",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250797&mname=Ag Devil",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp",
       "metadata_status": "pending_verification",
@@ -50,12 +50,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:almiraj",
       "name": "Almiraj",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250799&mname=Almiraj",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/almiraj.webp",
       "metadata_status": "pending_verification",
@@ -101,12 +103,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:alue",
       "name": "Alue",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250939&mname=Alue",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aruu.webp",
       "metadata_status": "pending_verification",
@@ -152,12 +156,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:andreal",
       "name": "Andreal",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250845&mname=Andreal",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/andreal.webp",
       "metadata_status": "pending_verification",
@@ -203,12 +209,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:aqua-slime",
       "name": "Aqua Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250928&mname=Aqua Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aquaslime.webp",
       "metadata_status": "pending_verification",
@@ -254,7 +262,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:arc-belial",
@@ -273,7 +283,7 @@
     {
       "id": "dqm3gba:arch-demon",
       "name": "Arch Demon",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250798&mname=Arch Demon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp",
       "metadata_status": "pending_verification",
@@ -319,7 +329,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:armorpede",
@@ -370,12 +382,17 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_candidates": [
+        "Material",
+        "Nature"
+      ],
+      "family_verification": "conflicting_reform_chart_columns"
     },
     {
       "id": "dqm3gba:armorpion",
       "name": "Armorpion",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250832&mname=Armorpion",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpion.webp",
       "metadata_status": "pending_verification",
@@ -421,12 +438,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:army-crab",
       "name": "Army Crab",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250801&mname=Army Crab",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armycrab.webp",
       "metadata_status": "pending_verification",
@@ -472,12 +491,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:baby-panther",
       "name": "Baby Panther",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250851&mname=Baby Panther",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babypanther.webp",
       "metadata_status": "pending_verification",
@@ -523,7 +544,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:baraxe",
@@ -607,7 +630,7 @@
     {
       "id": "dqm3gba:battle-rex",
       "name": "Battle Rex",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250876&mname=Battle Rex",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/battlerex.webp",
       "metadata_status": "pending_verification",
@@ -653,7 +676,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:belzebub",
@@ -709,7 +734,7 @@
     {
       "id": "dqm3gba:berserker",
       "name": "Berserker",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250794&mname=Berserker",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/berserker.webp",
       "metadata_status": "pending_verification",
@@ -755,12 +780,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:big-eye",
       "name": "Big Eye",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250856&mname=Big Eye",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigeye.webp",
       "metadata_status": "pending_verification",
@@ -806,7 +833,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:big-mommonja",
@@ -862,7 +891,7 @@
     {
       "id": "dqm3gba:big-scorpion",
       "name": "Big Scorpion",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250770&mname=Big Scorpion",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantscorpion.webp",
       "metadata_status": "pending_verification",
@@ -908,12 +937,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:blizzard",
       "name": "Blizzard",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250790&mname=Blizzard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp",
       "metadata_status": "pending_verification",
@@ -959,12 +990,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:blizzardy",
       "name": "Blizzardy",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250864&mname=Blizzardy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzardy.webp",
       "metadata_status": "pending_verification",
@@ -1010,12 +1043,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:bomb-crag",
       "name": "Bomb Crag",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250819&mname=Bomb Crag",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bombcrag.webp",
       "metadata_status": "pending_verification",
@@ -1061,12 +1096,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:boohbah",
       "name": "Boohbah",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250950&mname=Boohbah",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/boobaa.webp",
       "metadata_status": "pending_verification",
@@ -1112,12 +1149,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:boss-troll",
       "name": "Boss Troll",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250820&mname=Boss Troll",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bosstroll.webp",
       "metadata_status": "pending_verification",
@@ -1163,12 +1202,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:bubble-king",
       "name": "Bubble King",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250933&mname=Bubble King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babbleking.webp",
       "metadata_status": "pending_verification",
@@ -1214,12 +1255,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:bubble-slime",
       "name": "Bubble Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250781&mname=Bubble Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babble.webp",
       "metadata_status": "pending_verification",
@@ -1265,12 +1308,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:bull-bird",
       "name": "Bull Bird",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250830&mname=Bull Bird",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bullbird.webp",
       "metadata_status": "pending_verification",
@@ -1316,12 +1361,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:cacti-ball",
       "name": "Cacti Ball",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250854&mname=Cacti Ball",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cactiball.webp",
       "metadata_status": "pending_verification",
@@ -1367,12 +1414,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:cat-mage",
       "name": "Cat Mage",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250893&mname=Cat Mage",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/catmage.webp",
       "metadata_status": "pending_verification",
@@ -1418,7 +1467,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:celestial-beast",
@@ -1474,7 +1525,7 @@
     {
       "id": "dqm3gba:cergainas",
       "name": "Cergainas",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250865&mname=Cergainas",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkgolem.webp",
       "metadata_status": "pending_verification",
@@ -1520,12 +1571,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:chain-djinn",
       "name": "Chain Djinn",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250971&mname=Chain Djinn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaingolem.webp",
       "metadata_status": "pending_verification",
@@ -1571,12 +1624,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:chaos-drake",
       "name": "Chaos Drake",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250951&mname=Chaos Drake",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaosdrak.webp",
       "metadata_status": "pending_verification",
@@ -1622,12 +1677,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:chestnut-man",
       "name": "Chestnut Man",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250955&mname=Chestnut Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chestnutman.webp",
       "metadata_status": "pending_verification",
@@ -1673,12 +1730,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:clay-man",
       "name": "Clay Man",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250857&mname=Clay Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mudman.webp",
       "metadata_status": "pending_verification",
@@ -1724,12 +1783,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:cloud-king",
       "name": "Cloud King",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250899&mname=Cloud King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cloudking.webp",
       "metadata_status": "pending_verification",
@@ -1775,12 +1836,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:confetti",
       "name": "Confetti",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250930&mname=Confetti",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/conpeito.webp",
       "metadata_status": "pending_verification",
@@ -1826,12 +1889,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:crystal-slime",
       "name": "Crystal Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250934&mname=Crystal Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/crystalslime.webp",
       "metadata_status": "pending_verification",
@@ -1877,12 +1942,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dance-vegi",
       "name": "Dance Vegi",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250867&mname=Dance Vegi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/danceveggie.webp",
       "metadata_status": "pending_verification",
@@ -1928,12 +1995,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dark-crystal",
       "name": "Dark Crystal",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250966&mname=Dark Crystal",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkcrystal.webp",
       "metadata_status": "pending_verification",
@@ -1979,7 +2048,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dark-flame",
@@ -1998,7 +2069,7 @@
     {
       "id": "dqm3gba:dark-horn",
       "name": "Dark Horn",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250869&mname=Dark Horn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp",
       "metadata_status": "pending_verification",
@@ -2044,12 +2115,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dark-slime",
       "name": "Dark Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250905&mname=Dark Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkslime.webp",
       "metadata_status": "pending_verification",
@@ -2095,7 +2168,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dark-spirit",
@@ -2151,7 +2226,7 @@
     {
       "id": "dqm3gba:darkking",
       "name": "DarkKing",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250921&mname=DarkKing",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkking.webp",
       "metadata_status": "pending_verification",
@@ -2197,12 +2272,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:darkknight",
       "name": "DarkKnight",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250922&mname=DarkKnight",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkknight.webp",
       "metadata_status": "pending_verification",
@@ -2248,7 +2325,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:darth-dragon",
@@ -2267,7 +2346,7 @@
     {
       "id": "dqm3gba:dead-father",
       "name": "Dead Father",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250969&mname=Dead Father",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ghostcoffin.webp",
       "metadata_status": "pending_verification",
@@ -2313,12 +2392,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dead-knight",
       "name": "Dead Knight",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250772&mname=Dead Knight",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadknight.webp",
       "metadata_status": "pending_verification",
@@ -2364,12 +2445,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dead-masker",
       "name": "Dead Masker",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250964&mname=Dead Masker",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathmasker.webp",
       "metadata_status": "pending_verification",
@@ -2415,7 +2498,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:death-blizzard",
@@ -2434,7 +2519,7 @@
     {
       "id": "dqm3gba:death-god",
       "name": "Death God",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250780&mname=Death God",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/reaper.webp",
       "metadata_status": "pending_verification",
@@ -2480,12 +2565,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:death-sizer",
       "name": "Death Sizer",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250960&mname=Death Sizer",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathscyther.webp",
       "metadata_status": "pending_verification",
@@ -2531,12 +2618,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:demighoul-m-ch",
       "name": "Demighoul (M-CH)",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250828&mname=Demighoul (M-CH)",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/earthfiend.webp",
       "metadata_status": "pending_verification",
@@ -2582,12 +2671,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:demon-monk",
       "name": "Demon Monk",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250891&mname=Demon Monk",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/devilpriest.webp",
       "metadata_status": "pending_verification",
@@ -2633,12 +2724,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:demonite",
       "name": "Demonite",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250810&mname=Demonite",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp",
       "metadata_status": "pending_verification",
@@ -2684,7 +2777,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:divinegon",
@@ -2791,7 +2886,7 @@
     {
       "id": "dqm3gba:dradon",
       "name": "Dradon",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250948&mname=Dradon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pudgydragon.webp",
       "metadata_status": "pending_verification",
@@ -2837,12 +2932,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dragon",
       "name": "Dragon",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250775&mname=Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp",
       "metadata_status": "pending_verification",
@@ -2888,12 +2985,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dragon-kid",
       "name": "Dragon Kid",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250850&mname=Dragon Kid",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonkid.webp",
       "metadata_status": "pending_verification",
@@ -2939,7 +3038,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:dragon-lord",
@@ -2995,7 +3096,7 @@
     {
       "id": "dqm3gba:dragon-rider",
       "name": "Dragon Rider",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250842&mname=Dragon Rider",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonrider.webp",
       "metadata_status": "pending_verification",
@@ -3041,12 +3142,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:drakee",
       "name": "Drakee",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250768&mname=Drakee",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dracky.webp",
       "metadata_status": "pending_verification",
@@ -3092,7 +3195,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:drakmachine",
@@ -3148,7 +3253,7 @@
     {
       "id": "dqm3gba:dreen",
       "name": "Dreen",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250940&mname=Dreen",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/doriin.webp",
       "metadata_status": "pending_verification",
@@ -3194,12 +3299,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:droll",
       "name": "Droll",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250771&mname=Droll",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/droll.webp",
       "metadata_status": "pending_verification",
@@ -3245,12 +3352,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:drollerium",
       "name": "Drollerium",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250958&mname=Drollerium",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/drollrium.webp",
       "metadata_status": "pending_verification",
@@ -3296,7 +3405,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:durran",
@@ -3403,7 +3514,7 @@
     {
       "id": "dqm3gba:eggplaton",
       "name": "Eggplaton",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250892&mname=Eggplaton",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp",
       "metadata_status": "pending_verification",
@@ -3449,12 +3560,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:evil-armor",
       "name": "Evil Armor",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250872&mname=Evil Armor",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp",
       "metadata_status": "pending_verification",
@@ -3500,12 +3613,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:face-tree",
       "name": "Face Tree",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250788&mname=Face Tree",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facetree.webp",
       "metadata_status": "pending_verification",
@@ -3551,7 +3666,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:fire-mister",
@@ -3621,7 +3738,7 @@
     {
       "id": "dqm3gba:flame",
       "name": "Flame",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250789&mname=Flame",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp",
       "metadata_status": "pending_verification",
@@ -3667,12 +3784,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:florajay",
       "name": "Florajay",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250885&mname=Florajay",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/florajay.webp",
       "metadata_status": "pending_verification",
@@ -3718,12 +3837,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:flower-beat",
       "name": "Flower Beat",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250953&mname=Flower Beat",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flowerbeat.webp",
       "metadata_status": "pending_verification",
@@ -3769,12 +3890,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gargoyle",
       "name": "Gargoyle",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250792&mname=Gargoyle",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gargoyle.webp",
       "metadata_status": "pending_verification",
@@ -3820,12 +3943,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gateguard",
       "name": "Gateguard",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250839&mname=Gateguard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gateguard.webp",
       "metadata_status": "pending_verification",
@@ -3871,7 +3996,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:ghostar-fish",
@@ -3922,12 +4049,17 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_candidates": [
+        "Nature",
+        "Animal"
+      ],
+      "family_verification": "conflicting_reform_chart_columns"
     },
     {
       "id": "dqm3gba:giant-slug",
       "name": "Giant Slug",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250779&mname=Giant Slug",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantslug.webp",
       "metadata_status": "pending_verification",
@@ -3973,12 +4105,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:giant-worm",
       "name": "Giant Worm",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250824&mname=Giant Worm",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantworm.webp",
       "metadata_status": "pending_verification",
@@ -4024,7 +4158,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:giga-atlus",
@@ -4043,7 +4179,7 @@
     {
       "id": "dqm3gba:giga-draco",
       "name": "Giga Draco",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250901&mname=Giga Draco",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigadraco.webp",
       "metadata_status": "pending_verification",
@@ -4089,12 +4225,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gigantes",
       "name": "Gigantes",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250796&mname=Gigantes",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp",
       "metadata_status": "pending_verification",
@@ -4140,7 +4278,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gisvarg",
@@ -4196,7 +4336,7 @@
     {
       "id": "dqm3gba:gizmo",
       "name": "Gizmo",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250802&mname=Gizmo",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gizmo.webp",
       "metadata_status": "pending_verification",
@@ -4242,12 +4382,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:goategon",
       "name": "Goategon",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250808&mname=Goategon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goategon.webp",
       "metadata_status": "pending_verification",
@@ -4293,7 +4435,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gold-slime",
@@ -4349,7 +4493,7 @@
     {
       "id": "dqm3gba:golem",
       "name": "Golem",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250774&mname=Golem",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/golem.webp",
       "metadata_status": "pending_verification",
@@ -4395,12 +4539,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:goopi",
       "name": "Goopi",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250787&mname=Goopi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goopi.webp",
       "metadata_status": "pending_verification",
@@ -4446,7 +4592,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gophecada",
@@ -4502,7 +4650,7 @@
     {
       "id": "dqm3gba:grakos",
       "name": "Grakos",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250877&mname=Grakos",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grakos.webp",
       "metadata_status": "pending_verification",
@@ -4548,7 +4696,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gran-slime",
@@ -4604,7 +4754,7 @@
     {
       "id": "dqm3gba:grand-satan",
       "name": "Grand Satan",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250970&mname=Grand Satan",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granddevil.webp",
       "metadata_status": "pending_verification",
@@ -4650,7 +4800,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:grand-shark",
@@ -4701,12 +4853,18 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_candidates": [
+        "Demon",
+        "Animal",
+        "Material"
+      ],
+      "family_verification": "conflicting_reform_chart_columns"
     },
     {
       "id": "dqm3gba:great-dragon",
       "name": "Great Dragon",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250866&mname=Great Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatdrak.webp",
       "metadata_status": "pending_verification",
@@ -4752,12 +4910,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:grizzly",
       "name": "Grizzly",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250815&mname=Grizzly",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grizzly.webp",
       "metadata_status": "pending_verification",
@@ -4803,12 +4963,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gryphynx",
       "name": "Gryphynx",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250965&mname=Gryphynx",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/griffinx.webp",
       "metadata_status": "pending_verification",
@@ -4854,12 +5016,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:gulp-beast",
       "name": "Gulp Beast",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250879&mname=Gulp Beast",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gulpbeast.webp",
       "metadata_status": "pending_verification",
@@ -4905,12 +5069,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:halo-slime",
       "name": "Halo Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250903&mname=Halo Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/haloslime.webp",
       "metadata_status": "pending_verification",
@@ -4956,7 +5122,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:hammer-man",
@@ -5012,7 +5180,7 @@
     {
       "id": "dqm3gba:healer",
       "name": "Healer",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250784&mname=Healer",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp",
       "metadata_status": "pending_verification",
@@ -5058,7 +5226,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:healmore-moon",
@@ -5077,7 +5247,7 @@
     {
       "id": "dqm3gba:high-wizard",
       "name": "High Wizard",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250846&mname=High Wizard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatmage.webp",
       "metadata_status": "pending_verification",
@@ -5123,12 +5293,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:hork",
       "name": "Hork",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250791&mname=Hork",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hork.webp",
       "metadata_status": "pending_verification",
@@ -5174,12 +5346,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:ice-djinn",
       "name": "Ice Djinn",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250817&mname=Ice Djinn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iceman.webp",
       "metadata_status": "pending_verification",
@@ -5225,12 +5399,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:iiro",
       "name": "Iiro",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250937&mname=Iiro",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iio.webp",
       "metadata_status": "pending_verification",
@@ -5276,7 +5452,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:illusion-axe",
@@ -5360,7 +5538,7 @@
     {
       "id": "dqm3gba:iron-hawk",
       "name": "Iron Hawk",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250943&mname=Iron Hawk",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironhawk.webp",
       "metadata_status": "pending_verification",
@@ -5406,12 +5584,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:iron-turtle",
       "name": "Iron Turtle",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250881&mname=Iron Turtle",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironturt.webp",
       "metadata_status": "pending_verification",
@@ -5457,12 +5637,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:jamirus",
       "name": "Jamirus",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250878&mname=Jamirus",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/jamirus.webp",
       "metadata_status": "pending_verification",
@@ -5508,7 +5690,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:jenodark",
@@ -5564,7 +5748,7 @@
     {
       "id": "dqm3gba:jewel-bag",
       "name": "Jewel Bag",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250807&mname=Jewel Bag",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/treasurebag.webp",
       "metadata_status": "pending_verification",
@@ -5610,7 +5794,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:kakalon",
@@ -5680,7 +5866,7 @@
     {
       "id": "dqm3gba:killer-wave",
       "name": "Killer Wave",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250873&mname=Killer Wave",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguewave.webp",
       "metadata_status": "pending_verification",
@@ -5726,12 +5912,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:king-leo",
       "name": "King Leo",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250844&mname=King Leo",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingleo.webp",
       "metadata_status": "pending_verification",
@@ -5777,7 +5965,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:king-slime",
@@ -5833,7 +6023,7 @@
     {
       "id": "dqm3gba:king-squid",
       "name": "King Squid",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250814&mname=King Squid",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantsquid.webp",
       "metadata_status": "pending_verification",
@@ -5879,7 +6069,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:kith-dragon",
@@ -5963,7 +6155,7 @@
     {
       "id": "dqm3gba:lamp-genie",
       "name": "Lamp Genie",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250874&mname=Lamp Genie",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lampgenie.webp",
       "metadata_status": "pending_verification",
@@ -6009,12 +6201,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:lava-djinn",
       "name": "Lava Djinn",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250816&mname=Lava Djinn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lavaman.webp",
       "metadata_status": "pending_verification",
@@ -6060,7 +6254,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:light-spirit",
@@ -6116,7 +6312,7 @@
     {
       "id": "dqm3gba:lipsy",
       "name": "Lipsy",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250868&mname=Lipsy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lipsy.webp",
       "metadata_status": "pending_verification",
@@ -6162,7 +6358,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:londarkian-hero",
@@ -6195,7 +6393,7 @@
     {
       "id": "dqm3gba:mad-candle",
       "name": "Mad Candle",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250853&mname=Mad Candle",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcandle.webp",
       "metadata_status": "pending_verification",
@@ -6241,7 +6439,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mad-cat",
@@ -6297,7 +6497,7 @@
     {
       "id": "dqm3gba:mad-condor",
       "name": "Mad Condor",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250809&mname=Mad Condor",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcondor.webp",
       "metadata_status": "pending_verification",
@@ -6343,12 +6543,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mad-dragon",
       "name": "Mad Dragon",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250861&mname=Mad Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/maddragon.webp",
       "metadata_status": "pending_verification",
@@ -6394,12 +6596,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mad-gopher",
       "name": "Mad Gopher",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250825&mname=Mad Gopher",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madgopher.webp",
       "metadata_status": "pending_verification",
@@ -6445,12 +6649,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mad-hornet",
       "name": "Mad Hornet",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250870&mname=Mad Hornet",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madhornet.webp",
       "metadata_status": "pending_verification",
@@ -6496,12 +6702,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mad-mirror",
       "name": "Mad Mirror",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250871&mname=Mad Mirror",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madmirror.webp",
       "metadata_status": "pending_verification",
@@ -6547,12 +6755,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mad-plant",
       "name": "Mad Plant",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250852&mname=Mad Plant",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madplant.webp",
       "metadata_status": "pending_verification",
@@ -6598,7 +6808,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:magarugi",
@@ -6631,7 +6843,7 @@
     {
       "id": "dqm3gba:mage-slime",
       "name": "Mage Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250907&mname=Mage Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp",
       "metadata_status": "pending_verification",
@@ -6677,12 +6889,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:magma-slime",
       "name": "Magma Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250929&mname=Magma Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magmaslime.webp",
       "metadata_status": "pending_verification",
@@ -6728,7 +6942,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:master-dragon",
@@ -6784,7 +7000,7 @@
     {
       "id": "dqm3gba:master-slime",
       "name": "Master Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250935&mname=Master Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/masterslime.webp",
       "metadata_status": "pending_verification",
@@ -6830,12 +7046,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:merman",
       "name": "Merman",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250813&mname=Merman",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/merman.webp",
       "metadata_status": "pending_verification",
@@ -6881,12 +7099,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:metabble",
       "name": "Metabble",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250782&mname=Metabble",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metabble.webp",
       "metadata_status": "pending_verification",
@@ -6932,7 +7152,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:metal-king",
@@ -6988,7 +7210,7 @@
     {
       "id": "dqm3gba:metal-slime",
       "name": "Metal Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250767&mname=Metal Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metaly.webp",
       "metadata_status": "pending_verification",
@@ -7034,12 +7256,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mimic",
       "name": "Mimic",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250811&mname=Mimic",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mimic.webp",
       "metadata_status": "pending_verification",
@@ -7085,12 +7309,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:minon",
       "name": "Minon",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250829&mname=Minon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/saccer.webp",
       "metadata_status": "pending_verification",
@@ -7136,12 +7362,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mommonja",
       "name": "Mommonja",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250827&mname=Mommonja",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mommonja.webp",
       "metadata_status": "pending_verification",
@@ -7187,12 +7415,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:mummy",
       "name": "Mummy",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250786&mname=Mummy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mummy.webp",
       "metadata_status": "pending_verification",
@@ -7238,12 +7468,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:muscle-kong",
       "name": "Muscle Kong",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250947&mname=Muscle Kong",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/musclekong.webp",
       "metadata_status": "pending_verification",
@@ -7289,7 +7521,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:night-lich",
@@ -7345,7 +7579,7 @@
     {
       "id": "dqm3gba:nocto-king",
       "name": "Nocto King",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250843&mname=Nocto King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantbat.webp",
       "metadata_status": "pending_verification",
@@ -7391,7 +7625,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:one-horn",
@@ -7410,7 +7646,7 @@
     {
       "id": "dqm3gba:onion-master",
       "name": "Onion Master",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250956&mname=Onion Master",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/onionmaster.webp",
       "metadata_status": "pending_verification",
@@ -7456,12 +7692,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:opabi",
       "name": "Opabi",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250954&mname=Opabi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/icky.webp",
       "metadata_status": "pending_verification",
@@ -7507,12 +7745,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:orc",
       "name": "Orc",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250793&mname=Orc",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orc.webp",
       "metadata_status": "pending_verification",
@@ -7558,12 +7798,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:orochi",
       "name": "Orochi",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250821&mname=Orochi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orochi.webp",
       "metadata_status": "pending_verification",
@@ -7609,12 +7851,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:phantom-glass",
       "name": "Phantom Glass",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250961&mname=Phantom Glass",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phantomglass.webp",
       "metadata_status": "pending_verification",
@@ -7660,7 +7904,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:phoenix",
@@ -7716,7 +7962,7 @@
     {
       "id": "dqm3gba:pimo",
       "name": "Pimo",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250938&mname=Pimo",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pimo.webp",
       "metadata_status": "pending_verification",
@@ -7762,12 +8008,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:pod-hero",
       "name": "Pod Hero",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250895&mname=Pod Hero",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/foohero.webp",
       "metadata_status": "pending_verification",
@@ -7813,12 +8061,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:pompom-bomb",
       "name": "Pompom Bomb",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250896&mname=Pompom Bomb",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pompombomb.webp",
       "metadata_status": "pending_verification",
@@ -7864,12 +8114,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:proto-mech",
       "name": "Proto Mech",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250898&mname=Proto Mech",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/protokiller.webp",
       "metadata_status": "pending_verification",
@@ -7915,12 +8167,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:pumpk-night",
       "name": "Pumpk'night",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250957&mname=Pumpk'night",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pumpkinknight.webp",
       "metadata_status": "pending_verification",
@@ -7966,12 +8220,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:puppet-man",
       "name": "Puppet Man",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250785&mname=Puppet Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/muddoll.webp",
       "metadata_status": "pending_verification",
@@ -8017,12 +8273,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:pural",
       "name": "Pural",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250941&mname=Pural",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/paararu.webp",
       "metadata_status": "pending_verification",
@@ -8068,12 +8326,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:putre-pup",
       "name": "Putre Pup",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250800&mname=Putre Pup",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/putrepup.webp",
       "metadata_status": "pending_verification",
@@ -8119,12 +8379,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:rain-hawk",
       "name": "Rain Hawk",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250889&mname=Rain Hawk",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rainhawk.webp",
       "metadata_status": "pending_verification",
@@ -8170,12 +8432,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:reefer",
       "name": "Reefer",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250931&mname=Reefer",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/leafer.webp",
       "metadata_status": "pending_verification",
@@ -8221,12 +8485,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:roboster",
       "name": "Roboster",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250795&mname=Roboster",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster.webp",
       "metadata_status": "pending_verification",
@@ -8272,7 +8538,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:roboster-2",
@@ -8379,7 +8647,7 @@
     {
       "id": "dqm3gba:rosevine",
       "name": "Rosevine",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250888&mname=Rosevine",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rosevine.webp",
       "metadata_status": "pending_verification",
@@ -8425,12 +8693,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:rush-fish",
       "name": "Rush Fish",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250838&mname=Rush Fish",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ramfish.webp",
       "metadata_status": "pending_verification",
@@ -8476,12 +8746,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:sabre-man",
       "name": "Sabre Man",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250835&mname=Sabre Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp",
       "metadata_status": "pending_verification",
@@ -8527,7 +8799,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:scarabator",
@@ -8583,7 +8857,7 @@
     {
       "id": "dqm3gba:shadow",
       "name": "Shadow",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250804&mname=Shadow",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/shadow.webp",
       "metadata_status": "pending_verification",
@@ -8629,7 +8903,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:silent-sheep",
@@ -8713,7 +8989,7 @@
     {
       "id": "dqm3gba:skullgon",
       "name": "Skullgon",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250823&mname=Skullgon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skullgon.webp",
       "metadata_status": "pending_verification",
@@ -8759,12 +9035,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:slime",
       "name": "Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250766&mname=Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slime.webp",
       "metadata_status": "pending_verification",
@@ -8810,12 +9088,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:slime-knight",
       "name": "Slime Knight",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250855&mname=Slime Knight",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slimeknight.webp",
       "metadata_status": "pending_verification",
@@ -8861,12 +9141,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:snaily",
       "name": "Snaily",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250812&mname=Snaily",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snaily.webp",
       "metadata_status": "pending_verification",
@@ -8912,7 +9194,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:snapper",
@@ -8963,12 +9247,17 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_candidates": [
+        "Beast",
+        "Nature"
+      ],
+      "family_verification": "conflicting_reform_chart_columns"
     },
     {
       "id": "dqm3gba:snome",
       "name": "Snome",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250932&mname=Snome",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snome.webp",
       "metadata_status": "pending_verification",
@@ -9014,12 +9303,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:spiky-boy",
       "name": "Spiky Boy",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250847&mname=Spiky Boy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spikeyboy.webp",
       "metadata_status": "pending_verification",
@@ -9065,12 +9356,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:spin-slime",
       "name": "Spin Slime",
-      "family": null,
+      "family": "Slime",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250936&mname=Spin Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spinslime.webp",
       "metadata_status": "pending_verification",
@@ -9116,12 +9409,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:spooky",
       "name": "Spooky",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250769&mname=Spooky",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spooky.webp",
       "metadata_status": "pending_verification",
@@ -9167,12 +9462,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:stone-kid",
       "name": "Stone Kid",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250915&mname=Stone Kid",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/statuekid.webp",
       "metadata_status": "pending_verification",
@@ -9218,12 +9515,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:stone-man",
       "name": "Stone Man",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250822&mname=Stone Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stoneman.webp",
       "metadata_status": "pending_verification",
@@ -9269,12 +9568,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:stone-spider",
       "name": "Stone Spider",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250962&mname=Stone Spider",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rockspider.webp",
       "metadata_status": "pending_verification",
@@ -9320,12 +9621,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:stonehopper",
       "name": "Stonehopper",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250897&mname=Stonehopper",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cragdevil.webp",
       "metadata_status": "pending_verification",
@@ -9371,12 +9674,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:stubsuck",
       "name": "Stubsuck",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250826&mname=Stubsuck",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stubsuck.webp",
       "metadata_status": "pending_verification",
@@ -9422,12 +9727,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:swordgon",
       "name": "Swordgon",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250887&mname=Swordgon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/swordgon.webp",
       "metadata_status": "pending_verification",
@@ -9473,7 +9780,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:toadstool",
@@ -9575,12 +9884,17 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_candidates": [
+        "Animal",
+        "Nature"
+      ],
+      "family_verification": "conflicting_reform_chart_columns"
     },
     {
       "id": "dqm3gba:totem-killer",
       "name": "Totem Killer",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250841&mname=Totem Killer",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facer.webp",
       "metadata_status": "pending_verification",
@@ -9626,12 +9940,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:triwinder",
       "name": "Triwinder",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250944&mname=Triwinder",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/triwinder.webp",
       "metadata_status": "pending_verification",
@@ -9677,7 +9993,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:trumpeter",
@@ -9728,7 +10046,12 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_candidates": [
+        "Animal",
+        "Nature"
+      ],
+      "family_verification": "conflicting_reform_chart_columns"
     },
     {
       "id": "dqm3gba:unicorn",
@@ -9779,12 +10102,17 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_candidates": [
+        "Nature",
+        "Animal"
+      ],
+      "family_verification": "conflicting_reform_chart_columns"
     },
     {
       "id": "dqm3gba:vampire-rat",
       "name": "Vampire Rat",
-      "family": null,
+      "family": "Demon",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250968&mname=Vampire Rat",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/vampirerat.webp",
       "metadata_status": "pending_verification",
@@ -9830,12 +10158,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:walrus-man",
       "name": "Walrus Man",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250840&mname=Walrus Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/walrusman.webp",
       "metadata_status": "pending_verification",
@@ -9881,7 +10211,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:wander-monk",
@@ -9937,7 +10269,7 @@
     {
       "id": "dqm3gba:war-lizard",
       "name": "War Lizard",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250949&mname=War Lizard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lizardman.webp",
       "metadata_status": "pending_verification",
@@ -9983,7 +10315,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:warubou",
@@ -10192,7 +10526,7 @@
     {
       "id": "dqm3gba:wicked-axe",
       "name": "Wicked Axe",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250916&mname=Wicked Axe",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp",
       "metadata_status": "pending_verification",
@@ -10238,12 +10572,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:wild-ape-m-ch",
       "name": "Wild Ape (M-CH)",
-      "family": null,
+      "family": "Animal",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250806&mname=Wild Ape (M-CH)",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killerape.webp",
       "metadata_status": "pending_verification",
@@ -10289,12 +10625,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:wind-beast",
       "name": "Wind Beast",
-      "family": null,
+      "family": "Elemental",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250833&mname=Wind Beast",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/windbeast.webp",
       "metadata_status": "pending_verification",
@@ -10340,7 +10678,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:wind-spirit",
@@ -10396,7 +10736,7 @@
     {
       "id": "dqm3gba:wing-tree",
       "name": "Wing Tree",
-      "family": null,
+      "family": "Nature",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250886&mname=Wing Tree",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadtrunk.webp",
       "metadata_status": "pending_verification",
@@ -10442,12 +10782,14 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     },
     {
       "id": "dqm3gba:wyvern",
       "name": "Wyvern",
-      "family": null,
+      "family": "Beast",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250773&mname=Wyvern",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/wyvern.webp",
       "metadata_status": "pending_verification",
@@ -10493,7 +10835,9 @@
         },
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
+      "family_verification": "inferred_from_reform_chart"
     }
   ],
   "source": "https://www.woodus.com/den/games/dqm3gba/monsters.php",
