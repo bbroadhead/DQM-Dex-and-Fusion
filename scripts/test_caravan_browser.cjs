@@ -67,7 +67,7 @@ async function main(){
   assert.doesNotMatch(document.querySelector("#reformResult").textContent,/Documented special result: King Slime/);
   const chart=document.querySelector("#reformChartStars");
   choose(chart,"4");
-  assert.match(document.querySelector("#reformChartTable").textContent,/Unresolved/);
+  assert.match(document.querySelector("#reformChartTable").textContent,/Unresolved: Star Fish/);
   const target=document.querySelector("#reformTarget");
   choose(target,"dqm3gba:magarugi");
   assert.match(document.querySelector("#reformReverse").textContent,/Unobtainable/);
