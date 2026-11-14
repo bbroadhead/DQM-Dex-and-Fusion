@@ -4,6 +4,8 @@ on:
     paths:
       - 'data/woodus/dqm3gba-*.json'
       - 'scripts/validate_caravan_data.py'
+      - 'scripts/import_caravan_stats.py'
+      - 'scripts/test_caravan_stats_parser.py'
       - '.github/workflows/validate-caravan-data.yml'
   pull_request:
     paths:
@@ -20,5 +22,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Test Caravan Heart FAQ parsing
+        run: python scripts/test_caravan_stats_parser.py
       - name: Validate monster roster, stat records, and reform recipes
         run: python scripts/validate_caravan_data.py
