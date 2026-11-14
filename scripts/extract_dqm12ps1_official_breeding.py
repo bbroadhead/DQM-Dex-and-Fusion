@@ -7,6 +7,7 @@ import argparse
 import json
 import re
 from html.parser import HTMLParser
+from urllib.error import HTTPError
 from pathlib import Path
 from urllib.request import Request, urlopen
 
@@ -42,7 +43,7 @@ class TableReader(HTMLParser):
             self.row = None
 
 def decode(raw):
-    for enc in ("shift_jis", "cp932", "utf-8"):
+    for enc in ("cp932", "shift_jis", "utf-8"):
         try:
             return raw.decode(enc)
         except UnicodeDecodeError:
@@ -61,6 +62,8 @@ def main():
                 page = decode(response.read())
             reader = TableReader()
             reader.feed(page)
+            if not reader.rows:
+                raise ValueError("No table rows found; inspect HTML before accepting source")
             results.append({"family": family, "source_url": url, "status": "raw_unmapped_not_verified", "table_rows": reader.rows, "row_count": len(reader.rows)})
             print(f"{family}: {len(reader.rows)} table rows")
         except Exception as exc:
@@ -69,6 +72,8 @@ def main():
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"game": "dqm12ps1", "status": "research_only", "sources": results}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {OUT}")
+    if any(item["status"] != "raw_unmapped_not_verified" for item in results):
+        raise SystemExit("One or more official pages failed; see research JSON")
 
 if __name__ == "__main__":
     main()
