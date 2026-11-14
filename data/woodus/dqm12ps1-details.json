@@ -9,7 +9,12 @@
       "japanese_name": "ひとつめピエロ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250340&mname=1EyeClown",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:agdevil",
@@ -17,7 +22,12 @@
       "japanese_name": "シルバーデビル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250298&mname=AgDevil",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:akubar",
@@ -25,7 +35,12 @@
       "japanese_name": "アクバー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250463&mname=Akubar",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:almiraj",
@@ -33,7 +48,12 @@
       "japanese_name": "アルミラージ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250302&mname=Almiraj",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:amberweed",
@@ -41,7 +61,12 @@
       "japanese_name": "コハクそう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250500&mname=AmberWeed",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:andreal",
@@ -49,7 +74,12 @@
       "japanese_name": "アンドレアル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250375&mname=Andreal",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:anemon",
@@ -57,7 +87,11 @@
       "japanese_name": "エビルソピタル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250534&mname=Anemon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:angleron",
@@ -65,7 +99,11 @@
       "japanese_name": "エビルアングラー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250363&mname=Angleron",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:antbear",
@@ -73,7 +111,11 @@
       "japanese_name": "アントベア",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250303&mname=Antbear",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:aquadon",
@@ -81,7 +123,11 @@
       "japanese_name": "しんかいりゅう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250402&mname=Aquadon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:aquahawk",
@@ -89,7 +135,11 @@
       "japanese_name": "アクアマリンホーク",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250530&mname=AquaHawk",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:aquarella",
@@ -97,7 +147,11 @@
       "japanese_name": "アクアパラソル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250542&mname=Aquarella",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:arcdemon",
@@ -105,7 +159,12 @@
       "japanese_name": "アークデーモン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250299&mname=ArcDemon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:armorpede",
@@ -113,7 +172,12 @@
       "japanese_name": "よろいムカデ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250283&mname=ArmorPede",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:armorpion",
@@ -121,7 +185,12 @@
       "japanese_name": "さそりアーマー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250352&mname=Armorpion",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:armyant",
@@ -129,7 +198,12 @@
       "japanese_name": "ぐんたいアリ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250276&mname=ArmyAnt",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:armycrab",
@@ -137,7 +211,12 @@
       "japanese_name": "ぐんたいガニ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250307&mname=ArmyCrab",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:arrowdog",
@@ -145,7 +224,11 @@
       "japanese_name": "アロードッグ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250427&mname=ArrowDog",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:asurazoma",
@@ -153,7 +236,11 @@
       "japanese_name": "アスラゾーマ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250525&mname=AsuraZoma",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:axeshark",
@@ -161,7 +248,11 @@
       "japanese_name": "アックスシャーク",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250567&mname=AxeShark",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:ayabou",
@@ -177,7 +268,11 @@
       "japanese_name": "キングアズライル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250564&mname=Azurile",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:babble",
@@ -185,7 +280,12 @@
       "japanese_name": "バブルスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250278&mname=Babble",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:balzak",
@@ -193,7 +293,12 @@
       "japanese_name": "バルザック",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250376&mname=Balzak",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:baramos",
@@ -201,7 +306,12 @@
       "japanese_name": "バラモス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250334&mname=Baramos",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:battlerex",
@@ -209,7 +319,12 @@
       "japanese_name": "バトルレックス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250455&mname=BattleRex",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:beanman",
@@ -217,7 +332,12 @@
       "japanese_name": "ビーンファイター",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250489&mname=BeanMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:beastnite",
@@ -225,7 +345,11 @@
       "japanese_name": "けもののきし",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250554&mname=BeastNite",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:beavern",
@@ -233,7 +357,11 @@
       "japanese_name": "ビーバーン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250555&mname=Beavern",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:belzebub",
@@ -241,7 +369,11 @@
       "japanese_name": "ベルザブル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250355&mname=Belzebub",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:bigeye",
@@ -249,7 +381,12 @@
       "japanese_name": "ビックアイ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250393&mname=BigEye",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:bigroost",
@@ -257,7 +394,12 @@
       "japanese_name": "おおにわとり",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250343&mname=BigRoost",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:blizzardy",
@@ -265,7 +407,12 @@
       "japanese_name": "ホークブリザード",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250411&mname=Blizzardy",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:bombcrag",
@@ -273,7 +420,12 @@
       "japanese_name": "ばくだん岩",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250329&mname=BombCrag",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:boneslave",
@@ -281,7 +433,12 @@
       "japanese_name": "ボーンプリズナー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250432&mname=BoneSlave",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:bosstroll",
@@ -289,7 +446,11 @@
       "japanese_name": "ボストロール",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250330&mname=BossTroll",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:boxslime",
@@ -297,7 +458,12 @@
       "japanese_name": "ボックススライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250482&mname=BoxSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:brushead",
@@ -305,7 +471,11 @@
       "japanese_name": "ブラシこぞう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250536&mname=Brushead",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:bubblemon",
@@ -313,7 +483,11 @@
       "japanese_name": "バブルデーモン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250546&mname=Bubblemon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:bullbird",
@@ -321,7 +495,12 @@
       "japanese_name": "あばれうしどり",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250347&mname=BullBird",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:butterfly",
@@ -329,7 +508,12 @@
       "japanese_name": "じんめんちょう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250304&mname=Butterfly",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:cactiball",
@@ -337,7 +521,12 @@
       "japanese_name": "サボテンボール",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250389&mname=CactiBall",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:cancerman",
@@ -345,7 +534,11 @@
       "japanese_name": "クラブマン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250559&mname=CancerMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:captdead",
@@ -353,7 +546,11 @@
       "japanese_name": "ゆうれいせんちょう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250403&mname=CaptDead",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:catapila",
@@ -361,7 +558,12 @@
       "japanese_name": "キャタピラー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250305&mname=Catapila",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:catfly",
@@ -369,7 +571,12 @@
       "japanese_name": "キャットフライ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250312&mname=CatFly",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:catmage",
@@ -377,7 +584,11 @@
       "japanese_name": "ねこまどう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250508&mname=CatMage",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:centasaur",
@@ -385,7 +596,12 @@
       "japanese_name": "ずしおうまる",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250464&mname=Centasaur",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:chamelgon",
@@ -393,7 +609,12 @@
       "japanese_name": "おおイグアナ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250451&mname=Chamelgon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:chopclown",
@@ -401,7 +622,12 @@
       "japanese_name": "きりさきピエロ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250442&mname=ChopClown",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:clawster",
@@ -409,7 +635,11 @@
       "japanese_name": "マッドロブスター",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250447&mname=Clawster",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:cloudking",
@@ -417,7 +647,11 @@
       "japanese_name": "くもの大王",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250518&mname=CloudKing",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:coatol",
@@ -425,7 +659,12 @@
       "japanese_name": "コアトル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250503&mname=Coatol",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:coilbird",
@@ -433,7 +672,12 @@
       "japanese_name": "ネジまきどり",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250485&mname=CoilBird",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:copycat",
@@ -441,7 +685,12 @@
       "japanese_name": "マネマネ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250349&mname=Copycat",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:cragdevil",
@@ -449,7 +698,11 @@
       "japanese_name": "岩とびあくま",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250515&mname=CragDevil",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:crestpent",
@@ -457,7 +710,12 @@
       "japanese_name": "とさかへび",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250351&mname=Crestpent",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:curselamp",
@@ -465,7 +723,12 @@
       "japanese_name": "のろいのランプ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250438&mname=CurseLamp",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:dancevegi",
@@ -473,7 +736,12 @@
       "japanese_name": "ダンスキャロット",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250420&mname=DanceVegi",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:darck",
@@ -481,7 +749,11 @@
       "japanese_name": "ドーク",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250576&mname=Darck",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:darkcrab",
@@ -489,7 +761,12 @@
       "japanese_name": "ダーククラブ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250494&mname=DarkCrab",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:darkdrium",
@@ -497,7 +774,12 @@
       "japanese_name": "ダークドレアム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250469&mname=Darkdrium",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:darkeye",
@@ -505,7 +787,12 @@
       "japanese_name": "ダークアイ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250290&mname=DarkEye",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:darkhorn",
@@ -513,7 +800,12 @@
       "japanese_name": "ダークホーン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250430&mname=DarkHorn",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:darkmate",
@@ -521,7 +813,11 @@
       "japanese_name": "ダークマター",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250557&mname=DarkMate",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:deadnite",
@@ -529,7 +825,12 @@
       "japanese_name": "死霊の騎士",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250268&mname=DeadNite",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:deadnoble",
@@ -537,7 +838,12 @@
       "japanese_name": "しにがみきぞく",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250367&mname=DeadNoble",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:deathmore",
@@ -553,7 +859,12 @@
       "japanese_name": "デスタムーア",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250471&mname=DeathMore (2)",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:deathmore-3",
@@ -561,7 +872,12 @@
       "japanese_name": "デスタムーア",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250472&mname=DeathMore (3)",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:demonite",
@@ -569,7 +885,12 @@
       "japanese_name": "ベビーサタン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250317&mname=Demonite",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:devipine",
@@ -577,7 +898,11 @@
       "japanese_name": "デビルパイン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250544&mname=Devipine",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:digong",
@@ -585,7 +910,11 @@
       "japanese_name": "ディゴング",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250456&mname=Digong",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:digster",
@@ -593,7 +922,12 @@
       "japanese_name": "ダンジョンえび",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250502&mname=Digster",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:dimensaur",
@@ -609,7 +943,12 @@
       "japanese_name": "しんりゅう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250473&mname=Divinegon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:dracky",
@@ -617,7 +956,12 @@
       "japanese_name": "ドラキー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250264&mname=Dracky",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:dracolord",
@@ -633,7 +977,12 @@
       "japanese_name": "竜王",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250274&mname=DracoLord (2)",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:dragon",
@@ -641,7 +990,12 @@
       "japanese_name": "ドラゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250272&mname=Dragon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:dragonkid",
@@ -649,7 +1003,12 @@
       "japanese_name": "ドラゴンキッズ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250383&mname=DragonKid",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:drakslime",
@@ -657,7 +1016,12 @@
       "japanese_name": "ドラゴスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250477&mname=DrakSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:droll",
@@ -665,7 +1029,12 @@
       "japanese_name": "ドロル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250267&mname=Droll",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:drygon",
@@ -673,7 +1042,11 @@
       "japanese_name": "ドライゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250543&mname=Drygon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:duckkite",
@@ -681,7 +1054,12 @@
       "japanese_name": "ダックカイト",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250405&mname=DuckKite",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:dumbira",
@@ -689,7 +1067,11 @@
       "japanese_name": "ダンビラムーチョ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250514&mname=Dumbira",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:durran",
@@ -697,7 +1079,12 @@
       "japanese_name": "デュラン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250468&mname=Durran",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:egdracil",
@@ -705,7 +1092,11 @@
       "japanese_name": "エグドラシル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250563&mname=Egdracil",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:eggplaton",
@@ -713,7 +1104,11 @@
       "japanese_name": "ナスビナーラ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250507&mname=Eggplaton",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:emyu",
@@ -721,7 +1116,11 @@
       "japanese_name": "エミュー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250538&mname=Emyu",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:esterk",
@@ -729,7 +1128,12 @@
       "japanese_name": "エスターク",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250377&mname=Esterk",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:evilarmor",
@@ -737,7 +1141,12 @@
       "japanese_name": "デビルアーマー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250443&mname=EvilArmor",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:evilbeast",
@@ -745,7 +1154,12 @@
       "japanese_name": "ヘルビースト",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250441&mname=EvilBeast",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:evilpot",
@@ -753,7 +1167,12 @@
       "japanese_name": "あくまのつぼ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250398&mname=EvilPot",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:evilseed",
@@ -761,7 +1180,12 @@
       "japanese_name": "エビルシード",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250496&mname=EvilSeed",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:evilwand",
@@ -769,7 +1193,12 @@
       "japanese_name": "エビルワンド",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250462&mname=EvilWand",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:evilwell",
@@ -777,7 +1206,11 @@
       "japanese_name": "いどまじん",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250437&mname=EvilWell",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:exaucers",
@@ -785,7 +1218,11 @@
       "japanese_name": "デスソーサー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250552&mname=Exaucers",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:eyeball",
@@ -793,7 +1230,12 @@
       "japanese_name": "おおめだま",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250344&mname=EyeBall",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:eyeder",
@@ -801,7 +1243,12 @@
       "japanese_name": "メーダ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250266&mname=Eyeder",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:facer",
@@ -809,7 +1256,12 @@
       "japanese_name": "トーテムキラー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250369&mname=Facer",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:facetree",
@@ -817,7 +1269,12 @@
       "japanese_name": "じんめんじゅ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250291&mname=FaceTree",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:fairydrak",
@@ -825,7 +1282,12 @@
       "japanese_name": "フェアリードラゴン(DQVI)",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250436&mname=FairyDrak",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:fairyrat",
@@ -833,7 +1295,12 @@
       "japanese_name": "フェアリーラット",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250493&mname=FairyRat",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:fangslime",
@@ -841,7 +1308,12 @@
       "japanese_name": "スライムファング",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250484&mname=FangSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:fireweed",
@@ -849,7 +1321,12 @@
       "japanese_name": "かりゅうそう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250492&mname=FireWeed",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:fishrider",
@@ -857,7 +1334,11 @@
       "japanese_name": "フィッシュライダー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250549&mname=FishRider",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:florajay",
@@ -865,7 +1346,12 @@
       "japanese_name": "はなカワセミ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250487&mname=Florajay",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:floraman",
@@ -873,7 +1359,12 @@
       "japanese_name": "はなまどう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250429&mname=FloraMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:foohero",
@@ -881,7 +1372,11 @@
       "japanese_name": "プチヒーロー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250511&mname=FooHero",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:foxfire",
@@ -889,7 +1384,11 @@
       "japanese_name": "きつねび",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250529&mname=FoxFire",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:funkybird",
@@ -897,7 +1396,12 @@
       "japanese_name": "ファンキーバード",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250490&mname=FunkyBird",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gamanian",
@@ -905,7 +1409,11 @@
       "japanese_name": "ガマニアン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250445&mname=Gamanian",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:garudian",
@@ -913,7 +1421,11 @@
       "japanese_name": "ウイングアサシン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250539&mname=Garudian",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gasgon",
@@ -921,7 +1433,12 @@
       "japanese_name": "フーセンドラゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250454&mname=Gasgon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gateguard",
@@ -929,7 +1446,12 @@
       "japanese_name": "じごくのもんばん(DQIV)",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250366&mname=GateGuard",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:genosidoh",
@@ -937,7 +1459,11 @@
       "japanese_name": "ジェノシドー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250524&mname=Genosidoh",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:ghostree",
@@ -945,7 +1471,11 @@
       "japanese_name": "おばけかれき",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250532&mname=GhosTree",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:giantmoth",
@@ -953,7 +1483,12 @@
       "japanese_name": "デスファレーナ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250434&mname=GiantMoth",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:giantslug",
@@ -961,7 +1496,12 @@
       "japanese_name": "おおナメクジ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250275&mname=GiantSlug",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:giantworm",
@@ -969,7 +1509,12 @@
       "japanese_name": "おおみみず",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250336&mname=GiantWorm",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gigadraco",
@@ -977,7 +1522,11 @@
       "japanese_name": "ギガントドラゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250520&mname=GigaDraco",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gigantes",
@@ -985,7 +1534,12 @@
       "japanese_name": "ギガンテス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250297&mname=Gigantes",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gismo",
@@ -993,7 +1547,12 @@
       "japanese_name": "ギズモ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250308&mname=Gismo",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:goategon",
@@ -1001,7 +1560,12 @@
       "japanese_name": "ゴートドン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250315&mname=Goategon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:goathorn",
@@ -1009,7 +1573,12 @@
       "japanese_name": "アンクルホーン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250373&mname=GoatHorn",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gohopper",
@@ -1017,7 +1586,12 @@
       "japanese_name": "キリキリバッタ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250345&mname=GoHopper",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:goldgolem",
@@ -1025,7 +1599,12 @@
       "japanese_name": "ゴールデンゴーレム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250413&mname=GoldGolem",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:goldslime",
@@ -1033,7 +1612,12 @@
       "japanese_name": "ゴールデンスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250476&mname=GoldSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:golem",
@@ -1041,7 +1625,12 @@
       "japanese_name": "ゴーレム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250270&mname=Golem",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:goopi",
@@ -1049,7 +1638,12 @@
       "japanese_name": "マドハンド",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250289&mname=Goopi",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gophecada",
@@ -1057,7 +1651,12 @@
       "japanese_name": "せみモグラ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250381&mname=Gophecada",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gorago",
@@ -1065,7 +1664,11 @@
       "japanese_name": "ヘルゴラゴ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250571&mname=Gorago",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:grakos",
@@ -1073,7 +1676,11 @@
       "japanese_name": "グラコス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250458&mname=Grakos",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:granslime",
@@ -1081,7 +1688,11 @@
       "japanese_name": "グランスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250566&mname=GranSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:greatdrak",
@@ -1089,7 +1700,12 @@
       "japanese_name": "グレイトドラゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250414&mname=GreatDrak",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gremlin",
@@ -1097,7 +1713,12 @@
       "japanese_name": "グレムリン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250293&mname=Gremlin",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:grendal",
@@ -1105,7 +1726,12 @@
       "japanese_name": "グレンデル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250412&mname=Grendal",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:grizzly",
@@ -1113,7 +1739,12 @@
       "japanese_name": "グリズリー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250324&mname=Grizzly",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gulpbeast",
@@ -1121,7 +1752,12 @@
       "japanese_name": "ストロングアニマル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250460&mname=GulpBeast",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:gulpple",
@@ -1129,7 +1765,12 @@
       "japanese_name": "ガップリン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250388&mname=Gulpple",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:haloslime",
@@ -1137,7 +1778,11 @@
       "japanese_name": "エンゼルスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250535&mname=HaloSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:hammerman",
@@ -1145,7 +1790,12 @@
       "japanese_name": "おおきづち",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250382&mname=HammerMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:hargon",
@@ -1153,7 +1803,12 @@
       "japanese_name": "ハーゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250280&mname=Hargon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:healer",
@@ -1161,7 +1816,12 @@
       "japanese_name": "ホイミスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250284&mname=Healer",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:herbman",
@@ -1169,7 +1829,12 @@
       "japanese_name": "マンドラゴラ(DQM1)",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250486&mname=HerbMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:hoodsquid",
@@ -1177,7 +1842,11 @@
       "japanese_name": "イカずきん",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250574&mname=HoodSquid",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:hork",
@@ -1185,7 +1854,12 @@
       "japanese_name": "くさった死体",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250294&mname=Hork",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:hornbeet",
@@ -1193,7 +1867,12 @@
       "japanese_name": "ホーンビートル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250488&mname=HornBeet",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:iceman",
@@ -1201,7 +1880,12 @@
       "japanese_name": "ひょうがまじん",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250326&mname=IceMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:inverzon",
@@ -1209,7 +1893,11 @@
       "japanese_name": "さかさゾンビ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250537&mname=Inverzon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:ironturt",
@@ -1217,7 +1905,12 @@
       "japanese_name": "アイアンタートル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250465&mname=IronTurt",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:jamirus",
@@ -1225,7 +1918,12 @@
       "japanese_name": "ジャミラス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250459&mname=Jamirus",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:jewelbag",
@@ -1233,7 +1931,12 @@
       "japanese_name": "おどるほうせき",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250314&mname=JewelBag",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:kagebou",
@@ -1249,7 +1952,12 @@
       "japanese_name": "キングコブラ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250281&mname=KingCobra",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:kingleo",
@@ -1257,7 +1965,12 @@
       "japanese_name": "キングレオ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250372&mname=KingLeo",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:kingslime",
@@ -1265,7 +1978,12 @@
       "japanese_name": "キングスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250361&mname=KingSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:kingsquid",
@@ -1273,7 +1991,11 @@
       "japanese_name": "大王イカ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250323&mname=KingSquid",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:kitehawk",
@@ -1281,7 +2003,11 @@
       "japanese_name": "よなくにどり",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250545&mname=KiteHawk",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:lampgenie",
@@ -1289,7 +2015,11 @@
       "japanese_name": "ランプのまおう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250449&mname=LampGenie",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:landowl",
@@ -1297,7 +2027,12 @@
       "japanese_name": "モーザ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250392&mname=LandOwl",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:lavaman",
@@ -1305,7 +2040,12 @@
       "japanese_name": "ようがんまじん",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250325&mname=LavaMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:lazamanus",
@@ -1313,7 +2053,11 @@
       "japanese_name": "ラザマナス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250562&mname=Lazamanus",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:lionex",
@@ -1321,7 +2065,12 @@
       "japanese_name": "ライオネック",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250408&mname=Lionex",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:lipsy",
@@ -1329,7 +2078,12 @@
       "japanese_name": "リップス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250422&mname=Lipsy",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:lizardfly",
@@ -1337,7 +2091,12 @@
       "japanese_name": "リザードフライ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250282&mname=LizardFly",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:lizardman",
@@ -1345,7 +2104,12 @@
       "japanese_name": "リザードマン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250409&mname=LizardMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:lorddraco",
@@ -1353,7 +2117,11 @@
       "japanese_name": "しん・りゅうおう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250523&mname=LordDraco",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madcandle",
@@ -1361,7 +2129,12 @@
       "japanese_name": "おばけキャンドル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250387&mname=MadCandle",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madcat",
@@ -1369,7 +2142,12 @@
       "japanese_name": "キラーパンサー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250394&mname=MadCat",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madcondor",
@@ -1377,7 +2155,12 @@
       "japanese_name": "ヘルコンドル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250316&mname=MadCondor",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:maddragon",
@@ -1385,7 +2168,12 @@
       "japanese_name": "ドラゴンマッド",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250404&mname=MadDragon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madgoose",
@@ -1393,7 +2181,12 @@
       "japanese_name": "キラーグース",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250435&mname=MadGoose",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madgopher",
@@ -1401,7 +2194,12 @@
       "japanese_name": "キラースコップ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250338&mname=MadGopher",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madhornet",
@@ -1409,7 +2207,12 @@
       "japanese_name": "ヘルホーネット",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250431&mname=MadHornet",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madknight",
@@ -1417,7 +2220,12 @@
       "japanese_name": "あくまのきし",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250271&mname=MadKnight",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madmirror",
@@ -1425,7 +2233,12 @@
       "japanese_name": "あくまのカガミ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250439&mname=MadMirror",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madpecker",
@@ -1433,7 +2246,12 @@
       "japanese_name": "デッドペッカー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250319&mname=MadPecker",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madplant",
@@ -1441,7 +2259,12 @@
       "japanese_name": "マッドプラント",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250384&mname=MadPlant",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madraven",
@@ -1449,7 +2272,12 @@
       "japanese_name": "デスフラッター",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250301&mname=MadRaven",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:madspirit",
@@ -1457,7 +2285,12 @@
       "japanese_name": "エビルスピリッツ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250379&mname=MadSpirit",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:maneater",
@@ -1465,7 +2298,12 @@
       "japanese_name": "マンイーター(DQII)",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250286&mname=ManEater",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:medusaeye",
@@ -1473,7 +2311,12 @@
       "japanese_name": "メドーサボール",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250287&mname=MedusaEye",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:merman",
@@ -1481,7 +2324,11 @@
       "japanese_name": "マーマン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250322&mname=Merman",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mertiger",
@@ -1489,7 +2336,11 @@
       "japanese_name": "マータイガー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250561&mname=MerTiger",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:metabble",
@@ -1497,7 +2348,12 @@
       "japanese_name": "はぐれメタル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250279&mname=Metabble",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:metaldrak",
@@ -1505,7 +2361,12 @@
       "japanese_name": "メタルドラゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250415&mname=MetalDrak",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:metalking",
@@ -1513,7 +2374,12 @@
       "japanese_name": "メタルキング",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250362&mname=MetalKing",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:metaly",
@@ -1521,7 +2387,12 @@
       "japanese_name": "メタルスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250263&mname=Metaly",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mimeslime",
@@ -1529,7 +2400,11 @@
       "japanese_name": "ピエロスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250540&mname=MimeSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mimic",
@@ -1537,7 +2412,12 @@
       "japanese_name": "ミミック",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250318&mname=Mimic",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:minidrak",
@@ -1545,7 +2425,12 @@
       "japanese_name": "コドラ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250350&mname=MiniDrak",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mirudraas",
@@ -1561,7 +2446,12 @@
       "japanese_name": "ミルドラース",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250417&mname=Mirudraas (2)",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mistywing",
@@ -1569,7 +2459,12 @@
       "japanese_name": "ミストウイング",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250498&mname=MistyWing",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mommonja",
@@ -1577,7 +2472,12 @@
       "japanese_name": "ももんじゃ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250341&mname=Mommonja",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:moray",
@@ -1585,7 +2485,11 @@
       "japanese_name": "おおうつぼ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250448&mname=Moray",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:muddoll",
@@ -1593,7 +2497,12 @@
       "japanese_name": "どろにんぎょう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250285&mname=MudDoll",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mudou",
@@ -1601,7 +2510,12 @@
       "japanese_name": "ムドー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250467&mname=Mudou",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mudron",
@@ -1609,7 +2523,12 @@
       "japanese_name": "マッドロン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250440&mname=Mudron",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:multieyes",
@@ -1617,7 +2536,11 @@
       "japanese_name": "マルチアイ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250516&mname=MultiEyes",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:mummy",
@@ -1625,7 +2548,12 @@
       "japanese_name": "マミー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250288&mname=Mummy",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:niterich",
@@ -1633,7 +2561,11 @@
       "japanese_name": "ナイトリッチ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250519&mname=Niterich",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:nitewhip",
@@ -1641,7 +2573,12 @@
       "japanese_name": "ナイトウイプス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250386&mname=NiteWhip",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:noctoking",
@@ -1649,7 +2586,11 @@
       "japanese_name": "夜の帝王",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250371&mname=NoctoKing",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:octogon",
@@ -1657,7 +2598,11 @@
       "japanese_name": "ダゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250359&mname=Octogon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:octokid",
@@ -1665,7 +2610,11 @@
       "japanese_name": "たこつぼこぞう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250444&mname=Octokid",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:octoraid",
@@ -1673,7 +2622,11 @@
       "japanese_name": "ヘルパイレーツ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250457&mname=Octoraid",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:octoreach",
@@ -1681,7 +2634,11 @@
       "japanese_name": "オクトリーチ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250399&mname=Octoreach",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:ogre",
@@ -1689,7 +2646,12 @@
       "japanese_name": "オーガー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250374&mname=Ogre",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:oniono",
@@ -1697,7 +2659,12 @@
       "japanese_name": "オニオーン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250423&mname=Oniono",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:orc",
@@ -1705,7 +2672,12 @@
       "japanese_name": "オーク",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250295&mname=Orc",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:orgodemir",
@@ -1721,7 +2693,11 @@
       "japanese_name": "オルゴ･デミーラ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250522&mname=Orgodemir (2)",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:orligon",
@@ -1729,7 +2705,11 @@
       "japanese_name": "オリハルゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250568&mname=Orligon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:orochi",
@@ -1737,7 +2717,12 @@
       "japanese_name": "やまたのおろち",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250331&mname=Orochi",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:pearlgel",
@@ -1745,7 +2730,11 @@
       "japanese_name": "パールスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250541&mname=PearlGel",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:petiteel",
@@ -1753,7 +2742,11 @@
       "japanese_name": "プチイール",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250400&mname=Petiteel",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:phoenix",
@@ -1761,7 +2754,12 @@
       "japanese_name": "ひくいどり",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250410&mname=Phoenix",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:picky",
@@ -1769,7 +2767,12 @@
       "japanese_name": "ピッキー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250391&mname=Picky",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:pillowrat",
@@ -1777,7 +2780,12 @@
       "japanese_name": "ファーラット",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250419&mname=PillowRat",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:pixy",
@@ -1785,7 +2793,12 @@
       "japanese_name": "ピクシー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250342&mname=Pixy",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:pizzaro",
@@ -1793,7 +2806,12 @@
       "japanese_name": "デスピサロ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250378&mname=Pizzaro",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:poisongon",
@@ -1801,7 +2819,12 @@
       "japanese_name": "ポイズンリザード",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250354&mname=Poisongon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:pompombom",
@@ -1809,7 +2832,11 @@
       "japanese_name": "ポムポムボム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250512&mname=PomPomBom",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:poseidon",
@@ -1817,7 +2844,11 @@
       "japanese_name": "ポセイドン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250570&mname=Poseidon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:protomech",
@@ -1825,7 +2856,11 @@
       "japanese_name": "プロトキラー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250517&mname=ProtoMech",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:psychopiz",
@@ -1833,7 +2868,11 @@
       "japanese_name": "サイコピサロ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250526&mname=PsychoPiz",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:pteranod",
@@ -1841,7 +2880,12 @@
       "japanese_name": "プテラノドン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250357&mname=Pteranod",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:pumpoise",
@@ -1849,7 +2893,11 @@
       "japanese_name": "イルカちょうちん",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250548&mname=Pumpoise",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:puppetor",
@@ -1857,7 +2905,11 @@
       "japanese_name": "フィアーパペット",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250575&mname=Puppetor",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:putrefish",
@@ -1865,7 +2917,11 @@
       "japanese_name": "ようかい魚",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250509&mname=PutreFish",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:putrepup",
@@ -1873,7 +2929,12 @@
       "japanese_name": "アニマルゾンビ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250306&mname=PutrePup",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:pyuro",
@@ -1881,7 +2942,11 @@
       "japanese_name": "ピューロ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250533&mname=Pyuro",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:rainhawk",
@@ -1889,7 +2954,12 @@
       "japanese_name": "にじくじゃく",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250504&mname=RainHawk",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:ramia",
@@ -1905,7 +2975,12 @@
       "japanese_name": "ライバーン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250370&mname=Rayburn",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:raygigas",
@@ -1913,7 +2988,11 @@
       "japanese_name": "レイギガース",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250364&mname=RayGigas",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:reaper",
@@ -1921,7 +3000,12 @@
       "japanese_name": "しにがみ(DQII)",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250277&mname=Reaper",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:roboster",
@@ -1929,7 +3013,12 @@
       "japanese_name": "キラーマシン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250296&mname=Roboster",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:roboster2",
@@ -1937,7 +3026,11 @@
       "japanese_name": "キラーマシン2",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250461&mname=Roboster2",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:rockslime",
@@ -1945,7 +3038,12 @@
       "japanese_name": "ストーンスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250478&mname=RockSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:roguenite",
@@ -1953,7 +3051,12 @@
       "japanese_name": "さまようよろい",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250311&mname=RogueNite",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:roguewave",
@@ -1961,7 +3064,11 @@
       "japanese_name": "キラーウェーブ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250446&mname=RogueWave",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:rosevine",
@@ -1969,7 +3076,12 @@
       "japanese_name": "ローズバトラー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250499&mname=Rosevine",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:rotraven",
@@ -1977,7 +3089,12 @@
       "japanese_name": "やたがらす",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250491&mname=RotRaven",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:rushfish",
@@ -1985,7 +3102,11 @@
       "japanese_name": "とつげきうお",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250365&mname=RushFish",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:sabreman",
@@ -1993,7 +3114,12 @@
       "japanese_name": "ひとくいサーベル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250356&mname=SabreMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:saccer",
@@ -2001,7 +3127,12 @@
       "japanese_name": "ミノーン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250346&mname=Saccer",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:scallopa",
@@ -2009,7 +3140,11 @@
       "japanese_name": "たまてがい",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250401&mname=Scallopa",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:seahorse",
@@ -2017,7 +3152,11 @@
       "japanese_name": "シーホース",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250553&mname=SeaHorse",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:serpentia",
@@ -2025,7 +3164,11 @@
       "japanese_name": "じゃりゅうせんし",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250560&mname=Serpentia",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:servant",
@@ -2033,7 +3176,12 @@
       "japanese_name": "まおうのつかい",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250466&mname=Servant",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:shadow",
@@ -2041,7 +3189,12 @@
       "japanese_name": "シャドー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250310&mname=Shadow",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:shantak",
@@ -2049,7 +3202,11 @@
       "japanese_name": "シャンタク",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250558&mname=Shantak",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:sickler",
@@ -2057,7 +3214,11 @@
       "japanese_name": "キラーシックル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250551&mname=Sickler",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:sidoh",
@@ -2065,7 +3226,12 @@
       "japanese_name": "シドー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250300&mname=Sidoh",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:skeletor",
@@ -2073,7 +3239,12 @@
       "japanese_name": "がいこつけんし(DQIII)",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250328&mname=Skeletor",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:skularach",
@@ -2081,7 +3252,11 @@
       "japanese_name": "スカルスパイダー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250550&mname=Skularach",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:skullgon",
@@ -2089,7 +3264,12 @@
       "japanese_name": "スカルゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250333&mname=Skullgon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:skullroo",
@@ -2097,7 +3277,12 @@
       "japanese_name": "スカルガルー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250426&mname=Skullroo",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:skulpent",
@@ -2105,7 +3290,11 @@
       "japanese_name": "スカルサーペント",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250385&mname=Skulpent",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:skulrider",
@@ -2113,7 +3302,12 @@
       "japanese_name": "スカルライダー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250450&mname=SkulRider",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:skydragon",
@@ -2121,7 +3315,12 @@
       "japanese_name": "スカイドラゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250321&mname=SkyDragon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:slabbit",
@@ -2129,7 +3328,12 @@
       "japanese_name": "スラッピー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250479&mname=Slabbit",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:slime",
@@ -2137,7 +3341,12 @@
       "japanese_name": "スライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250262&mname=Slime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:slimeborg",
@@ -2145,7 +3354,12 @@
       "japanese_name": "スライムボーグ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250483&mname=SlimeBorg",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:slimenite",
@@ -2153,7 +3367,12 @@
       "japanese_name": "スライムナイト",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250390&mname=SlimeNite",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:slurperon",
@@ -2161,7 +3380,11 @@
       "japanese_name": "エビルポスト",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250531&mname=Slurperon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:snaily",
@@ -2169,7 +3392,12 @@
       "japanese_name": "スライムつむり",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250320&mname=Snaily",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:snakebat",
@@ -2177,7 +3405,11 @@
       "japanese_name": "へびこうもり",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250395&mname=SnakeBat",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:snapper",
@@ -2185,7 +3417,12 @@
       "japanese_name": "ひとくいそう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250348&mname=Snapper",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:spikerous",
@@ -2193,7 +3430,12 @@
       "japanese_name": "デンタザウルス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250407&mname=Spikerous",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:spikyboy",
@@ -2201,7 +3443,12 @@
       "japanese_name": "とげぼうず",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250380&mname=SpikyBoy",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:spooky",
@@ -2209,7 +3456,12 @@
       "japanese_name": "ゴースト",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250265&mname=Spooky",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:spotking",
@@ -2217,7 +3469,12 @@
       "japanese_name": "ぶちキング",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250474&mname=SpotKing",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:spotslime",
@@ -2225,7 +3482,12 @@
       "japanese_name": "ぶちスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250418&mname=SpotSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:stagbug",
@@ -2233,7 +3495,12 @@
       "japanese_name": "はさみくわがた",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250337&mname=StagBug",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:starfish",
@@ -2241,7 +3508,11 @@
       "japanese_name": "おばけヒトデ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250510&mname=Starfish",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:stoneman",
@@ -2249,7 +3520,12 @@
       "japanese_name": "うごくせきぞう(DQIII)",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250332&mname=StoneMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:stubbird",
@@ -2257,7 +3533,12 @@
       "japanese_name": "ガンコどり",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250428&mname=StubBird",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:stubsuck",
@@ -2265,7 +3546,12 @@
       "japanese_name": "きりかぶおばけ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250339&mname=Stubsuck",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:superten",
@@ -2273,7 +3559,12 @@
       "japanese_name": "スーパーテンツク",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250424&mname=SuperTen",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:swordgon",
@@ -2281,7 +3572,12 @@
       "japanese_name": "ソードドラゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250497&mname=Swordgon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:taileater",
@@ -2289,7 +3585,12 @@
       "japanese_name": "テールイーター",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250421&mname=TailEater",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:titanis",
@@ -2297,7 +3598,11 @@
       "japanese_name": "タイタニス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250565&mname=Titanis",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Devil",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:toadstool",
@@ -2305,7 +3610,12 @@
       "japanese_name": "マタンゴ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250309&mname=Toadstool",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:tonguella",
@@ -2313,7 +3623,12 @@
       "japanese_name": "ベロゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250396&mname=Tonguella",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:tortragon",
@@ -2321,7 +3636,12 @@
       "japanese_name": "ガメゴン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250327&mname=Tortragon",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:treeboy",
@@ -2329,7 +3649,12 @@
       "japanese_name": "ヘルボックル",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250425&mname=TreeBoy",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:treeslime",
@@ -2337,7 +3662,12 @@
       "japanese_name": "スライムツリー",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250480&mname=TreeSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:tropicgel",
@@ -2345,7 +3675,11 @@
       "japanese_name": "トロピカルスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250547&mname=TropicGel",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:trumpeter",
@@ -2353,7 +3687,12 @@
       "japanese_name": "パオーム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250397&mname=Trumpeter",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:unicorn",
@@ -2361,7 +3700,12 @@
       "japanese_name": "ユニコーン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250452&mname=Unicorn",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:vampirus",
@@ -2369,7 +3713,11 @@
       "japanese_name": "バピラス",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250292&mname=Vampirus",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:voodoll",
@@ -2377,7 +3725,12 @@
       "japanese_name": "ミステリドール",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250360&mname=Voodoll",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Material",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:walrusman",
@@ -2385,7 +3738,11 @@
       "japanese_name": "トドマン",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250368&mname=WalrusMan",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:warmantis",
@@ -2393,7 +3750,11 @@
       "japanese_name": "カマキリせんし",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250556&mname=WarMantis",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:warubou",
@@ -2401,7 +3762,11 @@
       "japanese_name": "ワルぼう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250528&mname=Warubou",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:watabou",
@@ -2409,7 +3774,12 @@
       "japanese_name": "わたぼう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250506&mname=Watabou",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:weedbug",
@@ -2417,7 +3787,12 @@
       "japanese_name": "とうちゅうかそう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250501&mname=WeedBug",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bug",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:whalemage",
@@ -2425,7 +3800,11 @@
       "japanese_name": "ホエールマージ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250569&mname=WhaleMage",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Water",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:whipbird",
@@ -2433,7 +3812,12 @@
       "japanese_name": "ロックちょう",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250505&mname=WhipBird",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:whiteking",
@@ -2441,7 +3825,12 @@
       "japanese_name": "ワイトキング(DQV)",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250406&mname=WhiteKing",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:wildape",
@@ -2449,7 +3838,12 @@
       "japanese_name": "キラーエイプ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250313&mname=WildApe",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:windbeast",
@@ -2457,7 +3851,12 @@
       "japanese_name": "かまいたち",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250353&mname=WindBeast",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:windmerge",
@@ -2465,7 +3864,12 @@
       "japanese_name": "ウインドマージ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250433&mname=WindMerge",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Zombie",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:wingslime",
@@ -2473,7 +3877,12 @@
       "japanese_name": "はねスライム",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250481&mname=WingSlime",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:wingsnake",
@@ -2481,7 +3890,12 @@
       "japanese_name": "ウィングスネーク",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250453&mname=WingSnake",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Dragon",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:wingtree",
@@ -2489,7 +3903,12 @@
       "japanese_name": "ふゆうじゅ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250495&mname=WingTree",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Plant",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:wonderegg",
@@ -2497,7 +3916,11 @@
       "japanese_name": "ワンダーエッグ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250513&mname=WonderEgg",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Slime",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:wyvern",
@@ -2505,7 +3928,12 @@
       "japanese_name": "キメラ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250269&mname=Wyvern",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:yeti",
@@ -2513,7 +3941,12 @@
       "japanese_name": "イエティ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250358&mname=Yeti",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Beast",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:zapbird",
@@ -2521,7 +3954,12 @@
       "japanese_name": "サンダーバード",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250475&mname=ZapBird",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Bird",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:zoma",
@@ -2529,7 +3967,12 @@
       "japanese_name": "ゾーマ",
       "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250335&mname=Zoma",
       "mode_verification": "PS1_collection_only; individual game membership not yet verified",
-      "family": null
+      "family": "Boss",
+      "family_verification": "inferred_from_corresponding_GBC_species_not_PS1_verified",
+      "family_source_games": [
+        "dwm1gbc",
+        "dwm2gbc"
+      ]
     },
     {
       "id": "dqm12ps1:zoma-s-devil",
