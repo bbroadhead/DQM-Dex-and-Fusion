@@ -15,6 +15,7 @@ on:
       - 'data/woodus/dqm3gba-*.json'
       - 'scripts/validate_caravan_data.py'
       - 'scripts/test_caravan_ui.py'
+      - 'scripts/test_caravan_browser.cjs'
       - 'scripts/test_caravan_stats_parser.py'
       - 'index.html'
       - '.github/workflows/validate-caravan-data.yml'
