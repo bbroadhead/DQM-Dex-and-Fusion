@@ -1,0 +1,723 @@
+
+===============================================================================
+                        DRAGON QUEST MONSTERS: CARAVAN HEART
+
+                        Monster FAQ
+
+                        by Slartifer
+                        (GameFAQs handle: Slartifer)
+
+                        v 1.0
+                        June 26, 2011
+===============================================================================
+
+This FAQ contains detailed information on how reformations work, as well as a
+list of all monsters' stats and the best sources of monster abilities and
+reborn humans.
+
+===============================================================================
+                              TABLE OF CONTENTS
+===============================================================================
+
+[1] Reforming
+        [1.1] Determining Monster Race
+        [1.2] General Cases
+        [1.3] Special Cases
+[2] Monster Stats
+[3] Easy Monster Goodies
+        [3.1] Abilities
+        [3.2] Small Humans
+[4] Acknowledgements & History
+
+===============================================================================
+                                      [1]
+
+                                   REFORMING
+===============================================================================
+
+-------------------------------------------------------------------------------
+[1.1] REFORMING -- DETERMINING MONSTER RACE
+-------------------------------------------------------------------------------
+
+For most reformings, you can determine the race of the reformed monster by
+consulting the tables in Chapter 2.  However, there are some heart combinations
+which will override the general charts:
+
+1) SPECIAL CASES: Certain combinations have a special result programmed in.
+                  These combinations will always result in a particular
+                  monster, regardless of star level.
+
+2) DOUBLE HEARTS: If you use two copies of the exact same monster heart, and it
+                  is not a special case, the reformed monster will be the race
+                  whose hearts you used, regardless of star level.
+                  
+                  (The only monsters that have special cases for double hearts
+                  are the 6 star monsters as well as the "unique" Elemental
+                  monsters.)
+
+3) PLAYER HEARTS: If you use at least one Player heart, the other heart is
+                  ignored, and the monster will drop down one star level.
+                  I'm not sure precisely how this one works.
+
+4) HUMAN HEARTS:  Any reforming involving one or more human hearts that are NOT
+                  Player hearts will result in the same race you had before
+                  reforming.
+
+If none of these combinations are used, then a DOMINANT FAMILY and an
+INFLUENCING FAMILY are determined by the base monster's family and the families
+of the two monster hearts.  They are determined as follows:
+
+1) IF hearts are from the same family,
+
+      1a) AND base monster is elemental or from the same family, THEN:
+               DOMINANT = HEART FAMILY
+            INFLUENCING = HEART FAMILY
+
+      1b) AND base monster is from a different, non-elemental family, THEN:
+               DOMINANT = HEART FAMILY
+            INFLUENCING = BASE  FAMILY
+
+2) IF hearts are from different families,
+
+      2a) AND base monster shares a non-elemental family with one heart, THEN:
+               DOMINANT = BASE  FAMILY
+            INFLUENCING = OTHER FAMILY
+
+      2b) AND base monster shares the elemental family with one heart, THEN:
+               DOMINANT = OTHER FAMILY
+            INFLUENCING = ELEMENTAL
+
+      2c) AND all three families are different, THEN:
+               DOMINANT = HIGHEST RANK FAMILY
+            INFLUENCING = NEXT HIGHEST FAMILY
+
+            Family Rank Order for 2c:  1. BEAST
+                                       2. DEMON
+                                       3. MATERIAL
+                                       4. ANIMAL
+                                       5. SLIME
+                                       6. NATURE
+                                       7. ELEMENTAL (never chosen this way)
+
+Additionally, STAR LEVEL is determined.  Normally, this will be the same as the
+star level of the base monster.  It will increase by 1 if at least one of the
+hearts has a higher star level than the base monster does (up to a maximum of 5
+stars).  It will never increase by more than 1 with this type of reforming. 
+Finally, a special rank monster will drop down to 5 stars if reformed in this
+way.
+
+Based on the dominant and influencing families, and the star level, the
+monster's race can be found in the tables listed in Chapter 2 below.
+
+DISCLAIMER: I have not found any case where the above rules are inaccurate. 
+Indeed, they seem to work perfectly.  However, I have not tested every possible
+case.  Therefore, it's possible there are mistakes.  If you find any, please
+post a message about it and I will update this guide and credit you.  Thanks.
+
+-------------------------------------------------------------------------------
+[1.2] REFORMING -- GENERAL CASES
+-------------------------------------------------------------------------------
+
+HOW TO USE THESE CHARTS:
+  1. Determine the DOMINANT and Influencing family as in Chapter 1 above.
+  2. The DOMINANT family is listed on top, the Influencing family on the side.
+  3. There is a different chart for each star level.  (I found it useful to see
+     all the options for a reformation at once, while it is not that useful to
+     know that Giant Worm and Wing Tree have similar heritages, etc.)
+
+ 1 STAR  #  BEAST  |  DEMON  |  MATRL  |  ANIML  |  SLIME  |  NATUR  |  ELMNT
+*********#*********************************************************************
+  Beast  # Dradon  | Hork    | Stone   | Baby    | Aqua    | Flower  | Wind
+         #         |         | Kid     | Panther | Slime   | Beat    | Beast
+---------#---------+---------+---------+---------+---------+---------+---------
+  Demon  # Lipsy   | Demonite| Mad     | Stone-  | Aqua    | Giant   | Wind
+         #         |         | Candle  | hopper  | Slime   | Slug    | Beast
+---------#---------+---------+---------+---------+---------+---------+---------
+  Matrl  # Dradon  | Demonite| Totem   | Mad     | Confetti| Cacti   | Gizmo
+         #         |         | Killer  | Gopher  |         | Ball    |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Animl  # Drakee  | Vampire | Spiky   | Mommonja| Bubble  | Ghostar | Wind
+         #         | Rat     | Boy     |         | Slime   | Fish    | Beast
+---------#---------+---------+---------+---------+---------+---------+---------
+  Slime  # Dragon  | Spooky  | Goopi   | Mommonja| Slime   | Giant   | Killer
+         # Kid     |         |         |         |         | Worm    | Wave
+---------#---------+---------+---------+---------+---------+---------+---------
+  Natur  # Droll   | Death   | Spiky   | Ghostar | Slime   |Eggplaton| Killer
+         #         | God     | Boy     | Fish    |         |         | Wave
+---------#---------+---------+---------+---------+---------+---------+---------
+  Elmnt  #Demighoul| Merman  | Puppet  | Rush    | Magma   |Eggplaton| Gizmo
+         #         |         | Man     | Fish    | Slime   |         |
+
+ 2 STARS #  BEAST  |  DEMON  |  MATRL  |  ANIML  |  SLIME  |  NATUR  |  ELMNT
+*********#*********************************************************************
+  Beast  # Dragon  | Dead    | Phantom | Nocto   | Metal   | Opabi   | Flame
+         #         | Knight  | Glass   | King    | Slime   |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Demon  # War     | Dead    | Mimic   | Cat     | Healer  | Chestnut| Flame
+         # Lizard  | Father  |         | Mage    |         | Man     |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Matrl  # Mad     | Mummy   | Wicked  | Army    | Snaily  | Minon   | Cloud
+         # Dragon  |         | Axe     | Crab    |         |         | King
+---------#---------+---------+---------+---------+---------+---------+---------
+  Animl  # Orc     | Putre   | Sabre   |Tonguella| Snaily  |Tonguella| Flame
+         #         | Pup     | Man     |         |         |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Slime  # Big Eye | Pompom  | Clay    |Tonguella| Healer  | Mad     | Blizzard
+         #         | Bomb    | Man     |         |         | Plant   |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Natur  # Wyvern  | Putre   | Clay    | Bull    | Reefer  | Florajay| Blizzard
+         #         | Pup     | Man     | Bird    |         |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Elmnt  # Big Eye | Shadow  | Jewel   | Almiraj | Snome   | Florajay| Cloud
+         #         |         | Bag     |         |         |         | King
+
+ 3 STARS #  BEAST  |  DEMON  |  MATRL  |  ANIML  |  SLIME  |  NATUR  |  ELMNT
+*********#*********************************************************************
+  Beast  # Swordgon| Arch    | Golem   | Goategon| Dark    | Onion   | Iiro
+         #         | Demon   |         |         | Slime   | Master  |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Demon  # Gargoyle| Gate    |Armorpede| Grizzly | Slime   | Dance   | Iiro
+         #         | Guard   |         |         | Knight  | Vegi    |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Matrl  # Swordgon| Evil    | Proto   | Iron    | Dark    |Armorpede| Iiro
+         #         | Armor   | Mech    | Turtle  | Slime   |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Animl  # Gulp    | Gigantes| Golem   | Wild    | Bubble  | Unicorn | Iiro
+         # Beast   |         |         | Ape     | King    |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Slime  # Boohbah |Berserker|Armorpede| Unicorn | Slime   | Stubsuck| Dreen
+         #         |         |         |         | Knight  |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Natur  # Snapper |Berserker| Stone   | Mad     | Bubble  | Snapper | Dreen
+         #         |         | Spider  | Condor  | King    |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Elmnt  #Blizzardy| Ag      | Bomb    | Unicorn | Metabble| Snapper | Dreen
+         #         | Devil   | Crag    |         |         |         |
+
+ 4 STARS #  BEAST  |  DEMON  |  MATRL  |  ANIML  |  SLIME  |  NATUR  |  ELMNT
+*********#*********************************************************************
+  Beast  # Great   | Jamirus | Dead    | Dark    | Dark    | Pumpk'  | Pimo
+         # Dragon  |         | Masker  | Horn    | Knight  | night   |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Demon  # Andreal | Demon   | Mad     | Dark    | Mage    | Mad     | Pimo
+         #         | Monk    | Mirror  | Horn    | Slime   | Hornet  |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Matrl  # Skullgon| Dragon  | Roboster| Iron    | Dark    | Big     | Alue
+         #         | Rider   |         | Hawk    | Knight  | Scorpion|
+---------#---------+---------+---------+---------+---------+---------+---------
+  Animl  # Battle  | Boss    | Stone   | Walrus  | Dark    | Star    | Pimo
+         # Rex     | Troll   | Man     | Man     | Knight  | Fish    |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Slime  # Battle  | Dragon  | Mad     | Walrus  | Halo    | Pod     | Alue
+         # Rex     | Rider   | Mirror  | Man     | Slime   | Hero    |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Natur  #Armorpion| Boss    | Lava    |Triwinder| Halo    | Face    | Alue
+         #         | Troll   | Djinn   |         | Slime   | Tree    |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Elmnt  # Orochi  | Lamp    | Ice     | King    | Crystal | Face    | Alue
+         #         | Genie   | Djinn   | Squid   | Slime   | Tree    |
+
+ 5 STARS #  BEAST  |  DEMON  |  MATRL  |  ANIML  |  SLIME  |  NATUR  |  ELMNT
+*********#*********************************************************************
+  Beast  # Giga    | Grand   | Gryphynx| Grand   | Dark    | Drolle. | Pural
+         # Draco   | Shark   |         | Shark   | King    |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Demon  #Cergainas| High    | Dark    | Muscle  | Dark    | Drolle. | Pural
+         #         | Wizard  | Crystal | Kong    | King    |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Matrl  #Cergainas| Chain   | Gryphynx| Muscle  | Spin    | Death   | Pural
+         #         | Djinn   |         | Kong    | Slime   | Sizer   |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Animl  # Chaos   | Chain   | Gryphynx|Trumpeter| Dark    |Trumpeter| Pural
+         # Drake   | Djinn   |         |         | King    |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Slime  # Rain    | Grand   | Dark    |Trumpeter| Spin    | Wing    | Pural
+         # Hawk    | Satan   | Crystal |         | Slime   | Tree    |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Natur  # Rain    | Grakos  | Dark    | Grand   | Spin    | Rosevine| Pural
+         # Hawk    |         | Crystal | Shark   | Slime   |         |
+---------#---------+---------+---------+---------+---------+---------+---------
+  Elmnt  # Chaos   | Grakos  | Grand   | King    | Master  | Rosevine| Pural
+         # Drake   |         | Shark   | Leo     | Slime   |         |
+
+-------------------------------------------------------------------------------
+[1.3] REFORMING -- SPECIAL CASES
+-------------------------------------------------------------------------------
+
+There are many hundreds of special cases programmed into the game, and most of
+them are not interesting or useful.  Here are some that are:
+
+Result          Base            1st Heart       2nd Heart       + Needed
+----------      ----------      ----------      ----------      --------
+King Slime      Slime           Cloud King      (Slime Family)
+Metal King      Metal Slime     Metal Slime     Metal Slime     +8
+
+Mage Slime      Healer          Cat Mage        Cat Mage
+Muscle Kong     Wild Ape        Wild Ape        Wild Ape        +4
+
+Mage Slime allows you to jump straight to 4 star monsters at Samaltoria, and
+Muscle Kong gets you to 5 star monsters at Moonbrooke.  Muscle Kong is also one
+normal reformation away from King Leo, which offers probably the best stat gain
+outside of the hardest to create monsters.  You can make 3 King Leos at
+Moonbrooke and easily beat the entire game and postgame without changing your
+race again.  (You'll still want to reform using human hearts, to compound your
+stat gains and learn new skills.)
+
+Result          Base            1st Heart       2nd Heart       + Needed
+----------      ----------      ----------      ----------      --------
+Skeletor        Dead Knight     Dead Knight     Dead Knight     +8
+White King      Skeletor        Skeletor        Skeletor        +8
+
+Roboster        Proto Mech      Proto Mech      Proto Mech      +4
+Roboster 2      Roboster        Roboster        Roboster        +8
+
+Golden Slime    Crystal Slime   Crystal Slime   Crystal Slime   +4
+
+Jenodark        Andreal (2 different hearts of:)
+                    Orochi
+                    Great Dragon
+                    Giant Squid
+                    Iron Hawk
+                    White King
+                    Pumpk'night
+                    Roboster
+
+These level 4 and 5 monsters cannot be created with normal reformations, and
+you need them to make 6 star monsters.  (King Leo and Death Sizer can be
+created with normal reformations.)  You can also use the double heart
+method to make them, but hearts for White King, Roboster 2, Golden Slime, and
+Jenodark are exceedingly difficult to come by.
+
+Result          Base            1st Heart       2nd Heart       + Needed
+----------      ----------      ----------      ----------      --------
+Divinegon       Jenodark        Jenodark        Jenodark
+Night Lich      White King      White King      White King
+DrakMachine     Roboster 2      Roboster 2      Roboster 2
+Infergon        King Leo        King Leo        King Leo
+Gran Slime      Golden Slime    Golden Slime    Golden Slime
+Scarabator      Death Sizer     Death Sizer     Death Sizer
+
+The 6 star monsters cannot be created with normal reformations OR the double
+heart method.
+
+Result          Base            1st Heart       2nd Heart       + Needed
+----------      ----------      ----------      ----------      --------
+Wind Spirit     Dreen           Wind Spirit     Cergainas
+Earth Spirit    Iiro            Earth Spirit    King Leo
+Fire Spirit     Pimo            Fire Spirit     Dragon Lord
+Water Spirit    Alue            Water Spirit    Grakos
+Dark Spirit     Pural           Dark Spirit     Rain Hawk
+Light Spirit    Dark Spirit     Light Spirit    Golden Slime
+
+Kakalon         Water Spirit    Divinegon       Drollerium
+Kushalami       Fire Spirit     Infergon        Jenodark
+Barbaru         Earth Spirit    Night Lich      Muscle Kong
+Domedy          Barbaru         Durran          Gryphynx
+
+Durran          Dark Spirit     Scarabator      Roboster 2
+Dragon Lord     Durran          Divinegon       Chaos Drake
+Watabou         Celestial B.    Gran Slime      Golden Slime    +50
+Warubou         Durran          Gran Slime      Dark Slime      +50
+
+Celestial B.    Light Spirit    Celestial B.    Watabou
+Gisvarg         Domedy          DrakMachine     Warubou
+Master Dragon   Celestial B.    Master Dragon   Gisvarg +99
+
+The unique monsters include the spirits and illusions, which are mostly just
+curiosities, as well as the most high-powered monsters in the game.  However,
+it will take a long time to make Master Dragon and the other elites: not only
+do you have to do a bunch of reformations, but acquiring the hearts you need
+for those reformations is a very time-consuming task.  For reference, the
+chains of reformations used here are:
+
+Alue  --> Water Spirit --> Kakalon
+Pimo  --> Fire Spirit  --> Kushalami
+Iiro  --> Earth Spirit --> Barbaru      --> Domedy          --> Gisvarg
+Pural --> Dark Spirit  --> Durran       --> Dragon Lord
+Pural --> Dark Spirit  --> Durran       --> Warubou
+Pural --> Dark Spirit  --> Light Spirit --> Celestial Beast --> Watabou
+Pural --> Dark Spirit  --> Light Spirit --> Celestial Beast --> Master Dragon
+
+===============================================================================
+                                     [4]
+
+                             MONSTER STATS CHART
+===============================================================================
+
+LEGEND:
+  * = Star Level
+ Wt = Weight
+ XP = Experience required to reach level 10
+
+X/Y = For each of the six stats, two numbers are listed.  The first is the gain
+      you receive when you reach level 2, and the second is the sum of all
+      gains received between level 1 and level 99.  These two numbers should
+      give you a fairly good idea of how the monster's gains are both early on
+      as well as when you're in it for the long haul.
+
+Avg = The average for the above six stats.  This is a great number to use when
+      looking for efficient stat-gainers.  However, remember that you may care
+      more about some stats (ATK) than about others (MP, WIS).
+
+D,S = Each race has 27 different resistance values!  There wasn't room to show
+      all of those, so instead I've listed the average value for two sets of
+      resistances.  0 indicates no resistance while 7 indicates total immunity.
+
+  D = Direct Damage:
+        Blaze, Firebal, Bang, Infernos, Zap, IceBolt, Flame, Blizzard, Tsunami
+
+  S = Status:
+        Surround, Sleep, Beat, StopSpell, Confuse, Sap, Sacrifice, Numb, Curse
+
+      I did not include the following resistances because they are less
+      important, in my experience (a few, I'm not sure the game ever uses):
+        RobMagic, Slow, Madante, Poison, Lick, No Dance, Joke, Call, GigaSlash
+
+  * = Cannot be created with normal reformations
+
+-------------------------------------------------------------------------------
+* Wt   XP     HP     MP    ATK    DEF    SPD    WIS    Avg D S    (1 Star)
+-------------------------------------------------------------------------------
+1 1   739  6/492  2/435  3/575  3/575  1/267 14/999  4/557 0 3 Slime
+1 2  1267  4/494  2/505  4/794  2/435  2/451 13/593  4/545 1 2 Bubble Slime
+1 2  1506  4/794  5/594  4/494  4/494  2/451 13/593  5/570 1 3 Aqua Slime
+1 2  1506  4/794  5/594  4/494  4/494  1/267 13/593  5/539 1 3 Magma Slime
+1 2  1465  5/594  2/435  4/794  5/594  2/411  4/457  3/547 0 3 Confetti
+1 2  1373  5/594  4/494  4/794  2/435  4/794  2/435  3/591 1 1 Baby Panther
+1 2  1407  5/594  7/546  7/438  5/594  1/267  6/492  5/488 0 1 Mommonja
+1 2  1314  5/594  4/494  5/594  2/505  7/438  7/546  5/528 1 1 Stonehopper
+1 2  1314  5/594  5/594  5/594  2/435  2/435  7/546  4/533 1 1 Mad Gopher
+1 3  1314  4/651  4/494  5/594  5/594  5/594  4/494  4/570 1 1 Ghostar Fish
+1 3  1465  4/651  4/494  5/594  5/594  5/594  4/494  4/570 1 1 Rush Fish
+1 2  2006  4/794  2/260  5/594  2/411  2/505  2/505  2/511 1 2 Dragon Kid
+1 1  1506  2/435  4/457  4/494  4/494  7/546  1/267  3/448 1 2 Drakee
+1 3  2006  5/594  2/260  5/594  4/651  2/260  2/505  3/477 1 2 Dradon
+1 2  1984  4/494  2/411  5/594  4/651  7/438  9/345  5/488 1 2 Demighoul
+1 2  1866  4/494  4/794  5/594  7/438  5/594  9/345  5/543 0 2 Droll
+1 2  1583  4/494  6/492  3/575  2/435  4/457  2/451  3/484 0 2 Lipsy
+1 2  1314  4/494  1/267  4/494  4/794  2/435  1/267  2/458 1 3 Eggplaton
+1 2  1314  4/494  2/435  5/594  2/598  6/492  5/594  4/534 2 2 *Gophecada
+1 2  1314  5/594  6/492  7/438  5/594  2/435  9/345  5/483 2 3 Giant Worm
+1 2  1314  2/598  2/598  5/594  4/494  2/435  2/505  2/537 2 2 Cacti Ball
+1 2  1314  4/494  6/492  4/494  2/435  2/435  5/594  3/490 2 3 Giant Slug
+1 2  1314  4/494  2/435  4/794  4/494  7/438  2/598  3/542 0 3 Flower Beat
+1 2  1583  2/505  2/435  7/546  4/494  5/594  4/457  4/505 0 3 Goopi
+1 2  1583  2/435  2/435  5/594  4/494  5/594  7/546  4/516 0 3 Spiky Boy
+1 2  1583  4/494  4/794  4/494  4/494  4/457 10/444  5/529 0 3 Mad Candle
+1 3  2006  4/651  4/794  5/894  5/594  2/411  9/345  4/614 0 3 Stone Kid
+1 3  1984  6/492  5/894  4/494  5/594  2/260  3/575  4/551 0 3 Totem Killer
+1 2  1583  4/494  5/594  2/411  4/494  2/411  2/435  3/473 1 3 Puppet Man
+1 2  1583  4/494  2/451  2/505  4/457  2/435  7/438  3/463 2 1 Demonite
+1 2  1583  3/575  2/260  4/494  4/494  3/575  7/438  3/472 0 3 Death God
+1 1  1314  4/494  5/594  4/494  6/492  2/598  6/492  4/527 0 2 Spooky
+1 3  2006  5/594  2/435  7/438  6/492  2/435  4/794  4/531 0 2 Hork
+1 3  2006  7/438  4/457  5/594  2/598  1/267  3/575  3/488 1 1 Merman
+1 2  2006  3/575  4/651  4/794  4/494  5/594  2/598  3/617 1 2 Vampire Rat
+1 1  1506  4/494 12/385  4/494  4/457  7/438  1/267  5/422 1 3 Gizmo
+1 2  1583  5/594  1/267  5/594  2/435 12/385 13/593  6/478 1 3 Wind Beast
+1 3  1866  4/494  5/594  3/575  4/457 14/999  1/267  5/564 2 3 Killer Wave
+
+-------------------------------------------------------------------------------
+* Wt   XP     HP     MP    ATK    DEF    SPD    WIS    Avg D S    (2 Stars)
+-------------------------------------------------------------------------------
+2 3  1984  1/139  4/794  3/575  9/546 10/444  6/492  5/498 4 5 Metal Slime
+2 3  1583  6/492  7/546  5/594  3/575  1/267 14/999  6/578 0 3 Healer
+2 3  1914  6/492  4/794  4/494  6/492  1/267  6/492  4/505 0 3 Snaily
+2 3  1914  6/492  7/438  6/492  3/575  5/594  9/345  6/489 0 3 Reefer
+2 3  1866  5/594  6/492  6/492  3/505  4/494  7/546  5/520 1 3 Snome
+2 3  1506  5/594  9/345  4/794  4/457  4/494 12/385  6/511 0 1 Cat Mage
+2 4  1583  6/492  4/494  6/492  6/492  0/153  7/438  4/426 0 1 Tonguella
+2 3  1866  7/438  2/435  3/575  6/492  2/505  2/451  3/482 0 2 Army Crab
+2 2  1914  6/492  2/505  6/492  2/435  4/651  4/457  4/505 1 1 Almiraj
+2 4  2006  6/492  4/651  6/492  4/794  4/494  2/260  4/530 1 1 *Nocto King
+2 3  1984  6/492  2/435  6/492  2/435  4/494  4/457  4/467 1 0 Bull Bird
+2 3  2006  6/492  2/451  6/492  7/438  5/594  4/457  5/487 1 2 Dragon
+2 2  1984  5/594  2/435  4/494  6/492  7/438  1/267  4/453 1 1 Wyvern
+2 3  2006  7/546  4/651  7/546  2/505  1/267  4/651  4/527 1 2 Mad Dragon
+2 3  1984  6/492  6/492  6/492  6/492  5/594  2/435  5/499 1 2 Big Eye
+2 3  2006  6/492  2/505  6/492  6/492  4/494  5/594  4/511 1 2 War Lizard
+2 3  2006  5/594  5/594  6/492  6/492  2/435  2/598  4/534 1 2 Orc
+2 2  1465  6/492  2/598  6/492  2/435  2/435  7/546  4/499 2 3 *Toadstool
+2 3  1583  2/598  4/457  7/546  5/594  2/598  5/594  4/564 2 3 Opabi
+2 3  1583  7/438  2/505  2/435  7/546  4/651  7/546  4/520 2 2 Minon
+2 3  1583  6/492  2/260  6/492  6/492  4/494  2/598  4/471 2 2 Mad Plant
+2 2  1506  6/492  2/260  4/794  4/494  2/411  2/411  3/477 1 3 Chestnut Man
+2 2  1465  2/451  2/451  5/594  4/494  9/345  5/594  4/488 2 2 Florajay
+2 3  2006  4/494  4/794  4/651  6/492  2/451  1/267  3/524 1 3 Mimic
+2 3  2006  4/494  5/594  5/894  4/494  1/139  2/598  3/535 0 4 Clay Man
+2 3  2006  5/594  4/794  4/494  5/594  4/651  2/505  4/605 1 4 Phantom Glass
+2 4  1984  4/494 12/385  4/494  5/902  4/457  2/435  5/527 0 3 Jewel Bag
+2 3  2006  6/492  2/260  5/594  6/492  5/594  4/494  4/487 0 3 Sabre Man
+2 4  2006  4/494  4/457  4/494  6/492  7/438  4/494  4/478 0 4 Wicked Axe
+2 2  1984  5/594  2/435  4/494  6/492  2/435  4/457  3/484 0 2 Putre Pup
+2 3  2006  6/492  2/763  3/575  6/492  4/457  2/763  3/590 0 2 Pompom Bomb
+2 3  2006  5/594  4/457  6/492  4/794  4/457  6/492  4/547 0 2 Mummy
+2 3  2006  4/494  5/594  7/438  4/794  5/594  6/492  5/567 1 2 Dead Knight
+2 2  1984  3/575  4/494  4/494  6/492  6/492 10/444  5/498 0 2 Shadow
+2 3  2006  5/594  6/492  4/494  4/494  2/451 12/385  5/485 0 3 Dead Father
+2 4  2006  6/492 14/999  6/492  7/438  7/546  0/999  6/661 2 3 Cloud King
+2 3  2006  5/902  4/794  5/594  4/457  7/438  5/894  5/679 3 3 Flame
+2 3  2006  4/794  4/794  4/651  4/457  7/438  5/894  4/671 2 3 Blizzard
+
+-------------------------------------------------------------------------------
+* Wt   XP     HP     MP    ATK    DEF    SPD    WIS    Avg D S    (3 Stars)
+-------------------------------------------------------------------------------
+3 5  4075  9/345  7/438  7/546  7/546  1/267 12/385  7/421 2 3 *King Slime
+3 4  4116  1/139  9/345  4/494  9/546 12/385  6/492  6/400 5 5 Metabble
+3 3  3807  7/546  2/451  3/575  4/457  2/435  4/457  3/486 1 3 Dark Slime
+3 4  3998  7/546  6/492  7/546  7/546  1/267  9/345  6/457 1 3 Slime Knight
+3 5  3998  7/546  4/794  7/546  7/546  4/494 10/444  6/561 1 3 Bubble King
+3 3  3983  6/492  2/763  3/575  7/546  7/438 10/999  5/695 1 2 Unicorn
+3 3  3807  7/546  7/546  3/575  7/546  7/546 13/593  7/558 2 2 Mad Condor
+3 5  4116  6/492  2/505  7/546  7/546  2/411  7/546  5/507 1 1 Iron Turtle
+3 4  3998  6/492  4/651  7/546  5/594  2/435  2/451  4/528 1 1 Grizzly
+3 4  4075  7/546  2/451  7/546  4/794  2/451  4/457  4/540 0 1 Wild Ape
+3 3  4075  6/492  2/435  7/546  4/794  4/457  2/260  4/497 1 2 Goategon
+3 3  3998  3/575  2/435  6/492  6/492  6/492 10/444  5/488 3 2 *Phoenix
+3 3  4075  3/575  5/594  7/546  7/546  6/492  7/546  5/549 3 2 Blizzardy
+3 4  6297  7/546  2/451  9/345  6/492  5/594  2/451  5/479 1 2 Gulp Beast
+3 4  6297  6/492  2/260  9/345  4/494  2/451  2/505  4/424 2 2 Swordgon
+3 3  3998  6/492  4/651  7/546  7/546  1/267  2/125  4/437 1 2 Boohbah
+3 3  3998  5/594 10/444  7/546  2/451  4/651 13/593  6/546 2 2 Gargoyle
+3 3  1914  7/546  7/438  1/267 13/593  4/794  7/438  6/512 2 3 Snapper
+3 4  3807  4/494  4/794  7/546  9/345  2/435  2/411  4/504 1 3 Armorpede
+3 3  1984  7/546  3/575  6/492  6/492  4/457  4/794  5/559 1 3 *Hammer Man
+3 3  1866  7/546  2/763  5/594  4/494  1/267  7/546  4/535 1 3 Dance Vegi
+3 3  1984  6/492  4/651  2/451  4/494  5/594 13/593  5/545 2 3 Onion Master
+3 3  2006  7/546  2/435  4/457  4/494  2/435  9/345  4/452 2 3 Stubsuck
+3 5  6383  7/546  4/457  7/546  7/546  4/457  4/494  5/507 1 4 Golem
+3 3  6256  7/546  2/435  5/594  6/492  4/651  5/594  4/552 1 4 Bomb Crag
+3 2  4116  5/594  5/594  2/435  5/594  1/267  3/575  3/509 1 4 Stone Spider
+3 3  6374  7/546  4/457  4/494  7/546  4/794  5/594  5/571 1 4 *Rogue Knight
+3 4  6374  5/594  2/411  6/492  6/492  4/457  4/494  4/490 0 4 Proto Mech
+3 3  6297  2/260 10/444  4/494  4/494  4/651 13/593  6/489 2 4 *Wander Monk
+3 4  6297  7/546  2/435  7/546  7/546  5/594  2/763  5/571 2 2 Arch Demon
+3 4  6256  7/438  2/451  5/594  7/546  2/505  6/492  4/504 1 2 Evil Armor
+3 5  6256 12/385  4/651  9/345  5/594  4/651  4/651  6/546 1 2 Gigantes
+3 3  3998  7/546  2/411  7/546  5/594  2/411  4/494  4/500 1 2 Berserker
+3 3  6374  6/492  5/594  7/546  7/546  4/794  9/345  6/552 2 2 Gateguard
+3 3  4075  7/438  2/435  7/546  7/546  7/438  3/575  5/496 2 2 Ag Devil
+
+-------------------------------------------------------------------------------
+* Wt   XP     HP     MP    ATK    DEF    SPD    WIS    Avg D S    (4 Stars)
+-------------------------------------------------------------------------------
+4 6  6383  2/125  9/345  5/594 12/385 13/593 12/385  8/404 5 5 *Metal King
+4 4  6374  4/651  3/119  4/794  9/345  3/119 12/385  5/402 1 3 Crystal Slime
+4 4  6374  6/492  2/451 12/385  9/345  1/267  9/345  6/380 1 3 Dark Knight
+4 3  3983 13/593  4/651  2/505  4/457  4/794  4/457  5/576 0 3 Halo Slime
+4 3  3865  5/594  9/345  4/794  4/457  4/494 12/385  6/511 2 2 Mage Slime
+4 4  6256 10/999  4/457  7/546  4/651  4/457  2/763  5/705 3 2 King Squid
+4 5 13410 12/385  7/546  9/345  7/546  3/575  2/435  6/472 1 1 *Big Mommonja
+4 5  6297  9/546  4/457  7/546  5/594  4/794 10/444  6/563 1 2 Dark Horn
+4 4  6383  7/546  4/651 13/593  4/651 13/593  3/575  7/601 2 2 Iron Hawk
+4 4  6256  9/546  4/494 10/444  3/575  5/594  6/492  6/524 1 1 Walrus Man
+4 4  6374 12/385  9/345 10/444  4/651  7/546  5/894  7/544 3 2 Triwinder
+4 5  6383 14/999  5/594 14/999  4/651  7/546  6/492  8/713 3 2 Orochi
+4 4  6374  5/902  2/451  9/345 12/385  4/457  4/494  6/505 2 2 Skullgon
+4 4  6297  9/345  5/594 10/444  9/546  3/575 10/444  7/491 2 2 Andreal
+4 4  6383  9/345  7/438 10/444  4/651  9/546  7/438  7/477 2 2 Battle Rex
+4 4 15292  5/902  1/267  9/345 14/999 12/385  2/598  7/582 2 3 Amorpion
+4 5 14345  9/345  2/505 10/444  9/345  7/438  7/546  7/437 2 2 Great Dragon
+4 4  3998 10/444  1/267  7/546  6/492  4/794  9/546  6/514 1 3 Face Tree
+4 3  3865  4/494  2/505  5/594  5/594  1/267  4/457  3/485 2 3 Mad Hornet
+4 3  3906  6/492  4/457  5/594  4/651  2/598  5/594  4/564 1 3 Pumpk'night
+4 2  2006  6/492  4/457  4/794  4/651  2/435  4/794  4/603 1 3 Pod Hero
+4 3  3807  5/894  3/575  6/492  5/594  9/345  2/260  5/526 1 4 *Belzebub
+4 4  3983  4/794  3/575 10/444 12/385  2/411  2/411  5/503 2 4 Big Scorpion
+4 5 13410 14/999  4/794  9/546 14/999  2/451  9/345  8/689 2 4 Stone Man
+4 4  6383  7/438  4/494  5/594 14/999  4/457  5/594  6/596 3 4 Ice Djinn
+4 4  6383  7/438 10/444  9/546  5/902  4/457  5/594  6/563 3 3 Lava Djinn
+4 3  6383  4/651 12/385  4/651 12/385  4/651  5/594  6/552 2 4 Dead Masker
+4 4 13410 10/444  2/505 12/385  5/902 14/999  9/546  8/630 1 4 Roboster
+4 3  6383  4/651 10/444  2/411  9/345  2/411  3/575  5/472 2 4 Mad Mirror
+4 4  6383 14/999  2/435  9/345 14/999  5/894  2/598  7/711 2 2 Jamirus
+4 3  3998  7/438  2/435  9/345 10/444  7/438  3/575  6/445 1 2 *Skeletor
+4 5  6374 14/999  2/260 10/999  5/902  4/457  2/451  6/737 2 2 Boss Troll
+4 4  6383  4/794 10/444  7/546  7/546  4/794  4/794  6/653 2 3 Lamp Genie
+4 5  6374 12/385  2/451 12/385  2/451 13/593  2/598  7/477 2 2 Dragon Rider
+4 3  6383  5/594 12/385  5/594  6/492  2/435 12/385  7/480 2 2 Demon Monk
+
+-------------------------------------------------------------------------------
+* Wt   XP     HP     MP    ATK    DEF    SPD    WIS    Avg D S    (5 Stars)
+-------------------------------------------------------------------------------
+5 6 16089  4/651  9/345  7/546 14/999 18/999 12/385 10/654 5 5 *Gold Slime
+5 5  6383 13/593  3/119 13/593  3/119  3/119 12/385  7/321 2 4 Dark King
+5 3  6383  9/345  7/438  7/546  7/438  2/435 12/385  7/431 1 3 Master Slime
+5 4  6374  9/345  4/794 13/593  3/575  1/267 12/385  7/493 1 3 Spin Slime
+5 5  6383  9/546  9/345 14/999  5/894  9/546  9/345  9/612 2 3 King Leo
+5 6  6374 12/385  2/435 14/999  4/794  4/494  2/598  6/617 3 2 Grand Shark
+5 4 13410 12/385  5/594  9/345  9/345  9/546  7/546  8/460 2 2 *Mad Cat
+5 5 13410  9/546  1/267  9/546  9/546  9/345  1/267  6/419 2 2 Trumpeter
+5 5  6383 13/593  4/794 13/593  5/594  2/260  2/505  6/556 2 2 Muscle Kong
+5 4 13410 10/999 18/999 12/385 14/999  2/598 14/999 11/889 3 3 Rain Hawk
+5 6 14899 14/999  3/119 10/444  7/546  0/153  3/119  6/396 2 3 Chaos Drake
+5 5 16089 13/593  4/651 12/385  7/546  0/153 14/999  8/554 3 3 Cergainas
+5 6 15292 10/999  7/546  9/345 10/444  4/494  7/546  7/622 2 2 Giga Draco
+5 5 16089  5/902 10/444 13/593  9/546  4/794 14/999  9/713 3 3 *Jenodark
+5 5  6383 14/999  1/139  5/894  6/492  2/598  2/598  5/620 2 4 Rosevine
+5 5  6374  4/794 12/385  3/575  9/345  2/260 12/385  7/457 3 4 Drollerium
+5 5  6374  5/594  2/763 13/593  7/438  4/794  2/505  5/614 2 4 Death Sizer
+5 3  3998 10/444  1/267  4/494  7/546  9/345  5/594  6/448 2 4 Wing Tree
+5 6 14899 14/999 12/385  4/651 13/593  2/125  5/894  8/607 2 4 Gryphynx
+5 5 15292  0/999 13/593 12/385 18/999  1/139  5/902  8/669 2 4 Dark Crystal
+5 5 13814 12/385  4/457 14/999  4/651 14/999 10/444  9/655 2 4 *Roboster 2
+5 4 13410  7/546 14/999  9/345  3/575 12/385 18/999 10/641 3 3 *White King
+5 6 15823  7/546 13/593 13/593  3/575  3/119  2/505  6/488 2 2 Grand Satan
+5 5 14345  7/546  2/598 10/999  3/575  7/438  4/794  5/718 2 3 Grakos
+5 5 14345  7/546  2/411 13/593  4/794  1/139  3/575  5/509 2 3 Chain Djinn
+5 5 14345  5/902 14/999  7/546  4/794  3/119 18/999  8/726 2 3 High Wizard
+
+-------------------------------------------------------------------------------
+* Wt   XP     HP     MP    ATK    DEF    SPD    WIS    Avg D S    (6 Stars)
+-------------------------------------------------------------------------------
+6 6 14899 10/999  7/546 18/999  3/119  4/494 14/999  9/752 4 4 *Gran Slime
+6 6 13814 14/999  3/575 14/999  5/594  2/260  3/575  6/667 2 3 *Infergon
+6 6 15823  4/651 10/999 13/593 14/999  1/267  5/894  7/793 4 3 *Divinegon
+6 6 13410 10/999  3/575 13/593  6/492  2/505  2/505  6/671 2 4 *Scarabator
+6 6 15560 10/999  2/505 18/999  5/902 13/593  5/902  8/876 2 4 *DrakMachine
+6 5 15292 10/999 13/593 14/999  4/794  3/575  4/651  8/828 3 3 *Night Lich
+
+-------------------------------------------------------------------------------
+* Wt   XP     HP     MP    ATK    DEF    SPD    WIS    Avg D S    (Special)
+-------------------------------------------------------------------------------
+3 3  3807  1/139  3/575  1/139  1/139  2/763  1/267  1/337 1 2 Iiro
+4 2  1984  1/139  3/575  1/139  1/139  2/763  1/267  1/337 1 3 Pimo
+4 3  3807  1/139  3/575  1/139  1/139  2/763  1/267  1/337 1 2 Alue
+3 2  1984  1/139  3/575  1/139  1/139  2/763  1/267  1/337 1 2 Dreen
+5 4  6256  1/139  3/575  1/139  1/139  2/763  1/267  1/337 2 3 Pural
+
+3 4  6383  7/546  1/267  7/546  0/999  1/139  1/267  2/460 2 3 *Earth Spirit
+3 4  6383  4/794  4/794  0/999  5/894  2/260  5/894  3/772 2 3 *Water Spirit
+3 4  6383  4/794  4/794  4/457  5/894  2/260  5/894  4/682 3 3 *Fire Spirit
+3 3  6383  4/794  4/794  5/594  5/894 12/385  5/894  5/725 2 3 *Wind Spirit
+3 4  6383  5/902  9/546  6/492  4/794 10/999 14/999  8/848 1 4 *Light Spirit
+3 4  6383  4/794  9/546  5/594  4/794  3/119 14/999  6/641 2 3 *Dark Spirit
+
+4 3  6383  5/894 12/385  4/794  6/492  6/492  6/492  6/591 3 3 *Kakalon
+4 4  6383  5/894 12/385  4/794  6/492  6/492  6/492  6/591 2 4 *Kushalami
+4 4 13410 10/999  1/267 14/999  5/894  2/411  4/794  6/787 2 3 *Barbaru
+4 4 13814  7/546 13/593  7/546  7/546  4/794 14/999  8/670 2 3 *Domedy
+
+4 5 13814  9/345  1/139 12/385  6/492  5/894  5/894  6/524 2 5 *Dragon Lord
+4 4 14345 10/999  3/575 12/385 12/385  9/546  6/492  8/623 3 3 *Durran
+5 1   709  4/794 10/999  6/492 14/999 10/999  5/894  8/982 3 4 *Watabou
+5 1   709  4/794 10/999 12/385  9/345 10/999  5/894  8/855 3 3 *Warubou
+
+5 5 14899  9/345 12/385 13/593  6/492  6/492 13/593  9/483 2 3 *Celestial Beast
+6 7 16089 14/999 18/999 12/385 18/999  5/894 13/593 13/811 4 4 *Master Dragon
+5 7 16089 18/999 12/385 18/999  0/999  6/492 18/999 12/812 2 5 *Gisvarg
+
+===============================================================================
+                                     [3]
+
+                             EASY MONSTER GOODIES
+===============================================================================
+
+-------------------------------------------------------------------------------
+[3.1] EASY MONSTER GOODIES -- ABILITIES
+-------------------------------------------------------------------------------
+
+This section lists some easy sources of the abilities I find most essential. 
+This does not list all abilities, nor does it list all sources.
+
+The simplest way to pick these up: use a heart with the ability you want, and
+use a human heart.  That way you don't have to worry about what you reform
+into.  In some cases, these may also be good monsters to reform into and pick
+up the skill that way.
+
+HEAL ALL    Healer
+HEAL US ALL Healer, King Slime, Rain Hawk
+
+REVIVE      King Slime, Unicorn, Orc
+LIGHT WAVE  Cloud King, Rain Hawk
+
+THERMOSTAT  King Slime
+MAGIC BAR.  Bubble King, Iron Turtle, Big Eye
+INCREASE    Healer, Snaily, Flower Beat
+SPEED UP    Baby Panther
+
+TWIN HITS   War Lizard
+
+BLAZE CUT   Pumpk'night
+BLIZZ. CUT  Blizzardy
+VACUUM CUT  Mad Cat
+LIGHT. CUT  Gargoyle, Pod Hero
+
+-------------------------------------------------------------------------------
+[3.2] EASY MONSTER GOODIES -- SMALL HUMANS
+-------------------------------------------------------------------------------
+Human companions come in different sizes.  Since the wagons can only carry so
+much, finding the smallest humans is a big help.  By far the best way to find
+humans is with Rebirthers; their combination attack guarantees the last monster
+killed will be reborn as a human, and it gives a 5% chance they will be a level
+3 human.  Those are the ones you want.
+
+Conveniently, some monsters are always reborn as large humans and some are
+always reborn as small humans.  Using small humans, most classes can their
+weight as low as 1, and almost all can get it down to at least 2.  Note that
+Fighters do not actually have a small form, but Gamblers do -- Gamblers are
+just hulks, apparently.
+
+The following list gives the easiest (IMHO) opportunity to rebirth small humans
+of each class, along with the lowest weight possible.  It does not list all
+such opportunities:
+
+WARRIOR     2  Slime (Lorasia)
+FENCER      2  Proto Killer (Lupghana - Desert)
+KNIGHT      1  Slime Knight (Slime Island - Plains)
+FIGHTER     3  Killer Ape (Moonpeta)
+WIZARD      1  Cat Mage (E of Laura's Gate)
+PRIEST      1  Heal Slime (Lorasia)
+DANCER      1  Reefer (S of Laura's Gate - Forest)
+MERCHANT    1  Iiro, Pimo, Alou, Dreen, Pural (Slime Island - Plains)
+THIEF       1  Vampire Rat (Liliza - Forest)
+PLAYER      1  Confetti (Slime Island - Mountains)
+FISHER      1  Aqua Slime (Slime Island Cave)
+MAPPER      1  Gophecada (Del Quondal - Mountains)
+SEER        1  Crystal Slime (Cave to Rondarukia)
+SAGE        2  Angel Slime (Slime Island - Forest)
+COOK        1  Bubble Slime (Slime Island - Plains)
+MEDIC       1  Snome (Rhone)
+HUNTER      1  Magma Slime (Slime Island - Desert)
+BARD        1  Pompom Bomb (W of Laura's Gate - Mountains)
+TAMER       1  Demonite (Samaltoria - Mountains)
+METAL HUNT. 1  Metal Slime (Slime Island - Mountains)
+GAMBLER     3  Spin Slime (Slime Island Cave)
+REBIRTHER   1  Minon (Lofa)
+
+In the postgame, you will probably want access to the following humans:
+
+4x Rebirther        (to use the rebirther combo)
+
+1x True Mapper      (to see map)
+1x True Seer        (to see orb locations)
+1x True Sage        (to cast Return)
+
+3x True Warrior     (Doubles monster attack in round 1; attacks with 1.5x ATK)
+3x True Fencer      (Monster attacks twice in round 1; 4 attacks with 0.8x ATK)
+3x True Fighter     (Next best offensive unit; 0.9x ATK and likely to crit)
+
+The fourth wagon spot, for your offensive use, could go to a Magic Master, a
+True Priest, or even a True Fisher.  You may, or may not, also want:
+
+1x Metal Master     (to increase experience gain)
+1x Magic Master     (for infinite Tiptoe spells)
+1x Master Tamer     (to make it easier to get monster hearts)
+1x Gambler/Player   (for casino -- rebirthers get human hearts easier, imho)
+
+Given the weight options available, I recommend spreading out your initial
+wagon upgrades so that you have 3 wagons with a weight capacity of 12.  This
+will allow you to get a True Warrior and True Fencer in every wagon with room
+for at least one other person, without too much fuss.
+
+===============================================================================
+                                     [4]
+
+                          ACKNOWLEDGEMENTS & HISTORY
+===============================================================================
+Acknowledgements:
+Thanks to the authors of the other FAQs for this game, which were very useful
+in my initial playthroughs
+
+History:
+1.0 - June 2011 - Initial release
