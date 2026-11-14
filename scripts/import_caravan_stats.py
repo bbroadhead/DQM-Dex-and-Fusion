@@ -52,10 +52,22 @@ def main():
  path=ROOT/"dqm3gba-details.json"
  data=json.loads(path.read_text(encoding="utf-8"))
  matched=0
+ conflicts=[]
  for monster in data["records"]:
   entry=found.get(norm(monster["name"]))
-  if entry:
-   monster["stats"]=entry;matched+=1
+  if not entry:continue
+  existing=monster.get("stats")
+  if existing:
+   comparable=("stars","weight","xp_to_level_10","growth","average_growth","resistance_average")
+   if any(existing.get(k)!=entry.get(k) for k in comparable):
+    conflicts.append(monster["name"])
+    continue
+  if monster.get("star_level") is not None and monster["star_level"]!=entry["stars"]:
+   conflicts.append(monster["name"]+" (star classification)")
+   continue
+  monster["stats"]=entry
+  matched+=1
+ if conflicts:raise RuntimeError("Conflicting existing metadata; no files modified: "+", ".join(conflicts))
  report={"game":"dqm3gba","source":URL,"parsed_stat_names":len(found),"matched_roster":matched,"roster_total":len(data["records"]),"unmatched":[m["name"] for m in data["records"] if "stats" not in m]}
  if matched<140:raise RuntimeError(f"Only {matched} roster matches; refusing write")
  path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
