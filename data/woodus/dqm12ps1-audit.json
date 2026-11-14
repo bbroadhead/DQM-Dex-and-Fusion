@@ -1,0 +1,74 @@
+{
+  "game": "dqm12ps1",
+  "total_ps1_roster": 317,
+  "with_family_cross_reference": 308,
+  "without_family_cross_reference": 9,
+  "comparison": "Exact normalized English-name matches against existing GBC datasets; these counts do not establish PS1 DQM1 versus DQM2 game availability.",
+  "gbc_name_match_counts": {
+    "in_both_GBC_rosters": 211,
+    "only_in_DWM2_GBC": 99,
+    "only_in_DWM1_GBC": 0,
+    "no_exact_GBC_name_match": 7
+  },
+  "unresolved_family": [
+    {
+      "id": "dqm12ps1:ayabou",
+      "name": "Ayabou",
+      "japanese_name": "アイぼう",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250577&mname=Ayabou"
+    },
+    {
+      "id": "dqm12ps1:deathmore",
+      "name": "DeathMore",
+      "japanese_name": "デスタムーア",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250470&mname=DeathMore"
+    },
+    {
+      "id": "dqm12ps1:dimensaur",
+      "name": "Dimensaur",
+      "japanese_name": "じげんりゅう",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250572&mname=Dimensaur"
+    },
+    {
+      "id": "dqm12ps1:dracolord",
+      "name": "DracoLord",
+      "japanese_name": "りゅうおう",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250273&mname=DracoLord"
+    },
+    {
+      "id": "dqm12ps1:kagebou",
+      "name": "Kagebou",
+      "japanese_name": "かくれんぼう",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250527&mname=Kagebou"
+    },
+    {
+      "id": "dqm12ps1:mirudraas",
+      "name": "Mirudraas",
+      "japanese_name": "ミルドラース",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250416&mname=Mirudraas"
+    },
+    {
+      "id": "dqm12ps1:orgodemir",
+      "name": "Orgodemir",
+      "japanese_name": "オルゴ･デミーラ",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250521&mname=Orgodemir"
+    },
+    {
+      "id": "dqm12ps1:ramia",
+      "name": "Ramia",
+      "japanese_name": "ラーミア",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250573&mname=Ramia"
+    },
+    {
+      "id": "dqm12ps1:zoma-s-devil",
+      "name": "Zoma's Devil",
+      "japanese_name": "ゾーマズデビル",
+      "source_url": "https://www.woodus.com/den/games/dqm1_2psx/monsters-details.php?mid=250578&mname=Zoma's Devil"
+    }
+  ],
+  "notes": [
+    "Bosses with numbered forms are distinct entries; do not assign a generic boss family to unnumbered names without PS1-specific confirmation.",
+    "Some missing classifications may reflect spelling variants or PS1-only monsters.",
+    "Breeding recipes and game-specific availability remain unverified."
+  ]
+}
