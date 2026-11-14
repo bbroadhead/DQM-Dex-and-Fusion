@@ -22,6 +22,8 @@ jobs:
           name: ps1-import-diagnostics
           path: import-diagnostics/
           if-no-files-found: warn
+      - name: Validate imported PS1 roster and images
+        run: python scripts/validate_dqm12ps1.py
       - name: Commit imported data and artwork
         run: |
           git config user.name "github-actions[bot]"
