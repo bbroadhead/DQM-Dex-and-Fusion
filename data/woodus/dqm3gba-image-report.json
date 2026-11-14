@@ -723,10 +723,170 @@
     "dqm3gba:sabre-man": {
       "local_path": "assets/monsters/dqm3gba/sabre-man.webp",
       "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp"
+    },
+    "dqm3gba:scarabator": {
+      "local_path": "assets/monsters/dqm3gba/scarabator.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/scarabeetle.webp"
+    },
+    "dqm3gba:shadow": {
+      "local_path": "assets/monsters/dqm3gba/shadow.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/shadow.webp"
+    },
+    "dqm3gba:silent-sheep": {
+      "local_path": "assets/monsters/dqm3gba/silent-sheep.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp"
+    },
+    "dqm3gba:silver-pazuzu": {
+      "local_path": "assets/monsters/dqm3gba/silver-pazuzu.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp"
+    },
+    "dqm3gba:skeletor": {
+      "local_path": "assets/monsters/dqm3gba/skeletor.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skeletor.webp"
+    },
+    "dqm3gba:skullgon": {
+      "local_path": "assets/monsters/dqm3gba/skullgon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skullgon.webp"
+    },
+    "dqm3gba:slime": {
+      "local_path": "assets/monsters/dqm3gba/slime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slime.webp"
+    },
+    "dqm3gba:slime-knight": {
+      "local_path": "assets/monsters/dqm3gba/slime-knight.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slimeknight.webp"
+    },
+    "dqm3gba:snaily": {
+      "local_path": "assets/monsters/dqm3gba/snaily.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snaily.webp"
+    },
+    "dqm3gba:snapper": {
+      "local_path": "assets/monsters/dqm3gba/snapper.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snapper.webp"
+    },
+    "dqm3gba:snome": {
+      "local_path": "assets/monsters/dqm3gba/snome.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snome.webp"
+    },
+    "dqm3gba:spiky-boy": {
+      "local_path": "assets/monsters/dqm3gba/spiky-boy.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spikeyboy.webp"
+    },
+    "dqm3gba:spin-slime": {
+      "local_path": "assets/monsters/dqm3gba/spin-slime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spinslime.webp"
+    },
+    "dqm3gba:spooky": {
+      "local_path": "assets/monsters/dqm3gba/spooky.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spooky.webp"
+    },
+    "dqm3gba:stone-kid": {
+      "local_path": "assets/monsters/dqm3gba/stone-kid.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/statuekid.webp"
+    },
+    "dqm3gba:stone-man": {
+      "local_path": "assets/monsters/dqm3gba/stone-man.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stoneman.webp"
+    },
+    "dqm3gba:stone-spider": {
+      "local_path": "assets/monsters/dqm3gba/stone-spider.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rockspider.webp"
+    },
+    "dqm3gba:stonehopper": {
+      "local_path": "assets/monsters/dqm3gba/stonehopper.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cragdevil.webp"
+    },
+    "dqm3gba:stubsuck": {
+      "local_path": "assets/monsters/dqm3gba/stubsuck.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stubsuck.webp"
+    },
+    "dqm3gba:swordgon": {
+      "local_path": "assets/monsters/dqm3gba/swordgon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/swordgon.webp"
+    },
+    "dqm3gba:toadstool": {
+      "local_path": "assets/monsters/dqm3gba/toadstool.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/toadstool.webp"
+    },
+    "dqm3gba:tonguella": {
+      "local_path": "assets/monsters/dqm3gba/tonguella.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/tonguella.webp"
+    },
+    "dqm3gba:totem-killer": {
+      "local_path": "assets/monsters/dqm3gba/totem-killer.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facer.webp"
+    },
+    "dqm3gba:triwinder": {
+      "local_path": "assets/monsters/dqm3gba/triwinder.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/triwinder.webp"
+    },
+    "dqm3gba:trumpeter": {
+      "local_path": "assets/monsters/dqm3gba/trumpeter.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/trumpeter.webp"
+    },
+    "dqm3gba:unicorn": {
+      "local_path": "assets/monsters/dqm3gba/unicorn.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp"
+    },
+    "dqm3gba:vampire-rat": {
+      "local_path": "assets/monsters/dqm3gba/vampire-rat.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/vampirerat.webp"
+    },
+    "dqm3gba:walrus-man": {
+      "local_path": "assets/monsters/dqm3gba/walrus-man.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/walrusman.webp"
+    },
+    "dqm3gba:wander-monk": {
+      "local_path": "assets/monsters/dqm3gba/wander-monk.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguemage.webp"
+    },
+    "dqm3gba:war-lizard": {
+      "local_path": "assets/monsters/dqm3gba/war-lizard.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lizardman.webp"
+    },
+    "dqm3gba:warubou": {
+      "local_path": "assets/monsters/dqm3gba/warubou.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/warubou.webp"
+    },
+    "dqm3gba:watabou": {
+      "local_path": "assets/monsters/dqm3gba/watabou.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/watabou.webp"
+    },
+    "dqm3gba:water-spirit": {
+      "local_path": "assets/monsters/dqm3gba/water-spirit.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_water.webp"
+    },
+    "dqm3gba:white-king": {
+      "local_path": "assets/monsters/dqm3gba/white-king.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/whiteking.webp"
+    },
+    "dqm3gba:wicked-axe": {
+      "local_path": "assets/monsters/dqm3gba/wicked-axe.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp"
+    },
+    "dqm3gba:wild-ape-m-ch": {
+      "local_path": "assets/monsters/dqm3gba/wild-ape-m-ch.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killerape.webp"
+    },
+    "dqm3gba:wind-beast": {
+      "local_path": "assets/monsters/dqm3gba/wind-beast.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/windbeast.webp"
+    },
+    "dqm3gba:wind-spirit": {
+      "local_path": "assets/monsters/dqm3gba/wind-spirit.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_wind.webp"
+    },
+    "dqm3gba:wing-tree": {
+      "local_path": "assets/monsters/dqm3gba/wing-tree.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadtrunk.webp"
+    },
+    "dqm3gba:wyvern": {
+      "local_path": "assets/monsters/dqm3gba/wyvern.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/wyvern.webp"
     }
   },
   "game": "dqm3gba",
   "total": 221,
-  "downloaded_total": 181,
+  "downloaded_total": 221,
   "source": "https://www.woodus.com/den/games/dqm3gba/monsters.php"
 }
