@@ -35,6 +35,7 @@ async function main(){
   assert.ok(document.querySelector("#entries .monster-tile"),"Roster renders");
   assert.equal(document.querySelectorAll(".monster-tile").length,221,"Full roster count");
   assert.equal(document.querySelectorAll(".monster-tile .tag[title]").length,21,"Unobtainable badges");
+  assert.equal(document.querySelectorAll(".monster-tile h3 small").length,0,"No fabricated Caravan book numbers");
   const toggle=document.querySelector("#showUnobtainable");
   assert.ok(toggle,"Unobtainable filter");
   toggle.checked=false;toggle.dispatchEvent(new Event("change",{bubbles:true}));
