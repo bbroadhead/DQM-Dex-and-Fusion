@@ -27,11 +27,11 @@ def main():
  if "<pre" in page.lower():
   parser=Text();parser.feed(page);source="\n".join(parser.parts)
  else:source=page
- if source.count("MONSTER STATS CHART")<2:raise RuntimeError("FAQ stats section not found; no files modified")
+ if "MONSTER STATS CHART" not in source:raise RuntimeError("FAQ stats section not found; no files modified")
  source=source.rsplit("MONSTER STATS CHART",1)[1].split("EASY MONSTER GOODIES",1)[0]
  # FAQ lines contain six growth pairs, one average pair, two resistance scores,
  # then the monster name. Asterisks mark special-only species.
- pattern=re.compile(r"^\\s*([1-6])\\s+(\\d+)\\s+(\\d+)\\s+((?:\\d+/\\d+\\s+){6})(\\d+/\\d+)\\s+(\\d+)\\s+(\\d+)\\s+\\*?(.+?)\\s*$")
+ pattern=re.compile(r"^\s*([1-6])\s+(\d+)\s+(\d+)\s+((?:\d+/\d+\s+){6})(\d+/\d+)\s+(\d+)\s+(\d+)\s+\*?(.+?)\s*$")
  found={}
  for line in source.splitlines():
   m=pattern.match(line)
@@ -47,7 +47,7 @@ def main():
     [dict(zip(["level_2","level_1_to_99"],map(int,x.split("/")))) for x in pairs])),
    "average_growth":dict(zip(["level_2","level_1_to_99"],map(int,avg.split("/")))),
    "resistance_average":{"direct_damage":int(direct),"status":int(status)},
-   "special_reform_only":bool(re.search(r"\\s\\*"+re.escape(name)+r"\\s*$",line)),"source":URL}
+   "special_reform_only":bool(re.search(r"\s\*"+re.escape(name)+r"\s*$",line)),"source":URL}
  if len(found)<150:raise RuntimeError(f"Only {len(found)} parsed stat records; source format may have changed")
  path=ROOT/"dqm3gba-details.json"
  data=json.loads(path.read_text(encoding="utf-8"))
