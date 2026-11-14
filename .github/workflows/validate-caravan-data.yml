@@ -3,6 +3,8 @@ on:
   push:
     paths:
       - 'data/woodus/dqm3gba-*.json'
+      - 'data/woodus/dqm12ps1-*.json'
+      - 'scripts/validate_dqm12ps1.py'
       - 'scripts/validate_caravan_data.py'
       - 'scripts/import_caravan_stats.py'
       - 'scripts/test_caravan_stats_parser.py'
@@ -41,5 +43,7 @@ jobs:
         run: node scripts/test_caravan_browser.cjs
       - name: Test Caravan Heart FAQ parsing
         run: python scripts/test_caravan_stats_parser.py
+      - name: Validate PS1 monster roster, artwork, and family provenance
+        run: python scripts/validate_dqm12ps1.py
       - name: Validate monster roster, stat records, and reform recipes
         run: python scripts/validate_caravan_data.py
