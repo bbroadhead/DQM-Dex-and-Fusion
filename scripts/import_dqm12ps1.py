@@ -30,7 +30,7 @@ class Parser(HTMLParser):
         if tag in ("td","th") and self.in_row:
             self.cells.append(html.unescape("".join(self.cell)).strip());self.in_cell=False
         if tag=="tr" and self.in_row:
-            if self.links:self.rows.append((self.cells,self.images,self.links))
+            if len(self.cells)>=3:self.rows.append((self.cells,self.images,self.links))
             self.in_row=False
 
 def main():
@@ -38,14 +38,15 @@ def main():
     parser=Parser();parser.feed(get(page).decode("utf-8","replace"))
     records=[];images={};seen=set()
     for cells,img,links in parser.rows:
+        # The roster page exposes names as table text; detail links are optional.
         detail=next((urllib.parse.urljoin(page,x) for x in links if x and "monsters-details.php" in x),None)
-        if not detail:continue
-        query=urllib.parse.parse_qs(urllib.parse.urlsplit(detail).query)
-        name=query.get("mname",[""])[0].strip()
-        if not name:continue
-        japanese=next((value.strip() for value in reversed(cells) if re.search(r"[\\u3040-\\u30ff\\u3400-\\u9fff]",value)),None)
+        query=urllib.parse.parse_qs(urllib.parse.urlsplit(detail).query) if detail else {}
+        name=query.get("mname",[""])[0].strip() or cells[1].strip()
+        japanese=cells[2].strip()
+        if not name or not japanese or not re.search(r"[\u3040-\u30ff\u3400-\u9fff]",japanese):continue
+        if name.lower() in ("name","monster","japanese name"):continue
         identifier="dqm12ps1:"+slug(name)
-        if identifier in seen:raise ValueError("Duplicate PS1 monster "+identifier)
+        if identifier in seen:continue
         seen.add(identifier)
         record={"id":identifier,"name":name,"japanese_name":japanese,"source_url":detail,"mode_verification":"PS1_collection_only; individual game membership not yet verified","family":None}
         records.append(record)
@@ -60,7 +61,7 @@ def main():
                     images[identifier]={"local_path":local.relative_to(ROOT).as_posix(),"source_url":image_url}
             except Exception as e:print("Image skipped:",name,str(e))
             time.sleep(.08)
-    if len(records)<200:raise RuntimeError(f"Only {len(records)} PS1 monsters found; refusing incomplete import. Parsed {len(parser.rows)} linked rows. First rows: {parser.rows[:2]}")
+    if len(records)<200:raise RuntimeError(f"Only {len(records)} PS1 monsters found; refusing incomplete import. Parsed {len(parser.rows)} table rows. First rows: {parser.rows[:2]}")
     folder=ROOT/"data/woodus";folder.mkdir(parents=True,exist_ok=True)
     (folder/"dqm12ps1-details.json").write_text(json.dumps({"game":"dqm12ps1","record_type":"PS1_collection_source_listed","source":page,"records":records},ensure_ascii=False,indent=2)+"\n")
     (folder/"dqm12ps1-image-report.json").write_text(json.dumps({"images":images,"source":page},ensure_ascii=False,indent=2)+"\n")
