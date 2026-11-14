@@ -109,8 +109,8 @@ function renderCaravanReform(){
  const targetSelect=document.getElementById("reformTarget");
  const renderReverse=()=>{
   const target=byId(targetSelect.value),el=document.getElementById("reformReverse");
-  if(!target){el.innerHTML='<p class="muted">Choose a monster to see known special reform combinations.</p>';return}
-  const matches=(caravanReform.recipes||[]).filter(r=>r.result===target.id);
+  if(!target){el.innerHTML='<p class="muted">Choose a monster to see known special reform combinations.</p>';return}if(target.obtainable===false){el.innerHTML='<p class="muted">Unobtainable: no legitimate Reform recipe is available for this monster.</p>';return}
+  const matches=(caravanReform.recipes||[]).filter(r=>r.result===target.id&&target.obtainable!==false);
   el.innerHTML=matches.length?matches.map(r=>{
    const base=byId(r.base),a=byId(r.heart1),b=byId(r.heart2);
    if(!base||!a)return '';
@@ -151,7 +151,8 @@ function renderCaravanReform(){
    }
    const resultId=resultStars?caravanGeneral.stars?.[String(resultStars)]?.[influencing]?.[dominant]:null;
    const resultMonster=byId(resultId);
-   familyExplanation='<p><strong>General reform families:</strong> Dominant '+escapeHTML(dominant)+'; influencing '+escapeHTML(influencing)+'.</p>'+(resultMonster?'<p><strong>General chart result: '+name(resultMonster)+'</strong> ('+resultStars+' stars)</p>'+card(resultMonster):'<p class="muted">General chart result unavailable until the family and star classifications are complete.</p>')+'<p class="muted">Special recipes and identical hearts take priority over general outcomes.</p>';
+   const chartUnresolved=(caravanGeneral.unmatched||[]).find(x=>x.star===resultStars&&x.influencing===influencing&&x.dominant===dominant);
+   familyExplanation='<p><strong>General reform families:</strong> Dominant '+escapeHTML(dominant)+'; influencing '+escapeHTML(influencing)+'.</p>'+(resultMonster?'<p><strong>General chart result: '+name(resultMonster)+'</strong> ('+resultStars+' stars)</p>'+card(resultMonster):(chartUnresolved?'<p class="muted">The source chart lists '+escapeHTML(chartUnresolved.source_name)+' here, but this name has not been matched to a verified roster entry.</p>':'<p class="muted">General chart result unavailable: missing verified chart entry or star classification.</p>'))+'<p class="muted">Special recipes and identical hearts take priority over general outcomes.</p>';
   }else familyExplanation='<p class="muted">General family calculation unavailable: monster families are not yet validated.</p>';
   // A wildcard heart is only valid when its family is known and matches.
   const matchesHeart=(r,first,second)=>{
@@ -169,12 +170,12 @@ function renderCaravanReform(){
    outcome='<p><strong>Documented special result: '+name(documented)+'</strong></p>'+card(documented)+
     (recipe.source?'<p><a href="'+escapeHTML(recipe.source)+'" target="_blank" rel="noopener noreferrer">View source guide</a></p>':'<p class="muted">Source: Slartifer Monster FAQ §1.3</p>');
   }else if(documented&&!eligible){
-   outcome='<p><strong>Special recipe locked:</strong> requires +'+recipe.minimum_plus+'.</p>'+(same?'<p>Identical-heart rule: '+name(a)+'</p>':familyExplanation);
+   outcome='<p><strong>Special recipe locked:</strong> requires +'+recipe.minimum_plus+'.</p><p class="muted">The general chart or identical-heart rule may apply instead; the guide does not explicitly confirm the fallback for this locked recipe.</p>'+(same?'<p>Identical-heart candidate: '+name(a)+'</p>':familyExplanation);
   }else if(same){
    outcome='<p><strong>Double-heart result: '+name(a)+'</strong></p>'+card(a)+
     '<p class="muted">Per Slartifer FAQ §1.1, identical monster hearts return that species unless a special case overrides it. Player/human-heart exceptions are not modeled.</p>';
   }else{
-   outcome='<p class="empty">No matching documented special recipe.</p>'+familyExplanation;
+   outcome='<p class="muted">No matching documented special recipe. General-chart outcomes below are calculated from inferred family data, not independently verified combinations.</p>'+familyExplanation;
   }
   out.innerHTML=intro+outcome;
  };
