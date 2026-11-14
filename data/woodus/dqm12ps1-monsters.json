@@ -2,83 +2,83 @@
   "monsters": [
     {
       "id": "dqm12ps1:1eyeclown",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:agdevil",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:akubar",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:almiraj",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:amberweed",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:andreal",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:anemon",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:angleron",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:antbear",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:aquadon",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:aquahawk",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:aquarella",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:arcdemon",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:armorpede",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:armorpion",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:armyant",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:armycrab",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:arrowdog",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:asurazoma",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:axeshark",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:ayabou",
@@ -86,187 +86,187 @@
     },
     {
       "id": "dqm12ps1:azurile",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:babble",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:balzak",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:baramos",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:battlerex",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:beanman",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:beastnite",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:beavern",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:belzebub",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:bigeye",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:bigroost",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:blizzardy",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:bombcrag",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:boneslave",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:bosstroll",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:boxslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:brushead",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:bubblemon",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:bullbird",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:butterfly",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:cactiball",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:cancerman",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:captdead",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:catapila",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:catfly",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:catmage",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:centasaur",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:chamelgon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:chopclown",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:clawster",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:cloudking",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:coatol",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:coilbird",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:copycat",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:cragdevil",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:crestpent",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:curselamp",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:dancevegi",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:darck",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:darkcrab",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:darkdrium",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:darkeye",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:darkhorn",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:darkmate",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:deadnite",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:deadnoble",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:deathmore",
@@ -274,27 +274,27 @@
     },
     {
       "id": "dqm12ps1:deathmore-2",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:deathmore-3",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:demonite",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:devipine",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:digong",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:digster",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:dimensaur",
@@ -302,11 +302,11 @@
     },
     {
       "id": "dqm12ps1:divinegon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:dracky",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:dracolord",
@@ -314,307 +314,307 @@
     },
     {
       "id": "dqm12ps1:dracolord-2",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:dragon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:dragonkid",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:drakslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:droll",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:drygon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:duckkite",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:dumbira",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:durran",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:egdracil",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:eggplaton",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:emyu",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:esterk",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:evilarmor",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:evilbeast",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:evilpot",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:evilseed",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:evilwand",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:evilwell",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:exaucers",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:eyeball",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:eyeder",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:facer",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:facetree",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:fairydrak",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:fairyrat",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:fangslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:fireweed",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:fishrider",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:florajay",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:floraman",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:foohero",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:foxfire",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:funkybird",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:gamanian",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:garudian",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:gasgon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:gateguard",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:genosidoh",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:ghostree",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:giantmoth",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:giantslug",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:giantworm",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:gigadraco",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:gigantes",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:gismo",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:goategon",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:goathorn",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:gohopper",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:goldgolem",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:goldslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:golem",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:goopi",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:gophecada",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:gorago",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:grakos",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:granslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:greatdrak",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:gremlin",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:grendal",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:grizzly",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:gulpbeast",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:gulpple",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:haloslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:hammerman",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:hargon",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:healer",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:herbman",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:hoodsquid",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:hork",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:hornbeet",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:iceman",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:inverzon",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:ironturt",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:jamirus",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:jewelbag",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:kagebou",
@@ -622,155 +622,155 @@
     },
     {
       "id": "dqm12ps1:kingcobra",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:kingleo",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:kingslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:kingsquid",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:kitehawk",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:lampgenie",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:landowl",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:lavaman",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:lazamanus",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:lionex",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:lipsy",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:lizardfly",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:lizardman",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:lorddraco",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:madcandle",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:madcat",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:madcondor",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:maddragon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:madgoose",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:madgopher",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:madhornet",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:madknight",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:madmirror",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:madpecker",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:madplant",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:madraven",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:madspirit",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:maneater",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:medusaeye",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:merman",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:mertiger",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:metabble",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:metaldrak",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:metalking",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:metaly",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:mimeslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:mimic",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:minidrak",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:mirudraas",
@@ -778,79 +778,79 @@
     },
     {
       "id": "dqm12ps1:mirudraas-2",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:mistywing",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:mommonja",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:moray",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:muddoll",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:mudou",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:mudron",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:multieyes",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:mummy",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:niterich",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:nitewhip",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:noctoking",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:octogon",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:octokid",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:octoraid",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:octoreach",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:ogre",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:oniono",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:orc",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:orgodemir",
@@ -858,91 +858,91 @@
     },
     {
       "id": "dqm12ps1:orgodemir-2",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:orligon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:orochi",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:pearlgel",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:petiteel",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:phoenix",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:picky",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:pillowrat",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:pixy",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:pizzaro",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:poisongon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:pompombom",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:poseidon",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:protomech",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:psychopiz",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:pteranod",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:pumpoise",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:puppetor",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:putrefish",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:putrepup",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:pyuro",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:rainhawk",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:ramia",
@@ -950,319 +950,319 @@
     },
     {
       "id": "dqm12ps1:rayburn",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:raygigas",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:reaper",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:roboster",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:roboster2",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:rockslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:roguenite",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:roguewave",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:rosevine",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:rotraven",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:rushfish",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:sabreman",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:saccer",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:scallopa",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:seahorse",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:serpentia",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:servant",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:shadow",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:shantak",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:sickler",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:sidoh",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:skeletor",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:skularach",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:skullgon",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:skullroo",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:skulpent",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:skulrider",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:skydragon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:slabbit",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:slime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:slimeborg",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:slimenite",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:slurperon",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:snaily",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:snakebat",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:snapper",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:spikerous",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:spikyboy",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:spooky",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:spotking",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:spotslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:stagbug",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:starfish",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:stoneman",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:stubbird",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:stubsuck",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:superten",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:swordgon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:taileater",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:titanis",
-      "family": null
+      "family": "Devil"
     },
     {
       "id": "dqm12ps1:toadstool",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:tonguella",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:tortragon",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:treeboy",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:treeslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:tropicgel",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:trumpeter",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:unicorn",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:vampirus",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:voodoll",
-      "family": null
+      "family": "Material"
     },
     {
       "id": "dqm12ps1:walrusman",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:warmantis",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:warubou",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:watabou",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:weedbug",
-      "family": null
+      "family": "Bug"
     },
     {
       "id": "dqm12ps1:whalemage",
-      "family": null
+      "family": "Water"
     },
     {
       "id": "dqm12ps1:whipbird",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:whiteking",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:wildape",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:windbeast",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:windmerge",
-      "family": null
+      "family": "Zombie"
     },
     {
       "id": "dqm12ps1:wingslime",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:wingsnake",
-      "family": null
+      "family": "Dragon"
     },
     {
       "id": "dqm12ps1:wingtree",
-      "family": null
+      "family": "Plant"
     },
     {
       "id": "dqm12ps1:wonderegg",
-      "family": null
+      "family": "Slime"
     },
     {
       "id": "dqm12ps1:wyvern",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:yeti",
-      "family": null
+      "family": "Beast"
     },
     {
       "id": "dqm12ps1:zapbird",
-      "family": null
+      "family": "Bird"
     },
     {
       "id": "dqm12ps1:zoma",
-      "family": null
+      "family": "Boss"
     },
     {
       "id": "dqm12ps1:zoma-s-devil",
