@@ -399,10 +399,134 @@
     "dqm3gba:grizzly": {
       "local_path": "assets/monsters/dqm3gba/grizzly.webp",
       "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grizzly.webp"
+    },
+    "dqm3gba:gryphynx": {
+      "local_path": "assets/monsters/dqm3gba/gryphynx.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/griffinx.webp"
+    },
+    "dqm3gba:gulp-beast": {
+      "local_path": "assets/monsters/dqm3gba/gulp-beast.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gulpbeast.webp"
+    },
+    "dqm3gba:halo-slime": {
+      "local_path": "assets/monsters/dqm3gba/halo-slime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/haloslime.webp"
+    },
+    "dqm3gba:healer": {
+      "local_path": "assets/monsters/dqm3gba/healer.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp"
+    },
+    "dqm3gba:healmore-moon": {
+      "local_path": "assets/monsters/dqm3gba/healmore-moon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp"
+    },
+    "dqm3gba:high-wizard": {
+      "local_path": "assets/monsters/dqm3gba/high-wizard.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatmage.webp"
+    },
+    "dqm3gba:ice-djinn": {
+      "local_path": "assets/monsters/dqm3gba/ice-djinn.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iceman.webp"
+    },
+    "dqm3gba:iiro": {
+      "local_path": "assets/monsters/dqm3gba/iiro.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iio.webp"
+    },
+    "dqm3gba:illusion-axe": {
+      "local_path": "assets/monsters/dqm3gba/illusion-axe.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp"
+    },
+    "dqm3gba:illusion-blade": {
+      "local_path": "assets/monsters/dqm3gba/illusion-blade.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp"
+    },
+    "dqm3gba:infergon": {
+      "local_path": "assets/monsters/dqm3gba/infergon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/infergon.webp"
+    },
+    "dqm3gba:iron-hawk": {
+      "local_path": "assets/monsters/dqm3gba/iron-hawk.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironhawk.webp"
+    },
+    "dqm3gba:jamirus": {
+      "local_path": "assets/monsters/dqm3gba/jamirus.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/jamirus.webp"
+    },
+    "dqm3gba:jenodark": {
+      "local_path": "assets/monsters/dqm3gba/jenodark.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/genodrak.webp"
+    },
+    "dqm3gba:jewel-bag": {
+      "local_path": "assets/monsters/dqm3gba/jewel-bag.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/treasurebag.webp"
+    },
+    "dqm3gba:kakalon-food": {
+      "local_path": "assets/monsters/dqm3gba/kakalon-food.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp"
+    },
+    "dqm3gba:killer-wave": {
+      "local_path": "assets/monsters/dqm3gba/killer-wave.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguewave.webp"
+    },
+    "dqm3gba:king-slime": {
+      "local_path": "assets/monsters/dqm3gba/king-slime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingslime.webp"
+    },
+    "dqm3gba:king-squid": {
+      "local_path": "assets/monsters/dqm3gba/king-squid.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantsquid.webp"
+    },
+    "dqm3gba:kith-dragon": {
+      "local_path": "assets/monsters/dqm3gba/kith-dragon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp"
+    },
+    "dqm3gba:kushalami-pal": {
+      "local_path": "assets/monsters/dqm3gba/kushalami-pal.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp"
+    },
+    "dqm3gba:londarkian-hero": {
+      "local_path": "assets/monsters/dqm3gba/londarkian-hero.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp"
+    },
+    "dqm3gba:londarkian-mage": {
+      "local_path": "assets/monsters/dqm3gba/londarkian-mage.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp"
+    },
+    "dqm3gba:mad-cat": {
+      "local_path": "assets/monsters/dqm3gba/mad-cat.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madpanther.webp"
+    },
+    "dqm3gba:mad-condor": {
+      "local_path": "assets/monsters/dqm3gba/mad-condor.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcondor.webp"
+    },
+    "dqm3gba:mad-dragon": {
+      "local_path": "assets/monsters/dqm3gba/mad-dragon.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/maddragon.webp"
+    },
+    "dqm3gba:mad-hornet": {
+      "local_path": "assets/monsters/dqm3gba/mad-hornet.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madhornet.webp"
+    },
+    "dqm3gba:mad-mirror": {
+      "local_path": "assets/monsters/dqm3gba/mad-mirror.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madmirror.webp"
+    },
+    "dqm3gba:mage-slime": {
+      "local_path": "assets/monsters/dqm3gba/mage-slime.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp"
+    },
+    "dqm3gba:metabble": {
+      "local_path": "assets/monsters/dqm3gba/metabble.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metabble.webp"
+    },
+    "dqm3gba:metal-king": {
+      "local_path": "assets/monsters/dqm3gba/metal-king.webp",
+      "source_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metalking.webp"
     }
   },
   "game": "dqm3gba",
   "total": 221,
-  "downloaded_total": 100,
+  "downloaded_total": 131,
   "source": "https://www.woodus.com/den/games/dqm3gba/monsters.php"
 }
