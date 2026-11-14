@@ -45,7 +45,7 @@ def main():
         seen.add(identifier)
         detail=next((urllib.parse.urljoin(page,x) for x in links if "monsters-details.php" in x),None)
         if not detail:continue
-        record={"id":identifier,"name":name,"japanese_name":japanese,"source_url":detail,"game_modes":["DQM1","DQM2"],"mode_verification":"collection_roster_only","family":None}
+        record={"id":identifier,"name":name,"japanese_name":japanese,"source_url":detail,"mode_verification":"PS1_collection_only; individual game membership not yet verified","family":None}
         records.append(record)
         image_url=next((urllib.parse.urljoin(page,x) for x in img if "monster" in x.lower() and not any(k in x.lower() for k in ("header","logo"))),None)
         if image_url:
