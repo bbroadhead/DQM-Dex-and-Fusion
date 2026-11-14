@@ -28,17 +28,26 @@ def main():
   parser=Text();parser.feed(page);source="\n".join(parser.parts)
  else:source=page
  if "MONSTER STATS CHART" not in source:raise RuntimeError("FAQ stats section not found; no files modified")
- source=source.split("MONSTER STATS CHART",1)[1].split("EASY MONSTER GOODIES",1)[0]
- pattern=re.compile(r"^\s*([1-6])\s+(\d+)\s+(\d+)\s+((?:\d+/\d+\s+){6})(\d+/\d+)\s+\d+\s+\d+\s+(.+?)\s*$")
+ source=source.rsplit("MONSTER STATS CHART",1)[1].split("EASY MONSTER GOODIES",1)[0]
+ # FAQ lines contain six growth pairs, one average pair, two resistance scores,
+ # then the monster name. Asterisks mark special-only species.
+ pattern=re.compile(r"^\\s*([1-6])\\s+(\\d+)\\s+(\\d+)\\s+((?:\\d+/\\d+\\s+){6})(\\d+/\\d+)\\s+(\\d+)\\s+(\\d+)\\s+\\*?(.+?)\\s*$")
  found={}
  for line in source.splitlines():
   m=pattern.match(line)
   if not m:continue
-  stars,weight,xp,gains,avg,name=m.groups()
-  name=name.strip().lstrip("*").strip()
-  stats=gains.split()+[avg]
-  if len(stats)!=7:continue
-  found[norm(name)]={"stars":int(stars),"weight":int(weight),"xp_to_level_10":int(xp),"growth":dict(zip(["hp","mp","attack","defense","speed","wisdom"],[dict(zip(["level_2","level_1_to_99"],map(int,x.split("/")))) for x in stats[:6]])),"average_growth":avg,"source":URL}
+  stars,weight,xp,gains,avg,direct,status,name=m.groups()
+  name=name.strip()
+  pairs=gains.split()
+  if len(pairs)!=6:continue
+  key=norm(name)
+  if key in found:raise RuntimeError("Duplicate FAQ stat entry: "+name)
+  found[key]={"stars":int(stars),"weight":int(weight),"xp_to_level_10":int(xp),
+   "growth":dict(zip(["hp","mp","attack","defense","speed","wisdom"],
+    [dict(zip(["level_2","level_1_to_99"],map(int,x.split("/")))) for x in pairs])),
+   "average_growth":dict(zip(["level_2","level_1_to_99"],map(int,avg.split("/")))),
+   "resistance_average":{"direct_damage":int(direct),"status":int(status)},
+   "special_reform_only":("*"+name) in line,"source":URL}
  if len(found)<150:raise RuntimeError(f"Only {len(found)} parsed stat records; source format may have changed")
  path=ROOT/"dqm3gba-details.json"
  data=json.loads(path.read_text(encoding="utf-8"))
