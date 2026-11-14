@@ -1,7 +1,7 @@
 {
   "game": "dqm3gba",
   "source": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.2, supplied by user",
-  "status": "partial",
+  "status": "245_source_cells_244_resolved",
   "stars": {
     "1": {
       "Beast": {
@@ -67,7 +67,275 @@
         "Nature": "dqm3gba:eggplaton",
         "Elemental": "dqm3gba:gizmo"
       }
+    },
+    "2": {
+      "Beast": {
+        "Beast": "dqm3gba:dragon",
+        "Demon": "dqm3gba:dead-knight",
+        "Material": "dqm3gba:phantom-glass",
+        "Animal": "dqm3gba:nocto-king",
+        "Slime": "dqm3gba:metal-slime",
+        "Nature": "dqm3gba:opabi",
+        "Elemental": "dqm3gba:flame"
+      },
+      "Demon": {
+        "Beast": "dqm3gba:war-lizard",
+        "Demon": "dqm3gba:dead-father",
+        "Material": "dqm3gba:mimic",
+        "Animal": "dqm3gba:cat-mage",
+        "Slime": "dqm3gba:healer",
+        "Nature": "dqm3gba:chestnut-man",
+        "Elemental": "dqm3gba:flame"
+      },
+      "Material": {
+        "Beast": "dqm3gba:mad-dragon",
+        "Demon": "dqm3gba:mummy",
+        "Material": "dqm3gba:wicked-axe",
+        "Animal": "dqm3gba:army-crab",
+        "Slime": "dqm3gba:snaily",
+        "Nature": "dqm3gba:minon",
+        "Elemental": "dqm3gba:cloud-king"
+      },
+      "Animal": {
+        "Beast": "dqm3gba:orc",
+        "Demon": "dqm3gba:putre-pup",
+        "Material": "dqm3gba:sabre-man",
+        "Animal": "dqm3gba:tonguella",
+        "Slime": "dqm3gba:snaily",
+        "Nature": "dqm3gba:tonguella",
+        "Elemental": "dqm3gba:flame"
+      },
+      "Slime": {
+        "Beast": "dqm3gba:big-eye",
+        "Demon": "dqm3gba:pompom-bomb",
+        "Material": "dqm3gba:clay-man",
+        "Animal": "dqm3gba:tonguella",
+        "Slime": "dqm3gba:healer",
+        "Nature": "dqm3gba:mad-plant",
+        "Elemental": "dqm3gba:blizzard"
+      },
+      "Nature": {
+        "Beast": "dqm3gba:wyvern",
+        "Demon": "dqm3gba:putre-pup",
+        "Material": "dqm3gba:clay-man",
+        "Animal": "dqm3gba:bull-bird",
+        "Slime": "dqm3gba:reefer",
+        "Nature": "dqm3gba:florajay",
+        "Elemental": "dqm3gba:blizzard"
+      },
+      "Elemental": {
+        "Beast": "dqm3gba:big-eye",
+        "Demon": "dqm3gba:shadow",
+        "Material": "dqm3gba:jewel-bag",
+        "Animal": "dqm3gba:almiraj",
+        "Slime": "dqm3gba:snome",
+        "Nature": "dqm3gba:florajay",
+        "Elemental": "dqm3gba:cloud-king"
+      }
+    },
+    "3": {
+      "Beast": {
+        "Beast": "dqm3gba:swordgon",
+        "Demon": "dqm3gba:arch-demon",
+        "Material": "dqm3gba:golem",
+        "Animal": "dqm3gba:goategon",
+        "Slime": "dqm3gba:dark-slime",
+        "Nature": "dqm3gba:onion-master",
+        "Elemental": "dqm3gba:iiro"
+      },
+      "Demon": {
+        "Beast": "dqm3gba:gargoyle",
+        "Demon": "dqm3gba:gateguard",
+        "Material": "dqm3gba:armorpede",
+        "Animal": "dqm3gba:grizzly",
+        "Slime": "dqm3gba:slime-knight",
+        "Nature": "dqm3gba:dance-vegi",
+        "Elemental": "dqm3gba:iiro"
+      },
+      "Material": {
+        "Beast": "dqm3gba:swordgon",
+        "Demon": "dqm3gba:evil-armor",
+        "Material": "dqm3gba:proto-mech",
+        "Animal": "dqm3gba:iron-turtle",
+        "Slime": "dqm3gba:dark-slime",
+        "Nature": "dqm3gba:armorpede",
+        "Elemental": "dqm3gba:iiro"
+      },
+      "Animal": {
+        "Beast": "dqm3gba:gulp-beast",
+        "Demon": "dqm3gba:gigantes",
+        "Material": "dqm3gba:golem",
+        "Animal": "dqm3gba:wild-ape-m-ch",
+        "Slime": "dqm3gba:bubble-king",
+        "Nature": "dqm3gba:unicorn",
+        "Elemental": "dqm3gba:iiro"
+      },
+      "Slime": {
+        "Beast": "dqm3gba:boohbah",
+        "Demon": "dqm3gba:berserker",
+        "Material": "dqm3gba:armorpede",
+        "Animal": "dqm3gba:unicorn",
+        "Slime": "dqm3gba:slime-knight",
+        "Nature": "dqm3gba:stubsuck",
+        "Elemental": "dqm3gba:dreen"
+      },
+      "Nature": {
+        "Beast": "dqm3gba:snapper",
+        "Demon": "dqm3gba:berserker",
+        "Material": "dqm3gba:stone-spider",
+        "Animal": "dqm3gba:mad-condor",
+        "Slime": "dqm3gba:bubble-king",
+        "Nature": "dqm3gba:snapper",
+        "Elemental": "dqm3gba:dreen"
+      },
+      "Elemental": {
+        "Beast": "dqm3gba:blizzardy",
+        "Demon": "dqm3gba:ag-devil",
+        "Material": "dqm3gba:bomb-crag",
+        "Animal": "dqm3gba:unicorn",
+        "Slime": "dqm3gba:metabble",
+        "Nature": "dqm3gba:snapper",
+        "Elemental": "dqm3gba:dreen"
+      }
+    },
+    "4": {
+      "Beast": {
+        "Beast": "dqm3gba:great-dragon",
+        "Demon": "dqm3gba:jamirus",
+        "Material": "dqm3gba:dead-masker",
+        "Animal": "dqm3gba:dark-horn",
+        "Slime": "dqm3gba:darkknight",
+        "Nature": "dqm3gba:pumpk-night",
+        "Elemental": "dqm3gba:pimo"
+      },
+      "Demon": {
+        "Beast": "dqm3gba:andreal",
+        "Demon": "dqm3gba:demon-monk",
+        "Material": "dqm3gba:mad-mirror",
+        "Animal": "dqm3gba:dark-horn",
+        "Slime": "dqm3gba:mage-slime",
+        "Nature": "dqm3gba:mad-hornet",
+        "Elemental": "dqm3gba:pimo"
+      },
+      "Material": {
+        "Beast": "dqm3gba:skullgon",
+        "Demon": "dqm3gba:dragon-rider",
+        "Material": "dqm3gba:roboster",
+        "Animal": "dqm3gba:iron-hawk",
+        "Slime": "dqm3gba:darkknight",
+        "Nature": "dqm3gba:big-scorpion",
+        "Elemental": "dqm3gba:alue"
+      },
+      "Animal": {
+        "Beast": "dqm3gba:battle-rex",
+        "Demon": "dqm3gba:boss-troll",
+        "Material": "dqm3gba:stone-man",
+        "Animal": "dqm3gba:walrus-man",
+        "Slime": "dqm3gba:darkknight",
+        "Nature": null,
+        "Elemental": "dqm3gba:pimo"
+      },
+      "Slime": {
+        "Beast": "dqm3gba:battle-rex",
+        "Demon": "dqm3gba:dragon-rider",
+        "Material": "dqm3gba:mad-mirror",
+        "Animal": "dqm3gba:walrus-man",
+        "Slime": "dqm3gba:halo-slime",
+        "Nature": "dqm3gba:pod-hero",
+        "Elemental": "dqm3gba:alue"
+      },
+      "Nature": {
+        "Beast": "dqm3gba:armorpion",
+        "Demon": "dqm3gba:boss-troll",
+        "Material": "dqm3gba:lava-djinn",
+        "Animal": "dqm3gba:triwinder",
+        "Slime": "dqm3gba:halo-slime",
+        "Nature": "dqm3gba:face-tree",
+        "Elemental": "dqm3gba:alue"
+      },
+      "Elemental": {
+        "Beast": "dqm3gba:orochi",
+        "Demon": "dqm3gba:lamp-genie",
+        "Material": "dqm3gba:ice-djinn",
+        "Animal": "dqm3gba:king-squid",
+        "Slime": "dqm3gba:crystal-slime",
+        "Nature": "dqm3gba:face-tree",
+        "Elemental": "dqm3gba:alue"
+      }
+    },
+    "5": {
+      "Beast": {
+        "Beast": "dqm3gba:giga-draco",
+        "Demon": "dqm3gba:grand-shark",
+        "Material": "dqm3gba:gryphynx",
+        "Animal": "dqm3gba:grand-shark",
+        "Slime": "dqm3gba:darkking",
+        "Nature": "dqm3gba:drollerium",
+        "Elemental": "dqm3gba:pural"
+      },
+      "Demon": {
+        "Beast": "dqm3gba:cergainas",
+        "Demon": "dqm3gba:high-wizard",
+        "Material": "dqm3gba:dark-crystal",
+        "Animal": "dqm3gba:muscle-kong",
+        "Slime": "dqm3gba:darkking",
+        "Nature": "dqm3gba:drollerium",
+        "Elemental": "dqm3gba:pural"
+      },
+      "Material": {
+        "Beast": "dqm3gba:cergainas",
+        "Demon": "dqm3gba:chain-djinn",
+        "Material": "dqm3gba:gryphynx",
+        "Animal": "dqm3gba:muscle-kong",
+        "Slime": "dqm3gba:spin-slime",
+        "Nature": "dqm3gba:death-sizer",
+        "Elemental": "dqm3gba:pural"
+      },
+      "Animal": {
+        "Beast": "dqm3gba:chaos-drake",
+        "Demon": "dqm3gba:chain-djinn",
+        "Material": "dqm3gba:gryphynx",
+        "Animal": "dqm3gba:trumpeter",
+        "Slime": "dqm3gba:darkking",
+        "Nature": "dqm3gba:trumpeter",
+        "Elemental": "dqm3gba:pural"
+      },
+      "Slime": {
+        "Beast": "dqm3gba:rain-hawk",
+        "Demon": "dqm3gba:grand-satan",
+        "Material": "dqm3gba:dark-crystal",
+        "Animal": "dqm3gba:trumpeter",
+        "Slime": "dqm3gba:spin-slime",
+        "Nature": "dqm3gba:wing-tree",
+        "Elemental": "dqm3gba:pural"
+      },
+      "Nature": {
+        "Beast": "dqm3gba:rain-hawk",
+        "Demon": "dqm3gba:grakos",
+        "Material": "dqm3gba:dark-crystal",
+        "Animal": "dqm3gba:grand-shark",
+        "Slime": "dqm3gba:spin-slime",
+        "Nature": "dqm3gba:rosevine",
+        "Elemental": "dqm3gba:pural"
+      },
+      "Elemental": {
+        "Beast": "dqm3gba:chaos-drake",
+        "Demon": "dqm3gba:grakos",
+        "Material": "dqm3gba:grand-shark",
+        "Animal": "dqm3gba:king-leo",
+        "Slime": "dqm3gba:master-slime",
+        "Nature": "dqm3gba:rosevine",
+        "Elemental": "dqm3gba:pural"
+      }
     }
   },
-  "notes": "Rows are influencing family; columns are dominant family. Only one-star chart has been transcribed and mapped; other star levels pending."
+  "notes": "All five 7x7 source tables transcribed from user-provided Slartifer FAQ §1.2; unresolved names are null rather than guessed. Row influencing, column dominant.",
+  "unmatched": [
+    {
+      "star": 4,
+      "influencing": "Animal",
+      "dominant": "Nature",
+      "source_name": "Star Fish"
+    }
+  ]
 }
