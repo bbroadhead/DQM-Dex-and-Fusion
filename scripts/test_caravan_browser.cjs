@@ -25,12 +25,13 @@ const dom=new JSDOM(html,{
 });
 const {document,Event}=dom.window;
 const tick=()=>new Promise(resolve=>setTimeout(resolve,20));
+async function waitFor(predicate,label){for(let i=0;i<100;i++){if(predicate())return;await tick();}throw Error("Timed out waiting for "+label)}
 async function main(){
-  await tick();
+  await waitFor(()=>document.querySelector("[data-game=caravan]"),"game selector");
   const caravan=document.querySelector('[data-game="caravan"]');
   assert.ok(caravan,"Caravan Heart game button");
   caravan.click();
-  await tick();
+  await waitFor(()=>document.querySelectorAll(".monster-tile").length===221,"Caravan roster load");
   assert.ok(document.querySelector("#entries .monster-tile"),"Roster renders");
   assert.equal(document.querySelectorAll(".monster-tile").length,221,"Full roster count");
   assert.equal(document.querySelectorAll(".monster-tile .tag[title]").length,21,"Unobtainable badges");
@@ -39,7 +40,7 @@ async function main(){
   toggle.checked=false;toggle.dispatchEvent(new Event("change",{bubbles:true}));
   assert.equal(document.querySelectorAll(".monster-tile").length,200,"Obtainable roster count");
   document.querySelector('[data-tab="fusion"]').click();
-  await tick();
+  await waitFor(()=>document.querySelector("#reformBase"),"Reform controls");
   const base=document.querySelector("#reformBase"),heart1=document.querySelector("#reformHeart1"),heart2=document.querySelector("#reformHeart2");
   assert.ok(base&&heart1&&heart2,"Reform controls render");
   for(const select of [base,heart1,heart2]){
