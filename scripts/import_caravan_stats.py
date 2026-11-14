@@ -4,7 +4,7 @@ Only exact normalized name matches are accepted. Unmatched entries remain unveri
 """
 import json,re
 from pathlib import Path
-from urllib.request import Request,urlopen
+import argparse
 from html.parser import HTMLParser
 URL="https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
 ROOT=Path("data/woodus")
@@ -18,10 +18,15 @@ class Text(HTMLParser):
   if self.in_pre:self.parts.append(data)
 def norm(s):return re.sub(r"[^a-z0-9]","",s.casefold())
 def main():
- req=Request(URL,headers={"User-Agent":"Mozilla/5.0 (personal research importer)"})
- with urlopen(req,timeout=40) as r:page=r.read().decode("utf-8","replace")
- parser=Text();parser.feed(page)
- source="\n".join(parser.parts)
+ ap=argparse.ArgumentParser()
+ ap.add_argument("--source-file",type=Path,default=Path("data/sources/caravan-heart-monster-faq.txt"))
+ args=ap.parse_args()
+ if not args.source_file.is_file():
+  raise SystemExit("Source guide not found: "+str(args.source_file)+". Save the guide as UTF-8 plain text at this path, then rerun.")
+ page=args.source_file.read_text(encoding="utf-8")
+ if "<pre" in page.lower():
+  parser=Text();parser.feed(page);source="\n".join(parser.parts)
+ else:source=page
  if "MONSTER STATS CHART" not in source:raise RuntimeError("FAQ stats section not found; no files modified")
  source=source.split("MONSTER STATS CHART",1)[1].split("EASY MONSTER GOODIES",1)[0]
  pattern=re.compile(r"^\s*([1-6])\s+(\d+)\s+(\d+)\s+((?:\d+/\d+\s+){6})(\d+/\d+)\s+\d+\s+\d+\s+(.+?)\s*$")
