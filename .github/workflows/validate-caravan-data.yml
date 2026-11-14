@@ -33,13 +33,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Check website JavaScript syntax first
+        run: python scripts/test_caravan_ui.py
       - name: Install browser DOM test dependency
         run: npm install --no-save --no-package-lock jsdom@26
       - name: Test Caravan Heart browser interactions
         run: node scripts/test_caravan_browser.cjs
       - name: Test Caravan Heart FAQ parsing
         run: python scripts/test_caravan_stats_parser.py
-      - name: Check Caravan Heart browser JavaScript and UI
-        run: python scripts/test_caravan_ui.py
       - name: Validate monster roster, stat records, and reform recipes
         run: python scripts/validate_caravan_data.py
