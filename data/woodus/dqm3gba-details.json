@@ -1312,8 +1312,8 @@
         "special_reform_only": false,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
       },
-      "family_source": "Slartifer FAQ §1.2, consistent dominant-family chart column",
-      "family_verification": "inferred_from_reform_chart"
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary (Babble alias)",
+      "family_verification": "listed_in_game_specific_bestiary_alias"
     },
     {
       "id": "dqm3gba:bull-bird",
@@ -10262,7 +10262,7 @@
     {
       "id": "dqm3gba:wander-monk",
       "name": "Wander Monk",
-      "family": null,
+      "family": "Material",
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250963&mname=Wander Monk",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguemage.webp",
       "metadata_status": "pending_verification",
@@ -10308,7 +10308,9 @@
         },
         "special_reform_only": true,
         "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549"
-      }
+      },
+      "family_source": "Dragon Quest Wiki (Fandom), Caravan Heart bestiary (Wonder Monk alias)",
+      "family_verification": "listed_in_game_specific_bestiary_alias"
     },
     {
       "id": "dqm3gba:war-lizard",
