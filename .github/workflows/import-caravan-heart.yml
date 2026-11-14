@@ -1,0 +1,36 @@
+name: Import Caravan Heart roster and sprites
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "New monster sprites to download (run repeatedly until complete)"
+        type: choice
+        required: true
+        default: '50'
+        options: ['10', '25', '50']
+permissions:
+  contents: write
+concurrency:
+  group: caravan-heart-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests beautifulsoup4
+      - name: Import roster and next sprite batch
+        run: python scripts/import_caravan_heart.py --batch-size "${{ inputs.batch_size }}"
+      - name: Commit imported data and sprites
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/woodus/dqm3gba-*.json assets/monsters/dqm3gba/
+          if ! git diff --cached --quiet; then
+            git commit -m "Import Caravan Heart monster data and sprites"
+            git push origin HEAD:main
+          fi
