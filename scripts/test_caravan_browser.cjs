@@ -53,6 +53,18 @@ async function main(){
   assert.match(document.querySelector("#reformResult").textContent,/Double-heart result: Slime/);
   choose(base,"dqm3gba:phoenix");choose(heart1,"dqm3gba:phoenix");choose(heart2,"dqm3gba:blizzardy");
   assert.match(document.querySelector("#reformResult").textContent,/Documented special result: Rain Hawk/);
+  // Plus-gated recipes must not unlock below their documented threshold.
+  choose(base,"dqm3gba:metal-slime");choose(heart1,"dqm3gba:metal-slime");choose(heart2,"dqm3gba:metal-slime");
+  const plus=document.querySelector("#reformPlus");
+  plus.value="7";plus.dispatchEvent(new Event("input",{bubbles:true}));
+  assert.match(document.querySelector("#reformResult").textContent,/Special recipe locked/);
+  plus.value="8";plus.dispatchEvent(new Event("input",{bubbles:true}));
+  assert.match(document.querySelector("#reformResult").textContent,/Documented special result: Metal King/);
+  // Wildcard heart recipes accept a Slime-family partner, but not another family.
+  choose(base,"dqm3gba:slime");choose(heart1,"dqm3gba:cloud-king");choose(heart2,"dqm3gba:slime");
+  assert.match(document.querySelector("#reformResult").textContent,/Documented special result: King Slime/);
+  choose(heart2,"dqm3gba:phoenix");
+  assert.doesNotMatch(document.querySelector("#reformResult").textContent,/Documented special result: King Slime/);
   const chart=document.querySelector("#reformChartStars");
   choose(chart,"4");
   assert.match(document.querySelector("#reformChartTable").textContent,/Unresolved/);
