@@ -4,1993 +4,1772 @@
     {
       "id": "dqm3gba:ag-devil",
       "name": "Ag Devil",
-      "book_number": 1,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250797&mname=Ag Devil",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:almiraj",
       "name": "Almiraj",
-      "book_number": 2,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250799&mname=Almiraj",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/almiraj.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/almiraj.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:alue",
       "name": "Alue",
-      "book_number": 3,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250939&mname=Alue",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aruu.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aruu.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:andreal",
       "name": "Andreal",
-      "book_number": 4,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250845&mname=Andreal",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/andreal.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/andreal.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:aqua-slime",
       "name": "Aqua Slime",
-      "book_number": 5,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250928&mname=Aqua Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aquaslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aquaslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:arc-belial",
       "name": "Arc Belial",
-      "book_number": 6,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250913&mname=Arc Belial",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:arch-demon",
       "name": "Arch Demon",
-      "book_number": 7,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250798&mname=Arch Demon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:armorpede",
       "name": "Armorpede",
-      "book_number": 8,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250783&mname=Armorpede",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpede.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpede.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:armorpion",
       "name": "Armorpion",
-      "book_number": 9,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250832&mname=Armorpion",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpion.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpion.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:army-crab",
       "name": "Army Crab",
-      "book_number": 10,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250801&mname=Army Crab",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armycrab.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armycrab.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:baby-panther",
       "name": "Baby Panther",
-      "book_number": 11,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250851&mname=Baby Panther",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babypanther.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babypanther.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:baraxe",
       "name": "Baraxe",
-      "book_number": 12,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250920&mname=Baraxe",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:barbaru",
       "name": "Barbaru",
-      "book_number": 13,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250980&mname=Barbaru",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/barubaru.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/barubaru.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:barblade",
       "name": "Barblade",
-      "book_number": 14,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250919&mname=Barblade",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:battle-rex",
       "name": "Battle Rex",
-      "book_number": 15,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250876&mname=Battle Rex",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/battlerex.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/battlerex.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:belzebub",
       "name": "Belzebub",
-      "book_number": 16,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250834&mname=Belzebub",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/beelzebug.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/beelzebug.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:berserker",
       "name": "Berserker",
-      "book_number": 17,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250794&mname=Berserker",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/berserker.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/berserker.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:big-eye",
       "name": "Big Eye",
-      "book_number": 18,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250856&mname=Big Eye",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigeye.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigeye.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:big-mommonja",
       "name": "Big Mommonja",
-      "book_number": 19,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250942&mname=Big Mommonja",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigmommonja.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigmommonja.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:big-scorpion",
       "name": "Big Scorpion",
-      "book_number": 20,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250770&mname=Big Scorpion",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantscorpion.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantscorpion.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:blizzard",
       "name": "Blizzard",
-      "book_number": 21,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250790&mname=Blizzard",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:blizzardy",
       "name": "Blizzardy",
-      "book_number": 22,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250864&mname=Blizzardy",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzardy.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzardy.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:bomb-crag",
       "name": "Bomb Crag",
-      "book_number": 23,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250819&mname=Bomb Crag",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bombcrag.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bombcrag.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:boohbah",
       "name": "Boohbah",
-      "book_number": 24,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250950&mname=Boohbah",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/boobaa.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/boobaa.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:boss-troll",
       "name": "Boss Troll",
-      "book_number": 25,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250820&mname=Boss Troll",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bosstroll.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bosstroll.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:bubble-king",
       "name": "Bubble King",
-      "book_number": 26,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250933&mname=Bubble King",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babbleking.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babbleking.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:bubble-slime",
       "name": "Bubble Slime",
-      "book_number": 27,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250781&mname=Bubble Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babble.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babble.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:bull-bird",
       "name": "Bull Bird",
-      "book_number": 28,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250830&mname=Bull Bird",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bullbird.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bullbird.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:cacti-ball",
       "name": "Cacti Ball",
-      "book_number": 29,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250854&mname=Cacti Ball",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cactiball.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cactiball.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:cat-mage",
       "name": "Cat Mage",
-      "book_number": 30,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250893&mname=Cat Mage",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/catmage.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/catmage.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:celestial-beast",
       "name": "Celestial Beast",
-      "book_number": 31,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250982&mname=Celestial Beast",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/heaven_monster.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/heaven_monster.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:cergainas",
       "name": "Cergainas",
-      "book_number": 32,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250865&mname=Cergainas",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkgolem.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkgolem.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:chain-djinn",
       "name": "Chain Djinn",
-      "book_number": 33,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250971&mname=Chain Djinn",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaingolem.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaingolem.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:chaos-drake",
       "name": "Chaos Drake",
-      "book_number": 34,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250951&mname=Chaos Drake",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaosdrak.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaosdrak.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:chestnut-man",
       "name": "Chestnut Man",
-      "book_number": 35,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250955&mname=Chestnut Man",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chestnutman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chestnutman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:clay-man",
       "name": "Clay Man",
-      "book_number": 36,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250857&mname=Clay Man",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mudman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mudman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:cloud-king",
       "name": "Cloud King",
-      "book_number": 37,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250899&mname=Cloud King",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cloudking.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cloudking.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:confetti",
       "name": "Confetti",
-      "book_number": 38,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250930&mname=Confetti",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/conpeito.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/conpeito.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:crystal-slime",
       "name": "Crystal Slime",
-      "book_number": 39,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250934&mname=Crystal Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/crystalslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/crystalslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dance-vegi",
       "name": "Dance Vegi",
-      "book_number": 40,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250867&mname=Dance Vegi",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/danceveggie.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/danceveggie.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dark-crystal",
       "name": "Dark Crystal",
-      "book_number": 41,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250966&mname=Dark Crystal",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkcrystal.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkcrystal.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dark-flame",
       "name": "Dark Flame",
-      "book_number": 42,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250909&mname=Dark Flame",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dark-horn",
       "name": "Dark Horn",
-      "book_number": 43,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250869&mname=Dark Horn",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dark-slime",
       "name": "Dark Slime",
-      "book_number": 44,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250905&mname=Dark Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dark-spirit",
       "name": "Dark Spirit",
-      "book_number": 45,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250977&mname=Dark Spirit",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_darkness.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_darkness.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:darkking",
       "name": "DarkKing",
-      "book_number": 46,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250921&mname=DarkKing",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkking.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkking.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:darkknight",
       "name": "DarkKnight",
-      "book_number": 47,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250922&mname=DarkKnight",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkknight.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkknight.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:darth-dragon",
       "name": "Darth Dragon",
-      "book_number": 48,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250777&mname=Darth Dragon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dead-father",
       "name": "Dead Father",
-      "book_number": 49,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250969&mname=Dead Father",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ghostcoffin.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ghostcoffin.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dead-knight",
       "name": "Dead Knight",
-      "book_number": 50,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250772&mname=Dead Knight",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadknight.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadknight.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dead-masker",
       "name": "Dead Masker",
-      "book_number": 51,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250964&mname=Dead Masker",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathmasker.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathmasker.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:death-blizzard",
       "name": "Death Blizzard",
-      "book_number": 52,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250910&mname=Death Blizzard",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:death-god",
       "name": "Death God",
-      "book_number": 53,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250780&mname=Death God",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/reaper.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/reaper.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:death-sizer",
       "name": "Death Sizer",
-      "book_number": 54,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250960&mname=Death Sizer",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathscyther.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathscyther.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:demighoul-m-ch",
       "name": "Demighoul (M-CH)",
-      "book_number": 55,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250828&mname=Demighoul (M-CH)",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/earthfiend.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/earthfiend.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:demon-monk",
       "name": "Demon Monk",
-      "book_number": 56,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250891&mname=Demon Monk",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/devilpriest.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/devilpriest.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:demonite",
       "name": "Demonite",
-      "book_number": 57,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250810&mname=Demonite",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:divinegon",
       "name": "Divinegon",
-      "book_number": 58,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250883&mname=Divinegon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/divinegon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/divinegon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:domedy",
       "name": "Domedy",
-      "book_number": 59,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250981&mname=Domedy",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/domedi.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/domedi.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dradon",
       "name": "Dradon",
-      "book_number": 60,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250948&mname=Dradon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pudgydragon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pudgydragon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dragon",
       "name": "Dragon",
-      "book_number": 61,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250775&mname=Dragon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dragon-kid",
       "name": "Dragon Kid",
-      "book_number": 62,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250850&mname=Dragon Kid",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonkid.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonkid.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dragon-lord",
       "name": "Dragon Lord",
-      "book_number": 63,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250778&mname=Dragon Lord",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon_lord.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon_lord.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dragon-rider",
       "name": "Dragon Rider",
-      "book_number": 64,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250842&mname=Dragon Rider",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonrider.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonrider.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:drakee",
       "name": "Drakee",
-      "book_number": 65,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250768&mname=Drakee",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dracky.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dracky.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:drakmachine",
       "name": "DrakMachine",
-      "book_number": 66,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250967&mname=DrakMachine",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mechadragon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mechadragon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:dreen",
       "name": "Dreen",
-      "book_number": 67,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250940&mname=Dreen",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/doriin.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/doriin.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:droll",
       "name": "Droll",
-      "book_number": 68,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250771&mname=Droll",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/droll.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/droll.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:drollerium",
       "name": "Drollerium",
-      "book_number": 69,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250958&mname=Drollerium",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/drollrium.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/drollrium.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:durran",
       "name": "Durran",
-      "book_number": 70,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250882&mname=Durran",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/durran.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/durran.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:earth-spirit",
       "name": "Earth Spirit",
-      "book_number": 71,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250972&mname=Earth Spirit",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_earth.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_earth.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:eggplaton",
       "name": "Eggplaton",
-      "book_number": 72,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250892&mname=Eggplaton",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:evil-armor",
       "name": "Evil Armor",
-      "book_number": 73,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250872&mname=Evil Armor",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:face-tree",
       "name": "Face Tree",
-      "book_number": 74,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250788&mname=Face Tree",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facetree.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facetree.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:fire-mister",
       "name": "Fire Mister",
-      "book_number": 75,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250908&mname=Fire Mister",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:fire-spirit",
       "name": "Fire Spirit",
-      "book_number": 76,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250974&mname=Fire Spirit",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_fire.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_fire.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:flame",
       "name": "Flame",
-      "book_number": 77,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250789&mname=Flame",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:florajay",
       "name": "Florajay",
-      "book_number": 78,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250885&mname=Florajay",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/florajay.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/florajay.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:flower-beat",
       "name": "Flower Beat",
-      "book_number": 79,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250953&mname=Flower Beat",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flowerbeat.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flowerbeat.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gargoyle",
       "name": "Gargoyle",
-      "book_number": 80,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250792&mname=Gargoyle",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gargoyle.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gargoyle.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gateguard",
       "name": "Gateguard",
-      "book_number": 81,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250839&mname=Gateguard",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gateguard.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gateguard.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:ghostar-fish",
       "name": "Ghostar Fish",
-      "book_number": 82,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250894&mname=Ghostar Fish",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/starfish.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/starfish.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:giant-slug",
       "name": "Giant Slug",
-      "book_number": 83,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250779&mname=Giant Slug",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantslug.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantslug.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:giant-worm",
       "name": "Giant Worm",
-      "book_number": 84,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250824&mname=Giant Worm",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantworm.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantworm.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:giga-atlus",
       "name": "Giga Atlus",
-      "book_number": 85,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250911&mname=Giga Atlus",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:giga-draco",
       "name": "Giga Draco",
-      "book_number": 86,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250901&mname=Giga Draco",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigadraco.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigadraco.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gigantes",
       "name": "Gigantes",
-      "book_number": 87,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250796&mname=Gigantes",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gisvarg",
       "name": "Gisvarg",
-      "book_number": 88,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250984&mname=Gisvarg",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gisuwagu.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gisuwagu.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gizmo",
       "name": "Gizmo",
-      "book_number": 89,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250802&mname=Gizmo",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gizmo.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gizmo.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:goategon",
       "name": "Goategon",
-      "book_number": 90,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250808&mname=Goategon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goategon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goategon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gold-slime",
       "name": "Gold Slime",
-      "book_number": 91,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250884&mname=Gold Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goldslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goldslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:golem",
       "name": "Golem",
-      "book_number": 92,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250774&mname=Golem",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/golem.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/golem.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:goopi",
       "name": "Goopi",
-      "book_number": 93,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250787&mname=Goopi",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goopi.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goopi.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gophecada",
       "name": "Gophecada",
-      "book_number": 94,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250848&mname=Gophecada",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gophecada.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gophecada.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:grakos",
       "name": "Grakos",
-      "book_number": 95,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250877&mname=Grakos",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grakos.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grakos.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gran-slime",
       "name": "Gran Slime",
-      "book_number": 96,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250904&mname=Gran Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:grand-satan",
       "name": "Grand Satan",
-      "book_number": 97,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250970&mname=Grand Satan",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granddevil.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granddevil.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:grand-shark",
       "name": "Grand Shark",
-      "book_number": 98,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250946&mname=Grand Shark",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/landshark.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/landshark.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:great-dragon",
       "name": "Great Dragon",
-      "book_number": 99,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250866&mname=Great Dragon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatdrak.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatdrak.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:grizzly",
       "name": "Grizzly",
-      "book_number": 100,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250815&mname=Grizzly",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grizzly.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grizzly.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gryphynx",
       "name": "Gryphynx",
-      "book_number": 101,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250965&mname=Gryphynx",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/griffinx.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/griffinx.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:gulp-beast",
       "name": "Gulp Beast",
-      "book_number": 102,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250879&mname=Gulp Beast",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gulpbeast.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gulpbeast.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:halo-slime",
       "name": "Halo Slime",
-      "book_number": 103,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250903&mname=Halo Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/haloslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/haloslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:hammer-man",
       "name": "Hammer Man",
-      "book_number": 104,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250849&mname=Hammer Man",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hammerman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hammerman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:healer",
       "name": "Healer",
-      "book_number": 105,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250784&mname=Healer",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:healmore-moon",
       "name": "Healmore Moon",
-      "book_number": 106,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250906&mname=Healmore Moon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:high-wizard",
       "name": "High Wizard",
-      "book_number": 107,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250846&mname=High Wizard",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatmage.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatmage.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:hork",
       "name": "Hork",
-      "book_number": 108,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250791&mname=Hork",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hork.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hork.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:ice-djinn",
       "name": "Ice Djinn",
-      "book_number": 109,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250817&mname=Ice Djinn",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iceman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iceman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:iiro",
       "name": "Iiro",
-      "book_number": 110,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250937&mname=Iiro",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iio.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iio.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:illusion-axe",
       "name": "Illusion Axe",
-      "book_number": 111,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250918&mname=Illusion Axe",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:illusion-blade",
       "name": "Illusion Blade",
-      "book_number": 112,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250917&mname=Illusion Blade",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:infergon",
       "name": "Infergon",
-      "book_number": 113,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250945&mname=Infergon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/infergon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/infergon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:iron-hawk",
       "name": "Iron Hawk",
-      "book_number": 114,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250943&mname=Iron Hawk",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironhawk.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironhawk.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:iron-turtle",
       "name": "Iron Turtle",
-      "book_number": 115,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250881&mname=Iron Turtle",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironturt.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironturt.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:jamirus",
       "name": "Jamirus",
-      "book_number": 116,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250878&mname=Jamirus",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/jamirus.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/jamirus.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:jenodark",
       "name": "Jenodark",
-      "book_number": 117,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250952&mname=Jenodark",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/genodrak.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/genodrak.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:jewel-bag",
       "name": "Jewel Bag",
-      "book_number": 118,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250807&mname=Jewel Bag",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/treasurebag.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/treasurebag.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:kakalon",
       "name": "Kakalon",
-      "book_number": 119,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250978&mname=Kakalon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kakaron.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kakaron.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:kakalon-food",
       "name": "Kakalon Food",
-      "book_number": 120,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250927&mname=Kakalon Food",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:killer-wave",
       "name": "Killer Wave",
-      "book_number": 121,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250873&mname=Killer Wave",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguewave.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguewave.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:king-leo",
       "name": "King Leo",
-      "book_number": 122,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250844&mname=King Leo",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingleo.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingleo.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:king-slime",
       "name": "King Slime",
-      "book_number": 123,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250836&mname=King Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:king-squid",
       "name": "King Squid",
-      "book_number": 124,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250814&mname=King Squid",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantsquid.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantsquid.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:kith-dragon",
       "name": "Kith Dragon",
-      "book_number": 125,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250776&mname=Kith Dragon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:kushalami",
       "name": "Kushalami",
-      "book_number": 126,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250979&mname=Kushalami",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kusharami.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kusharami.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:kushalami-pal",
       "name": "Kushalami Pal",
-      "book_number": 127,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250914&mname=Kushalami Pal",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:lamp-genie",
       "name": "Lamp Genie",
-      "book_number": 128,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250874&mname=Lamp Genie",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lampgenie.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lampgenie.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:lava-djinn",
       "name": "Lava Djinn",
-      "book_number": 129,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250816&mname=Lava Djinn",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lavaman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lavaman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:light-spirit",
       "name": "Light Spirit",
-      "book_number": 130,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250976&mname=Light Spirit",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_light.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_light.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:lipsy",
       "name": "Lipsy",
-      "book_number": 131,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250868&mname=Lipsy",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lipsy.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lipsy.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:londarkian-hero",
       "name": "Londarkian Hero",
-      "book_number": 132,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250924&mname=Londarkian Hero",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:londarkian-mage",
       "name": "Londarkian Mage",
-      "book_number": 133,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250925&mname=Londarkian Mage",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mad-candle",
       "name": "Mad Candle",
-      "book_number": 134,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250853&mname=Mad Candle",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcandle.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcandle.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mad-cat",
       "name": "Mad Cat",
-      "book_number": 135,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250858&mname=Mad Cat",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madpanther.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madpanther.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mad-condor",
       "name": "Mad Condor",
-      "book_number": 136,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250809&mname=Mad Condor",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcondor.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcondor.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mad-dragon",
       "name": "Mad Dragon",
-      "book_number": 137,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250861&mname=Mad Dragon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/maddragon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/maddragon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mad-gopher",
       "name": "Mad Gopher",
-      "book_number": 138,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250825&mname=Mad Gopher",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madgopher.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madgopher.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mad-hornet",
       "name": "Mad Hornet",
-      "book_number": 139,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250870&mname=Mad Hornet",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madhornet.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madhornet.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mad-mirror",
       "name": "Mad Mirror",
-      "book_number": 140,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250871&mname=Mad Mirror",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madmirror.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madmirror.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mad-plant",
       "name": "Mad Plant",
-      "book_number": 141,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250852&mname=Mad Plant",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madplant.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madplant.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:magarugi",
       "name": "Magarugi",
-      "book_number": 142,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250985&mname=Magarugi",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magarugi.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magarugi.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:magarugi-2nd-form",
       "name": "Magarugi (2nd Form)",
-      "book_number": 143,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250986&mname=Magarugi (2nd Form)",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magarugi2.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magarugi2.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mage-slime",
       "name": "Mage Slime",
-      "book_number": 144,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250907&mname=Mage Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:magma-slime",
       "name": "Magma Slime",
-      "book_number": 145,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250929&mname=Magma Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magmaslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magmaslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:master-dragon",
       "name": "Master Dragon",
-      "book_number": 146,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250983&mname=Master Dragon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/master_dragon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/master_dragon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:master-slime",
       "name": "Master Slime",
-      "book_number": 147,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250935&mname=Master Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/masterslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/masterslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:merman",
       "name": "Merman",
-      "book_number": 148,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250813&mname=Merman",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/merman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/merman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:metabble",
       "name": "Metabble",
-      "book_number": 149,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250782&mname=Metabble",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metabble.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metabble.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:metal-king",
       "name": "Metal King",
-      "book_number": 150,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250837&mname=Metal King",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metalking.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metalking.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:metal-slime",
       "name": "Metal Slime",
-      "book_number": 151,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250767&mname=Metal Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metaly.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metaly.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mimic",
       "name": "Mimic",
-      "book_number": 152,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250811&mname=Mimic",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mimic.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mimic.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:minon",
       "name": "Minon",
-      "book_number": 153,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250829&mname=Minon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/saccer.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/saccer.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mommonja",
       "name": "Mommonja",
-      "book_number": 154,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250827&mname=Mommonja",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mommonja.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mommonja.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:mummy",
       "name": "Mummy",
-      "book_number": 155,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250786&mname=Mummy",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mummy.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mummy.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:muscle-kong",
       "name": "Muscle Kong",
-      "book_number": 156,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250947&mname=Muscle Kong",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/musclekong.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/musclekong.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:night-lich",
       "name": "Night Lich",
-      "book_number": 157,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250900&mname=Night Lich",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/knightlich.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/knightlich.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:nocto-king",
       "name": "Nocto King",
-      "book_number": 158,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250843&mname=Nocto King",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantbat.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantbat.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:one-horn",
       "name": "One Horn",
-      "book_number": 159,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250926&mname=One Horn",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:onion-master",
       "name": "Onion Master",
-      "book_number": 160,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250956&mname=Onion Master",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/onionmaster.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/onionmaster.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:opabi",
       "name": "Opabi",
-      "book_number": 161,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250954&mname=Opabi",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/icky.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/icky.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:orc",
       "name": "Orc",
-      "book_number": 162,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250793&mname=Orc",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orc.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orc.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:orochi",
       "name": "Orochi",
-      "book_number": 163,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250821&mname=Orochi",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orochi.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orochi.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:phantom-glass",
       "name": "Phantom Glass",
-      "book_number": 164,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250961&mname=Phantom Glass",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phantomglass.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phantomglass.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:phoenix",
       "name": "Phoenix",
-      "book_number": 165,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250863&mname=Phoenix",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phoenix.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phoenix.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:pimo",
       "name": "Pimo",
-      "book_number": 166,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250938&mname=Pimo",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pimo.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pimo.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:pod-hero",
       "name": "Pod Hero",
-      "book_number": 167,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250895&mname=Pod Hero",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/foohero.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/foohero.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:pompom-bomb",
       "name": "Pompom Bomb",
-      "book_number": 168,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250896&mname=Pompom Bomb",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pompombomb.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pompombomb.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:proto-mech",
       "name": "Proto Mech",
-      "book_number": 169,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250898&mname=Proto Mech",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/protokiller.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/protokiller.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:pumpk-night",
       "name": "Pumpk'night",
-      "book_number": 170,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250957&mname=Pumpk'night",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pumpkinknight.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pumpkinknight.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:puppet-man",
       "name": "Puppet Man",
-      "book_number": 171,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250785&mname=Puppet Man",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/muddoll.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/muddoll.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:pural",
       "name": "Pural",
-      "book_number": 172,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250941&mname=Pural",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/paararu.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/paararu.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:putre-pup",
       "name": "Putre Pup",
-      "book_number": 173,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250800&mname=Putre Pup",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/putrepup.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/putrepup.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:rain-hawk",
       "name": "Rain Hawk",
-      "book_number": 174,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250889&mname=Rain Hawk",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rainhawk.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rainhawk.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:reefer",
       "name": "Reefer",
-      "book_number": 175,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250931&mname=Reefer",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/leafer.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/leafer.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:roboster",
       "name": "Roboster",
-      "book_number": 176,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250795&mname=Roboster",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:roboster-2",
       "name": "Roboster 2",
-      "book_number": 177,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250880&mname=Roboster 2",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster2.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster2.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:rogue-knight",
       "name": "Rogue Knight",
-      "book_number": 178,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250805&mname=Rogue Knight",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rogueknight.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rogueknight.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:rosevine",
       "name": "Rosevine",
-      "book_number": 179,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250888&mname=Rosevine",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rosevine.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rosevine.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:rush-fish",
       "name": "Rush Fish",
-      "book_number": 180,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250838&mname=Rush Fish",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ramfish.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ramfish.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:sabre-man",
       "name": "Sabre Man",
-      "book_number": 181,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250835&mname=Sabre Man",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:scarabator",
       "name": "Scarabator",
-      "book_number": 182,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250959&mname=Scarabator",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/scarabeetle.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/scarabeetle.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:shadow",
       "name": "Shadow",
-      "book_number": 183,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250804&mname=Shadow",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/shadow.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/shadow.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:silent-sheep",
       "name": "Silent Sheep",
-      "book_number": 184,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250923&mname=Silent Sheep",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:silver-pazuzu",
       "name": "Silver Pazuzu",
-      "book_number": 185,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250912&mname=Silver Pazuzu",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:skeletor",
       "name": "Skeletor",
-      "book_number": 186,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250818&mname=Skeletor",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skeletor.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skeletor.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:skullgon",
       "name": "Skullgon",
-      "book_number": 187,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250823&mname=Skullgon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skullgon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skullgon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:slime",
       "name": "Slime",
-      "book_number": 188,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250766&mname=Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:slime-knight",
       "name": "Slime Knight",
-      "book_number": 189,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250855&mname=Slime Knight",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slimeknight.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slimeknight.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:snaily",
       "name": "Snaily",
-      "book_number": 190,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250812&mname=Snaily",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snaily.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snaily.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:snapper",
       "name": "Snapper",
-      "book_number": 191,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250831&mname=Snapper",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snapper.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snapper.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:snome",
       "name": "Snome",
-      "book_number": 192,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250932&mname=Snome",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snome.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snome.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:spiky-boy",
       "name": "Spiky Boy",
-      "book_number": 193,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250847&mname=Spiky Boy",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spikeyboy.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spikeyboy.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:spin-slime",
       "name": "Spin Slime",
-      "book_number": 194,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250936&mname=Spin Slime",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spinslime.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spinslime.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:spooky",
       "name": "Spooky",
-      "book_number": 195,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250769&mname=Spooky",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spooky.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spooky.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:stone-kid",
       "name": "Stone Kid",
-      "book_number": 196,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250915&mname=Stone Kid",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/statuekid.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/statuekid.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:stone-man",
       "name": "Stone Man",
-      "book_number": 197,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250822&mname=Stone Man",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stoneman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stoneman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:stone-spider",
       "name": "Stone Spider",
-      "book_number": 198,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250962&mname=Stone Spider",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rockspider.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rockspider.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:stonehopper",
       "name": "Stonehopper",
-      "book_number": 199,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250897&mname=Stonehopper",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cragdevil.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cragdevil.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:stubsuck",
       "name": "Stubsuck",
-      "book_number": 200,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250826&mname=Stubsuck",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stubsuck.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stubsuck.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:swordgon",
       "name": "Swordgon",
-      "book_number": 201,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250887&mname=Swordgon",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/swordgon.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/swordgon.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:toadstool",
       "name": "Toadstool",
-      "book_number": 202,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250803&mname=Toadstool",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/toadstool.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/toadstool.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:tonguella",
       "name": "Tonguella",
-      "book_number": 203,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250859&mname=Tonguella",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/tonguella.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/tonguella.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:totem-killer",
       "name": "Totem Killer",
-      "book_number": 204,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250841&mname=Totem Killer",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facer.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facer.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:triwinder",
       "name": "Triwinder",
-      "book_number": 205,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250944&mname=Triwinder",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/triwinder.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/triwinder.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:trumpeter",
       "name": "Trumpeter",
-      "book_number": 206,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250860&mname=Trumpeter",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/trumpeter.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/trumpeter.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:unicorn",
       "name": "Unicorn",
-      "book_number": 207,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250875&mname=Unicorn",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:vampire-rat",
       "name": "Vampire Rat",
-      "book_number": 208,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250968&mname=Vampire Rat",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/vampirerat.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/vampirerat.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:walrus-man",
       "name": "Walrus Man",
-      "book_number": 209,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250840&mname=Walrus Man",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/walrusman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/walrusman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:wander-monk",
       "name": "Wander Monk",
-      "book_number": 210,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250963&mname=Wander Monk",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguemage.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguemage.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:war-lizard",
       "name": "War Lizard",
-      "book_number": 211,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250949&mname=War Lizard",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lizardman.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lizardman.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:warubou",
       "name": "Warubou",
-      "book_number": 212,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250902&mname=Warubou",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/warubou.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/warubou.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:watabou",
       "name": "Watabou",
-      "book_number": 213,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250890&mname=Watabou",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/watabou.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/watabou.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:water-spirit",
       "name": "Water Spirit",
-      "book_number": 214,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250973&mname=Water Spirit",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_water.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_water.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:white-king",
       "name": "White King",
-      "book_number": 215,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250862&mname=White King",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/whiteking.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/whiteking.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:wicked-axe",
       "name": "Wicked Axe",
-      "book_number": 216,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250916&mname=Wicked Axe",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:wild-ape-m-ch",
       "name": "Wild Ape (M-CH)",
-      "book_number": 217,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250806&mname=Wild Ape (M-CH)",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killerape.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killerape.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:wind-beast",
       "name": "Wind Beast",
-      "book_number": 218,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250833&mname=Wind Beast",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/windbeast.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/windbeast.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:wind-spirit",
       "name": "Wind Spirit",
-      "book_number": 219,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250975&mname=Wind Spirit",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_wind.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_wind.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:wing-tree",
       "name": "Wing Tree",
-      "book_number": 220,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250886&mname=Wing Tree",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadtrunk.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadtrunk.webp",
+      "metadata_status": "pending_verification"
     },
     {
       "id": "dqm3gba:wyvern",
       "name": "Wyvern",
-      "book_number": 221,
-      "japanese_name": "キメラ",
-      "family": "Unclassified",
+      "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250773&mname=Wyvern",
-      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/wyvern.webp"
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/wyvern.webp",
+      "metadata_status": "pending_verification"
     }
   ],
   "source": "https://www.woodus.com/den/games/dqm3gba/monsters.php",
-  "note": "Woodus monster list; alphabetical sequence is not in-game numbering; family unverified."
+  "note": "Names and source URLs imported; original roster order is not an in-game number. Japanese names, families, ranks and stats are pending verification; do not infer from table positions."
 }
