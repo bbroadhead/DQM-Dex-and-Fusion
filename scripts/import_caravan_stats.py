@@ -19,7 +19,7 @@ class Text(HTMLParser):
 def norm(s):return re.sub(r"[^a-z0-9]","",s.casefold())
 def main():
  ap=argparse.ArgumentParser()
- ap.add_argument("--source-file",type=Path,default=Path("data/sources/caravan-heart-monster-faq.txt"))
+ ap.add_argument("--source-file",type=Path,default=Path("data/monster-faq.txt"))
  args=ap.parse_args()
  if not args.source_file.is_file():
   raise SystemExit("Source guide not found: "+str(args.source_file)+". Save the guide as UTF-8 plain text at this path, then rerun.")
@@ -33,6 +33,8 @@ def main():
  # then the monster name. Asterisks mark special-only species.
  pattern=re.compile(r"^\s*([1-6])\s+(\d+)\s+(\d+)\s+((?:\d+/\d+\s+){6})(\d+/\d+)\s+(\d+)\s+(\d+)\s+\*?(.+?)\s*$")
  found={}
+ # Verified naming differences between the FAQ and the Woodus roster.
+ aliases={"demighoul":"demighoulmch","wildape":"wildapemch","amorpion":"armorpion"}
  for line in source.splitlines():
   m=pattern.match(line)
   if not m:continue
@@ -40,7 +42,7 @@ def main():
   name=name.strip()
   pairs=gains.split()
   if len(pairs)!=6:continue
-  key=norm(name)
+  key=aliases.get(norm(name),norm(name))
   if key in found:raise RuntimeError("Duplicate FAQ stat entry: "+name)
   found[key]={"stars":int(stars),"weight":int(weight),"xp_to_level_10":int(xp),
    "growth":dict(zip(["hp","mp","attack","defense","speed","wisdom"],
@@ -66,10 +68,10 @@ def main():
    conflicts.append(monster["name"]+" (star classification)")
    continue
   monster["stats"]=entry
-  matched+=1
+  if monster.get("star_level") is None and monster.get("star_class") is None:\n   monster["star_level"]=entry["stars"]\n   monster["star_class"]="normal"\n  matched+=1
  if conflicts:raise RuntimeError("Conflicting existing metadata; no files modified: "+", ".join(conflicts))
  report={"game":"dqm3gba","source":URL,"parsed_stat_names":len(found),"matched_roster":matched,"roster_total":len(data["records"]),"unmatched":[m["name"] for m in data["records"] if "stats" not in m]}
- if matched<140:raise RuntimeError(f"Only {matched} roster matches; refusing write")
+ if matched<190:raise RuntimeError(f"Only {matched} roster matches; refusing write")
  path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  (ROOT/"dqm3gba-stats-import-report.json").write_text(json.dumps(report,indent=2)+"\n",encoding="utf-8")
  print(json.dumps(report,indent=2))
