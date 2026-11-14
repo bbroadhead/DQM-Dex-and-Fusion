@@ -86,6 +86,22 @@ function recipeKey(r){return String(r.source_row_index)+"-"+r.offspring.id}
 function renderCaravanReform(){
  const p=document.querySelector("#panel");
  p.innerHTML='<h2>'+escapeHTML(game().name)+' · Reform Explorer</h2><p class="muted">Caravan Heart uses one existing monster and two monster hearts. Select all three ingredients to explore the reform process.</p><div class="reform-inputs"><label for="reformBase">Base monster</label><select id="reformBase">'+monsterOptions("")+'</select><label for="reformHeart1">First monster heart</label><select id="reformHeart1">'+monsterOptions("")+'</select><label for="reformHeart2">Second monster heart</label><select id="reformHeart2">'+monsterOptions("")+'</select></div><div id="reformResult" aria-live="polite"></div><p class="muted">Reform depends on species, families, ranks, and sometimes the base monster’s plus level. Only verified combinations will be displayed as confirmed results.</p>';
+ const reverse=document.createElement("section");
+ reverse.innerHTML='<h3>Find a Reform recipe</h3><label for="reformTarget">Desired monster</label><select id="reformTarget">'+monsterOptions("")+'</select><div id="reformReverse" aria-live="polite"></div>';
+ p.appendChild(reverse);
+ const targetSelect=document.getElementById("reformTarget");
+ const renderReverse=()=>{
+  const target=byId(targetSelect.value),el=document.getElementById("reformReverse");
+  if(!target){el.innerHTML='<p class="muted">Choose a monster to see known special reform combinations.</p>';return}
+  const matches=(caravanReform.recipes||[]).filter(r=>r.result===target.id);
+  el.innerHTML=matches.length?matches.map(r=>{
+   const base=byId(r.base),a=byId(r.heart1),b=byId(r.heart2);
+   if(!base||!a||!b)return '';
+   return '<div class="reform-summary">'+[base,a,b].map((m,i)=>(i?'<span>+</span>':'')+'<span class="reform-ingredient">'+imageMarkup(m.image,"monster-img",m.name)+'<strong>'+escapeHTML(m.name)+'</strong></span>').join('')+'</div><p><a href="'+escapeHTML(r.source)+'" target="_blank" rel="noopener noreferrer">Recipe source</a></p>'
+  }).join(''):'<p class="empty">No documented special recipe imported for this monster yet. A general family/rank reform may still be possible.</p>';
+ };
+ targetSelect.addEventListener("change",renderReverse);
+ renderReverse();
  const selectors=["reformBase","reformHeart1","reformHeart2"].map(id=>document.getElementById(id));
  const show=()=>{
   const [base,a,b]=selectors.map(x=>byId(x.value)),out=document.getElementById("reformResult");
