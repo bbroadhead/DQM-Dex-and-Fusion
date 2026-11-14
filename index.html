@@ -91,14 +91,20 @@ function renderCaravanReform(){
  p.appendChild(reverse);
  const reference=document.createElement("section");
  const familyNames=["Beast","Demon","Material","Animal","Slime","Nature","Elemental"];
- const oneStar=caravanGeneral.stars?.["1"];
- if(oneStar){
-  const rows=familyNames.map(influence=>'<tr><th>'+escapeHTML(influence)+'</th>'+familyNames.map(dominant=>{
-   const m=byId(oneStar[influence]?.[dominant]);
-   return '<td>'+(m?escapeHTML(m.name):'—')+'</td>'
-  }).join('')+'</tr>').join('');
-  reference.innerHTML='<details><summary>One-star general Reform chart (49 combinations)</summary><p class="muted">Columns: dominant family. Rows: influencing family. Source: Slartifer Monster FAQ §1.2. This reference table does not account for special recipes or double-heart overrides.</p><div style="overflow-x:auto"><table><thead><tr><th>Influencing / Dominant</th>'+familyNames.map(n=>'<th>'+n+'</th>').join('')+'</tr></thead><tbody>'+rows+'</tbody></table></div></details>';
+ const tables=caravanGeneral.stars||{};
+ if(Object.keys(tables).length){
+  reference.innerHTML='<details><summary>General Reform charts (1–5 stars)</summary><p class="muted">Columns: dominant family. Rows: influencing family. Source: Slartifer Monster FAQ §1.2. Special recipes and double-heart rules override general results.</p><label for="reformChartStars">Star level</label><select id="reformChartStars">'+[1,2,3,4,5].map(n=>'<option value="'+n+'">'+n+' star'+(n>1?'s':'')+'</option>').join('')+'</select><div id="reformChartTable" style="overflow-x:auto"></div></details>';
   p.appendChild(reference);
+  const chartSelect=document.getElementById("reformChartStars");
+  const chartOutput=document.getElementById("reformChartTable");
+  const drawChart=()=>{
+   const table=tables[chartSelect.value]||{};
+   chartOutput.innerHTML='<table><thead><tr><th>Influencing / Dominant</th>'+familyNames.map(n=>'<th>'+n+'</th>').join('')+'</tr></thead><tbody>'+familyNames.map(influence=>'<tr><th>'+escapeHTML(influence)+'</th>'+familyNames.map(dominant=>{
+    const m=byId(table[influence]?.[dominant]);
+    return '<td>'+(m?escapeHTML(m.name):'<span class="muted">Unresolved</span>')+'</td>';
+   }).join('')+'</tr>').join('')+'</tbody></table>';
+  };
+  chartSelect.addEventListener("change",drawChart);drawChart();
  }
  const targetSelect=document.getElementById("reformTarget");
  const renderReverse=()=>{
