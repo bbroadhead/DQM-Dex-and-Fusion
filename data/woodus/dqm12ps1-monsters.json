@@ -1,0 +1,1272 @@
+{
+  "monsters": [
+    {
+      "id": "dqm12ps1:1eyeclown",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:agdevil",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:akubar",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:almiraj",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:amberweed",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:andreal",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:anemon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:angleron",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:antbear",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:aquadon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:aquahawk",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:aquarella",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:arcdemon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:armorpede",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:armorpion",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:armyant",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:armycrab",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:arrowdog",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:asurazoma",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:axeshark",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:ayabou",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:azurile",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:babble",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:balzak",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:baramos",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:battlerex",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:beanman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:beastnite",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:beavern",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:belzebub",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:bigeye",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:bigroost",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:blizzardy",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:bombcrag",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:boneslave",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:bosstroll",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:boxslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:brushead",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:bubblemon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:bullbird",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:butterfly",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:cactiball",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:cancerman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:captdead",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:catapila",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:catfly",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:catmage",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:centasaur",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:chamelgon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:chopclown",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:clawster",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:cloudking",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:coatol",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:coilbird",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:copycat",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:cragdevil",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:crestpent",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:curselamp",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:dancevegi",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:darck",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:darkcrab",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:darkdrium",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:darkeye",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:darkhorn",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:darkmate",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:deadnite",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:deadnoble",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:deathmore",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:deathmore-2",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:deathmore-3",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:demonite",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:devipine",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:digong",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:digster",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:dimensaur",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:divinegon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:dracky",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:dracolord",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:dracolord-2",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:dragon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:dragonkid",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:drakslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:droll",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:drygon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:duckkite",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:dumbira",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:durran",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:egdracil",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:eggplaton",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:emyu",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:esterk",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:evilarmor",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:evilbeast",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:evilpot",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:evilseed",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:evilwand",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:evilwell",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:exaucers",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:eyeball",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:eyeder",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:facer",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:facetree",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:fairydrak",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:fairyrat",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:fangslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:fireweed",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:fishrider",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:florajay",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:floraman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:foohero",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:foxfire",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:funkybird",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gamanian",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:garudian",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gasgon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gateguard",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:genosidoh",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:ghostree",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:giantmoth",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:giantslug",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:giantworm",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gigadraco",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gigantes",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gismo",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:goategon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:goathorn",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gohopper",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:goldgolem",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:goldslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:golem",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:goopi",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gophecada",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gorago",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:grakos",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:granslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:greatdrak",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gremlin",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:grendal",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:grizzly",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gulpbeast",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:gulpple",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:haloslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:hammerman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:hargon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:healer",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:herbman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:hoodsquid",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:hork",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:hornbeet",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:iceman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:inverzon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:ironturt",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:jamirus",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:jewelbag",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:kagebou",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:kingcobra",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:kingleo",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:kingslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:kingsquid",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:kitehawk",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:lampgenie",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:landowl",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:lavaman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:lazamanus",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:lionex",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:lipsy",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:lizardfly",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:lizardman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:lorddraco",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madcandle",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madcat",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madcondor",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:maddragon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madgoose",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madgopher",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madhornet",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madknight",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madmirror",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madpecker",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madplant",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madraven",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:madspirit",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:maneater",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:medusaeye",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:merman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mertiger",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:metabble",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:metaldrak",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:metalking",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:metaly",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mimeslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mimic",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:minidrak",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mirudraas",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mirudraas-2",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mistywing",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mommonja",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:moray",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:muddoll",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mudou",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mudron",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:multieyes",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:mummy",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:niterich",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:nitewhip",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:noctoking",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:octogon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:octokid",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:octoraid",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:octoreach",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:ogre",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:oniono",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:orc",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:orgodemir",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:orgodemir-2",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:orligon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:orochi",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:pearlgel",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:petiteel",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:phoenix",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:picky",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:pillowrat",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:pixy",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:pizzaro",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:poisongon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:pompombom",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:poseidon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:protomech",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:psychopiz",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:pteranod",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:pumpoise",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:puppetor",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:putrefish",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:putrepup",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:pyuro",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:rainhawk",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:ramia",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:rayburn",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:raygigas",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:reaper",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:roboster",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:roboster2",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:rockslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:roguenite",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:roguewave",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:rosevine",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:rotraven",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:rushfish",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:sabreman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:saccer",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:scallopa",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:seahorse",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:serpentia",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:servant",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:shadow",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:shantak",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:sickler",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:sidoh",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:skeletor",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:skularach",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:skullgon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:skullroo",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:skulpent",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:skulrider",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:skydragon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:slabbit",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:slime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:slimeborg",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:slimenite",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:slurperon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:snaily",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:snakebat",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:snapper",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:spikerous",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:spikyboy",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:spooky",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:spotking",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:spotslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:stagbug",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:starfish",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:stoneman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:stubbird",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:stubsuck",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:superten",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:swordgon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:taileater",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:titanis",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:toadstool",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:tonguella",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:tortragon",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:treeboy",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:treeslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:tropicgel",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:trumpeter",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:unicorn",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:vampirus",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:voodoll",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:walrusman",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:warmantis",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:warubou",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:watabou",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:weedbug",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:whalemage",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:whipbird",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:whiteking",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:wildape",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:windbeast",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:windmerge",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:wingslime",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:wingsnake",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:wingtree",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:wonderegg",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:wyvern",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:yeti",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:zapbird",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:zoma",
+      "family": null
+    },
+    {
+      "id": "dqm12ps1:zoma-s-devil",
+      "family": null
+    }
+  ]
+}
