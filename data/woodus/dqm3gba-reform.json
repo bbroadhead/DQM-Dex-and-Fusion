@@ -323,6 +323,15 @@
       "minimum_plus": 99,
       "type": "special",
       "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:wild-ape-m-ch",
+      "heart1": "dqm3gba:wild-ape-m-ch",
+      "heart2": "dqm3gba:wild-ape-m-ch",
+      "result": "dqm3gba:muscle-kong",
+      "minimum_plus": 4,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
     }
   ],
   "notes": "This is a mechanics schema, not a complete verified recipe table. Never show recipe results until validated source data is imported."
