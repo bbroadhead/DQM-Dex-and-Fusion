@@ -35,7 +35,9 @@ for m in details:
     if stats.get("stars") not in range(1,7):errors.append(f"Invalid stats stars for {m['name']}")
     for attr in ("hp","mp","attack","defense","speed","wisdom"):
         if attr not in stats.get("growth",{}):errors.append(f"Missing {attr} growth for {m['name']}")
-    if m.get("star_level") is not None and stats["stars"]!=m["star_level"]:\n        errors.append(f"Star classification disagrees with growth chart for {m['name']}: {m['star_level']} vs {stats['stars']}")\n    for key in ("weight","xp_to_level_10","average_growth","resistance_average"):
+    if m.get("star_level") is not None and stats["stars"]!=m["star_level"]:
+        errors.append(f"Star classification disagrees with growth chart for {m['name']}: {m['star_level']} vs {stats['stars']}")
+    for key in ("weight","xp_to_level_10","average_growth","resistance_average"):
         if key not in stats:errors.append(f"Missing {key} for {m['name']}")
 # A recipe's optional heart2 is only valid if a documented wildcard is present.
 for index,r in enumerate(reform["recipes"]):
