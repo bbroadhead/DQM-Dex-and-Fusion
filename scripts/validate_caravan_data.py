@@ -29,6 +29,17 @@ for index,r in enumerate(reform["recipes"]):
         if r.get(field) not in ids:errors.append(f"Recipe {index} invalid {field}: {r.get(field)}")
     if r.get("heart2") is not None and r["heart2"] not in ids:errors.append(f"Recipe {index} invalid heart2")
     if r.get("minimum_plus",0)<0:errors.append(f"Recipe {index} negative plus")
+if len(details)!=221:errors.append(f"Expected 221 roster entries, found {len(details)}")
+obtainable=[m for m in details if m.get("obtainable") is not False]
+unobtainable=[m for m in details if m.get("obtainable") is False]
+if len(obtainable)!=200 or len(unobtainable)!=21:
+    errors.append(f"Unexpected obtainable/unobtainable counts: {len(obtainable)}/{len(unobtainable)}")
+for m in obtainable:
+    if m.get("family") not in families:
+        errors.append(f"Missing or invalid family for obtainable monster {m['name']}")
+for m in unobtainable:
+    if m.get("reform_eligibility")!="unobtainable":
+        errors.append(f"Unobtainable monster has Reform eligibility: {m['name']}")
 for m in details:
     stats=m.get("stats")
     if not stats:continue
