@@ -66,7 +66,7 @@ const games=[
 {id:"darkprince",name:"The Dark Prince",year:2023,platform:"Switch / PC",group:"Modern"},
 {id:"witheredworld",name:"The Withered World",year:2026,platform:"Switch 2 / Switch / PS5 / Xbox / PC",group:"Modern"}];
 let selected=games[0].id,tab="roster",monsters=[],recipes=[],mode="DQM1",fusionMode="explore",focusMonster="",partnerMonster="",targetMonster="",treeChoices={},expandedTree={},openFamilies={};
-const importedGames={dwm:"dwm1gbc",dwm2:"dwm2gbc",caravan:"dqm3gba"};
+const importedGames={dwm:"dwm1gbc",dwm2:"dwm2gbc",dqm12:"dqm12ps1",caravan:"dqm3gba"};
 const logoManifest="assets/branding/manifest.json";let branding={games:{},families:{}};let caravanReform={recipes:[]};let caravanGeneral={stars:{}};
 async function loadBranding(){try{const r=await fetch(logoManifest);if(r.ok)branding=await r.json()}catch(e){}render()}
 function imageMarkup(src,cls,alt){return src?'<img class="'+cls+'" src="'+escapeHTML(src)+'" alt="'+escapeHTML(alt)+'" loading="lazy" onerror="this.hidden=true">':''}
