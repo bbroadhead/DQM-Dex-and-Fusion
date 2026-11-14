@@ -24,6 +24,8 @@ jobs:
           if-no-files-found: warn
       - name: Validate imported PS1 roster and images
         run: python scripts/validate_dqm12ps1.py
+      - name: Generate PS1 breeding research comparison (not verified recipes)
+        run: python scripts/research_dqm12ps1_breeding.py
       - name: Commit imported data and artwork
         run: |
           git config user.name "github-actions[bot]"
