@@ -54,7 +54,7 @@ def main():
     parser.add_argument("--family", action="append", choices=FAMILIES)
     args = parser.parse_args()
     results = []
-    for family in args.family or FAMILIES:
+    for family in args.family or ("slime", "dragon"):
         url = BASE + "haigou_rare5_" + family + ".html"
         try:
             with urlopen(Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=20) as response:
