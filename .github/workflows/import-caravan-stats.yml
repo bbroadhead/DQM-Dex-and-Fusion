@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Import and validate stat records
-        run: python scripts/import_caravan_stats.py
+        run: python scripts/import_caravan_stats.py --source-file data/monster-faq.txt\n      - name: Validate imported data\n        run: python scripts/validate_caravan_data.py
       - name: Commit validated metadata
         run: |
           git config user.name "github-actions[bot]"
