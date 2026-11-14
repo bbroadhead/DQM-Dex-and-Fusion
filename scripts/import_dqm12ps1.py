@@ -35,7 +35,11 @@ class Parser(HTMLParser):
 
 def main():
     page=BASE+"monsters.php"
-    parser=Parser();parser.feed(get(page).decode("utf-8","replace"))
+    raw=get(page);page_html=raw.decode("utf-8","replace")
+    parser=Parser();parser.feed(page_html)
+    print(f"Source diagnostics: HTTP response {len(raw)} bytes; {len(parser.rows)} table rows; {page_html.lower().count(chr(60)+chr(116)+chr(114))} <tr tags; first rows: {parser.rows[:3]}",flush=True)
+    if not parser.rows:
+        print("HTML sample:",repr(page_html[:1800]),flush=True)
     records=[];images={};seen=set()
     for cells,img,links in parser.rows:
         # The roster page exposes names as table text; detail links are optional.
