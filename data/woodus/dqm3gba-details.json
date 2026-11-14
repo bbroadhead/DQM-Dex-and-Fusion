@@ -567,7 +567,48 @@
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/divinegon.webp",
       "metadata_status": "pending_verification",
       "star_level": 6,
-      "star_class": "normal"
+      "star_class": "normal",
+      "stats": {
+        "stars": 6,
+        "weight": 6,
+        "xp_to_level_10": 15823,
+        "growth": {
+          "hp": {
+            "level_2": 4,
+            "level_1_to_99": 651
+          },
+          "mp": {
+            "level_2": 10,
+            "level_1_to_99": 999
+          },
+          "attack": {
+            "level_2": 13,
+            "level_1_to_99": 593
+          },
+          "defense": {
+            "level_2": 14,
+            "level_1_to_99": 999
+          },
+          "speed": {
+            "level_2": 1,
+            "level_1_to_99": 267
+          },
+          "wisdom": {
+            "level_2": 5,
+            "level_1_to_99": 894
+          }
+        },
+        "average_growth": {
+          "level_2": 7,
+          "level_1_to_99": 793
+        },
+        "resistance_average": {
+          "direct_damage": 4,
+          "status": 3
+        },
+        "special_reform_only": true,
+        "source": "Slartifer Monster FAQ v1.0, Monster Stats Chart (6 Stars), user supplied"
+      }
     },
     {
       "id": "dqm3gba:domedy",
@@ -647,7 +688,48 @@
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mechadragon.webp",
       "metadata_status": "pending_verification",
       "star_level": 6,
-      "star_class": "normal"
+      "star_class": "normal",
+      "stats": {
+        "stars": 6,
+        "weight": 6,
+        "xp_to_level_10": 15560,
+        "growth": {
+          "hp": {
+            "level_2": 10,
+            "level_1_to_99": 999
+          },
+          "mp": {
+            "level_2": 2,
+            "level_1_to_99": 505
+          },
+          "attack": {
+            "level_2": 18,
+            "level_1_to_99": 999
+          },
+          "defense": {
+            "level_2": 5,
+            "level_1_to_99": 902
+          },
+          "speed": {
+            "level_2": 13,
+            "level_1_to_99": 593
+          },
+          "wisdom": {
+            "level_2": 5,
+            "level_1_to_99": 902
+          }
+        },
+        "average_growth": {
+          "level_2": 8,
+          "level_1_to_99": 876
+        },
+        "resistance_average": {
+          "direct_damage": 2,
+          "status": 4
+        },
+        "special_reform_only": true,
+        "source": "Slartifer Monster FAQ v1.0, Monster Stats Chart (6 Stars), user supplied"
+      }
     },
     {
       "id": "dqm3gba:dreen",
@@ -943,7 +1025,48 @@
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granslime.webp",
       "metadata_status": "pending_verification",
       "star_level": 6,
-      "star_class": "normal"
+      "star_class": "normal",
+      "stats": {
+        "stars": 6,
+        "weight": 6,
+        "xp_to_level_10": 14899,
+        "growth": {
+          "hp": {
+            "level_2": 10,
+            "level_1_to_99": 999
+          },
+          "mp": {
+            "level_2": 7,
+            "level_1_to_99": 546
+          },
+          "attack": {
+            "level_2": 18,
+            "level_1_to_99": 999
+          },
+          "defense": {
+            "level_2": 3,
+            "level_1_to_99": 119
+          },
+          "speed": {
+            "level_2": 4,
+            "level_1_to_99": 494
+          },
+          "wisdom": {
+            "level_2": 14,
+            "level_1_to_99": 999
+          }
+        },
+        "average_growth": {
+          "level_2": 9,
+          "level_1_to_99": 752
+        },
+        "resistance_average": {
+          "direct_damage": 4,
+          "status": 4
+        },
+        "special_reform_only": true,
+        "source": "Slartifer Monster FAQ v1.0, Monster Stats Chart (6 Stars), user supplied"
+      }
     },
     {
       "id": "dqm3gba:grand-satan",
@@ -1107,7 +1230,48 @@
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/infergon.webp",
       "metadata_status": "pending_verification",
       "star_level": 6,
-      "star_class": "normal"
+      "star_class": "normal",
+      "stats": {
+        "stars": 6,
+        "weight": 6,
+        "xp_to_level_10": 13814,
+        "growth": {
+          "hp": {
+            "level_2": 14,
+            "level_1_to_99": 999
+          },
+          "mp": {
+            "level_2": 3,
+            "level_1_to_99": 575
+          },
+          "attack": {
+            "level_2": 14,
+            "level_1_to_99": 999
+          },
+          "defense": {
+            "level_2": 5,
+            "level_1_to_99": 594
+          },
+          "speed": {
+            "level_2": 2,
+            "level_1_to_99": 260
+          },
+          "wisdom": {
+            "level_2": 3,
+            "level_1_to_99": 575
+          }
+        },
+        "average_growth": {
+          "level_2": 6,
+          "level_1_to_99": 667
+        },
+        "resistance_average": {
+          "direct_damage": 2,
+          "status": 3
+        },
+        "special_reform_only": true,
+        "source": "Slartifer Monster FAQ v1.0, Monster Stats Chart (6 Stars), user supplied"
+      }
     },
     {
       "id": "dqm3gba:iron-hawk",
@@ -1533,7 +1697,48 @@
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/knightlich.webp",
       "metadata_status": "pending_verification",
       "star_level": 6,
-      "star_class": "normal"
+      "star_class": "normal",
+      "stats": {
+        "stars": 6,
+        "weight": 5,
+        "xp_to_level_10": 15292,
+        "growth": {
+          "hp": {
+            "level_2": 10,
+            "level_1_to_99": 999
+          },
+          "mp": {
+            "level_2": 13,
+            "level_1_to_99": 593
+          },
+          "attack": {
+            "level_2": 14,
+            "level_1_to_99": 999
+          },
+          "defense": {
+            "level_2": 4,
+            "level_1_to_99": 794
+          },
+          "speed": {
+            "level_2": 3,
+            "level_1_to_99": 575
+          },
+          "wisdom": {
+            "level_2": 4,
+            "level_1_to_99": 651
+          }
+        },
+        "average_growth": {
+          "level_2": 8,
+          "level_1_to_99": 828
+        },
+        "resistance_average": {
+          "direct_damage": 3,
+          "status": 3
+        },
+        "special_reform_only": true,
+        "source": "Slartifer Monster FAQ v1.0, Monster Stats Chart (6 Stars), user supplied"
+      }
     },
     {
       "id": "dqm3gba:nocto-king",
@@ -1781,7 +1986,48 @@
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/scarabeetle.webp",
       "metadata_status": "pending_verification",
       "star_level": 6,
-      "star_class": "normal"
+      "star_class": "normal",
+      "stats": {
+        "stars": 6,
+        "weight": 6,
+        "xp_to_level_10": 13410,
+        "growth": {
+          "hp": {
+            "level_2": 10,
+            "level_1_to_99": 999
+          },
+          "mp": {
+            "level_2": 3,
+            "level_1_to_99": 575
+          },
+          "attack": {
+            "level_2": 13,
+            "level_1_to_99": 593
+          },
+          "defense": {
+            "level_2": 6,
+            "level_1_to_99": 492
+          },
+          "speed": {
+            "level_2": 2,
+            "level_1_to_99": 505
+          },
+          "wisdom": {
+            "level_2": 2,
+            "level_1_to_99": 505
+          }
+        },
+        "average_growth": {
+          "level_2": 6,
+          "level_1_to_99": 671
+        },
+        "resistance_average": {
+          "direct_damage": 2,
+          "status": 4
+        },
+        "special_reform_only": true,
+        "source": "Slartifer Monster FAQ v1.0, Monster Stats Chart (6 Stars), user supplied"
+      }
     },
     {
       "id": "dqm3gba:shadow",
