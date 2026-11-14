@@ -1,0 +1,314 @@
+{
+  "source": "Slartifer Monster FAQ §1.2; inferred from dominant-family columns",
+  "family_classified": 154,
+  "conflicting": [
+    {
+      "id": "dqm3gba:armorpede",
+      "name": "Armorpede",
+      "candidates": [
+        "Material",
+        "Nature"
+      ]
+    },
+    {
+      "id": "dqm3gba:ghostar-fish",
+      "name": "Ghostar Fish",
+      "candidates": [
+        "Nature",
+        "Animal"
+      ]
+    },
+    {
+      "id": "dqm3gba:grand-shark",
+      "name": "Grand Shark",
+      "candidates": [
+        "Demon",
+        "Animal",
+        "Material"
+      ]
+    },
+    {
+      "id": "dqm3gba:snapper",
+      "name": "Snapper",
+      "candidates": [
+        "Beast",
+        "Nature"
+      ]
+    },
+    {
+      "id": "dqm3gba:tonguella",
+      "name": "Tonguella",
+      "candidates": [
+        "Animal",
+        "Nature"
+      ]
+    },
+    {
+      "id": "dqm3gba:trumpeter",
+      "name": "Trumpeter",
+      "candidates": [
+        "Animal",
+        "Nature"
+      ]
+    },
+    {
+      "id": "dqm3gba:unicorn",
+      "name": "Unicorn",
+      "candidates": [
+        "Nature",
+        "Animal"
+      ]
+    }
+  ],
+  "unclassified": [
+    {
+      "id": "dqm3gba:arc-belial",
+      "name": "Arc Belial"
+    },
+    {
+      "id": "dqm3gba:baraxe",
+      "name": "Baraxe"
+    },
+    {
+      "id": "dqm3gba:barbaru",
+      "name": "Barbaru"
+    },
+    {
+      "id": "dqm3gba:barblade",
+      "name": "Barblade"
+    },
+    {
+      "id": "dqm3gba:belzebub",
+      "name": "Belzebub"
+    },
+    {
+      "id": "dqm3gba:big-mommonja",
+      "name": "Big Mommonja"
+    },
+    {
+      "id": "dqm3gba:celestial-beast",
+      "name": "Celestial Beast"
+    },
+    {
+      "id": "dqm3gba:dark-flame",
+      "name": "Dark Flame"
+    },
+    {
+      "id": "dqm3gba:dark-spirit",
+      "name": "Dark Spirit"
+    },
+    {
+      "id": "dqm3gba:darth-dragon",
+      "name": "Darth Dragon"
+    },
+    {
+      "id": "dqm3gba:death-blizzard",
+      "name": "Death Blizzard"
+    },
+    {
+      "id": "dqm3gba:divinegon",
+      "name": "Divinegon"
+    },
+    {
+      "id": "dqm3gba:domedy",
+      "name": "Domedy"
+    },
+    {
+      "id": "dqm3gba:dragon-lord",
+      "name": "Dragon Lord"
+    },
+    {
+      "id": "dqm3gba:drakmachine",
+      "name": "DrakMachine"
+    },
+    {
+      "id": "dqm3gba:durran",
+      "name": "Durran"
+    },
+    {
+      "id": "dqm3gba:earth-spirit",
+      "name": "Earth Spirit"
+    },
+    {
+      "id": "dqm3gba:fire-mister",
+      "name": "Fire Mister"
+    },
+    {
+      "id": "dqm3gba:fire-spirit",
+      "name": "Fire Spirit"
+    },
+    {
+      "id": "dqm3gba:giga-atlus",
+      "name": "Giga Atlus"
+    },
+    {
+      "id": "dqm3gba:gisvarg",
+      "name": "Gisvarg"
+    },
+    {
+      "id": "dqm3gba:gold-slime",
+      "name": "Gold Slime"
+    },
+    {
+      "id": "dqm3gba:gophecada",
+      "name": "Gophecada"
+    },
+    {
+      "id": "dqm3gba:gran-slime",
+      "name": "Gran Slime"
+    },
+    {
+      "id": "dqm3gba:hammer-man",
+      "name": "Hammer Man"
+    },
+    {
+      "id": "dqm3gba:healmore-moon",
+      "name": "Healmore Moon"
+    },
+    {
+      "id": "dqm3gba:illusion-axe",
+      "name": "Illusion Axe"
+    },
+    {
+      "id": "dqm3gba:illusion-blade",
+      "name": "Illusion Blade"
+    },
+    {
+      "id": "dqm3gba:infergon",
+      "name": "Infergon"
+    },
+    {
+      "id": "dqm3gba:jenodark",
+      "name": "Jenodark"
+    },
+    {
+      "id": "dqm3gba:kakalon",
+      "name": "Kakalon"
+    },
+    {
+      "id": "dqm3gba:kakalon-food",
+      "name": "Kakalon Food"
+    },
+    {
+      "id": "dqm3gba:king-slime",
+      "name": "King Slime"
+    },
+    {
+      "id": "dqm3gba:kith-dragon",
+      "name": "Kith Dragon"
+    },
+    {
+      "id": "dqm3gba:kushalami",
+      "name": "Kushalami"
+    },
+    {
+      "id": "dqm3gba:kushalami-pal",
+      "name": "Kushalami Pal"
+    },
+    {
+      "id": "dqm3gba:light-spirit",
+      "name": "Light Spirit"
+    },
+    {
+      "id": "dqm3gba:londarkian-hero",
+      "name": "Londarkian Hero"
+    },
+    {
+      "id": "dqm3gba:londarkian-mage",
+      "name": "Londarkian Mage"
+    },
+    {
+      "id": "dqm3gba:mad-cat",
+      "name": "Mad Cat"
+    },
+    {
+      "id": "dqm3gba:magarugi",
+      "name": "Magarugi"
+    },
+    {
+      "id": "dqm3gba:magarugi-2nd-form",
+      "name": "Magarugi (2nd Form)"
+    },
+    {
+      "id": "dqm3gba:master-dragon",
+      "name": "Master Dragon"
+    },
+    {
+      "id": "dqm3gba:metal-king",
+      "name": "Metal King"
+    },
+    {
+      "id": "dqm3gba:night-lich",
+      "name": "Night Lich"
+    },
+    {
+      "id": "dqm3gba:one-horn",
+      "name": "One Horn"
+    },
+    {
+      "id": "dqm3gba:phoenix",
+      "name": "Phoenix"
+    },
+    {
+      "id": "dqm3gba:roboster-2",
+      "name": "Roboster 2"
+    },
+    {
+      "id": "dqm3gba:rogue-knight",
+      "name": "Rogue Knight"
+    },
+    {
+      "id": "dqm3gba:scarabator",
+      "name": "Scarabator"
+    },
+    {
+      "id": "dqm3gba:silent-sheep",
+      "name": "Silent Sheep"
+    },
+    {
+      "id": "dqm3gba:silver-pazuzu",
+      "name": "Silver Pazuzu"
+    },
+    {
+      "id": "dqm3gba:skeletor",
+      "name": "Skeletor"
+    },
+    {
+      "id": "dqm3gba:toadstool",
+      "name": "Toadstool"
+    },
+    {
+      "id": "dqm3gba:wander-monk",
+      "name": "Wander Monk"
+    },
+    {
+      "id": "dqm3gba:warubou",
+      "name": "Warubou"
+    },
+    {
+      "id": "dqm3gba:watabou",
+      "name": "Watabou"
+    },
+    {
+      "id": "dqm3gba:water-spirit",
+      "name": "Water Spirit"
+    },
+    {
+      "id": "dqm3gba:white-king",
+      "name": "White King"
+    },
+    {
+      "id": "dqm3gba:wind-spirit",
+      "name": "Wind Spirit"
+    }
+  ],
+  "unresolved_general_cells": [
+    {
+      "star": 4,
+      "influencing": "Animal",
+      "dominant": "Nature",
+      "source_name": "Star Fish"
+    }
+  ],
+  "notes": "Families inferred from unique chart columns, not independently verified game metadata. Conflicts remain unset."
+}
