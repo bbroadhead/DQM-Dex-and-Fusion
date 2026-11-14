@@ -105,7 +105,8 @@ function renderCaravanReform(){
    const table=tables[chartSelect.value]||{};
    chartOutput.innerHTML='<table><thead><tr><th>Influencing / Dominant</th>'+familyNames.map(n=>'<th>'+n+'</th>').join('')+'</tr></thead><tbody>'+familyNames.map(influence=>'<tr><th>'+escapeHTML(influence)+'</th>'+familyNames.map(dominant=>{
     const m=byId(table[influence]?.[dominant]);
-    return '<td>'+(m?escapeHTML(m.name):'<span class="muted">Unresolved</span>')+'</td>';
+    const unresolved=(caravanGeneral.unmatched||[]).find(x=>x.star===Number(chartSelect.value)&&x.influencing===influence&&x.dominant===dominant);
+    return '<td>'+(m?escapeHTML(m.name):unresolved?'<span class="muted" title="Source chart entry has no verified roster match">Unresolved: '+escapeHTML(unresolved.source_name)+'</span>':'<span class="muted">Unresolved</span>')+'</td>';
    }).join('')+'</tr>').join('')+'</tbody></table>';
   };
   chartSelect.addEventListener("change",drawChart);drawChart();
