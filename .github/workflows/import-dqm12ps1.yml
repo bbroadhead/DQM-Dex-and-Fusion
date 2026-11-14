@@ -11,6 +11,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Verify PS1 roster parser
+        run: python scripts/test_dqm12ps1_import.py
       - name: Import PS1 roster and PS1-specific artwork
         run: python scripts/import_dqm12ps1.py
       - name: Upload source diagnostics on failure
