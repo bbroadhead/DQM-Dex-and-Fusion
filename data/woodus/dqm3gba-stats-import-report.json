@@ -1,0 +1,39 @@
+{
+  "game": "dqm3gba",
+  "source_file": "data/monster-faq.txt",
+  "parsed_stat_names": 200,
+  "matched_roster": 200,
+  "roster_total": 221,
+  "unmatched": [
+    "Arc Belial",
+    "Baraxe",
+    "Barblade",
+    "Dark Flame",
+    "Darth Dragon",
+    "Death Blizzard",
+    "Fire Mister",
+    "Giga Atlus",
+    "Healmore Moon",
+    "Illusion Axe",
+    "Illusion Blade",
+    "Kakalon Food",
+    "Kith Dragon",
+    "Kushalami Pal",
+    "Londarkian Hero",
+    "Londarkian Mage",
+    "Magarugi",
+    "Magarugi (2nd Form)",
+    "One Horn",
+    "Silent Sheep",
+    "Silver Pazuzu"
+  ],
+  "general_reform_unresolved": [
+    {
+      "star": 4,
+      "influencing": "Animal",
+      "dominant": "Nature",
+      "source_name": "Star Fish"
+    }
+  ],
+  "notes": "Stat values extracted from user-uploaded FAQ; family metadata remains unverified."
+}
