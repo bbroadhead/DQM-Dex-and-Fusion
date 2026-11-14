@@ -153,7 +153,7 @@ function renderCaravanReform(){
    const resultMonster=byId(resultId);
    const chartUnresolved=(caravanGeneral.unmatched||[]).find(x=>x.star===resultStars&&x.influencing===influencing&&x.dominant===dominant);
    familyExplanation='<p><strong>General reform families:</strong> Dominant '+escapeHTML(dominant)+'; influencing '+escapeHTML(influencing)+'.</p>'+(resultMonster?'<p><strong>General chart result: '+name(resultMonster)+'</strong> ('+resultStars+' stars)</p>'+card(resultMonster):(chartUnresolved?'<p class="muted">The source chart lists '+escapeHTML(chartUnresolved.source_name)+' here, but this name has not been matched to a verified roster entry.</p>':'<p class="muted">General chart result unavailable: missing verified chart entry or star classification.</p>'))+'<p class="muted">Special recipes and identical hearts take priority over general outcomes.</p>';
-  }else familyExplanation='<p class="muted">General family calculation unavailable: monster families are not yet validated.</p>';
+  }else familyExplanation='<p class="muted">General family calculation unavailable: one or more family classifications are missing.</p>';
   // A wildcard heart is only valid when its family is known and matches.
   const matchesHeart=(r,first,second)=>{
    if(r.heart1!==first.id)return false;
@@ -175,7 +175,7 @@ function renderCaravanReform(){
    outcome='<p><strong>Double-heart result: '+name(a)+'</strong></p>'+card(a)+
     '<p class="muted">Per Slartifer FAQ §1.1, identical monster hearts return that species unless a special case overrides it. Player/human-heart exceptions are not modeled.</p>';
   }else{
-   outcome='<p class="muted">No matching documented special recipe. General-chart outcomes below are calculated from inferred family data, not independently verified combinations.</p>'+familyExplanation;
+   outcome='<p class="muted">No matching documented special recipe. General-chart outcomes below are calculated from the community bestiary's family classifications and the FAQ tables; individual combinations have not been independently gameplay-tested.</p>'+familyExplanation;
   }
   out.innerHTML=intro+outcome;
  };
