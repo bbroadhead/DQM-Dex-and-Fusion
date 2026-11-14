@@ -1,0 +1,24 @@
+name: Import DQM 1+2 PS1 monsters and sprites
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import PS1 roster and PS1-specific artwork
+        run: python scripts/import_dqm12ps1.py
+      - name: Commit imported data and artwork
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/woodus/dqm12ps1-*.json assets/monsters/dqm12ps1/
+          if ! git diff --cached --quiet; then
+            git commit -m "Import PS1 DQM 1+2 monster data and images"
+            git push
+          fi
