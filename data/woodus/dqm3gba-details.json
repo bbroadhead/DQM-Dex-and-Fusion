@@ -7,7 +7,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250797&mname=Ag Devil",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:almiraj",
@@ -15,7 +17,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250799&mname=Almiraj",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/almiraj.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:alue",
@@ -23,7 +27,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250939&mname=Alue",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aruu.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:andreal",
@@ -31,7 +37,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250845&mname=Andreal",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/andreal.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:aqua-slime",
@@ -39,7 +47,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250928&mname=Aqua Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aquaslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:arc-belial",
@@ -55,7 +65,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250798&mname=Arch Demon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:armorpede",
@@ -63,7 +75,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250783&mname=Armorpede",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpede.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:armorpion",
@@ -71,7 +85,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250832&mname=Armorpion",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpion.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:army-crab",
@@ -79,7 +95,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250801&mname=Army Crab",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armycrab.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:baby-panther",
@@ -87,7 +105,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250851&mname=Baby Panther",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babypanther.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:baraxe",
@@ -103,7 +123,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250980&mname=Barbaru",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/barubaru.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:barblade",
@@ -119,7 +141,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250876&mname=Battle Rex",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/battlerex.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:belzebub",
@@ -127,7 +151,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250834&mname=Belzebub",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/beelzebug.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:berserker",
@@ -135,7 +161,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250794&mname=Berserker",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/berserker.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:big-eye",
@@ -143,7 +171,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250856&mname=Big Eye",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigeye.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:big-mommonja",
@@ -151,7 +181,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250942&mname=Big Mommonja",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigmommonja.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:big-scorpion",
@@ -159,7 +191,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250770&mname=Big Scorpion",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantscorpion.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:blizzard",
@@ -167,7 +201,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250790&mname=Blizzard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:blizzardy",
@@ -175,7 +211,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250864&mname=Blizzardy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzardy.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:bomb-crag",
@@ -183,7 +221,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250819&mname=Bomb Crag",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bombcrag.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:boohbah",
@@ -191,7 +231,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250950&mname=Boohbah",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/boobaa.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:boss-troll",
@@ -199,7 +241,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250820&mname=Boss Troll",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bosstroll.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:bubble-king",
@@ -207,7 +251,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250933&mname=Bubble King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babbleking.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:bubble-slime",
@@ -215,7 +261,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250781&mname=Bubble Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babble.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:bull-bird",
@@ -223,7 +271,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250830&mname=Bull Bird",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bullbird.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:cacti-ball",
@@ -231,7 +281,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250854&mname=Cacti Ball",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cactiball.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:cat-mage",
@@ -239,7 +291,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250893&mname=Cat Mage",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/catmage.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:celestial-beast",
@@ -247,7 +301,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250982&mname=Celestial Beast",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/heaven_monster.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:cergainas",
@@ -255,7 +311,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250865&mname=Cergainas",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkgolem.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:chain-djinn",
@@ -263,7 +321,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250971&mname=Chain Djinn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaingolem.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:chaos-drake",
@@ -271,7 +331,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250951&mname=Chaos Drake",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaosdrak.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:chestnut-man",
@@ -279,7 +341,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250955&mname=Chestnut Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chestnutman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:clay-man",
@@ -287,7 +351,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250857&mname=Clay Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mudman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:cloud-king",
@@ -295,7 +361,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250899&mname=Cloud King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cloudking.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:confetti",
@@ -303,7 +371,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250930&mname=Confetti",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/conpeito.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:crystal-slime",
@@ -311,7 +381,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250934&mname=Crystal Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/crystalslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dance-vegi",
@@ -319,7 +391,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250867&mname=Dance Vegi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/danceveggie.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dark-crystal",
@@ -327,7 +401,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250966&mname=Dark Crystal",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkcrystal.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dark-flame",
@@ -343,7 +419,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250869&mname=Dark Horn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dark-slime",
@@ -351,7 +429,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250905&mname=Dark Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dark-spirit",
@@ -359,7 +439,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250977&mname=Dark Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_darkness.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:darkking",
@@ -367,7 +449,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250921&mname=DarkKing",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkking.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:darkknight",
@@ -375,7 +459,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250922&mname=DarkKnight",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkknight.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:darth-dragon",
@@ -391,7 +477,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250969&mname=Dead Father",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ghostcoffin.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dead-knight",
@@ -399,7 +487,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250772&mname=Dead Knight",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadknight.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dead-masker",
@@ -407,7 +497,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250964&mname=Dead Masker",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathmasker.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:death-blizzard",
@@ -423,7 +515,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250780&mname=Death God",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/reaper.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:death-sizer",
@@ -431,7 +525,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250960&mname=Death Sizer",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathscyther.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:demighoul-m-ch",
@@ -439,7 +535,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250828&mname=Demighoul (M-CH)",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/earthfiend.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:demon-monk",
@@ -447,7 +545,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250891&mname=Demon Monk",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/devilpriest.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:demonite",
@@ -455,7 +555,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250810&mname=Demonite",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:divinegon",
@@ -463,7 +565,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250883&mname=Divinegon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/divinegon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 6,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:domedy",
@@ -471,7 +575,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250981&mname=Domedy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/domedi.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:dradon",
@@ -479,7 +585,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250948&mname=Dradon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pudgydragon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dragon",
@@ -487,7 +595,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250775&mname=Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dragon-kid",
@@ -495,7 +605,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250850&mname=Dragon Kid",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonkid.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dragon-lord",
@@ -503,7 +615,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250778&mname=Dragon Lord",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon_lord.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:dragon-rider",
@@ -511,7 +625,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250842&mname=Dragon Rider",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonrider.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:drakee",
@@ -519,7 +635,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250768&mname=Drakee",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dracky.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:drakmachine",
@@ -527,7 +645,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250967&mname=DrakMachine",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mechadragon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 6,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:dreen",
@@ -535,7 +655,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250940&mname=Dreen",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/doriin.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:droll",
@@ -543,7 +665,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250771&mname=Droll",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/droll.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:drollerium",
@@ -551,7 +675,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250958&mname=Drollerium",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/drollrium.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:durran",
@@ -559,7 +685,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250882&mname=Durran",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/durran.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:earth-spirit",
@@ -567,7 +695,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250972&mname=Earth Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_earth.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:eggplaton",
@@ -575,7 +705,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250892&mname=Eggplaton",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:evil-armor",
@@ -583,7 +715,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250872&mname=Evil Armor",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:face-tree",
@@ -591,7 +725,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250788&mname=Face Tree",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facetree.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:fire-mister",
@@ -607,7 +743,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250974&mname=Fire Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_fire.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:flame",
@@ -615,7 +753,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250789&mname=Flame",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:florajay",
@@ -623,7 +763,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250885&mname=Florajay",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/florajay.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:flower-beat",
@@ -631,7 +773,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250953&mname=Flower Beat",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flowerbeat.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gargoyle",
@@ -639,7 +783,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250792&mname=Gargoyle",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gargoyle.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gateguard",
@@ -647,7 +793,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250839&mname=Gateguard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gateguard.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:ghostar-fish",
@@ -655,7 +803,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250894&mname=Ghostar Fish",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/starfish.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:giant-slug",
@@ -663,7 +813,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250779&mname=Giant Slug",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantslug.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:giant-worm",
@@ -671,7 +823,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250824&mname=Giant Worm",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantworm.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:giga-atlus",
@@ -687,7 +841,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250901&mname=Giga Draco",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigadraco.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gigantes",
@@ -695,7 +851,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250796&mname=Gigantes",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gisvarg",
@@ -703,7 +861,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250984&mname=Gisvarg",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gisuwagu.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:gizmo",
@@ -711,7 +871,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250802&mname=Gizmo",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gizmo.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:goategon",
@@ -719,7 +881,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250808&mname=Goategon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goategon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gold-slime",
@@ -727,7 +891,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250884&mname=Gold Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goldslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:golem",
@@ -735,7 +901,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250774&mname=Golem",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/golem.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:goopi",
@@ -743,7 +911,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250787&mname=Goopi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goopi.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gophecada",
@@ -751,7 +921,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250848&mname=Gophecada",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gophecada.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:grakos",
@@ -759,7 +931,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250877&mname=Grakos",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grakos.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gran-slime",
@@ -767,7 +941,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250904&mname=Gran Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 6,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:grand-satan",
@@ -775,7 +951,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250970&mname=Grand Satan",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granddevil.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:grand-shark",
@@ -783,7 +961,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250946&mname=Grand Shark",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/landshark.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:great-dragon",
@@ -791,7 +971,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250866&mname=Great Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatdrak.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:grizzly",
@@ -799,7 +981,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250815&mname=Grizzly",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grizzly.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gryphynx",
@@ -807,7 +991,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250965&mname=Gryphynx",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/griffinx.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:gulp-beast",
@@ -815,7 +1001,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250879&mname=Gulp Beast",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gulpbeast.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:halo-slime",
@@ -823,7 +1011,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250903&mname=Halo Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/haloslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:hammer-man",
@@ -831,7 +1021,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250849&mname=Hammer Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hammerman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:healer",
@@ -839,7 +1031,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250784&mname=Healer",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:healmore-moon",
@@ -855,7 +1049,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250846&mname=High Wizard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatmage.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:hork",
@@ -863,7 +1059,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250791&mname=Hork",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hork.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:ice-djinn",
@@ -871,7 +1069,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250817&mname=Ice Djinn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iceman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:iiro",
@@ -879,7 +1079,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250937&mname=Iiro",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iio.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:illusion-axe",
@@ -903,7 +1105,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250945&mname=Infergon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/infergon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 6,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:iron-hawk",
@@ -911,7 +1115,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250943&mname=Iron Hawk",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironhawk.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:iron-turtle",
@@ -919,7 +1125,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250881&mname=Iron Turtle",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironturt.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:jamirus",
@@ -927,7 +1135,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250878&mname=Jamirus",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/jamirus.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:jenodark",
@@ -935,7 +1145,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250952&mname=Jenodark",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/genodrak.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:jewel-bag",
@@ -943,7 +1155,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250807&mname=Jewel Bag",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/treasurebag.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:kakalon",
@@ -951,7 +1165,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250978&mname=Kakalon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kakaron.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:kakalon-food",
@@ -967,7 +1183,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250873&mname=Killer Wave",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguewave.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:king-leo",
@@ -975,7 +1193,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250844&mname=King Leo",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingleo.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:king-slime",
@@ -983,7 +1203,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250836&mname=King Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:king-squid",
@@ -991,7 +1213,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250814&mname=King Squid",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantsquid.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:kith-dragon",
@@ -1007,7 +1231,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250979&mname=Kushalami",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kusharami.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:kushalami-pal",
@@ -1023,7 +1249,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250874&mname=Lamp Genie",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lampgenie.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:lava-djinn",
@@ -1031,7 +1259,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250816&mname=Lava Djinn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lavaman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:light-spirit",
@@ -1039,7 +1269,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250976&mname=Light Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_light.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:lipsy",
@@ -1047,7 +1279,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250868&mname=Lipsy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lipsy.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:londarkian-hero",
@@ -1071,7 +1305,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250853&mname=Mad Candle",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcandle.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mad-cat",
@@ -1079,7 +1315,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250858&mname=Mad Cat",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madpanther.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mad-condor",
@@ -1087,7 +1325,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250809&mname=Mad Condor",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcondor.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mad-dragon",
@@ -1095,7 +1335,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250861&mname=Mad Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/maddragon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mad-gopher",
@@ -1103,7 +1345,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250825&mname=Mad Gopher",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madgopher.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mad-hornet",
@@ -1111,7 +1355,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250870&mname=Mad Hornet",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madhornet.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mad-mirror",
@@ -1119,7 +1365,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250871&mname=Mad Mirror",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madmirror.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mad-plant",
@@ -1127,7 +1375,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250852&mname=Mad Plant",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madplant.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:magarugi",
@@ -1151,7 +1401,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250907&mname=Mage Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:magma-slime",
@@ -1159,7 +1411,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250929&mname=Magma Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magmaslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:master-dragon",
@@ -1167,7 +1421,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250983&mname=Master Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/master_dragon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:master-slime",
@@ -1175,7 +1431,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250935&mname=Master Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/masterslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:merman",
@@ -1183,7 +1441,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250813&mname=Merman",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/merman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:metabble",
@@ -1191,7 +1451,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250782&mname=Metabble",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metabble.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:metal-king",
@@ -1199,7 +1461,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250837&mname=Metal King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metalking.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:metal-slime",
@@ -1207,7 +1471,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250767&mname=Metal Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metaly.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mimic",
@@ -1215,7 +1481,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250811&mname=Mimic",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mimic.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:minon",
@@ -1223,7 +1491,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250829&mname=Minon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/saccer.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mommonja",
@@ -1231,7 +1501,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250827&mname=Mommonja",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mommonja.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:mummy",
@@ -1239,7 +1511,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250786&mname=Mummy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mummy.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:muscle-kong",
@@ -1247,7 +1521,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250947&mname=Muscle Kong",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/musclekong.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:night-lich",
@@ -1255,7 +1531,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250900&mname=Night Lich",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/knightlich.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 6,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:nocto-king",
@@ -1263,7 +1541,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250843&mname=Nocto King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantbat.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:one-horn",
@@ -1279,7 +1559,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250956&mname=Onion Master",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/onionmaster.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:opabi",
@@ -1287,7 +1569,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250954&mname=Opabi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/icky.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:orc",
@@ -1295,7 +1579,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250793&mname=Orc",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orc.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:orochi",
@@ -1303,7 +1589,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250821&mname=Orochi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orochi.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:phantom-glass",
@@ -1311,7 +1599,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250961&mname=Phantom Glass",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phantomglass.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:phoenix",
@@ -1319,7 +1609,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250863&mname=Phoenix",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phoenix.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:pimo",
@@ -1327,7 +1619,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250938&mname=Pimo",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pimo.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:pod-hero",
@@ -1335,7 +1629,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250895&mname=Pod Hero",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/foohero.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:pompom-bomb",
@@ -1343,7 +1639,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250896&mname=Pompom Bomb",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pompombomb.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:proto-mech",
@@ -1351,7 +1649,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250898&mname=Proto Mech",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/protokiller.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:pumpk-night",
@@ -1359,7 +1659,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250957&mname=Pumpk'night",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pumpkinknight.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:puppet-man",
@@ -1367,7 +1669,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250785&mname=Puppet Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/muddoll.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:pural",
@@ -1375,7 +1679,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250941&mname=Pural",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/paararu.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:putre-pup",
@@ -1383,7 +1689,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250800&mname=Putre Pup",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/putrepup.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:rain-hawk",
@@ -1391,7 +1699,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250889&mname=Rain Hawk",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rainhawk.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:reefer",
@@ -1399,7 +1709,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250931&mname=Reefer",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/leafer.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:roboster",
@@ -1407,7 +1719,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250795&mname=Roboster",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:roboster-2",
@@ -1415,7 +1729,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250880&mname=Roboster 2",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster2.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:rogue-knight",
@@ -1423,7 +1739,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250805&mname=Rogue Knight",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rogueknight.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:rosevine",
@@ -1431,7 +1749,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250888&mname=Rosevine",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rosevine.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:rush-fish",
@@ -1439,7 +1759,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250838&mname=Rush Fish",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ramfish.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:sabre-man",
@@ -1447,7 +1769,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250835&mname=Sabre Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:scarabator",
@@ -1455,7 +1779,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250959&mname=Scarabator",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/scarabeetle.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 6,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:shadow",
@@ -1463,7 +1789,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250804&mname=Shadow",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/shadow.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:silent-sheep",
@@ -1487,7 +1815,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250818&mname=Skeletor",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skeletor.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:skullgon",
@@ -1495,7 +1825,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250823&mname=Skullgon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skullgon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:slime",
@@ -1503,7 +1835,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250766&mname=Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:slime-knight",
@@ -1511,7 +1845,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250855&mname=Slime Knight",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slimeknight.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:snaily",
@@ -1519,7 +1855,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250812&mname=Snaily",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snaily.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:snapper",
@@ -1527,7 +1865,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250831&mname=Snapper",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snapper.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:snome",
@@ -1535,7 +1875,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250932&mname=Snome",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snome.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:spiky-boy",
@@ -1543,7 +1885,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250847&mname=Spiky Boy",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spikeyboy.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:spin-slime",
@@ -1551,7 +1895,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250936&mname=Spin Slime",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spinslime.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:spooky",
@@ -1559,7 +1905,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250769&mname=Spooky",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spooky.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:stone-kid",
@@ -1567,7 +1915,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250915&mname=Stone Kid",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/statuekid.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:stone-man",
@@ -1575,7 +1925,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250822&mname=Stone Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stoneman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:stone-spider",
@@ -1583,7 +1935,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250962&mname=Stone Spider",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rockspider.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:stonehopper",
@@ -1591,7 +1945,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250897&mname=Stonehopper",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cragdevil.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:stubsuck",
@@ -1599,7 +1955,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250826&mname=Stubsuck",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stubsuck.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:swordgon",
@@ -1607,7 +1965,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250887&mname=Swordgon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/swordgon.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:toadstool",
@@ -1615,7 +1975,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250803&mname=Toadstool",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/toadstool.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:tonguella",
@@ -1623,7 +1985,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250859&mname=Tonguella",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/tonguella.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:totem-killer",
@@ -1631,7 +1995,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250841&mname=Totem Killer",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facer.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:triwinder",
@@ -1639,7 +2005,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250944&mname=Triwinder",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/triwinder.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:trumpeter",
@@ -1647,7 +2015,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250860&mname=Trumpeter",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/trumpeter.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:unicorn",
@@ -1655,7 +2025,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250875&mname=Unicorn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:vampire-rat",
@@ -1663,7 +2035,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250968&mname=Vampire Rat",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/vampirerat.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:walrus-man",
@@ -1671,7 +2045,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250840&mname=Walrus Man",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/walrusman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 4,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:wander-monk",
@@ -1679,7 +2055,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250963&mname=Wander Monk",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguemage.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:war-lizard",
@@ -1687,7 +2065,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250949&mname=War Lizard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lizardman.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:warubou",
@@ -1695,7 +2075,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250902&mname=Warubou",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/warubou.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:watabou",
@@ -1703,7 +2085,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250890&mname=Watabou",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/watabou.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:water-spirit",
@@ -1711,7 +2095,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250973&mname=Water Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_water.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:white-king",
@@ -1719,7 +2105,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250862&mname=White King",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/whiteking.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:wicked-axe",
@@ -1727,7 +2115,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250916&mname=Wicked Axe",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:wild-ape-m-ch",
@@ -1735,7 +2125,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250806&mname=Wild Ape (M-CH)",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killerape.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 3,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:wind-beast",
@@ -1743,7 +2135,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250833&mname=Wind Beast",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/windbeast.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 1,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:wind-spirit",
@@ -1751,7 +2145,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250975&mname=Wind Spirit",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_wind.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": null,
+      "star_class": "special"
     },
     {
       "id": "dqm3gba:wing-tree",
@@ -1759,7 +2155,9 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250886&mname=Wing Tree",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadtrunk.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 5,
+      "star_class": "normal"
     },
     {
       "id": "dqm3gba:wyvern",
@@ -1767,9 +2165,12 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250773&mname=Wyvern",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/wyvern.webp",
-      "metadata_status": "pending_verification"
+      "metadata_status": "pending_verification",
+      "star_level": 2,
+      "star_class": "normal"
     }
   ],
   "source": "https://www.woodus.com/den/games/dqm3gba/monsters.php",
-  "note": "Names and source URLs imported; original roster order is not an in-game number. Japanese names, families, ranks and stats are pending verification; do not infer from table positions."
+  "note": "Names and source URLs imported; original roster order is not an in-game number. Japanese names, families, ranks and stats are pending verification; do not infer from table positions.",
+  "star_level_source": "Slartifer Monster FAQ v1.0, Monster Stats Chart (user supplied), stars from first column; special category flagged separately"
 }
