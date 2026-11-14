@@ -62,8 +62,8 @@ def main():
                 page = decode(response.read())
             reader = TableReader()
             reader.feed(page)
-            if not reader.rows:
-                raise ValueError("No table rows found; inspect HTML before accepting source")
+            if not reader.rows or not any(len(row) >= 3 for row in reader.rows):
+                raise ValueError("No three-column breeding rows found; inspect HTML before accepting source")
             results.append({"family": family, "source_url": url, "status": "raw_unmapped_not_verified", "table_rows": reader.rows, "row_count": len(reader.rows)})
             print(f"{family}: {len(reader.rows)} table rows")
         except Exception as exc:
