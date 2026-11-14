@@ -97,6 +97,232 @@
       "source": "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
       "type": "special",
       "notes": "Six-star special reform."
+    },
+    {
+      "base": "dqm3gba:slime",
+      "heart1": "dqm3gba:cloud-king",
+      "heart2": null,
+      "result": "dqm3gba:king-slime",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation",
+      "notes": "Second heart: any Slime-family heart"
+    },
+    {
+      "base": "dqm3gba:metal-slime",
+      "heart1": "dqm3gba:metal-slime",
+      "heart2": "dqm3gba:metal-slime",
+      "result": "dqm3gba:metal-king",
+      "minimum_plus": 8,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:healer",
+      "heart1": "dqm3gba:cat-mage",
+      "heart2": "dqm3gba:cat-mage",
+      "result": "dqm3gba:mage-slime",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:dead-knight",
+      "heart1": "dqm3gba:dead-knight",
+      "heart2": "dqm3gba:dead-knight",
+      "result": "dqm3gba:skeletor",
+      "minimum_plus": 8,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:skeletor",
+      "heart1": "dqm3gba:skeletor",
+      "heart2": "dqm3gba:skeletor",
+      "result": "dqm3gba:white-king",
+      "minimum_plus": 8,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:proto-mech",
+      "heart1": "dqm3gba:proto-mech",
+      "heart2": "dqm3gba:proto-mech",
+      "result": "dqm3gba:roboster",
+      "minimum_plus": 4,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:roboster",
+      "heart1": "dqm3gba:roboster",
+      "heart2": "dqm3gba:roboster",
+      "result": "dqm3gba:roboster-2",
+      "minimum_plus": 8,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:crystal-slime",
+      "heart1": "dqm3gba:crystal-slime",
+      "heart2": "dqm3gba:crystal-slime",
+      "result": "dqm3gba:gold-slime",
+      "minimum_plus": 4,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:dreen",
+      "heart1": "dqm3gba:wind-spirit",
+      "heart2": "dqm3gba:cergainas",
+      "result": "dqm3gba:wind-spirit",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:iiro",
+      "heart1": "dqm3gba:earth-spirit",
+      "heart2": "dqm3gba:king-leo",
+      "result": "dqm3gba:earth-spirit",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:pimo",
+      "heart1": "dqm3gba:fire-spirit",
+      "heart2": "dqm3gba:dragon-lord",
+      "result": "dqm3gba:fire-spirit",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:alue",
+      "heart1": "dqm3gba:water-spirit",
+      "heart2": "dqm3gba:grakos",
+      "result": "dqm3gba:water-spirit",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:pural",
+      "heart1": "dqm3gba:dark-spirit",
+      "heart2": "dqm3gba:rain-hawk",
+      "result": "dqm3gba:dark-spirit",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:dark-spirit",
+      "heart1": "dqm3gba:light-spirit",
+      "heart2": "dqm3gba:gold-slime",
+      "result": "dqm3gba:light-spirit",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:water-spirit",
+      "heart1": "dqm3gba:divinegon",
+      "heart2": "dqm3gba:drollerium",
+      "result": "dqm3gba:kakalon",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:fire-spirit",
+      "heart1": "dqm3gba:infergon",
+      "heart2": "dqm3gba:jenodark",
+      "result": "dqm3gba:kushalami",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:earth-spirit",
+      "heart1": "dqm3gba:night-lich",
+      "heart2": "dqm3gba:muscle-kong",
+      "result": "dqm3gba:barbaru",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:barbaru",
+      "heart1": "dqm3gba:durran",
+      "heart2": "dqm3gba:gryphynx",
+      "result": "dqm3gba:domedy",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:dark-spirit",
+      "heart1": "dqm3gba:scarabator",
+      "heart2": "dqm3gba:roboster-2",
+      "result": "dqm3gba:durran",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:durran",
+      "heart1": "dqm3gba:divinegon",
+      "heart2": "dqm3gba:chaos-drake",
+      "result": "dqm3gba:dragon-lord",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:celestial-beast",
+      "heart1": "dqm3gba:gran-slime",
+      "heart2": "dqm3gba:gold-slime",
+      "result": "dqm3gba:watabou",
+      "minimum_plus": 50,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:durran",
+      "heart1": "dqm3gba:gran-slime",
+      "heart2": "dqm3gba:dark-slime",
+      "result": "dqm3gba:warubou",
+      "minimum_plus": 50,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:light-spirit",
+      "heart1": "dqm3gba:celestial-beast",
+      "heart2": "dqm3gba:watabou",
+      "result": "dqm3gba:celestial-beast",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:domedy",
+      "heart1": "dqm3gba:drakmachine",
+      "heart2": "dqm3gba:warubou",
+      "result": "dqm3gba:gisvarg",
+      "minimum_plus": 0,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
+    },
+    {
+      "base": "dqm3gba:celestial-beast",
+      "heart1": "dqm3gba:master-dragon",
+      "heart2": "dqm3gba:gisvarg",
+      "result": "dqm3gba:master-dragon",
+      "minimum_plus": 99,
+      "type": "special",
+      "source_note": "Slartifer Monster FAQ v1.0 (June 26, 2011), section 1.3, supplied in conversation"
     }
   ],
   "notes": "This is a mechanics schema, not a complete verified recipe table. Never show recipe results until validated source data is imported."
