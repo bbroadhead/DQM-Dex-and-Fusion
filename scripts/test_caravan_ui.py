@@ -20,6 +20,9 @@ for needle in (
     'id="showUnobtainable"',
     'const resultStars=',
     'const resultId=resultStars?',
+    'const chartUnresolved=',
+    'target.obtainable===false',
+    'Unobtainable</span>',
 ):
     if needle not in html:raise SystemExit(f"Missing Caravan UI feature: {needle}")
 block=html[html.index("function renderCaravanReform()"):html.index("function renderFusionPanel()")]
