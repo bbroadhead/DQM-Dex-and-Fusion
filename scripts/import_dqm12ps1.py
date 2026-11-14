@@ -90,6 +90,21 @@ def main():
             time.sleep(.08)
     (diagnostic/"parse-summary.json").write_text(json.dumps({"url":page,"html_bytes":len(raw),"table_rows":len(parser.rows),"parsed_monsters":len(records),"first_rows":parser.rows[:5],"first_monsters":records[:5]},ensure_ascii=False,indent=2),encoding="utf-8")
     if len(records)<200:raise RuntimeError(f"Only {len(records)} PS1 monsters found; refusing incomplete import. Parsed {len(parser.rows)} table rows. First rows: {parser.rows[:2]}")
+    # Preserve provenance: these family values are GBC cross-references, not PS1 verification.
+    family_maps=[]
+    for game in ("dwm1gbc","dwm2gbc"):
+        family_path=ROOT/"data/woodus"/(game+"-monsters.json")
+        source=json.loads(family_path.read_text(encoding="utf-8"))
+        family_maps.append((game,{m["id"].split(":",1)[-1]:m.get("family") for m in source["monsters"]}))
+    for record in records:
+        key=record["id"].split(":",1)[-1]
+        matches=[(game,lookup[key]) for game,lookup in family_maps if lookup.get(key)]
+        families={family for _,family in matches}
+        if len(families)>1:raise RuntimeError(f"Conflicting family references for {record['name']}: {matches}")
+        if families:
+            record["family"]=next(iter(families))
+            record["family_verification"]="inferred_from_corresponding_GBC_species_not_PS1_verified"
+            record["family_source_games"]=[game for game,_ in matches]
     folder=ROOT/"data/woodus";folder.mkdir(parents=True,exist_ok=True)
     (folder/"dqm12ps1-details.json").write_text(json.dumps({"game":"dqm12ps1","record_type":"PS1_collection_source_listed","source":page,"records":records},ensure_ascii=False,indent=2)+"\n")
     (folder/"dqm12ps1-image-report.json").write_text(json.dumps({"images":images,"source":page},ensure_ascii=False,indent=2)+"\n")
