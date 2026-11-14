@@ -1,0 +1,22 @@
+name: Research official PS1 breeding tables
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Extract official PS1 Slime and Dragon breeding tables
+        run: python scripts/extract_dqm12ps1_official_breeding.py
+      - name: Upload raw research data (not validated recipes)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dqm12ps1-official-breeding-raw
+          path: data/woodus/dqm12ps1-official-breeding-raw.json
+          if-no-files-found: warn
