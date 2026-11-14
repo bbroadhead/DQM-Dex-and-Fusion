@@ -335,7 +335,14 @@
       "star": 4,
       "influencing": "Animal",
       "dominant": "Nature",
-      "source_name": "Star Fish"
+      "source_name": "Star Fish",
+      "verification_status": "unresolved_conflicting_sources",
+      "notes": "Slartifer FAQ lists Star Fish in the 4-star Animal-influencing/Nature-dominant cell; Ayndin's independent reform chart lists StarFish at 1 star for Beast/Plant family pairings. The enemy list also contains Starfish, but no verified corresponding entry exists in the 200-species roster. Do not automatically alias or create a monster.",
+      "sources": [
+        "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
+        "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/22719",
+        "https://dragon-quest.org/wiki/List_of_enemies_in_Dragon_Quest_Monsters:_Caravan_Heart"
+      ]
     }
   ]
 }
