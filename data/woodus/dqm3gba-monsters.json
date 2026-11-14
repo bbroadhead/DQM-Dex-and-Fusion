@@ -1,0 +1,1331 @@
+{
+  "game": "dqm3gba",
+  "monsters": [
+    {
+      "id": "dqm3gba:ag-devil",
+      "name": "Ag Devil",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp"
+    },
+    {
+      "id": "dqm3gba:almiraj",
+      "name": "Almiraj",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/almiraj.webp"
+    },
+    {
+      "id": "dqm3gba:alue",
+      "name": "Alue",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aruu.webp"
+    },
+    {
+      "id": "dqm3gba:andreal",
+      "name": "Andreal",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/andreal.webp"
+    },
+    {
+      "id": "dqm3gba:aqua-slime",
+      "name": "Aqua Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/aquaslime.webp"
+    },
+    {
+      "id": "dqm3gba:arc-belial",
+      "name": "Arc Belial",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp"
+    },
+    {
+      "id": "dqm3gba:arch-demon",
+      "name": "Arch Demon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp"
+    },
+    {
+      "id": "dqm3gba:armorpede",
+      "name": "Armorpede",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpede.webp"
+    },
+    {
+      "id": "dqm3gba:armorpion",
+      "name": "Armorpion",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armorpion.webp"
+    },
+    {
+      "id": "dqm3gba:army-crab",
+      "name": "Army Crab",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/armycrab.webp"
+    },
+    {
+      "id": "dqm3gba:baby-panther",
+      "name": "Baby Panther",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babypanther.webp"
+    },
+    {
+      "id": "dqm3gba:baraxe",
+      "name": "Baraxe",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp"
+    },
+    {
+      "id": "dqm3gba:barbaru",
+      "name": "Barbaru",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/barubaru.webp"
+    },
+    {
+      "id": "dqm3gba:barblade",
+      "name": "Barblade",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp"
+    },
+    {
+      "id": "dqm3gba:battle-rex",
+      "name": "Battle Rex",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/battlerex.webp"
+    },
+    {
+      "id": "dqm3gba:belzebub",
+      "name": "Belzebub",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/beelzebug.webp"
+    },
+    {
+      "id": "dqm3gba:berserker",
+      "name": "Berserker",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/berserker.webp"
+    },
+    {
+      "id": "dqm3gba:big-eye",
+      "name": "Big Eye",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigeye.webp"
+    },
+    {
+      "id": "dqm3gba:big-mommonja",
+      "name": "Big Mommonja",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bigmommonja.webp"
+    },
+    {
+      "id": "dqm3gba:big-scorpion",
+      "name": "Big Scorpion",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantscorpion.webp"
+    },
+    {
+      "id": "dqm3gba:blizzard",
+      "name": "Blizzard",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp"
+    },
+    {
+      "id": "dqm3gba:blizzardy",
+      "name": "Blizzardy",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzardy.webp"
+    },
+    {
+      "id": "dqm3gba:bomb-crag",
+      "name": "Bomb Crag",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bombcrag.webp"
+    },
+    {
+      "id": "dqm3gba:boohbah",
+      "name": "Boohbah",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/boobaa.webp"
+    },
+    {
+      "id": "dqm3gba:boss-troll",
+      "name": "Boss Troll",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bosstroll.webp"
+    },
+    {
+      "id": "dqm3gba:bubble-king",
+      "name": "Bubble King",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babbleking.webp"
+    },
+    {
+      "id": "dqm3gba:bubble-slime",
+      "name": "Bubble Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/babble.webp"
+    },
+    {
+      "id": "dqm3gba:bull-bird",
+      "name": "Bull Bird",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/bullbird.webp"
+    },
+    {
+      "id": "dqm3gba:cacti-ball",
+      "name": "Cacti Ball",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cactiball.webp"
+    },
+    {
+      "id": "dqm3gba:cat-mage",
+      "name": "Cat Mage",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/catmage.webp"
+    },
+    {
+      "id": "dqm3gba:celestial-beast",
+      "name": "Celestial Beast",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/heaven_monster.webp"
+    },
+    {
+      "id": "dqm3gba:cergainas",
+      "name": "Cergainas",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkgolem.webp"
+    },
+    {
+      "id": "dqm3gba:chain-djinn",
+      "name": "Chain Djinn",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaingolem.webp"
+    },
+    {
+      "id": "dqm3gba:chaos-drake",
+      "name": "Chaos Drake",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chaosdrak.webp"
+    },
+    {
+      "id": "dqm3gba:chestnut-man",
+      "name": "Chestnut Man",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/chestnutman.webp"
+    },
+    {
+      "id": "dqm3gba:clay-man",
+      "name": "Clay Man",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mudman.webp"
+    },
+    {
+      "id": "dqm3gba:cloud-king",
+      "name": "Cloud King",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cloudking.webp"
+    },
+    {
+      "id": "dqm3gba:confetti",
+      "name": "Confetti",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/conpeito.webp"
+    },
+    {
+      "id": "dqm3gba:crystal-slime",
+      "name": "Crystal Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/crystalslime.webp"
+    },
+    {
+      "id": "dqm3gba:dance-vegi",
+      "name": "Dance Vegi",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/danceveggie.webp"
+    },
+    {
+      "id": "dqm3gba:dark-crystal",
+      "name": "Dark Crystal",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkcrystal.webp"
+    },
+    {
+      "id": "dqm3gba:dark-flame",
+      "name": "Dark Flame",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp"
+    },
+    {
+      "id": "dqm3gba:dark-horn",
+      "name": "Dark Horn",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp"
+    },
+    {
+      "id": "dqm3gba:dark-slime",
+      "name": "Dark Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkslime.webp"
+    },
+    {
+      "id": "dqm3gba:dark-spirit",
+      "name": "Dark Spirit",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_darkness.webp"
+    },
+    {
+      "id": "dqm3gba:darkking",
+      "name": "DarkKing",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkking.webp"
+    },
+    {
+      "id": "dqm3gba:darkknight",
+      "name": "DarkKnight",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkknight.webp"
+    },
+    {
+      "id": "dqm3gba:darth-dragon",
+      "name": "Darth Dragon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp"
+    },
+    {
+      "id": "dqm3gba:dead-father",
+      "name": "Dead Father",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ghostcoffin.webp"
+    },
+    {
+      "id": "dqm3gba:dead-knight",
+      "name": "Dead Knight",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadknight.webp"
+    },
+    {
+      "id": "dqm3gba:dead-masker",
+      "name": "Dead Masker",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathmasker.webp"
+    },
+    {
+      "id": "dqm3gba:death-blizzard",
+      "name": "Death Blizzard",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp"
+    },
+    {
+      "id": "dqm3gba:death-god",
+      "name": "Death God",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/reaper.webp"
+    },
+    {
+      "id": "dqm3gba:death-sizer",
+      "name": "Death Sizer",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deathscyther.webp"
+    },
+    {
+      "id": "dqm3gba:demighoul-m-ch",
+      "name": "Demighoul (M-CH)",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/earthfiend.webp"
+    },
+    {
+      "id": "dqm3gba:demon-monk",
+      "name": "Demon Monk",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/devilpriest.webp"
+    },
+    {
+      "id": "dqm3gba:demonite",
+      "name": "Demonite",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp"
+    },
+    {
+      "id": "dqm3gba:divinegon",
+      "name": "Divinegon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/divinegon.webp"
+    },
+    {
+      "id": "dqm3gba:domedy",
+      "name": "Domedy",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/domedi.webp"
+    },
+    {
+      "id": "dqm3gba:dradon",
+      "name": "Dradon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pudgydragon.webp"
+    },
+    {
+      "id": "dqm3gba:dragon",
+      "name": "Dragon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp"
+    },
+    {
+      "id": "dqm3gba:dragon-kid",
+      "name": "Dragon Kid",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonkid.webp"
+    },
+    {
+      "id": "dqm3gba:dragon-lord",
+      "name": "Dragon Lord",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon_lord.webp"
+    },
+    {
+      "id": "dqm3gba:dragon-rider",
+      "name": "Dragon Rider",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragonrider.webp"
+    },
+    {
+      "id": "dqm3gba:drakee",
+      "name": "Drakee",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dracky.webp"
+    },
+    {
+      "id": "dqm3gba:drakmachine",
+      "name": "DrakMachine",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mechadragon.webp"
+    },
+    {
+      "id": "dqm3gba:dreen",
+      "name": "Dreen",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/doriin.webp"
+    },
+    {
+      "id": "dqm3gba:droll",
+      "name": "Droll",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/droll.webp"
+    },
+    {
+      "id": "dqm3gba:drollerium",
+      "name": "Drollerium",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/drollrium.webp"
+    },
+    {
+      "id": "dqm3gba:durran",
+      "name": "Durran",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/durran.webp"
+    },
+    {
+      "id": "dqm3gba:earth-spirit",
+      "name": "Earth Spirit",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_earth.webp"
+    },
+    {
+      "id": "dqm3gba:eggplaton",
+      "name": "Eggplaton",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp"
+    },
+    {
+      "id": "dqm3gba:evil-armor",
+      "name": "Evil Armor",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp"
+    },
+    {
+      "id": "dqm3gba:face-tree",
+      "name": "Face Tree",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facetree.webp"
+    },
+    {
+      "id": "dqm3gba:fire-mister",
+      "name": "Fire Mister",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp"
+    },
+    {
+      "id": "dqm3gba:fire-spirit",
+      "name": "Fire Spirit",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_fire.webp"
+    },
+    {
+      "id": "dqm3gba:flame",
+      "name": "Flame",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp"
+    },
+    {
+      "id": "dqm3gba:florajay",
+      "name": "Florajay",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/florajay.webp"
+    },
+    {
+      "id": "dqm3gba:flower-beat",
+      "name": "Flower Beat",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flowerbeat.webp"
+    },
+    {
+      "id": "dqm3gba:gargoyle",
+      "name": "Gargoyle",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gargoyle.webp"
+    },
+    {
+      "id": "dqm3gba:gateguard",
+      "name": "Gateguard",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gateguard.webp"
+    },
+    {
+      "id": "dqm3gba:ghostar-fish",
+      "name": "Ghostar Fish",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/starfish.webp"
+    },
+    {
+      "id": "dqm3gba:giant-slug",
+      "name": "Giant Slug",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantslug.webp"
+    },
+    {
+      "id": "dqm3gba:giant-worm",
+      "name": "Giant Worm",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantworm.webp"
+    },
+    {
+      "id": "dqm3gba:giga-atlus",
+      "name": "Giga Atlus",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp"
+    },
+    {
+      "id": "dqm3gba:giga-draco",
+      "name": "Giga Draco",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigadraco.webp"
+    },
+    {
+      "id": "dqm3gba:gigantes",
+      "name": "Gigantes",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp"
+    },
+    {
+      "id": "dqm3gba:gisvarg",
+      "name": "Gisvarg",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gisuwagu.webp"
+    },
+    {
+      "id": "dqm3gba:gizmo",
+      "name": "Gizmo",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gizmo.webp"
+    },
+    {
+      "id": "dqm3gba:goategon",
+      "name": "Goategon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goategon.webp"
+    },
+    {
+      "id": "dqm3gba:gold-slime",
+      "name": "Gold Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goldslime.webp"
+    },
+    {
+      "id": "dqm3gba:golem",
+      "name": "Golem",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/golem.webp"
+    },
+    {
+      "id": "dqm3gba:goopi",
+      "name": "Goopi",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/goopi.webp"
+    },
+    {
+      "id": "dqm3gba:gophecada",
+      "name": "Gophecada",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gophecada.webp"
+    },
+    {
+      "id": "dqm3gba:grakos",
+      "name": "Grakos",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grakos.webp"
+    },
+    {
+      "id": "dqm3gba:gran-slime",
+      "name": "Gran Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granslime.webp"
+    },
+    {
+      "id": "dqm3gba:grand-satan",
+      "name": "Grand Satan",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/granddevil.webp"
+    },
+    {
+      "id": "dqm3gba:grand-shark",
+      "name": "Grand Shark",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/landshark.webp"
+    },
+    {
+      "id": "dqm3gba:great-dragon",
+      "name": "Great Dragon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatdrak.webp"
+    },
+    {
+      "id": "dqm3gba:grizzly",
+      "name": "Grizzly",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/grizzly.webp"
+    },
+    {
+      "id": "dqm3gba:gryphynx",
+      "name": "Gryphynx",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/griffinx.webp"
+    },
+    {
+      "id": "dqm3gba:gulp-beast",
+      "name": "Gulp Beast",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gulpbeast.webp"
+    },
+    {
+      "id": "dqm3gba:halo-slime",
+      "name": "Halo Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/haloslime.webp"
+    },
+    {
+      "id": "dqm3gba:hammer-man",
+      "name": "Hammer Man",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hammerman.webp"
+    },
+    {
+      "id": "dqm3gba:healer",
+      "name": "Healer",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp"
+    },
+    {
+      "id": "dqm3gba:healmore-moon",
+      "name": "Healmore Moon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp"
+    },
+    {
+      "id": "dqm3gba:high-wizard",
+      "name": "High Wizard",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/greatmage.webp"
+    },
+    {
+      "id": "dqm3gba:hork",
+      "name": "Hork",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/hork.webp"
+    },
+    {
+      "id": "dqm3gba:ice-djinn",
+      "name": "Ice Djinn",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iceman.webp"
+    },
+    {
+      "id": "dqm3gba:iiro",
+      "name": "Iiro",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/iio.webp"
+    },
+    {
+      "id": "dqm3gba:illusion-axe",
+      "name": "Illusion Axe",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp"
+    },
+    {
+      "id": "dqm3gba:illusion-blade",
+      "name": "Illusion Blade",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp"
+    },
+    {
+      "id": "dqm3gba:infergon",
+      "name": "Infergon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/infergon.webp"
+    },
+    {
+      "id": "dqm3gba:iron-hawk",
+      "name": "Iron Hawk",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironhawk.webp"
+    },
+    {
+      "id": "dqm3gba:iron-turtle",
+      "name": "Iron Turtle",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ironturt.webp"
+    },
+    {
+      "id": "dqm3gba:jamirus",
+      "name": "Jamirus",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/jamirus.webp"
+    },
+    {
+      "id": "dqm3gba:jenodark",
+      "name": "Jenodark",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/genodrak.webp"
+    },
+    {
+      "id": "dqm3gba:jewel-bag",
+      "name": "Jewel Bag",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/treasurebag.webp"
+    },
+    {
+      "id": "dqm3gba:kakalon",
+      "name": "Kakalon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kakaron.webp"
+    },
+    {
+      "id": "dqm3gba:kakalon-food",
+      "name": "Kakalon Food",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp"
+    },
+    {
+      "id": "dqm3gba:killer-wave",
+      "name": "Killer Wave",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguewave.webp"
+    },
+    {
+      "id": "dqm3gba:king-leo",
+      "name": "King Leo",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingleo.webp"
+    },
+    {
+      "id": "dqm3gba:king-slime",
+      "name": "King Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kingslime.webp"
+    },
+    {
+      "id": "dqm3gba:king-squid",
+      "name": "King Squid",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantsquid.webp"
+    },
+    {
+      "id": "dqm3gba:kith-dragon",
+      "name": "Kith Dragon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp"
+    },
+    {
+      "id": "dqm3gba:kushalami",
+      "name": "Kushalami",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/kusharami.webp"
+    },
+    {
+      "id": "dqm3gba:kushalami-pal",
+      "name": "Kushalami Pal",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp"
+    },
+    {
+      "id": "dqm3gba:lamp-genie",
+      "name": "Lamp Genie",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lampgenie.webp"
+    },
+    {
+      "id": "dqm3gba:lava-djinn",
+      "name": "Lava Djinn",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lavaman.webp"
+    },
+    {
+      "id": "dqm3gba:light-spirit",
+      "name": "Light Spirit",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_light.webp"
+    },
+    {
+      "id": "dqm3gba:lipsy",
+      "name": "Lipsy",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lipsy.webp"
+    },
+    {
+      "id": "dqm3gba:londarkian-hero",
+      "name": "Londarkian Hero",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp"
+    },
+    {
+      "id": "dqm3gba:londarkian-mage",
+      "name": "Londarkian Mage",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp"
+    },
+    {
+      "id": "dqm3gba:mad-candle",
+      "name": "Mad Candle",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcandle.webp"
+    },
+    {
+      "id": "dqm3gba:mad-cat",
+      "name": "Mad Cat",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madpanther.webp"
+    },
+    {
+      "id": "dqm3gba:mad-condor",
+      "name": "Mad Condor",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madcondor.webp"
+    },
+    {
+      "id": "dqm3gba:mad-dragon",
+      "name": "Mad Dragon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/maddragon.webp"
+    },
+    {
+      "id": "dqm3gba:mad-gopher",
+      "name": "Mad Gopher",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madgopher.webp"
+    },
+    {
+      "id": "dqm3gba:mad-hornet",
+      "name": "Mad Hornet",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madhornet.webp"
+    },
+    {
+      "id": "dqm3gba:mad-mirror",
+      "name": "Mad Mirror",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madmirror.webp"
+    },
+    {
+      "id": "dqm3gba:mad-plant",
+      "name": "Mad Plant",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/madplant.webp"
+    },
+    {
+      "id": "dqm3gba:magarugi",
+      "name": "Magarugi",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magarugi.webp"
+    },
+    {
+      "id": "dqm3gba:magarugi-2nd-form",
+      "name": "Magarugi (2nd Form)",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magarugi2.webp"
+    },
+    {
+      "id": "dqm3gba:mage-slime",
+      "name": "Mage Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp"
+    },
+    {
+      "id": "dqm3gba:magma-slime",
+      "name": "Magma Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magmaslime.webp"
+    },
+    {
+      "id": "dqm3gba:master-dragon",
+      "name": "Master Dragon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/master_dragon.webp"
+    },
+    {
+      "id": "dqm3gba:master-slime",
+      "name": "Master Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/masterslime.webp"
+    },
+    {
+      "id": "dqm3gba:merman",
+      "name": "Merman",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/merman.webp"
+    },
+    {
+      "id": "dqm3gba:metabble",
+      "name": "Metabble",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metabble.webp"
+    },
+    {
+      "id": "dqm3gba:metal-king",
+      "name": "Metal King",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metalking.webp"
+    },
+    {
+      "id": "dqm3gba:metal-slime",
+      "name": "Metal Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/metaly.webp"
+    },
+    {
+      "id": "dqm3gba:mimic",
+      "name": "Mimic",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mimic.webp"
+    },
+    {
+      "id": "dqm3gba:minon",
+      "name": "Minon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/saccer.webp"
+    },
+    {
+      "id": "dqm3gba:mommonja",
+      "name": "Mommonja",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mommonja.webp"
+    },
+    {
+      "id": "dqm3gba:mummy",
+      "name": "Mummy",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mummy.webp"
+    },
+    {
+      "id": "dqm3gba:muscle-kong",
+      "name": "Muscle Kong",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/musclekong.webp"
+    },
+    {
+      "id": "dqm3gba:night-lich",
+      "name": "Night Lich",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/knightlich.webp"
+    },
+    {
+      "id": "dqm3gba:nocto-king",
+      "name": "Nocto King",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/giantbat.webp"
+    },
+    {
+      "id": "dqm3gba:one-horn",
+      "name": "One Horn",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp"
+    },
+    {
+      "id": "dqm3gba:onion-master",
+      "name": "Onion Master",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/onionmaster.webp"
+    },
+    {
+      "id": "dqm3gba:opabi",
+      "name": "Opabi",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/icky.webp"
+    },
+    {
+      "id": "dqm3gba:orc",
+      "name": "Orc",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orc.webp"
+    },
+    {
+      "id": "dqm3gba:orochi",
+      "name": "Orochi",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/orochi.webp"
+    },
+    {
+      "id": "dqm3gba:phantom-glass",
+      "name": "Phantom Glass",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phantomglass.webp"
+    },
+    {
+      "id": "dqm3gba:phoenix",
+      "name": "Phoenix",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/phoenix.webp"
+    },
+    {
+      "id": "dqm3gba:pimo",
+      "name": "Pimo",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pimo.webp"
+    },
+    {
+      "id": "dqm3gba:pod-hero",
+      "name": "Pod Hero",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/foohero.webp"
+    },
+    {
+      "id": "dqm3gba:pompom-bomb",
+      "name": "Pompom Bomb",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pompombomb.webp"
+    },
+    {
+      "id": "dqm3gba:proto-mech",
+      "name": "Proto Mech",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/protokiller.webp"
+    },
+    {
+      "id": "dqm3gba:pumpk-night",
+      "name": "Pumpk'night",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/pumpkinknight.webp"
+    },
+    {
+      "id": "dqm3gba:puppet-man",
+      "name": "Puppet Man",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/muddoll.webp"
+    },
+    {
+      "id": "dqm3gba:pural",
+      "name": "Pural",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/paararu.webp"
+    },
+    {
+      "id": "dqm3gba:putre-pup",
+      "name": "Putre Pup",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/putrepup.webp"
+    },
+    {
+      "id": "dqm3gba:rain-hawk",
+      "name": "Rain Hawk",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rainhawk.webp"
+    },
+    {
+      "id": "dqm3gba:reefer",
+      "name": "Reefer",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/leafer.webp"
+    },
+    {
+      "id": "dqm3gba:roboster",
+      "name": "Roboster",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster.webp"
+    },
+    {
+      "id": "dqm3gba:roboster-2",
+      "name": "Roboster 2",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roboster2.webp"
+    },
+    {
+      "id": "dqm3gba:rogue-knight",
+      "name": "Rogue Knight",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rogueknight.webp"
+    },
+    {
+      "id": "dqm3gba:rosevine",
+      "name": "Rosevine",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rosevine.webp"
+    },
+    {
+      "id": "dqm3gba:rush-fish",
+      "name": "Rush Fish",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/ramfish.webp"
+    },
+    {
+      "id": "dqm3gba:sabre-man",
+      "name": "Sabre Man",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp"
+    },
+    {
+      "id": "dqm3gba:scarabator",
+      "name": "Scarabator",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/scarabeetle.webp"
+    },
+    {
+      "id": "dqm3gba:shadow",
+      "name": "Shadow",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/shadow.webp"
+    },
+    {
+      "id": "dqm3gba:silent-sheep",
+      "name": "Silent Sheep",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp"
+    },
+    {
+      "id": "dqm3gba:silver-pazuzu",
+      "name": "Silver Pazuzu",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp"
+    },
+    {
+      "id": "dqm3gba:skeletor",
+      "name": "Skeletor",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skeletor.webp"
+    },
+    {
+      "id": "dqm3gba:skullgon",
+      "name": "Skullgon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/skullgon.webp"
+    },
+    {
+      "id": "dqm3gba:slime",
+      "name": "Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slime.webp"
+    },
+    {
+      "id": "dqm3gba:slime-knight",
+      "name": "Slime Knight",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/slimeknight.webp"
+    },
+    {
+      "id": "dqm3gba:snaily",
+      "name": "Snaily",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snaily.webp"
+    },
+    {
+      "id": "dqm3gba:snapper",
+      "name": "Snapper",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snapper.webp"
+    },
+    {
+      "id": "dqm3gba:snome",
+      "name": "Snome",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/snome.webp"
+    },
+    {
+      "id": "dqm3gba:spiky-boy",
+      "name": "Spiky Boy",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spikeyboy.webp"
+    },
+    {
+      "id": "dqm3gba:spin-slime",
+      "name": "Spin Slime",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spinslime.webp"
+    },
+    {
+      "id": "dqm3gba:spooky",
+      "name": "Spooky",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spooky.webp"
+    },
+    {
+      "id": "dqm3gba:stone-kid",
+      "name": "Stone Kid",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/statuekid.webp"
+    },
+    {
+      "id": "dqm3gba:stone-man",
+      "name": "Stone Man",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stoneman.webp"
+    },
+    {
+      "id": "dqm3gba:stone-spider",
+      "name": "Stone Spider",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/rockspider.webp"
+    },
+    {
+      "id": "dqm3gba:stonehopper",
+      "name": "Stonehopper",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/cragdevil.webp"
+    },
+    {
+      "id": "dqm3gba:stubsuck",
+      "name": "Stubsuck",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/stubsuck.webp"
+    },
+    {
+      "id": "dqm3gba:swordgon",
+      "name": "Swordgon",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/swordgon.webp"
+    },
+    {
+      "id": "dqm3gba:toadstool",
+      "name": "Toadstool",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/toadstool.webp"
+    },
+    {
+      "id": "dqm3gba:tonguella",
+      "name": "Tonguella",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/tonguella.webp"
+    },
+    {
+      "id": "dqm3gba:totem-killer",
+      "name": "Totem Killer",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/facer.webp"
+    },
+    {
+      "id": "dqm3gba:triwinder",
+      "name": "Triwinder",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/triwinder.webp"
+    },
+    {
+      "id": "dqm3gba:trumpeter",
+      "name": "Trumpeter",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/trumpeter.webp"
+    },
+    {
+      "id": "dqm3gba:unicorn",
+      "name": "Unicorn",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp"
+    },
+    {
+      "id": "dqm3gba:vampire-rat",
+      "name": "Vampire Rat",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/vampirerat.webp"
+    },
+    {
+      "id": "dqm3gba:walrus-man",
+      "name": "Walrus Man",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/walrusman.webp"
+    },
+    {
+      "id": "dqm3gba:wander-monk",
+      "name": "Wander Monk",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/roguemage.webp"
+    },
+    {
+      "id": "dqm3gba:war-lizard",
+      "name": "War Lizard",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/lizardman.webp"
+    },
+    {
+      "id": "dqm3gba:warubou",
+      "name": "Warubou",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/warubou.webp"
+    },
+    {
+      "id": "dqm3gba:watabou",
+      "name": "Watabou",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/watabou.webp"
+    },
+    {
+      "id": "dqm3gba:water-spirit",
+      "name": "Water Spirit",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_water.webp"
+    },
+    {
+      "id": "dqm3gba:white-king",
+      "name": "White King",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/whiteking.webp"
+    },
+    {
+      "id": "dqm3gba:wicked-axe",
+      "name": "Wicked Axe",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp"
+    },
+    {
+      "id": "dqm3gba:wild-ape-m-ch",
+      "name": "Wild Ape (M-CH)",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killerape.webp"
+    },
+    {
+      "id": "dqm3gba:wind-beast",
+      "name": "Wind Beast",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/windbeast.webp"
+    },
+    {
+      "id": "dqm3gba:wind-spirit",
+      "name": "Wind Spirit",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/spirit_of_wind.webp"
+    },
+    {
+      "id": "dqm3gba:wing-tree",
+      "name": "Wing Tree",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/deadtrunk.webp"
+    },
+    {
+      "id": "dqm3gba:wyvern",
+      "name": "Wyvern",
+      "family": "Unclassified",
+      "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/wyvern.webp"
+    }
+  ]
+}
