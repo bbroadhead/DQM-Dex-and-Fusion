@@ -1,0 +1,39 @@
+{
+  "game": "dqm3gba",
+  "system": "Reform (Tenshin)",
+  "status": "mechanics_documented_recipes_pending",
+  "inputs": [
+    "base_monster",
+    "heart_1",
+    "heart_2"
+  ],
+  "rules": [
+    {
+      "id": "special",
+      "description": "Some species-specific combinations override general family/rank rules.",
+      "confidence": "guide-supported"
+    },
+    {
+      "id": "same_heart",
+      "description": "Two identical monster hearts generally yield that species unless a special case overrides it.",
+      "confidence": "guide-supported"
+    },
+    {
+      "id": "family_rank",
+      "description": "Otherwise, resulting family and star rank depend on the base monster and both hearts.",
+      "confidence": "guide-supported"
+    },
+    {
+      "id": "higher_heart",
+      "description": "A higher-ranked heart can increase the resulting star rank by one in normal reform.",
+      "confidence": "guide-supported"
+    }
+  ],
+  "sources": [
+    "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/62549",
+    "https://gamefaqs.gamespot.com/gba/916688-dragon-quest-monsters-caravan-heart/faqs/22719",
+    "https://dragon-quest.org/wiki/Dragon_Quest_Monsters:_Caravan_Heart"
+  ],
+  "recipes": [],
+  "notes": "This is a mechanics schema, not a complete verified recipe table. Never show recipe results until validated source data is imported."
+}
