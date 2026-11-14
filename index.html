@@ -122,7 +122,7 @@ function renderCaravanReform(){
     if(fb==="Elemental"){dominant=other;influencing=fb}
     else{dominant=fb;influencing=other}
    }else{
-    const ordered=[fa,fc].sort((x,y)=>familyRank.indexOf(x)-familyRank.indexOf(y));
+    const ordered=[fb,fa,fc].sort((x,y)=>familyRank.indexOf(x)-familyRank.indexOf(y));
     dominant=ordered[0];influencing=ordered[1];
    }
    familyExplanation='<p><strong>General reform families:</strong> Dominant '+escapeHTML(dominant)+'; influencing '+escapeHTML(influencing)+'.</p><p class="muted">Exact species also requires validated star levels and the family/star result tables. Special recipes and identical hearts override this calculation.</p>';
