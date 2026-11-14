@@ -109,11 +109,29 @@ function renderCaravanReform(){
   const name=m=>escapeHTML(m.name);
   const card=m=>'<span class="reform-ingredient">'+imageMarkup(m.image,"monster-img",m.name)+'<strong>'+name(m)+'</strong></span>';
   const same=a.id===b.id;
+  const familyRank=["Beast","Demon","Material","Animal","Slime","Nature","Elemental"];
+  const familyOf=m=>{const v=String(m.family||"").toLowerCase();return familyRank.find(f=>f.toLowerCase()===v)||null};
+  const families=[base,a,b].map(familyOf);
+  let familyExplanation="";
+  if(families.every(Boolean)){
+   const [fb,fa,fc]=families;
+   let dominant,influencing;
+   if(fa===fc){dominant=fa;influencing=(fb===fa||fb==="Elemental")?fa:fb}
+   else if(fb===fa||fb===fc){
+    const other=fb===fa?fc:fa;
+    if(fb==="Elemental"){dominant=other;influencing=fb}
+    else{dominant=fb;influencing=other}
+   }else{
+    const ordered=[fa,fc].sort((x,y)=>familyRank.indexOf(x)-familyRank.indexOf(y));
+    dominant=ordered[0];influencing=ordered[1];
+   }
+   familyExplanation='<p><strong>General reform families:</strong> Dominant '+escapeHTML(dominant)+'; influencing '+escapeHTML(influencing)+'.</p><p class="muted">Exact species also requires validated star levels and the family/star result tables. Special recipes and identical hearts override this calculation.</p>';
+  }else familyExplanation='<p class="muted">General family calculation unavailable: monster families and star levels are not yet validated.</p>';
   const recipe=(caravanReform.recipes||[]).find(r=>r.base===base.id&&((r.heart1===a.id&&r.heart2===b.id)||(r.heart1===b.id&&r.heart2===a.id)));
   const verified=recipe&&byId(recipe.result);
   out.innerHTML='<div class="reform-summary">'+card(base)+'<span>+</span>'+card(a)+'<span>+</span>'+card(b)+'</div><h3>Reform outcome</h3>'+
    (verified?'<p><strong>Verified special result: '+name(verified)+'</strong></p>'+card(verified)+'<p><a href="'+escapeHTML(recipe.source)+'" target="_blank" rel="noopener noreferrer">View source guide</a></p>':same?'<p><strong>Possible result: '+name(a)+'</strong></p><p class="muted">The published guide describes two identical hearts as normally producing that species, but special combinations may override this. This result is not yet independently validated for this specific trio.</p>':
-   '<p class="empty">Exact outcome not yet verified for this combination.</p><p class="muted">Family/rank tables and special reform recipes must be imported before a reliable result can be calculated.</p>');
+   '<p class="empty">Exact outcome not yet verified for this combination.</p>'+familyExplanation);
  };
  selectors.forEach(x=>x.addEventListener("change",show));show();
 }
