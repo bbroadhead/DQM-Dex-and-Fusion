@@ -53,9 +53,9 @@ def main():
         key=slug(item["name"])
         if key in used:key+=f"-{i+1}"
         used.add(key)
-        records.append({"id":GAME+":"+key,"name":item["name"],"book_number":i+1,"japanese_name":item["japanese_name"],"family":"Unclassified","source_url":item["detail_url"],"image_url":item["image_url"]})
+        records.append({"id":GAME+":"+key,"name":item["name"],"family":None,"metadata_status":"pending_verification","source_url":item["detail_url"],"image_url":item["image_url"]})
     details_path=ROOT/(GAME+"-details.json")
-    details_path.write_text(json.dumps({"game":GAME,"records":records,"source":SOURCE,"note":"Woodus monster list; alphabetical sequence is not in-game numbering; family unverified."},ensure_ascii=False,indent=2)+"\n")
+    details_path.write_text(json.dumps({"game":GAME,"records":records,"source":SOURCE,"note":"Woodus monster list; Japanese names, rank, family and in-game numbering require separate verification."},ensure_ascii=False,indent=2)+"\n")
     (ROOT/(GAME+"-monsters.json")).write_text(json.dumps({"game":GAME,"monsters":[{"id":m["id"],"name":m["name"],"family":m["family"],"image_url":m["image_url"]} for m in records]},ensure_ascii=False,indent=2)+"\n")
     report_path=ROOT/(GAME+"-image-report.json")
     report=json.loads(report_path.read_text()) if report_path.exists() else {"images":{}}
