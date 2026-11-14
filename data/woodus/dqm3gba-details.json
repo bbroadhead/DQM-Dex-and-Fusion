@@ -262,10 +262,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250913&mname=Arc Belial",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/arcdemon.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:arch-demon",
@@ -528,10 +531,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250920&mname=Baraxe",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:barbaru",
@@ -590,10 +596,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250919&mname=Barblade",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:battle-rex",
@@ -1978,10 +1987,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250909&mname=Dark Flame",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/flame.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:dark-horn",
@@ -2244,10 +2256,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250777&mname=Darth Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:dead-father",
@@ -2408,10 +2423,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250910&mname=Death Blizzard",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/blizzard.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:death-god",
@@ -3541,10 +3559,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250908&mname=Fire Mister",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/mageslime.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:fire-spirit",
@@ -4011,10 +4032,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250911&mname=Giga Atlus",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/gigantes.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:giga-draco",
@@ -5042,10 +5066,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250906&mname=Healmore Moon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/healer.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:high-wizard",
@@ -5257,10 +5284,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250918&mname=Illusion Axe",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/killeraxe.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:illusion-blade",
@@ -5268,10 +5298,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250917&mname=Illusion Blade",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/sabreman.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:infergon",
@@ -5636,10 +5669,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250927&mname=Kakalon Food",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/eggplaton.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:killer-wave",
@@ -5851,10 +5887,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250776&mname=Kith Dragon",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/dragon.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:kushalami",
@@ -5913,10 +5952,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250914&mname=Kushalami Pal",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/demonite.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:lamp-genie",
@@ -6128,10 +6170,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250924&mname=Londarkian Hero",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:londarkian-mage",
@@ -6139,10 +6184,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250925&mname=Londarkian Mage",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/evilarmor.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:mad-candle",
@@ -6558,10 +6606,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250985&mname=Magarugi",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magarugi.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:magarugi-2nd-form",
@@ -6569,10 +6620,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250986&mname=Magarugi (2nd Form)",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/magarugi2.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:mage-slime",
@@ -7345,10 +7399,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250926&mname=One Horn",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/unicorn.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:onion-master",
@@ -8580,10 +8637,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250923&mname=Silent Sheep",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/darkhorn.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:silver-pazuzu",
@@ -8591,10 +8651,13 @@
       "family": null,
       "source_url": "https://www.woodus.com/den/games/dqm3gba/monsters-details.php?mid=250912&mname=Silver Pazuzu",
       "image_url": "https://www.woodus.com/den/gallery/graphics/dqm3gba/monster/agdevil.webp",
-      "metadata_status": "listed_in_woodus_not_in_faq_stats",
-      "reform_eligibility": "unverified",
+      "metadata_status": "unobtainable_enemy_or_boss",
+      "reform_eligibility": "unobtainable",
       "growth_stats_status": "unverified",
-      "roster_evidence": "Woodus Caravan Heart monster database"
+      "roster_evidence": "Woodus Caravan Heart monster database",
+      "obtainable": false,
+      "obtainability_status": "unobtainable",
+      "obtainability_note": "Not part of the 200-species obtainable roster documented by the Caravan Heart Monster FAQ; individual impossibility not independently verified for every entry."
     },
     {
       "id": "dqm3gba:skeletor",
