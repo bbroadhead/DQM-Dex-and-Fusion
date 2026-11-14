@@ -36,6 +36,8 @@ class Parser(HTMLParser):
 def main():
     page=BASE+"monsters.php"
     raw=get(page);page_html=raw.decode("utf-8","replace")
+    diagnostic=ROOT/"import-diagnostics";diagnostic.mkdir(exist_ok=True)
+    (diagnostic/"woodus-ps1-roster.html").write_text(page_html,encoding="utf-8")
     parser=Parser();parser.feed(page_html)
     print(f"Source diagnostics: HTTP response {len(raw)} bytes; {len(parser.rows)} table rows; {page_html.lower().count(chr(60)+chr(116)+chr(114))} <tr tags; first rows: {parser.rows[:3]}",flush=True)
     if not parser.rows:
@@ -65,6 +67,7 @@ def main():
                     images[identifier]={"local_path":local.relative_to(ROOT).as_posix(),"source_url":image_url}
             except Exception as e:print("Image skipped:",name,str(e))
             time.sleep(.08)
+    (diagnostic/"parse-summary.json").write_text(json.dumps({"url":page,"html_bytes":len(raw),"table_rows":len(parser.rows),"parsed_monsters":len(records),"first_rows":parser.rows[:5],"first_monsters":records[:5]},ensure_ascii=False,indent=2),encoding="utf-8")
     if len(records)<200:raise RuntimeError(f"Only {len(records)} PS1 monsters found; refusing incomplete import. Parsed {len(parser.rows)} table rows. First rows: {parser.rows[:2]}")
     folder=ROOT/"data/woodus";folder.mkdir(parents=True,exist_ok=True)
     (folder/"dqm12ps1-details.json").write_text(json.dumps({"game":"dqm12ps1","record_type":"PS1_collection_source_listed","source":page,"records":records},ensure_ascii=False,indent=2)+"\n")
