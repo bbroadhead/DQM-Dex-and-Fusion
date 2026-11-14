@@ -13,6 +13,13 @@ jobs:
           python-version: '3.12'
       - name: Import PS1 roster and PS1-specific artwork
         run: python scripts/import_dqm12ps1.py
+      - name: Upload source diagnostics on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ps1-import-diagnostics
+          path: import-diagnostics/
+          if-no-files-found: warn
       - name: Commit imported data and artwork
         run: |
           git config user.name "github-actions[bot]"
