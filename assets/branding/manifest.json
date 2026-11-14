@@ -6,7 +6,13 @@
     "witheredworld": "assets/branding/witheredworld/logo.webp",
     "joker": "assets/branding/joker/logo.webp",
     "dqm2-3d": "assets/branding/dqm2-3d/logo.webp",
-    "joker3": "assets/branding/joker3/logo.webp"
+    "joker3": "assets/branding/joker3/logo.webp",
+    "dqm12": "assets/branding/dqm12/IMG_6484.png",
+    "caravan": "assets/branding/caravan/IMG_6481.png",
+    "joker2": "assets/branding/joker2/IMG_6483.png",
+    "joker2pro": "assets/branding/joker2pro/IMG_6482.png",
+    "terry3d": "assets/branding/terry3d/IMG_6485.jpeg",
+    "joker3pro": "assets/branding/joker3pro/IMG_6486.webp"
   },
   "families": {
     "dwm1gbc": {
@@ -35,7 +41,7 @@
       "zombie": "assets/branding/families/official/zombie.png"
     }
   },
-  "note": "DWM1, DWM2 and The Dark Prince approved; reject Joker 3 and Joker 3 Professional images pending clean transparent title logos.",
+  "note": "Game selector logos include manually uploaded owner artwork and previously imported approved logos.",
   "family_icon_source": "Dragon Warrior Monsters 2: Cobi's Journey instruction booklet, printed page 17 (PDF page 19). Boss uses the manual's ??? family emblem.",
   "game_logo_sources": {
     "darkprince": {
@@ -62,6 +68,30 @@
       "gallery": "https://dragon-quest.org/wiki/File:DQMJ3_Logo.png",
       "image_url": "https://dragon-quest.org/w/images/4/47/DQMJ3_Logo.png",
       "source": "Dragon Quest Wiki dedicated file page; transparency and proportions validated"
+    },
+    "dqm12": {
+      "source": "Manually uploaded by repository owner",
+      "file": "assets/branding/dqm12/IMG_6484.png"
+    },
+    "caravan": {
+      "source": "Manually uploaded by repository owner",
+      "file": "assets/branding/caravan/IMG_6481.png"
+    },
+    "joker2": {
+      "source": "Manually uploaded by repository owner",
+      "file": "assets/branding/joker2/IMG_6483.png"
+    },
+    "joker2pro": {
+      "source": "Manually uploaded by repository owner",
+      "file": "assets/branding/joker2pro/IMG_6482.png"
+    },
+    "terry3d": {
+      "source": "Manually uploaded by repository owner",
+      "file": "assets/branding/terry3d/IMG_6485.jpeg"
+    },
+    "joker3pro": {
+      "source": "Manually uploaded by repository owner",
+      "file": "assets/branding/joker3pro/IMG_6486.webp"
     }
   }
 }
